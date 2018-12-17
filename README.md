@@ -6,7 +6,7 @@
 Добавьте свой домен на cloudflare для того, что бы получить HTTPS шифрование, включите шифрование.
 В DNS настройках cloudflare пропишите данные для github pages, где cname - это ваш логин на гитхаб.
 
-https://imgp.golos.io/0x0/https://s1.postimg.org/dq2ozfsrz/image.png 
+(https://liccilip.ru/images/image.png)
 
 Отредактируйте файл CNAME из моего репозитория и добавьте в него свой домен.
 
