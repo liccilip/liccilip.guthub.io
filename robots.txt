@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /cdn-cgi/l/email-protection
-Host: https://foster.ga
-Sitemap: https://foster.ga/sitemap.xml
