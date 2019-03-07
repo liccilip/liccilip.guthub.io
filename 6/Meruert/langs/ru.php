@@ -1,169 +1,169 @@
-<?php die(); ?>
-lang = Русский
-
-Save = Сохранить
-Remove = Удалить
-Confirm removal = Подтвердите удаление
-Human code = Проверочный код
-
-Management = Управление
-Password = Пароль
-keep authorization = запомнить
-Enter = Входите
-
+<?php die(); ?>
+lang = Русский
+
+Save = Сохранить
+Remove = Удалить
+Confirm removal = Подтвердите удаление
+Human code = Проверочный код
+
+Management = Управление
+Password = Пароль
+keep authorization = запомнить
+Enter = Входите
+
 Comments = Комментарии
-Comment = Комментировать
-
-Meruert could not create system files; the root directory should be writeable = Не удаётся создать системные файлы; корневая директория должна быть доступна для записи.
-
-Start = Начало работы
-Website name = Придумайте название сайта
-Admin password = Назначьте пароль администратора
-Go = и начинайте работать
-
-Files = Файлы
-One level up = На уровень выше
-Root directory = Корневая папка
-Choose directory: = Выбрать папку:
-Open = Открыть
-Upload: = Загрузить:
-Add directory name if you need to add a directory in the current one and upload files there: = Если нужно добавить папку внутри текущей и загрузить файлы в неё, впишите имя папки:
-one more file = ещё один файл
-Upload = Загрузить
-
-Preferences = Настройки
-Website name: = Название сайта:
-Admin password: = Пароль администратора:
-allow comments = разрешить комментарии
-Send comment notifications to the following email: = Отправлять уведомления о комментариях на следующий e-mail:
-Posts per page: = Записей на страницу:
-Design theme: = Тема дизайна:
-Interface language: = Язык интерфейса:
-secret blog = секретный блог
-
-New post = Новая запись
-Edit post = Редактирование записи
-Title: = Заголовок:
-Post text: = Текст записи:
-Add new topic (or few comma divided): = Добавьте новую тему (если несколько, то через запятую):
-or choose from saved ones: = или выберите из существующих:
-Base part of post URL address: = Ключевая часть адреса для записи:
-Show additional options = Показать дополнительные опции записи
-Alternate text for TITLE tag: = Альтернативный текст для TITLE:
-SEO keywords: = Ключевые слова для поисковых систем:
-SEO description: = Описание для поисковых систем:
-store in drafts = пока оставить в черновиках
-use as page not in the blog = не помещать в блог: сделать простой страницей
-link in the top menu = ссылка в верхнем меню
-link in the sidebar = ссылка в боковой колонке
-Post intro to be displayed in the blog instead of the text: = Текст, который будет показываться в ленте вместо основного:
-Hide additional options = Скрыть дополнительные опции записи
-Done = Готово
-
-: reply to a comment = : ответ на комментарий
-Reply to your comment: = Ответ на ваш комментарий:
-Comment author: = Автор комментария:
-E-mail of the comment author: = E-mail автора:
-Website of the comment author: = Сайт автора:
-Comment text: = Текст комментария:
-Your reply: = Ваш ответ:
-notify comment author about the reply = уведомить автора комментария об ответе
-just remove the comment = просто удалить комментарий
-: new comment = : новый комментарий
-New comment at = Новый комментарий по адресу:
-: continuing discussion = : продолжение обсуждения
-
-Drafts = Черновики
-Find = Найти
-
-January = января
-February = февраля
-March = марта
-April = апреля
-May = мая
-June = июня
-July = июля
-August = августа
-September = сентября
-October = октября
-November = ноября
-December = декабря
-
-Full text = Полный текст
-Edit = Правка
-edit = ред.
-
-Your name: = Вас зовут:
-Your email (for notifications): = Ваш e-mail (для получения уведомлений):
-Your website: = Ваш сайт:
-Write a comment: = Напишите комментарий:
-Send = Отправить
-
-No posts here. = В этом разделе ничего нет.
-Pages: = Страницы:
-
-Blog = Блог
-Search = Поиск
-Write = Написать
-Exit = Выйти
-
-Edit the comment = Редактирование комментария
-
-Alternative main page: = Альтернативная главная страница:
-Favourite = Избранное
-in favourites = в избранных записях
-
-Edit the sidebar = Боковая колонка
-Text before links: = Текст до ссылок:
-Text after links: = Текст после ссылок:
-
-Page suffix (e.g. .html): = Расширение страниц (например, .html):
-Profile photo: = Фотография:
-remove photo = удалить фото
-
-secret post = тайная запись
-Secret posts = Тайные записи
-
-Change publication date = Изменить дату публикации
-
-hide Blog link = скрывать ссылку на блог
-hide Management link = скрывать ссылку на управление
-Powered by = Работает на
-Edit the top menu = Редактирование меню
-
-Edit the footer = Редактирование подвала
-Empty this field to reset the footer: = Оставьте это поле пустым, чтобы восстановить стандартное значение:
-do not use rich text editor = не использовать редактор расширенного форматирования
-Place Youtube / Google Maps / audio code here: = Коды для вставки роликов с Youtube, Google Maps, музыкальных сервисов:
-
-Read from the start = Читать с начала
-Usual blog order = Обычный порядок записей
-premoderate comments = комментарии будут ожидать вашей проверки
-Comments are premoderated. = Новые комментарии будут ожидать проверки.
-— to moderate = — ожидает проверки
-approve this comment = одобрить комментарий
-use social buttons = добавлять социальные кнопки
-
-template = шаблон
-Edit the current template = Редактирование шаблона
-HTML template: = Шаблон HTML:
-Post / page template: = Шаблон записи или страницы:
-
-raise updated posts = поднимать обновляемые записи
-
-
+Comment = Комментировать
+
+Meruert could not create system files; the root directory should be writeable = Не удаётся создать системные файлы; корневая директория должна быть доступна для записи.
+
+Start = Начало работы
+Website name = Придумайте название сайта
+Admin password = Назначьте пароль администратора
+Go = и начинайте работать
+
+Files = Файлы
+One level up = На уровень выше
+Root directory = Корневая папка
+Choose directory: = Выбрать папку:
+Open = Открыть
+Upload: = Загрузить:
+Add directory name if you need to add a directory in the current one and upload files there: = Если нужно добавить папку внутри текущей и загрузить файлы в неё, впишите имя папки:
+one more file = ещё один файл
+Upload = Загрузить
+
+Preferences = Настройки
+Website name: = Название сайта:
+Admin password: = Пароль администратора:
+allow comments = разрешить комментарии
+Send comment notifications to the following email: = Отправлять уведомления о комментариях на следующий e-mail:
+Posts per page: = Записей на страницу:
+Design theme: = Тема дизайна:
+Interface language: = Язык интерфейса:
+secret blog = секретный блог
+
+New post = Новая запись
+Edit post = Редактирование записи
+Title: = Заголовок:
+Post text: = Текст записи:
+Add new topic (or few comma divided): = Добавьте новую тему (если несколько, то через запятую):
+or choose from saved ones: = или выберите из существующих:
+Base part of post URL address: = Ключевая часть адреса для записи:
+Show additional options = Показать дополнительные опции записи
+Alternate text for TITLE tag: = Альтернативный текст для TITLE:
+SEO keywords: = Ключевые слова для поисковых систем:
+SEO description: = Описание для поисковых систем:
+store in drafts = пока оставить в черновиках
+use as page not in the blog = не помещать в блог: сделать простой страницей
+link in the top menu = ссылка в верхнем меню
+link in the sidebar = ссылка в боковой колонке
+Post intro to be displayed in the blog instead of the text: = Текст, который будет показываться в ленте вместо основного:
+Hide additional options = Скрыть дополнительные опции записи
+Done = Готово
+
+: reply to a comment = : ответ на комментарий
+Reply to your comment: = Ответ на ваш комментарий:
+Comment author: = Автор комментария:
+E-mail of the comment author: = E-mail автора:
+Website of the comment author: = Сайт автора:
+Comment text: = Текст комментария:
+Your reply: = Ваш ответ:
+notify comment author about the reply = уведомить автора комментария об ответе
+just remove the comment = просто удалить комментарий
+: new comment = : новый комментарий
+New comment at = Новый комментарий по адресу:
+: continuing discussion = : продолжение обсуждения
+
+Drafts = Черновики
+Find = Найти
+
+January = января
+February = февраля
+March = марта
+April = апреля
+May = мая
+June = июня
+July = июля
+August = августа
+September = сентября
+October = октября
+November = ноября
+December = декабря
+
+Full text = Полный текст
+Edit = Правка
+edit = ред.
+
+Your name: = Вас зовут:
+Your email (for notifications): = Ваш e-mail (для получения уведомлений):
+Your website: = Ваш сайт:
+Write a comment: = Напишите комментарий:
+Send = Отправить
+
+No posts here. = В этом разделе ничего нет.
+Pages: = Страницы:
+
+Blog = Блог
+Search = Поиск
+Write = Написать
+Exit = Выйти
+
+Edit the comment = Редактирование комментария
+
+Alternative main page: = Альтернативная главная страница:
+Favourite = Избранное
+in favourites = в избранных записях
+
+Edit the sidebar = Боковая колонка
+Text before links: = Текст до ссылок:
+Text after links: = Текст после ссылок:
+
+Page suffix (e.g. .html): = Расширение страниц (например, .html):
+Profile photo: = Фотография:
+remove photo = удалить фото
+
+secret post = тайная запись
+Secret posts = Тайные записи
+
+Change publication date = Изменить дату публикации
+
+hide Blog link = скрывать ссылку на блог
+hide Management link = скрывать ссылку на управление
+Powered by = Работает на
+Edit the top menu = Редактирование меню
+
+Edit the footer = Редактирование подвала
+Empty this field to reset the footer: = Оставьте это поле пустым, чтобы восстановить стандартное значение:
+do not use rich text editor = не использовать редактор расширенного форматирования
+Place Youtube / Google Maps / audio code here: = Коды для вставки роликов с Youtube, Google Maps, музыкальных сервисов:
+
+Read from the start = Читать с начала
+Usual blog order = Обычный порядок записей
+premoderate comments = комментарии будут ожидать вашей проверки
+Comments are premoderated. = Новые комментарии будут ожидать проверки.
+— to moderate = — ожидает проверки
+approve this comment = одобрить комментарий
+use social buttons = добавлять социальные кнопки
+
+template = шаблон
+Edit the current template = Редактирование шаблона
+HTML template: = Шаблон HTML:
+Post / page template: = Шаблон записи или страницы:
+
+raise updated posts = поднимать обновляемые записи
 
 
 
 
-
+
+
+
 Language switchers: = Переключатели языков:
-topics in sidebar = темы записей в боковой колонке
-
-Posts = Записи блога
-Pages = Страницы
-
-hide RSS link = скрывать ссылку на RSS
+topics in sidebar = темы записей в боковой колонке
+
+Posts = Записи блога
+Pages = Страницы
+
+hide RSS link = скрывать ссылку на RSS
 hide Search link = скрывать ссылку на поиск
 
 Copying page = Копирование страницы

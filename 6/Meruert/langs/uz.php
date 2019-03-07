@@ -1,4 +1,4 @@
-<?php die(); ?>
+<?php die(); ?>
 lang = O’zbekcha
 
 Save = Saqlash

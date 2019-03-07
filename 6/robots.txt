@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /6/Meruert/
+Sitemap: http://3243.ru/sitemap.xml

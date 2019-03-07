@@ -1,4 +1,4 @@
-<?php die(); ?>
+<?php die(); ?>
 lang = Italiano 
  
 Save = Salva 

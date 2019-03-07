@@ -1,163 +1,163 @@
-<?php die(); ?>
+<?php die(); ?>
 lang = Deutsch
 
-Save = Speichern
-Remove = Löschen
-Confirm removal = Bestätigen Sie das Löschen
-Human code = Prüfungskode
-
-Management = Verwaltung
-Password = Passwort
+Save = Speichern
+Remove = Löschen
+Confirm removal = Bestätigen Sie das Löschen
+Human code = Prüfungskode
+
+Management = Verwaltung
+Password = Passwort
 keep authorization = Autorisierung sparen
-Enter = Anmeldung
-
-Comments = Kommentare
+Enter = Anmeldung
+
+Comments = Kommentare
 Comment = Kommentieren
-
-Start = Einstieg
-Website name = Schreiben Sie die Name der Website
-Admin password = Weisen Sie ein Administratorkennwort
-Go = und anfangen zu arbeiten
-
-Files = Dateien
-One level up = Eine Ebene höher
-Root directory = das Stammordner
-Choose directory: = Wählen Sie die Ordner:
-Open = Öffnen
-Upload: = Laden:
-one more file = eine andere Datei
-Upload = Laden
-
-Preferences = Einstellungen
+
+Start = Einstieg
+Website name = Schreiben Sie die Name der Website
+Admin password = Weisen Sie ein Administratorkennwort
+Go = und anfangen zu arbeiten
+
+Files = Dateien
+One level up = Eine Ebene höher
+Root directory = das Stammordner
+Choose directory: = Wählen Sie die Ordner:
+Open = Öffnen
+Upload: = Laden:
+one more file = eine andere Datei
+Upload = Laden
+
+Preferences = Einstellungen
 Website name: = Name der Website:
-Admin password: = Administratorkennwort:
-allow comments = Kommentare erlauben
-Send comment notifications to the following email: = Senden Sie Benachrichtigungen für Kommentare über die folgende E-Mail:
-Posts per page: = Artikel pro Seite:
-Design theme: = Design:
-Interface language: = Schnittstellesprache:
-secret blog = geschlossen Blog
-
-New post = Neuer Artikel
-Edit post = Bearbeiten Artikel
-Title: = Titel:
-Post text: = Text:
-Add new topic (or few comma divided): = Neues Thema hinzufügen (wenn mehrere, dann komma-getrennt):
-or choose from saved ones: = oder wählen Sie aus den vorhandenen Themen:
-Base part of post URL address: = Ein wesentlicher Teil der Adresse für den Artikel:
-Show additional options = Erweiterte Optionen anzeigen
-Alternate text for TITLE tag: = Alternativtext für TITLE:
-SEO keywords: = Stichwörter für Suchmaschinenoptimierung:
-SEO description: = Beschreibung für Suchmaschinenoptimierung:
-store in drafts = noch in den Skizzen verlassen
-use as page not in the blog = nicht im Blog: machen eine einfache Seite
-link in the top menu = Link im oberen Menü
-link in the sidebar = Link in der Seitenleiste
-Post intro to be displayed in the blog instead of the text: = der Text der Vorankündigung
-Hide additional options = Erweiterte Optionen ausblenden
-Done = Fertig
-
-: reply to a comment = : Antwort auf Kommentar.
-Reply to your comment: = Antwort auf Ihren Kommentar:
-Comment author: = Autor des Kommentars:
-E-mail of the comment author: = E-mail des Autors:
-Website of the comment author: = Website des Autors:
-Comment text: = Kommentar:
-Your reply: = Ihre Antwort:
+Admin password: = Administratorkennwort:
+allow comments = Kommentare erlauben
+Send comment notifications to the following email: = Senden Sie Benachrichtigungen für Kommentare über die folgende E-Mail:
+Posts per page: = Artikel pro Seite:
+Design theme: = Design:
+Interface language: = Schnittstellesprache:
+secret blog = geschlossen Blog
+
+New post = Neuer Artikel
+Edit post = Bearbeiten Artikel
+Title: = Titel:
+Post text: = Text:
+Add new topic (or few comma divided): = Neues Thema hinzufügen (wenn mehrere, dann komma-getrennt):
+or choose from saved ones: = oder wählen Sie aus den vorhandenen Themen:
+Base part of post URL address: = Ein wesentlicher Teil der Adresse für den Artikel:
+Show additional options = Erweiterte Optionen anzeigen
+Alternate text for TITLE tag: = Alternativtext für TITLE:
+SEO keywords: = Stichwörter für Suchmaschinenoptimierung:
+SEO description: = Beschreibung für Suchmaschinenoptimierung:
+store in drafts = noch in den Skizzen verlassen
+use as page not in the blog = nicht im Blog: machen eine einfache Seite
+link in the top menu = Link im oberen Menü
+link in the sidebar = Link in der Seitenleiste
+Post intro to be displayed in the blog instead of the text: = der Text der Vorankündigung
+Hide additional options = Erweiterte Optionen ausblenden
+Done = Fertig
+
+: reply to a comment = : Antwort auf Kommentar.
+Reply to your comment: = Antwort auf Ihren Kommentar:
+Comment author: = Autor des Kommentars:
+E-mail of the comment author: = E-mail des Autors:
+Website of the comment author: = Website des Autors:
+Comment text: = Kommentar:
+Your reply: = Ihre Antwort:
 notify comment author about the reply = benachrichtigen der Autor des Kommentars
-just remove the comment = Kommentar entfernen
-: new comment = : neuer Kommentar
-New comment at = Neuer Kommentar:
-: continuing discussion = : fortsetzung der Diskussion
-
-Drafts = Skizzen
+just remove the comment = Kommentar entfernen
+: new comment = : neuer Kommentar
+New comment at = Neuer Kommentar:
+: continuing discussion = : fortsetzung der Diskussion
+
+Drafts = Skizzen
 Find = Finden
-
-January = Januar
-February = Februar
-March = März
-April = April
-May = Mai
-June = Juni
-July = Juli
-August = August
-September = September
-October = Oktober
-November = November
-December = Dezember
-
-Full text = Weiterlesen
-Edit = Bearbeiten
-edit = bearbeiten
-
-Your name: = Ihr Name:
-Your email (for notifications): = Ihre E-Mail (für Benachrichtigung):
-Your website: = Ihre Website:
-Write a comment: = Schreiben Sie einen Kommentar:
-Send = Absenden
-
-No posts here. = Inhalt konnte nicht gefunden werden.
-Pages: = Seiten:
-
-Blog = Blog
+
+January = Januar
+February = Februar
+March = März
+April = April
+May = Mai
+June = Juni
+July = Juli
+August = August
+September = September
+October = Oktober
+November = November
+December = Dezember
+
+Full text = Weiterlesen
+Edit = Bearbeiten
+edit = bearbeiten
+
+Your name: = Ihr Name:
+Your email (for notifications): = Ihre E-Mail (für Benachrichtigung):
+Your website: = Ihre Website:
+Write a comment: = Schreiben Sie einen Kommentar:
+Send = Absenden
+
+No posts here. = Inhalt konnte nicht gefunden werden.
+Pages: = Seiten:
+
+Blog = Blog
 Search = Suche
-Write = Schreiben
-Exit = Abmeldung
-
-Edit the comment = Kommentare bearbeiten
-
-Alternative main page: = Alternative Startseite:
+Write = Schreiben
+Exit = Abmeldung
+
+Edit the comment = Kommentare bearbeiten
+
+Alternative main page: = Alternative Startseite:
 Favourite = Vorgestellte Artikel
-in favourites = in der vorgestellten Artikel
-
-Edit the sidebar = Seitenleiste
+in favourites = in der vorgestellten Artikel
+
+Edit the sidebar = Seitenleiste
 Text before links: = Text vor den Links:
-Text after links: = Der Text nach den Links:
-
-Page suffix (e.g. .html): = die Dateiendung (z.B. .html):
-Profile photo: = Bild:
-remove photo = Bild entfernen
-
-secret post = geheime Artikel
-Secret posts = geheime Artikel
-
-Change publication date = Ändern Sie den Tag der Veröffentlichung
-
+Text after links: = Der Text nach den Links:
+
+Page suffix (e.g. .html): = die Dateiendung (z.B. .html):
+Profile photo: = Bild:
+remove photo = Bild entfernen
+
+secret post = geheime Artikel
+Secret posts = geheime Artikel
+
+Change publication date = Ändern Sie den Tag der Veröffentlichung
+
 hide Blog link = den Link zu dem Blog verstecken
 hide Management link = den Link zu der Verwaltung verstecken
-
-Powered by = Angetrieben durch
-Edit the top menu = Menü bearbeiten
-
-Edit the footer = Beitrag unter dem Strich bearbeiten
-Empty this field to reset the footer: = Lassen Sie es leer, um den Standardwert wieder her:
-do not use rich text editor = verwenden Sie keine Rich-Formatierung-Editor
-Place Youtube / Google Maps / audio code here: = Youtube-, Google Maps-, Musikdienstekoden einfügen:
-
-Read from the start = Von Anfang lesen
-Usual blog order = Die übliche Ordnung
-premoderate comments = Kommentare werden überprüft
-Comments are premoderated. = Ihr Kommentar wird vom Moderator überprüft.
-— to moderate = — soll überprüfen
-approve this comment = den Kommentar genehmigen
-use social buttons = sozialen Tasten
-
-template = Vorlage
-Edit the current template = Vorlagebearbeiten
-HTML template: = HTML-Vorlage:
-Post / page template: = Vorlage der Artikel oder Seite:
-
-raise updated posts = beim Bearbeiten Artikel aufzug
-
 
-
+Powered by = Angetrieben durch
+Edit the top menu = Menü bearbeiten
+
+Edit the footer = Beitrag unter dem Strich bearbeiten
+Empty this field to reset the footer: = Lassen Sie es leer, um den Standardwert wieder her:
+do not use rich text editor = verwenden Sie keine Rich-Formatierung-Editor
+Place Youtube / Google Maps / audio code here: = Youtube-, Google Maps-, Musikdienstekoden einfügen:
+
+Read from the start = Von Anfang lesen
+Usual blog order = Die übliche Ordnung
+premoderate comments = Kommentare werden überprüft
+Comments are premoderated. = Ihr Kommentar wird vom Moderator überprüft.
+— to moderate = — soll überprüfen
+approve this comment = den Kommentar genehmigen
+use social buttons = sozialen Tasten
+
+template = Vorlage
+Edit the current template = Vorlagebearbeiten
+HTML template: = HTML-Vorlage:
+Post / page template: = Vorlage der Artikel oder Seite:
+
+raise updated posts = beim Bearbeiten Artikel aufzug
+
+
+
 Language switchers: = Spracheschalter:
-topics in sidebar = Themen in der Seitenleiste
-
-Posts = Artikel
-Pages = Seiten
-
-hide RSS link = den Link zu RSS verstecken
+topics in sidebar = Themen in der Seitenleiste
+
+Posts = Artikel
+Pages = Seiten
+
+hide RSS link = den Link zu RSS verstecken
 hide Search link = den Link zu der Suche verstecken
 
 Copying page = Die Seite kopieren
