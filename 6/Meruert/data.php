@@ -1,1 +1,0 @@
-<?php die(); ?><sitename>liccilip</sitename><pass>Mamluk123654</pass><lang>ru</lang><comments>1</comments><listing>10</listing><secret>0</secret><theme>orinoco</theme><email>admin@liccilip.tk</email><footerbar>[parcelle:sitecopy] | [parcelle:enginelink]</footerbar>
