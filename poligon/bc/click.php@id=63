@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">	
+<head>
+	<title>Ввод Webmoney без комиссии, ввод wmr, ввод wmz, купить webmoney, купить wmz, купить wmr, пополнить webmoney, пополнить вебмани.</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+	<meta name="Description" content="Ввод WebMoney через Альфа-Банк позволяет моментально получить титульные знаки на свой кошелек после перевода денег нам. Купить WebMoney за Промсвязьбанк можно также просто, как заплатить за коммунальные услуги. Купить ВебМани через ВТБ24 сможет даже человек поверхностно умеющий работать с ПК." />
+	<meta name="Keywords" content="Ввод WebMoney, купить WebMoney, Ввод WebMoney Альфа-Банк, Купить WebMoney Промсвязьбанк, Купить ВебМани телебанк, купить wmz, купить wmr, ввод wmr, купить wmz, WebMoney за Western Union, Пополнить WebMoney, CONTACT." />
+	<base href="https://wmcasher.ru/" />
+	<link rel="stylesheet" type="text/css" media="print" href="https://wmcasher.ru/css/print.css" /> 
+	<link rel="stylesheet" type="text/css" media="all" href="https://wmcasher.ru/css/style.css"/>
+	<script type="text/javascript" src="https://wmcasher.ru/functionsjs.php"></script>	
+</head>
+	<body style="background:#EEEDE6"><!--1552902196-->
+		<div id="main">
+			<div id="header">
+				<div class="header1">
+					<div class="header2">
+						<div class="head_logo"><a href="https://wmcasher.ru"></a></div>
+						<div class="head_right">
+							<ul class="head_list">
+								<li></li>
+								<li>Пользователей: <strong>191142</strong></li>
+								<li>Обменов: <strong>1347430</strong></li>
+								<li>Сегодня обменов: <strong>39</strong></li>		
+							</ul>
+							<div style="float:right;margin:15px 30px 0 0;color:white;font-weight:bold;font-size:15px;text-align:right;line-heigh:1.4">
+								<!-- Тел. 8-800-100-24-14<br/>-->
+								ICQ 100-600-600<br/>
+								Skype wmcasher.ru
+							</div>							
+						</div>												
+					</div>		
+				</div>		
+			</div>		
+			<div id="content"><div class="content">
+				<div class="last_block">
+					<div class="right_decor"></div>
+					<div class="right_gray_block">
+						<div class="right_gray_block2">
+							<div class="attestat_block">
+								<a href="http://wmcasher.ru/out.php?url=https://passport.webmoney.ru/asp/CertView.asp?wmid=425844354718" target="_blank">Аттестат<br /> регистратора</a>
+								WMID: 425844354718<br/>
+								WMID: 106880779815<br/>
+								WMID: 139545776904<br/>
+								WMID: 180132313078								
+							</div>
+<div style="padding:0px 0px 10px 10px"><b style="font-size:13px">Резервы автообмена WM</b></div>
+<ul class="right_money_list">
+<li class="right_money_wmz">124 WMZ</li>
+<li class="right_money_wme">113 WME</li>
+<li class="right_money_wmr">>10&nbsp;000&nbsp;000 WMR</li>
+<li class="right_money_wmu">369 WMU</li>
+</ul>
+<ul class="bl_tl_block">
+<li><strong>BL:</strong>2439</li>
+<li class="tl_block"><strong>Отзывов:</strong><a href="out.php?url=http://arbitrage.webmoney.ru/asp/claims.asp?wmid=425844354718" target="_blank">1</a></li>
+</ul></div></div>
+					<div class="right_gray_block">
+						<div class="right_gray_block2">
+							<h3>Курсы валют<span>ЦБ РФ на 18.03.2019 / 19.03.2019</span></h3>
+							<ul class="right_money_list2">
+								<li>
+									<strong>USD</strong><span>65.4201/64.6694 <img src="images/arr/red_arrow.gif" alt="Курс упал" width="8" height="14" />
+									</span>
+								</li>
+								<li>
+									<strong>EUR</strong><span>74.0686/73.3610 <img src="images/arr/red_arrow.gif" alt="Курс упал" width="8" height="14" />
+									</span>
+								</li>
+								<li>
+									<strong>UAH</strong><span>24.1661/23.8206 <img src="images/arr/red_arrow.gif" alt="Курс упал" width="8" height="14" />
+									</span>
+								</li>
+								<li>
+									<strong>BYR</strong><span>32.0007
+									</span>
+								</li>
+							</ul>
+						</div>
+					</div><div class="right_yellow_block">
+						<div class="right_yellow_block2">
+							<h3>Получить бонус</h3>
+							<script type="text/javascript" src="https://wmcasher.ru/wmcbonus.php?encoding=w"></script>
+							<form action="https://wmcasher.ru/bonus/" class="bonus_form" method="post">
+								Вы можете получить WMR-бонус
+								<input type="text" name="bonuspurse" value="R" size="13" id="wmcbonuspurse"/><br />
+								в размере 0,01-0,10 WMR на свой кошелек 1 раз в сутки<br/>
+								Код <img src="https://wmcasher.ru/captcha/?background_color=255,249,188" width="50" height="21" alt="Защитный код"/>
+								<input type="text" name="keystring" value="" size="5" id="wmcbonuskeystring" style="width:70px"/>
+								<input type="button" value=" Получить бонус " onclick="getwmcbonus()" class="bonus_button"/>								
+							</form>
+							<a href="/bonus">Раздача бонусов на Вашем сайте</a>
+						</div>
+					</div><div class="right_baner_container">
+                    <a href="out.php?url=http://www.webmoney.ru" target="_blank"><img src="https://wmcasher.ru/images/imgs/88x31_wm_blue_on_white_ru.png" width="88\ height="31" alt="Принимаем Вебмани" /></a>
+<!-- begin WebMoney Transfer : attestation label --> 
+<a href="out.php?url=https://passport.webmoney.ru/asp/certview.asp?wmid=425844354718" target="_blank"><img src="https://wmcasher.ru/images/imgs/88x31_wm_v_blue_on_white_ru.png" width="88\ height="31" title="Здесь находится аттестат нашего WM идентификатора 425844354718" border="0" /></a>
+<!-- end WebMoney Transfer : attestation label --><!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script>
+<!--/LiveInternet-->
+						<div class="right_gray_block">
+						<div class="right_gray_block2">
+
+									<div>
+									<!--wmcasher.ru -->
+									Наши кошельки<br/>
+									Z418504270373<br/>
+									E729406973777<br/>
+									R320673491678<br/>
+									U190088727982<br/>
+									<!--wmcasher.ru avtoobmen -->
+									Z105756155986<br/>
+									E222581949128<br/>
+									R153312425106<br/>
+									U314144287040<br/>
+									<!--skype-->
+									Z365123728992<br/>
+									E574826332708<br/>
+									R196342961771<br/>
+									U383649540852<br/>
+									<!--megaobmennik.ru -->
+									Z544098563538<br/>
+									E223383066269<br/>
+									R115968091935<br/>
+									U118778363184<br/>
+									<!--zaimiwm.ru -->
+									Z286181370032<br/>
+									D813010488847<br/>
+									C241172764828<br/>
+									<!--smsobmennik.ru -->
+									Z231746108525<br/>
+									E283107826811<br/>
+									R288983051633<br/>
+									U101157541699<br/>
+									<!--obmennik.ru-->
+									Z314736080538<br/>
+									E284433767488<br/>
+									R145484036874<br/>
+									U959628534989<br/>
+								</div>						
+						
+						</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col_main">
+					<div class="first_block">
+						<div class="left_menu_container">
+							<ul class="left_menu" id="my-menu">
+								<li class="left_ico8"><a href="https://wmcasher.ru/wmz_wmr/"><span>Автообмен WebMoney</span></a></li>
+								<li class="left_ico11"><a href="https://wmcasher.ru/credit/"><span>Взять кредит</span></a></li>
+								<li class="left_ico1">
+									<a href="https://wmcasher.ru/in/" class="left_menu_a"><span>Ввод</span></a>
+									<ul class="left_menu_inner">
+										<li><a href="https://wmcasher.ru/cashin/">Наличные рубли</a></li>
+									</ul>
+								</li>
+								<li class="left_ico2">
+									<a href="https://wmcasher.ru/out/" class="left_menu_a"><span>Вывод</span></a>
+									<ul class="left_menu_inner">
+										<li><a href="https://wmcasher.ru/cashout/">Наличные рубли</a></li>
+									</ul>	
+								</li>								
+								<li class="left_ico12">
+									<span><strong>Аттестация</strong></span>
+									<ul class="left_menu_inner">
+										<li><a href="https://wmcasher.ru/webmoneypassport/">Аттестат Webmoney</a></li>
+										<li><a href="https://wmcasher.ru/faqwebmoneypassport/">FAQ по аттестатации</a></li>
+										<li><a href="https://wmcasher.ru/formalpassport/">Формальный аттестат</a></li>
+										<li><a href="https://wmcasher.ru/helpwebmoneypassport/">Помощь по аттестату</a></li>
+									</ul>
+								</li>
+																
+
+								<li class="left_ico10"><a href="https://wmcasher.ru/partner/"><span>Партнерам</span></a></li>
+								<li class="left_ico6"><a href="https://wmcasher.ru/feedback/"><span>Отзывы</span></a></li>
+								<li class="left_ico9"><a href="https://wmcasher.ru/articles/"><span>Статьи</span></a></li>
+								<li class="left_ico5"><a href="https://wmcasher.ru/faq/"><span>Вопросы</span></a></li>
+								<li class="left_ico3"><a href="https://wmcasher.ru/terms/"><span>Соглашение</span></a></li>
+								<li class="left_ico7"><a href="https://wmcasher.ru/contacts/"><span>Контакты</span></a></li>
+							</ul>
+						</div>
+						
+						<div class="gray_block_decor"></div>
+						<div class="left_gray_block">
+							<div class="left_gray_block2">
+								 Россия, г.Самара,<br /> 
+								<strong>Онлайн поддержка</strong>
+								<div class="icq_on">100-600-600</div>
+								<div><a href="/contacts/">форма обратной связи</a></div>
+							</div>
+						</div></div>
+					
+					
+					<div class="block"><h1>WMcasher — сервис ввода, вывода webmoney.</h1><div class="yellow_container"><div class="top_left_yellow_corner"><div class="top_right_yellow_corner"><div class="bottom_left_yellow_corner"><div class="bottom_right_yellow_corner"><form class="mainexchangeform" action="" method="post">
+<input type="hidden" name="currentselectedsource" value="3" id="currentselectedsource" />
+<table cellspacing="0" cellpadding="0" class="extable">
+<tr>
+<td style="width:30%">
+<!-- Левая часть меню выбора -->
+<table cellspacing="0" cellpadding="0" class="exleft">
+<tr>
+	<td colspan="3" class="exheader">Отдаете</td>
+</tr>
+<tr id="source3" onmouseover="showlayermultiform('3')" onmouseout="coloritout('source3')">
+	<td class="exleft1">&nbsp;1.00</td>
+	<td class="exleft2"><img src="img/minisources/3.png" width="16" height="16" alt=""/></td>
+	<td class="exleft3">WMR</td>
+</tr>
+<tr id="source1" onmouseover="showlayermultiform('1')" onmouseout="coloritout('source1')">
+	<td class="exleft1">&nbsp;1.00</td>
+	<td class="exleft2"><img src="img/minisources/1.png" width="16" height="16" alt=""/></td>
+	<td class="exleft3">WMZ</td>
+</tr>
+<tr id="source2" onmouseover="showlayermultiform('2')" onmouseout="coloritout('source2')">
+	<td class="exleft1">&nbsp;1.00</td>
+	<td class="exleft2"><img src="img/minisources/2.png" width="16" height="16" alt=""/></td>
+	<td class="exleft3">WME</td>
+</tr>
+<tr id="source4" onmouseover="showlayermultiform('4')" onmouseout="coloritout('source4')">
+	<td class="exleft1">&nbsp;1.00</td>
+	<td class="exleft2"><img src="img/minisources/4.png" width="16" height="16" alt=""/></td>
+	<td class="exleft3">WMU</td>
+</tr>
+</table>
+<!-- / Левая часть меню выбора -->
+</td>
+<td style="width:70%">
+<!-- Правая часть меню выбора --><table cellspacing="0" cellpadding="0" class="exright" id="comises3" style="display:none">
+<tr>
+	<td colspan="3" class="exheader">Получаете</td>
+	<td class="exheader2">Резерв</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmr_wmz/'">&nbsp;0.0143</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmr_wmz/'"><img src="img/minisources/1.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmr_wmz/'"><a href="https://wmcasher.ru/wmr_wmz/">WMZ</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmr_wmz/'">124</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmr_wme/'">&nbsp;0.0129</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmr_wme/'"><img src="img/minisources/2.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmr_wme/'"><a href="https://wmcasher.ru/wmr_wme/">WME</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmr_wme/'">113</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmr_wmu/'">&nbsp;0.4395</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmr_wmu/'"><img src="img/minisources/4.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmr_wmu/'"><a href="https://wmcasher.ru/wmr_wmu/">WMU</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmr_wmu/'">369</td>
+</tr><tr><td colspan="6" style="background:#ffffff"><img src="img/spacer.gif" width="1" height="16" alt="" /></td></tr></table><table cellspacing="0" cellpadding="0" class="exright" id="comises1" style="display:none">
+<tr>
+	<td colspan="3" class="exheader">Получаете</td>
+	<td class="exheader2">Резерв</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmz_wmr/'">&nbsp;65.2774</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmz_wmr/'"><img src="img/minisources/3.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmz_wmr/'"><a href="https://wmcasher.ru/wmz_wmr/">WMR</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmz_wmr/'">>10&nbsp;000&nbsp;000</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmz_wme/'">&nbsp;0.8401</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmz_wme/'"><img src="img/minisources/2.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmz_wme/'"><a href="https://wmcasher.ru/wmz_wme/">WME</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmz_wme/'">113</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmz_wmu/'">&nbsp;31.4009</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmz_wmu/'"><img src="img/minisources/4.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmz_wmu/'"><a href="https://wmcasher.ru/wmz_wmu/">WMU</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmz_wmu/'">369</td>
+</tr><tr><td colspan="6" style="background:#ffffff"><img src="img/spacer.gif" width="1" height="16" alt="" /></td></tr></table><table cellspacing="0" cellpadding="0" class="exright" id="comises2" style="display:none">
+<tr>
+	<td colspan="3" class="exheader">Получаете</td>
+	<td class="exheader2">Резерв</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wme_wmr/'">&nbsp;73.2981</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wme_wmr/'"><img src="img/minisources/3.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wme_wmr/'"><a href="https://wmcasher.ru/wme_wmr/">WMR</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wme_wmr/'">>10&nbsp;000&nbsp;000</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wme_wmz/'">&nbsp;1.0625</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wme_wmz/'"><img src="img/minisources/1.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wme_wmz/'"><a href="https://wmcasher.ru/wme_wmz/">WMZ</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wme_wmz/'">124</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wme_wmu/'">&nbsp;24.2855</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wme_wmu/'"><img src="img/minisources/4.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wme_wmu/'"><a href="https://wmcasher.ru/wme_wmu/">WMU</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wme_wmu/'">369</td>
+</tr><tr><td colspan="6" style="background:#ffffff"><img src="img/spacer.gif" width="1" height="16" alt="" /></td></tr></table><table cellspacing="0" cellpadding="0" class="exright" id="comises4" style="display:none">
+<tr>
+	<td colspan="3" class="exheader">Получаете</td>
+	<td class="exheader2">Резерв</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmu_wmr/'">&nbsp;1.3797</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmu_wmr/'"><img src="img/minisources/3.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmu_wmr/'"><a href="https://wmcasher.ru/wmu_wmr/">WMR</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmu_wmr/'">>10&nbsp;000&nbsp;000</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmu_wmz/'">&nbsp;0.0218</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmu_wmz/'"><img src="img/minisources/1.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmu_wmz/'"><a href="https://wmcasher.ru/wmu_wmz/">WMZ</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmu_wmz/'">124</td>
+</tr><tr>
+	<td class="exright2" onclick="window.location='https://wmcasher.ru/wmu_wme/'">&nbsp;0.0193</td>
+	<td class="exright3" onclick="window.location='https://wmcasher.ru/wmu_wme/'"><img src="img/minisources/2.png"  width="16" height="16" alt=""/></td>
+	<td class="exright4" onclick="window.location='https://wmcasher.ru/wmu_wme/'"><a href="https://wmcasher.ru/wmu_wme/">WME</a></td>
+	<td class="exright5" onclick="window.location='https://wmcasher.ru/wmu_wme/'">113</td>
+</tr><tr><td colspan="6" style="background:#ffffff"><img src="img/spacer.gif" width="1" height="16" alt="" /></td></tr></table>
+<!-- Правая часть меню выбора -->
+</td>
+</tr>
+</table>
+</form>
+<script type="text/javascript"> showlayermultiform(3); </script></div></div></div></div></div><br/><br/><h1>Новости WMCasher.ru</h1><!-- News block --><ul class="news_list"><li>1.04.2016<br /><a href="https://wmcasher.ru/full_500_grafik_raboti_ofisa.html">График работы офиса</a><div>Уважаемые пользователи сервиса!
+
+Доводим до Вашего сведения, что с 1 апреля 2016 года посещение офиса компании в г.Самара будет временно ограничено в связи с реорганизацией компании.
+
+Выдача начальных и персональных аттестатов на это время также приостановлена.
+
+Для оперативной связи Вы можете использовать форму связи в разделе КОНТАКТЫ а также Skype, ICQ<a href="https://wmcasher.ru/full_500_grafik_raboti_ofisa.html">... подробнее >>></a></div></li></ul><p> <b>1</b> </p>
+					</div>	
+				</div>
+				<div class="clear"></div>
+			</div></div>
+	 		<div class="footer_push"></div>
+	  </div>
+	  <div id="footer">
+	  	<div class="footer_content">
+	    	Copyright © 2008 wmcasher.ru
+				<ul class="bottom_menu">
+
+					<li><a href="https://wmcasher.ru/terms/">Соглашение</a></li>
+					<li><a href="https://wmcasher.ru/faq/">Вопросы</a></li>
+					<li><a href="https://wmcasher.ru/feedback/">Отзывы</a></li>					
+					<li><a href="https://wmcasher.ru/contacts/">Контакты</a></li>					
+				</ul>
+	    </div>
+		</div><!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter8109397 = new Ya.Metrika({id:8109397, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/8109397" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+</body></html>

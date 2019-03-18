@@ -1,0 +1,730 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>xchange.ltd - Обменник Bitcoin, обменник Perfect money, обмен биткоинов</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Круглосуточный автоматический обменник Bitcoin (Биткоин). Купить биткоин или продать биткоин безопасно только здесь. Есть все российские банки. Большие резервы." />
+    <meta name="keywords" content="обменник, обменник биткоин, купить биткоины, обменник перфект мани, продать биткоин, visa, Master card, стоимость биткоинов" />
+    
+    <meta name="yandex-verification" content="98e2b64d15477f10" />
+    
+    <link rel="icon" href="/res/xchange/ico/favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" type="text/css" href="/res/xchange/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/res/xchange/fonts/font.min.css" />
+    <link rel="stylesheet" type="text/css" href="/res/xchange/css/style.css?v=0.8.9" />
+    <link rel="stylesheet" type="text/css" href="/res/xchange/css/styles.css?v=0.8.9" />
+
+    <link rel="manifest" href="/manifest.json">
+    <script type="text/javascript">if(window.parent.frames.length > 0){window.stop();}</script>
+  </head>
+  <body class="main-page ispc logout">
+
+
+    <div id="site">
+      <div id="head" class="">
+
+  <div class="small-header text-center d-block d-sm-none">
+    <a href="/"><img alt="" src="/res/xchange/i/logo.png" class="d-inline-block align-top" /></a>
+  </div>
+
+  <nav class="navbar navbar-expand-sm">
+    <div class="container XchnageHc">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#XchangeHeader" aria-controls="XchangeHeader" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="XchangeHeader">
+        <a href="/" class="navbar-brand d-none d-sm-block"><img alt="" src="/res/xchange/i/logo.png" class="d-inline-block align-top" /></a>
+        <ul class="navbar-nav ml-auto mt-2 mt-lg-0 main_menu_wrapper">
+          <li class="nav-item "><a href="/reviews/">Отзывы</a></li>
+          <li class="nav-item "><a href="/partners/">Партнёрам</a></li>
+          <li class="nav-item "><a href="/contacts/">Контакты</a></li>
+          <li class="nav-item "><a href="/news/">Новости</a></li>
+          <li class="nav-item "><a href="/reserve/">Резервы</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-6 worktimer d-none d-sm-block">Часы работы: Круглосуточно</div>
+      <div class="col-12 col-sm-6">
+        <div class="user_menu">
+  <ul class="nav justify-content-sm-end justify-content-center">
+    <li class="nav-item">
+      <a href="/register/"  rel="nofollow" class="reg">Регистрация</a>
+    </li>
+    <li class="nav-item">
+      <a data-toggle="modal" data-target="#xchlogin" href="#">Личный кабинет</a>
+    </li>
+  </ul>
+</div>
+
+<div class="modal" id="xchlogin" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="errorModalTitle">Личный кабинет</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+
+      <form class="modal-body vr-modal-body bgwhite" method="POST">
+        <div class="form-group">
+          <label class="xch-label color-dark">Логин:</label>
+          <div class="xch-warp_imput">
+            <input type="text" name="email" class="f-input form-control xch-input" placeholder="mail@yourbox.com" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label class="xch-label color-dark">Пароль:</label>
+          <div class="xch-warp_imput">
+            <input type="password" name="password" class="f-input form-control xch-input" placeholder="*****" />
+          </div>
+          <div class="text-right"><a href="/lostpass/" rel="nofollow" class="xch-link">Забыли пароль?</a></div>
+        </div>
+        <div class="form-group" id="pin2fa-holder" style="display: none">
+          <label class="xch-label color-dark">Двухэтапная аутентификация:</label>
+          <label class="xch-label color-dark"><small>Создайте код в приложении Google Authenticator:</small></label>
+          <div class="xch-warp_imput">
+            <input type="text" name="pin2fa" class="f-input form-control xch-input" />
+          </div>
+        </div>
+        <div class="showerror"></div>
+        <div class="text-center">
+          <div class="d-inline-block">
+            <div id="captcha-container" style="display:none;" class="">
+              <div id="auth-recaptcha"></div>            </div>
+          </div>
+        </div>
+
+        <input type="hidden" name="action" class="f-input" value="authorize" />
+        <div class="text-center">
+          <button type="submit" id="auth-form-btn" class="btn xch-primary">Войти</button>
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div>        <div id="google_translate_element"></div>
+        <script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'ru', includedLanguages: 'ar,de,en,fr,it,ru,sv,uk,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');}</script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="table_block_top">
+    <div class="container">
+
+      <div class="row xch-absblock">
+        <div class="col-6 col-sm-4 col-md-5">
+          <img alt="@" class="stol-alertleft" src="/res/xchange/i2/udobno.png"/>
+        </div>
+        <div class="col-6 col-sm-4 col-md-5 xch-safekassir">
+          <div class="safe">
+            <img alt="@" src="/res/xchange/i2/safe.png" />
+          </div>
+          <img class="kassir" alt="@" src="/res/xchange/i/kassir.png" />
+        </div>
+      </div>
+
+    </div>
+    <div class="stol-top"></div>
+  </div>
+
+</div>
+            <div class="table_bottom_block">
+        <div class="container">
+          <div class="step_block step_block4">
+  <div id="show_errors"></div>
+
+  
+  <div class="row">
+    <div class="col-12 col-md">
+      <div class="text26pxRegular">Вы отдаете:</div>
+      <div class="row">
+        <div class="col-5 pr-0">
+          <div class="xch-warp_imput">
+            <input class="form-control xch-input" type="text" id="give_col" placeholder="0" value="">
+            <div class="currency" data-type="curr_from">RUR</div>
+          </div>
+          <div class="xch-small-calc" data-type="min">Мин: 5000 RUR</div>
+        </div>
+        <div class="col-7">
+          <div class="xch-select_payment" data-direct="from">
+            <img class="dd-img" alt="From" src="/res/exchangebox/uploads/svg/sberbank.svg"/>
+            <span class="dd-label">Сбербанк</span>
+          </div>
+          <div class="subpayment" data-type="propsFrom"></div>
+        </div>
+      </div>
+      <div class="row from-balance" style="display:none">
+        <div class="col-12">
+          <div class="ch">
+            <div class="xch-checkbox xc-from-balance">
+              <input type="checkbox" class="f-input" name="from_balance"/>
+              <div class="xch-checkbox__div" style='display: none'></div>
+            </div>
+            Списать с баланса (<small>Доступно: <span data-field="user-balance" data-value="0 RUR">0 RUR</span></small>)
+            <span class="badge badge-pill badge-light" style="position:relative;top:-1px;" title="Можно зачислять средства на баланс заранее и совершать обмены после этого, не ожидая подтверждений">?</span>
+          </div>
+          <a class="pbd btn xbtn xbtn-primary" href="/profile/balance/?action=deposit&currency=RUR" target="_blank">Пополнить</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-1 text-center d-none d-md-block pt-35"><img src="/res/xchange/i2/layer26.png"/></div>
+    <div class="col-12 col-md">
+
+      <div class="text26pxRegular">Вы получаете:</div>
+      <div class="row">
+
+        <div class="col-5 pr-0">
+          <div class="xch-warp_imput">
+            <input class="form-control xch-input" type="text" id="get_col" placeholder="0" value="">
+            <div class="currency" data-type="curr_to">BTC</div>
+          </div>
+          <div class="xch-small-calc"><a href="/partners/" target="_blank">Скидка 0%</a></div>
+        </div>
+        <div class="col-7">
+          <div class="xch-select_payment" data-direct="to">
+            <img class="dd-img" alt="To" src="/res/exchangebox/uploads/svg/bitcoin.svg"/>
+            <span class="dd-label"/>Bitcoin</span>
+          </div>
+          <div class="xch-small-calc" data-type="reserve">Резерв 34.77945544 btc</div>
+          <div class="subpayment" data-type="propsTo"></div>
+        </div>
+      </div>
+
+      <div class="row g2fa" style="display:none">
+        <div class="col-12">
+          <div class="xch-warp_imput">
+            <input class="form-control xch-input" type="text" id="pin2fa" name="pin2fa" placeholder="Google Authenticator (2FA) code">
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="text2" id="xc-com">&nbsp;</div>
+
+  <div>
+    <div class="text3"></div>
+    <div id="extra-commission" class="fade"></div>
+    <div class="form_block f-calc">
+
+              <div class="props">
+          <div class="row"><div class="col-12 col-md">
+  <div class="form-group">
+    <label class="xch-label">Номер карты</label>
+    <div class="xch-warp_imput">
+      <span class="psicon__control"><img src="/res/exchangebox/uploads/svg/sberbank.svg"/></span><input type="text" class="form-control xch-input f-input" placeholder="Номер карты Сбербанк, 16-18 цифр" name="from_acc" data-validator="validator_16d_18d" value=""/>
+          </div>
+      </div>
+</div>
+<div class="col-1"></div>
+<div class="col-12 col-md">
+  <div class="form-group">
+    <label class="xch-label">Ваш E-mail ящик</label>
+    <div class="xch-warp_imput">
+      <input type="text" class="form-control xch-input f-input" placeholder="Например: name@mail.ru" name="email" data-validator="validator_email" value=""/>
+          </div>
+      </div>
+</div></div><div class="row"><div class="col-12 col-md">
+  <div class="form-group">
+    <label class="xch-label">Кошелёк для получения</label>
+    <div class="xch-warp_imput">
+      <span class="psicon__control"><img src="/res/exchangebox/uploads/svg/bitcoin.svg"/></span><input type="text" class="form-control xch-input f-input" placeholder="Например: 20vhaYuCDpaPXkmi12WZMK" name="to_acc" data-validator="validator_bitcoin" value=""/>
+          </div>
+      </div>
+</div>
+<div class="col-1"></div>
+<div class="col-12 col-md coupon_select">
+  <div class="form-group">
+    <label class="xch-label"><a style='color:white' href='/faq/coupon.html' target="_blank">Купон:</a></label>
+    <div class="xch-warp_imput">
+      <select name='coupon_name' class='form-control xch-input f-input'>
+        <option value='none'>Не использовать</option>
+        <option value='insert'>У меня есть купон</option>
+      </select>
+    </div>
+  </div>
+  <div class="isert_coupon" style="display:none">
+    <div class="form-group">
+      <label class="xch-label">Код купона</label>
+      <div class="xch-warp_imput">
+        <input type="text" class="form-control xch-input f-input" placeholder='Вставьте в пустое поле купон' name="coupon_insert"/>
+        <button class="btn btn-warning btn-activate">Активировать</button>
+      </div>
+    </div>
+  </div>
+</div></div>        </div>
+        <div class="props-explode"></div>
+        <div class="row props-after" >
+          <div class="col-12 col-md">
+            <div class="ch">
+              <div class="xch-checkbox xc-agreeement">
+                <input type="checkbox" class="f-input" name="agreement" checked="checked"/>
+                <div class="xch-checkbox__div" style='display: block'></div>
+              </div>
+              Я согласен с <a target="_blank" href="/rules/">правилами обмена</a>
+            </div>
+                        <div class="ch" style="margin-top: 5px;">
+              <div class="xch-checkbox xc-agreeement">
+                <input type="checkbox" class="f-input" name="subscription" checked="checked"/>
+                <div class="xch-checkbox__div" style='display: block'></div>
+              </div>
+              Получать уведомления об акциях и скидках            </div>
+            <br>
+          </div>
+          <div class="col-1 d-sm-none d-md-block"></div>
+          <div class="col-12 col-md">
+            <input type="submit" class="btn xch-primary goto-payment" data-error="Кнопка заблокирована до окончания обратного отсчета" data-wait="Ждите" data-for="f-calc" value="Начать обмен" />
+          </div>
+        </div>
+        <br><br>
+        <input type="hidden" class="xc-summ1 f-input" value="" name="summ1" />
+        <input type="hidden" class="xc-summ2 f-input" value="" name="summ2" />
+        <input type="hidden" class="xc-c1 f-input" id="c1" name="c1" value="8" />
+        <input type="hidden" class="xc-c2 f-input" id="c2" name="c2" value="12" />
+        <input type="hidden" class="xc-direct f-input" id="hid-direct" name="direct" value="0" />
+        <input type="hidden" class="xc-id f-input" id="xc-id" name="id" value="15529024770672"/>
+        <input type="hidden" class="xc-hash f-input" name="hash" value="Fzj6"/>
+      </div>
+  </div>
+</div>
+
+
+<div class="xhc-selpay-warp from" style="display: none;">
+  <div class="xhc-selpay-content">
+    <div class="row align-items-center">
+      <div class="col-3 col-sm-2" data-payin="0"><span class="xhc-selpay-close"><img src="/res/xchange/i2/exit.png" alt="@"/></span></div>
+      <div class="col h-super">Выберите <span data-payout="0">отдаваемую</span><span data-payin="0">получаемую</span> валюту</div>
+      <div class="col-3 col-sm-2" data-payout="0"><span class="xhc-selpay-close"><img src="/res/xchange/i2/exit.png" alt="@"/></span></div>
+    </div>
+    <br>
+    <div class="row payment-list">
+      
+      
+      <div class="col-sm-6 col-md pl-0">
+        <div class="group-title">
+                    Криптовалюта
+          </div>
+
+                <div class="ps-element" data-psid="12" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/bitcoin.svg' alt="@"/></span>
+          <span class="name">Bitcoin</span>
+        </div>
+
+                <div class="ps-element" data-psid="73" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/tether.svg' alt="@"/></span>
+          <span class="name">Tether</span>
+        </div>
+
+                <div class="ps-element" data-psid="42" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/ethereum.svg' alt="@"/></span>
+          <span class="name">Ethereum</span>
+        </div>
+
+                <div class="ps-element" data-psid="55" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/zcash.svg' alt="@"/></span>
+          <span class="name">ZCash</span>
+        </div>
+
+                <div class="ps-element" data-psid="118" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/bitcoin_cash.svg' alt="@"/></span>
+          <span class="name">Bitcoin Cash ABC</span>
+        </div>
+
+                <div class="ps-element" data-psid="13" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/litecoin.svg' alt="@"/></span>
+          <span class="name">Litecoin</span>
+        </div>
+
+                <div class="ps-element" data-psid="70" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/ripple.svg' alt="@"/></span>
+          <span class="name">Ripple</span>
+        </div>
+
+                <div class="ps-element" data-psid="46" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/dash.svg' alt="@"/></span>
+          <span class="name">Dash</span>
+        </div>
+
+                <div class="ps-element" data-psid="52" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/dogecoin.svg' alt="@"/></span>
+          <span class="name">Dogecoin</span>
+        </div>
+
+                <div class="ps-element" data-psid="72" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/monero.svg' alt="@"/></span>
+          <span class="name">Monero</span>
+        </div>
+
+                <div class="ps-element" data-psid="122" data-payin="" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-maincoin.png' alt="@"/></span>
+          <span class="name">Maincoin</span>
+        </div>
+
+        </div>
+
+      
+      
+      <div class="col-sm-6 col-md pl-0">
+        <div class="group-title">
+                    Платежные системы
+          </div>
+
+                <div class="ps-element" data-psid="65" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/exmo.svg' alt="@"/></span>
+          <span class="name">Exmo BTC</span>
+        </div>
+
+                <div class="ps-element" data-psid="1" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/perfect_money.svg' alt="@"/></span>
+          <span class="name">Perfect Money USD</span>
+        </div>
+
+                <div class="ps-element" data-psid="28" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/advcash.svg' alt="@"/></span>
+          <span class="name">Advanced Cash USD</span>
+        </div>
+
+                <div class="ps-element" data-psid="22" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/payeer.svg' alt="@"/></span>
+          <span class="name">Payeer USD</span>
+        </div>
+
+                <div class="ps-element" data-psid="123" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-maincash.png' alt="@"/></span>
+          <span class="name">Maincash USD</span>
+        </div>
+
+                <div class="ps-element" data-psid="59" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/exmo.svg' alt="@"/></span>
+          <span class="name">Exmo USD</span>
+        </div>
+
+                <div class="ps-element" data-psid="47" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/livecoin.svg' alt="@"/></span>
+          <span class="name">Livecoin USD</span>
+        </div>
+
+                <div class="ps-element" data-psid="43" data-payin="1" data-payout="" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-capitalist.png' alt="@"/></span>
+          <span class="name">Capitalist</span>
+        </div>
+
+                <div class="ps-element" data-psid="60" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/exmo.svg' alt="@"/></span>
+          <span class="name">Exmo RUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="124" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-maincash.png' alt="@"/></span>
+          <span class="name">Maincash RUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="41" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/payeer.svg' alt="@"/></span>
+          <span class="name">Payeer RUB</span>
+        </div>
+
+                <div class="ps-element" data-psid="57" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/advcash.svg' alt="@"/></span>
+          <span class="name">Advanced Cash RUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="15" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/yandex.svg' alt="@"/></span>
+          <span class="name">Яндекс.Деньги</span>
+        </div>
+
+                <div class="ps-element" data-psid="9" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/qiwi.svg' alt="@"/></span>
+          <span class="name">QIWI RUB</span>
+        </div>
+
+                <div class="ps-element" data-psid="37" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-mobile_russia.png' alt="@"/></span>
+          <span class="name">Мобильная связь РФ</span>
+        </div>
+
+                <div class="ps-element" data-psid="61" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/exmo.svg' alt="@"/></span>
+          <span class="name">Exmo EUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="49" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/perfect_money.svg' alt="@"/></span>
+          <span class="name">Perfect Money EUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="48" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/advcash.svg' alt="@"/></span>
+          <span class="name">Advanced Cash EUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="50" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/payeer.svg' alt="@"/></span>
+          <span class="name">Payeer EUR</span>
+        </div>
+
+                <div class="ps-element" data-psid="16" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/perfect_money.svg' alt="@"/></span>
+          <span class="name">e-Voucher</span>
+        </div>
+
+        </div>
+
+      
+      
+      <div class="col-sm-12 col-md pl-0">
+        <div class="group-title">
+                    Банки
+          </div>
+
+        <div class="row">        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="8" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/sberbank.svg' alt="@"/></span>
+          <span class="name">Сбербанк</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="3" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/vtb24.svg' alt="@"/></span>
+          <span class="name">ВТБ</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="18" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-tcsbank.png' alt="@"/></span>
+          <span class="name">Тинькофф</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="7" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/alphabank.svg' alt="@"/></span>
+          <span class="name">Альфа Банк</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="26" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-visamc.png' alt="@"/></span>
+          <span class="name">Visa/MasterCard RUB</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="58" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/raiffeisen.svg' alt="@"/></span>
+          <span class="name">Райффайзенбанк</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="24" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/promsvyazbank.svg' alt="@"/></span>
+          <span class="name">Промсвязьбанк</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="17" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-gazprombank.png' alt="@"/></span>
+          <span class="name">Газпромбанк</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="108" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/mir.svg' alt="@"/></span>
+          <span class="name">МИР</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="2" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-ruskiystandart.png' alt="@"/></span>
+          <span class="name">Русский стандарт</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="34" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/ps/ps-homecreditbank.png' alt="@"/></span>
+          <span class="name">Банк Хоум Кредит</span>
+        </div>
+
+        </div>        <div class="col-sm-6 col-md-12"><div class="ps-element" data-psid="23" data-payin="1" data-payout="1" data-group="">
+          <span class="image"><img src='/res/exchangebox/uploads/svg/akbarsbank.svg' alt="@"/></span>
+          <span class="name">Ак Барс банк</span>
+        </div>
+
+        </div></div></div>
+
+      </div>
+  </div>
+</div>
+
+
+<div class="modal"  id="hwnd-autocomplete" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Автозаполнение</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        Выберите реквизит:<br/>
+        <div id="props-list"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Отмена</button>
+        <button type="button" id="apply-btn" class="btn btn-primary">Применить</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+        <div class="head_end_block"></div>
+      </div>
+      <div id="body">
+        <div class="content"><div class="ps-info-content">
+  <div class="center-box">
+    <h1>Обменник электронных денег</h1>
+<p>Обмен за 15 минут в нашем обменнике Вы можете выполнить с <a href="/wiki/Bitcoin-Bitkoin.html">Bitcoin</a>, <a href="/wiki/Perfect-Money.html">Perfect Money</a>, <a href="/wiki/Qiwi.html">Qiwi</a>, <a href="/wiki/yandex-dengi.html">Яндекс.Деньги</a>, <a href="/wiki/Payeer.html">Payeer</a>, AdvCash&nbsp;и многими другими валютами.<br /> Вы можете купить средства с банков: <a href="/wiki/Sberbank.html">Сбербанк</a>, <a href="/wiki/Alfa-bank.html">Альфа банк</a>, <a href="/wiki/Bank-VTB-24.html">ВТБ24</a>, <a href="/wiki/Bank-Russkij-Standart.html">Русский стандарт</a>, Тинькофф, <a href="/wiki/Gazprombank.html">Газпромбанк</a>.</p>
+<h2>Вы хотите обменять свои деньги?</h2>
+<p>Мы поможем Вам купить или продать нужную валюту быстро и надёжно.<br /> Средняя скорость выполнения заявки на обмен составляет около 10 минут.<br /> Обменник работает 24 часа в день / 7 дней в неделю / 365 дней в году.<br /> В случае, когда Вы намерены продать Биткоин или обменять на банки, то время выполнения - 1 подтверждение. При отправке биткоин рекомендуем <a title="Какую комиссию выбрать?" href="/kak-rasschitat-komissiju-bitkoin/" target="_blank">выставить комиссию/плату за транзакцию</a> ориентируясь на таблицу.<br /> Обменник работает с 2012 года, выполняет обмены моментально, качественно и профессионально.</p>  </div>
+</div><div class="news_block_wrapper news-in-mainpage">
+  <h2>Новости</h2>
+  <div class="all_link"><a href="/news/">Все новости</a></div>
+  <div class="clear"></div>
+  <ul class="news_list"><li >
+  <div class="inner">
+    <div class="date">02.07.2018</div>
+    <div class="name"><a href="/news/rippl-i-amazon-perspektivy-takogo-tandema.html" >Риппл и Amazon — перспективы такого тандема</a></div>
+    <div class="text">Цифровые альткоины Ripple с каждым днем становятся все популярней. Если рассматривать их с коммерческой точки зрения, данная криптовалюта выглядит привлекательной для применения на глобальном финансовом рынке. Получив поддержку от ряда банков и регуляторов, руководство Риппл пытается наладить отношения с торговым сервисом Amazon. Если оценивать с точки зрения онлайн-площадки, такое сотрудничество может принести массу пользы. В первую очередь, речь идет о быстрой обработке операций и их низкой стоимости.</div>
+    <div class="comment">6 комментариев</div>
+  </div>
+  </li>
+<li >
+  <div class="inner">
+    <div class="date">25.06.2018</div>
+    <div class="name"><a href="/news/est-li-verojatnost-unichtozhenija-bitkoina.html" >Есть ли вероятность уничтожения Биткоина</a></div>
+    <div class="text">Недостаточный уровень конфиденциальности является не единственной проблемой Биткоина, напрямую влияющей на безопасность сети первой криптовалюты. Существующие риски связаны со спецификой строения молодой экосистемы и не зависят от ее пользователей. Участники сети не могут повлиять на сложившийся порядок вещей, однако осознание потенциальной угрозы позволяет спрогнозировать поведение цифрового золота при наступлении определенных обстоятельств.</div>
+    <div class="comment">5 комментариев</div>
+  </div>
+  </li>
+<li >
+  <div class="inner">
+    <div class="date">18.06.2018</div>
+    <div class="name"><a href="/news/torgovlja-elektroenergiej-na-blokchejne-v-katalonii-ispanija.html" >Торговля электроэнергией на блокчейне в Каталонии, Испания</a></div>
+    <div class="text">Каталонцы отличаются свободолюбием и желанием во всем уколоть центральную власть Испании. Технология блокчейн становится эффективным инструментом, который позволит в очередной раз заявить о независимости. Неудавшийся референдум завершился спецоперацией полиции, в результате чего правоохранительные органы в октябре 2017 года арестовали активных протестующих. Сейчас в правительстве Каталонии собираются бесплатно раздать «энергетические» цифровые монеты среди жителей региона.</div>
+    <div class="comment">5 комментариев</div>
+  </div>
+  </li>
+<li >
+  <div class="inner">
+    <div class="date">11.06.2018</div>
+    <div class="name"><a href="/news/chto-nuzhno-znat-reguljatoram-o-cifrovyh-aktivah.html" >Что нужно знать регуляторам о цифровых активах</a></div>
+    <div class="text">Кажется, ценовая гонка на криптовалютном рынке подошла к концу. Из-за спекулянтов стоимость Биткоина и альткоинов поднялась в 2017 году до рекордных показателей, но с тех пор она обвалилась более чем в два раза. Тем не менее, репутация виртуальных денег не пострадала, и их стоимость значительно выше, чем полтора года назад. Результаты ICO и вовсе поражают воображение, так как краудсейлы принесли организаторам за первый квартал больше, чем за весь прошлый год...</div>
+    <div class="comment">6 комментариев</div>
+  </div>
+  </li></ul>
+  <div class="clear"></div>
+</div><div class="video_wrapper">
+  <div class="content">
+    <div class="name">Видео</div>
+    <div class="center-box">
+      <div class="video-box">
+        <div class="youtube" id="e3g9jdZWmyA" data-params="modestbranding=1&showinfo=0&controls=0&vq=hd720"></div>
+      </div>
+    </div>
+    <a class="view-all-videos" target="_blank" href="https://www.youtube.com/channel/UC14tL-azJxl9DFiXioN83yQ" rel="nofollow">Посмотреть все видео</a>
+  </div>
+</div><div class="clear"></div>
+<div class="center-box">
+  <div>
+    <span class="pluso-text">Поделиться ссылкой в соцсетях</span> 
+    <script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+    <div class="ya-share2" data-services="vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-counter=""></div>
+  </div>
+
+  <div class="soc_block">
+    <span>Мы в соцсетях:</span>
+    <a href="https://vk.com/xchange_cc" class="vkontakte" rel="nofollow" target="_blank" title="Оставить отзыв">
+      <img src="/res/xchange/i/soc-vk.png" alt=""/>
+    </a>
+    <a href="https://www.facebook.com/xchange.is/" class="facebook" rel="nofollow" target="_blank" title="Оставить отзыв">
+      <img src="/res/xchange/i/soc-facebook.png" alt="Facebook"/>
+    </a>
+    <a href="https://twitter.com/xchange_cc" class="twitter" rel="nofollow" target="_blank" title="Оставить отзыв">
+      <img src="/res/xchange/i/soc-twitter.png" alt="Twitter"/>
+    </a>
+  </div>
+</div>
+<div class="clear"></div></div>      </div>
+      <div id="footer">  
+  <div class="content">
+    <div class="copy">&copy; 2012-2019 XChange.ltd</div>
+    <div class="footer_menu">
+  <a class="mob_menu">Главное меню</a>
+  <ul>
+    <li><a href="/rules/" title="Правила">Правила</a></li>
+    <li><a href="/contacts/" rel="nofollow">Контакты</a></li>
+    <li><a href="/kak-rasschitat-komissiju-bitkoin/">Комиссия биткоин</a></li>
+    <li><a href="/wiki/">Вики</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/sitemap/">Карта сайта</a></li>
+    <li><a href="/about/">Репутация</a></li>
+  </ul>
+  <div class="clear"></div>
+</div>  </div>
+</div>    </div>
+
+
+    <div class="modal" id="errorModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="errorModalTitle">Внимание</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body vr-modal-body"></div>
+          <div class="modal-footer">
+            <button type="button" id="errorModalBtn" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script async type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=explicit"></script>
+<script type="text/javascript">
+var multirecaptcha = {};
+var recaptchaOnloadCallback = function() {
+      multirecaptcha["auth-recaptcha"] = grecaptcha.render("auth-recaptcha", { sitekey: "6LcH9A0TAAAAAA7aqJE9AoLpw9NLtu07hDYcOjnn" });    };
+</script>    
+    <script type="text/javascript" src="/res/default/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="/res/xchange/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/javascript/?v=0.8.9"></script>
+    
+        <!-- BEGIN JIVOSITE CODE {literal} -->
+    <script type='text/javascript'>
+    (function(){ var widget_id = 'PA36vroPMj';var d=document;var w=window;function l(){
+    var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+    <!-- {/literal} END JIVOSITE CODE -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36945849-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-36945849-1');
+    </script>
+    <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1570798806';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

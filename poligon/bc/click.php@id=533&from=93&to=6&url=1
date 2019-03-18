@@ -1,0 +1,4485 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+	<meta charset="UTF-8">
+	<title>2x2change.com &#8212;   Обмен</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://2x2change.com/wp-content/themes/exchangeboxtheme2/style.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://2x2change.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://2x2change.com/wp-content/themes/exchangeboxtheme2/js/jquery-1.8.3.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://2x2change.com/wp-content/plugins/cryptoexchangebox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://2x2change.com/wp-content/plugins/cryptoexchangebox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://2x2change.com/wp-content/plugins/cryptoexchangebox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://2x2change.com/wp-content/themes/exchangeboxtheme2/js/jquery-ui-1.9.2.custom.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://2x2change.com/wp-content/themes/exchangeboxtheme2/js/all.js?ver=6.1'></script>
+<script type='text/javascript' src='https://2x2change.com/premiumjs.js?lang=ru&#038;ver=1.6'></script>
+<link rel="shortcut icon" href="https://2x2change.com/wp-content/uploads/mzl.rdhqbcqf-1-e1458338067451.png" type="image/png" />
+<link rel="icon" href="https://2x2change.com/wp-content/uploads/mzl.rdhqbcqf-1-e1458338067451.png" type="image/png" />
+<link rel='canonical' href='https://2x2change.com/xchange_BTC_to_YAMRUB/' />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+		<style type="text/css" id="wp-custom-css">
+			
+*{margin:0;padding:0;}
+
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+
+	border: 0;
+
+	font-family: inherit;
+
+	font-size: 100%;
+
+	font-style: inherit;
+
+	font-weight: inherit;
+
+	margin: 0;
+
+	outline: 0;
+
+	padding: 0;
+
+	vertical-align: baseline;
+
+}
+
+
+
+html {
+
+	-webkit-box-sizing: border-box;
+
+	-moz-box-sizing: border-box;
+
+	box-sizing: border-box;
+
+	overflow-y: scroll;
+
+}
+
+
+
+article,
+
+aside,
+
+details,
+
+figcaption,
+
+figure,
+
+footer,
+
+header,
+
+main,
+
+nav,
+
+section {
+
+	display: block;
+
+}
+
+
+
+ol,
+
+ul {
+
+	list-style: none;
+
+}
+
+
+
+table{border-collapse:collapse;border-spacing:0; vertical-align: middle;}
+
+
+
+caption,
+
+th,
+
+td {
+
+	font-weight: normal;
+
+	text-align: left;
+
+	vertical-align: middle;
+
+}
+
+
+
+blockquote:before,
+
+blockquote:after,
+
+q:before,
+
+q:after {
+
+	content: "";
+
+}
+
+
+
+blockquote,
+
+q {
+
+	-webkit-hyphens: none;
+
+	-moz-hyphens: none;
+
+	-ms-hyphens: none;
+
+	hyphens: none;
+
+	quotes: none;
+
+}
+
+
+
+a:focus,
+
+a:hover,
+
+a:active {
+
+	outline: 0;
+
+}
+
+
+
+a img {
+
+	border: 0;
+
+}
+
+
+
+dfn,
+
+cite,
+
+em,
+
+i {
+
+	font-style: italic;
+
+}
+
+
+
+img {
+
+	-ms-interpolation-mode: bicubic;
+
+	border: 0;
+
+	height: auto;
+
+	max-width: 100%;
+
+	vertical-align: middle;
+
+}
+
+
+
+ins{text-decoration:none;}
+
+del{text-decoration:line-through;}
+
+
+
+sup {font-size:.7em;vertical-align: top;}
+
+sub {font-size:.7em;vertical-align: bottom;}
+
+small {font-size: 10px;}
+
+strong,dfn,dl dt,th{font-weight:600}
+
+
+
+h1, h2, h3, h4, h5, h6{ font-weight: normal;}
+
+
+
+select,input,textarea{
+
+padding:0;
+
+margin:0;
+
+outline:0;
+
+font-size:100%;
+
+vertical-align:baseline;
+
+}
+
+
+
+button, input[type=submit]{padding:0; margin:0; outline:0; font-size:100%; vertical-align:baseline; -webkit-appearance: none;} 
+
+
+
+a{text-decoration:none;color:#0ca4a3;}
+
+a:hover{text-decoration:underline;color:#0ca4a3;}
+
+body{
+
+font: 12px/1.5em 'Open Sans', sans-serif;
+
+color: #545454;
+
+background: #ebebeb;
+
+}
+
+ 
+
+input[type=text],input[type=email],input[type=password]{
+
+border: 1px solid #e2e2e2;
+
+background:#fff;
+
+border-radius: 3px;
+
+height: 40px;
+
+width: 200px;
+
+padding: 0 10px;
+
+-webkit-transition: all 0.3s linear;
+
+	-moz-transition: all 0.3s linear;
+
+		-o-transition: all 0.3s linear;
+
+			transition: all 0.3s linear; 
+
+box-sizing: border-box;
+
+    -moz-box-sizing: border-box; 
+
+		-webkit-box-sizing: border-box;
+
+color: #545454;
+
+font: 13px/40px 'Open Sans', sans-serif;	
+
+}
+
+input[type=text]:disabled,input[type=email]:disabled,input[type=password]:disabled{
+
+border: 1px solid #dadada;
+
+background: #eaeaea;
+
+color: #ccc;
+
+}
+
+textarea{
+
+border: 1px solid #e2e2e2;
+
+background: #fff;
+
+border-radius: 3px;
+
+width: 100%;
+
+max-width: 100%;
+
+min-width: 100%;
+
+height: 150px;
+
+min-height: 150px;
+
+padding: 15px;
+
+-webkit-transition: all 0.3s linear;
+
+	-moz-transition: all 0.3s linear;
+
+		-o-transition: all 0.3s linear;
+
+			transition: all 0.3s linear; 
+
+box-sizing: border-box;
+
+    -moz-box-sizing: border-box; 
+
+		-webkit-box-sizing: border-box;
+
+color: #545454;
+
+font: 13px 'Open Sans', sans-serif;	
+
+}
+
+
+
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus, textarea:focus{ border: 1px solid #00cccb; }
+
+
+
+.err input[type=text],
+
+.err input[type=email],
+
+.err input[type=password], 
+
+.err textarea{
+
+border:1px solid #ff7f66;
+
+color:#ff7f66;
+
+}
+
+
+
+select{
+
+border: 1px solid #e2e2e2;
+
+background: #fff;
+
+border-radius: 3px;
+
+width: 200px;
+
+padding: 9px 10px; 
+
+box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+
+		-webkit-box-sizing: border-box;
+
+color: #545454;
+
+font: 100 13px 'Open Sans', sans-serif;	
+
+}
+
+
+
+input[type=submit]{
+
+-webkit-transition: all 0.3s linear;
+
+	-moz-transition: all 0.3s linear;
+
+		-o-transition: all 0.3s linear;
+
+			transition: all 0.3s linear; 
+
+box-sizing: border-box;
+
+    -moz-box-sizing: border-box; 
+
+		-webkit-box-sizing: border-box;
+
+-webkit-appearance: none;
+
+border: none;
+
+background: #00cccb;
+
+border-radius: 4px;
+
+height: 40px;
+
+font: 100 14px/40px 'Open Sans', serif;
+
+text-transform: uppercase;
+
+color: #fff;
+
+padding: 0 30px;
+
+cursor: pointer;
+
+text-decoration: none;
+
+}
+
+	input[type=submit]:hover{
+
+	background: #0ca4a3;
+
+	}
+
+	input[type=submit]:disabled{
+
+	background: #ff7a6d;
+
+	cursor: default;
+
+	}
+
+	input[type=submit].rsubmitdel{
+
+	background: #ff7a6d;
+
+	}
+
+	input[type=submit].rsubmitdel:hover{background: #fe5544;}
+
+ 
+
+.checkbox{cursor:pointer;background:url(/wp-content/themes/exchangeboxtheme2/images/checkbox.png) no-repeat 0 1px; font: 13px/18px 'Open Sans', sans-serif; padding: 0px 0 2px 25px;}
+
+.checkbox.act{background:url(/wp-content/themes/exchangeboxtheme2/images/checkbox.png) no-repeat 0 -183px;}
+ 
+
+.captchablock{
+
+width: 200px;
+
+margin: 0 0 15px 0;
+
+}
+
+	.captchalabel{
+
+	font-size: 13px;
+
+	font-weight: 600;
+
+	line-height: 13px;
+
+	margin: 0 0 5px 0;
+
+	}
+
+	.captchatext{
+
+	font-size: 11px;
+
+	}	
+
+	.captchline{
+
+	float: left;
+
+	width: 40px;
+
+	height: 40px;
+
+	}
+
+		.captchline img{
+
+		width: 38px;
+
+		height: 38px;
+
+		border: 1px solid #ccc;
+
+		border-radius: 3px;
+
+		}
+
+	.captchznak{
+
+	float: left;
+
+	width: 30px;
+
+	height: 40px;
+
+	text-align: center;
+
+	font-size: 30px;
+
+	line-height: 42px;
+
+	}
+
+	.captchinput input{
+
+	float: left;
+
+	border: 1px solid #ccc;
+
+	border-radius: 3px;
+
+	width: 40px;
+
+	padding: 0 10px;
+
+	height: 40px;
+
+	text-align: center;
+
+	background: #fff;
+
+	}
+ 
+
+.headline{
+
+background: #2a2a2a;
+
+height: 8px;
+
+width: 100%;
+
+min-width: 1000px;
+
+}
+
+#header{
+
+position: relative;
+
+z-index: 30;
+
+background: #ebebeb !important;
+
+padding: 0px 0 10px 0;
+
+width: 100%;
+
+min-width: 1000px;
+
+}
+
+.header{
+
+width: 960px;
+
+margin: 0 auto;
+
+color: #fff;
+
+}
+
+.logo{
+
+float: left;
+
+width: 400px;
+
+padding: 12px 0 0 0;
+
+}
+
+	.textlogo{
+
+	padding: 0 0 0 70px;
+
+	background: url(images/dlogo.png) no-repeat 0 3px;
+
+	color: #fff;
+
+	font: 100 40px/40px 'Open Sans', sans-serif;
+
+	}
+
+		.textlogo a, .textlogo a:hover{
+
+		color: #000;
+
+		text-decoration: none;
+
+		}
+
+	.logodescr{
+
+	padding: 7px 0 0 73px;
+
+	color: #000;
+
+	font: 12px 'Open Sans', sans-serif;
+
+	}
+
+.hright{
+
+float: right;
+
+width: 525px;
+
+}
+
+	.hrighttop{
+
+	padding: 0 0 25px 0;padding: 38px 0 15px 0;
+
+	}
+
+	.hicq{
+
+	color: #000;
+
+	font: 14px/27px 'Open Sans', sans-serif;
+
+	height: 27px;
+
+	padding: 0 0 10px 40px;
+
+	background: url(https://2x2change.com/wp-content/uploads/ICQ-icon.png) no-repeat 0 0;
+
+	margin: 0 35px 0 0;
+
+	float: left; 
+
+	}
+
+	.hskype{
+
+	color: #000;
+
+	font: 14px/27px 'Open Sans', sans-serif;
+
+	height: 27px;
+
+	padding: 0 0 10px 40px;
+
+	background: url(https://2x2change.com/wp-content/uploads/Skype-icon.png) no-repeat 0 0;
+
+	margin: 0 35px 0 0;
+
+	float: left;
+
+	}
+
+	.hemail{
+
+	color: #000;
+
+	font: 14px/27px 'Open Sans', sans-serif;
+
+	height: 27px;
+
+	padding: 0 0 10px 40px;
+
+	background: url(https://2x2change.com/wp-content/uploads/mail-icon-128.png) no-repeat 0 0;
+
+	float: left;margin: 0 35px 0 0;
+
+	}
+	.hviber{
+
+	color: #000;
+
+	font: 14px/27px 'Open Sans', sans-serif;
+
+	height: 27px;
+
+	padding: 0 0 10px 40px;
+
+	background: url(https://2x2change.com/wp-content/uploads/Viber-Icon.png) no-repeat 0 0;
+
+	float: left;margin: 0 35px 0 0;
+
+	}
+	.hwhatsapp{
+
+	color: #000;
+
+	font: 14px/27px 'Open Sans', sans-serif;
+
+	height: 27px;
+
+	padding: 0 0 10px 40px;
+
+	background: url(https://2x2change.com/wp-content/uploads/Whatsapp-icon.png) no-repeat 0 0;
+
+	float: left;margin: 0 35px 0 0;
+
+	}
+		.hemail a{
+
+		color: #000;
+
+		text-decoration: underline;
+
+		}
+
+		.hemail a:hover{
+
+		text-decoration: none;
+
+		}
+
+	.hworktime{
+
+	float: left;
+
+	width: 220px;
+
+	padding: 0 20px 0 0;
+
+	font: 12px 'Open Sans';
+
+	color: #fff;
+
+	}
+
+	.htel{
+
+	float: right;
+
+	background: url(images/tel.png) no-repeat 0 3px;
+
+	padding: 0 0 0 25px;
+
+	font: 26px/26px 'Open Sans';
+
+	color: #fff;
+
+	} 
+
+
+
+#cwrap{
+
+padding: 40px 0 0 0;
+
+padding: 0px 0 0 0;
+}
+
+ 
+
+#menutopped{
+
+width: 100%;
+
+min-width: 1000px;
+
+position: relative;
+
+z-index: 100;
+
+height: 76px;
+
+}
+
+	#topmenu{
+
+	position: absolute;
+
+	width: 100%;
+
+	min-width: 1000px;
+
+	 height: inherit; 
+		height: 46px;		
+		background: #4a5866; 
+	}
+
+		.topmenu{
+
+		width: 960px; 
+		margin: 0 auto;
+
+		 height: inherit;
+		background: none; 
+		border-radius: 0; 
+		box-shadow: none; 
+
+		height: inherit;		
+		background: #4a5866; 
+ 
+
+		}
+
+.topmenu li{
+
+float: left;
+
+position: relative;
+
+ height: inherit; 
+
+padding: 0;
+
+margin: 0;
+
+}
+
+.topmenu li.first_menu_li a{
+
+border-radius: 4px 0 0 4px;
+
+}
+
+.topmenu li a{
+
+float: left;
+background: none;
+ 
+height: inherit;
+
+font: 100 18px/60px 'Open Sans';
+
+
+color: #545454;
+
+padding: 0 34px; 
+
+text-decoration: none;
+ 
+    height: inherit;
+    font: 600 14px/46px 'Open Sans';
+ 
+    color: #FFFFFF;
+    padding: 0 20px;
+ 
+
+}
+
+.topmenu li:hover > a, .topmenu li.current-menu-item > a{
+
+color: #fb602f !important;
+
+text-decoration: none;
+ 
+background:#3d4b59 !important;
+
+height: inherit !important;;
+
+border-bottom: none !important;; 
+
+}
+
+.topmenu ul ul{
+
+position:absolute;
+
+float:none;
+
+display:none;
+ 
+top: 46px;
+left: 0px;
+
+background: #4a5866 !important;
+
+padding: 10px 0px;
+
+height: auto;
+
+width: 235px;
+border-radius:0
+
+margin: 0;
+
+box-shadow: none;
+
+}
+
+
+
+
+
+
+
+
+.topmenu ul ul li{
+
+float:none;
+
+display:block;
+
+position:relative;
+
+height:auto;
+
+width: 235px;
+
+padding: 0 5px 0 0;
+
+margin: 0;
+
+}
+
+.topmenu ul ul li > a, .topmenu ul ul li.current-menu-item > a{
+
+float: none;
+
+display: block;
+
+height: auto;
+
+padding: 7px 30px 7px 30px;
+
+font: 100 14px 'Open Sans';
+
+background: none;
+
+color: #fff;
+
+text-decoration: none;
+
+border-bottom: none;
+
+}
+
+.topmenu ul ul li:hover > a{
+
+color: #fff;
+
+text-decoration: none;
+
+background: #444444;
+
+height: auto;
+
+border-bottom: none;
+
+}
+
+.topmenu ul ul ul{position:absolute; display:none; float:none; top: -10px; left: 235px;height:auto; border-left: 1px solid #27b6b5;} 
+ 
+
+.content{width:960px; padding: 0px 0 80px; margin:0 auto; min-height:450px;position:relative;z-index:20;}
+
+.contentzone{float:left; width:670px; }
+
+.sidebar{float:right; width:260px;} 
+ 
+
+.lobmen_widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 25px 30px 15px;
+
+}
+
+.lobmenwidget_title{
+
+margin: -25px -30px 0;
+
+padding: 20px 30px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.lobmline{
+
+float: left;
+
+width: 90px;
+
+}
+
+.lobmlinebac{
+
+color: #545454;
+
+padding: 5px 0 0 0;
+
+font: 100 12px 'Open Sans';
+
+}
+
+.lobmlinepr{
+
+float: left;
+
+width: 20px;
+
+height: 50px;
+
+background: url(images/wliarr.png) no-repeat 0 30px;
+
+}
+
+.lobmentable{
+
+background: #f5f5f5;
+
+padding: 10px 30px 15px;
+
+margin: 0 -30px 15px;
+
+}
+
+.lobmendate{
+
+color: #929292;
+
+font: 100 14px 'Open Sans';
+
+}
+ 
+
+.widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 25px 30px 15px;
+
+}
+
+.widgettitle, .widget_title{
+
+margin: -25px -30px 15px;
+
+padding: 20px 30px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.widget ul li{
+
+display:block;
+
+padding:0 0 5px 15px;
+
+background:url(images/wliarr.png) no-repeat 0 3px;
+
+}
+ 
+
+.widgettitlenews{
+
+margin: -25px -30px 0;
+
+padding: 20px 30px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+}
+
+.wmorenewsdiv{
+
+border-top: 1px solid #ebebeb;
+
+margin: 0 -30px -15px;
+
+padding: 15px 30px;
+
+text-align: right;
+
+}
+
+.wnewline{margin:0 0 15px 0;}
+
+.wnewsdate{
+
+float: left;
+
+width: 40px;
+
+padding: 5px 0;
+
+text-align: center;
+
+color: #fff;
+
+background: #cdcdcd;
+
+border-radius: 4px;
+
+}
+
+	.wmon{
+
+	font: 11px 'Open Sans';
+
+	padding: 0 0 2px 0;
+
+	}
+
+	.wdate{
+
+	font: 16px 'Open Sans';
+
+	}
+
+.wnewlineright{
+
+float: right;
+
+width: 145px;
+
+}
+
+	.wnewstext{
+
+	font: 12px/17px 'Open Sans';
+
+	padding: 0 0 5px 0;
+
+	}
+
+
+
+.statuswork_widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 20px 0 20px 30px;
+
+margin: 0 0 30px 0;
+
+}
+
+.statuswork_widgetvn{
+
+background: url(images/online.png) no-repeat 0 0;
+padding: 42px 0 0 42px;
+
+color: #929292;
+
+}
+
+.offline .statuswork_widgetvn{
+
+background: url(images/offline.png) no-repeat 0 0;
+
+}
+
+.statuswork_widget_text{
+
+font: 600 18px 'Open Sans';
+
+}
+
+.statuswork_widget_time{
+
+font: 12px 'Open Sans';
+
+padding: 0 0 0 2px;
+
+}
+
+
+
+.widgettitleotzivs{
+
+margin: -25px -30px 0;
+
+padding: 20px 30px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.wotzivline{
+
+margin: 0 -30px 0;
+
+padding: 15px 30px;
+
+}
+
+	.wotzivline.odd{
+
+	background: #f5f5f5;
+
+	}
+
+.wnewauthorto{
+
+float: left;
+
+font: 13px 'Open Sans';
+
+margin: 0 4px 0 0;
+
+color: #ff7f66;
+
+}
+
+	.wnewauthorto a{
+
+	color: #ff7f66;
+
+	text-decoration: none;
+
+	}
+
+	.wnewsdateto{
+
+	float: left;
+
+	padding: 2px 0 5px 0;
+
+	color: #545454;
+
+	font: 11px 'Open Sans';
+
+	}
+
+.wotzivtextto{
+
+position: relative;
+
+font: 12px 'Open Sans';
+
+}
+
+
+
+.rezerv_widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 0 0 40px;
+
+}
+
+.rezervwidget_title{
+
+margin: 0 0 0;
+
+padding: 20px 30px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.obmenlinew{display:block; padding: 0 0 0 10px; margin:0 0 0 0;overflow:hidden;text-decoration:none;}
+
+.obmenlinewico{height: 40px; width: 40px; overflow:hidden; float:left; margin:0 10px 0 0;}
+
+.obmenlinewtext{color:#545454; float:left; width: 90px; padding: 10px 0 0 0; font: 100 14px 'Open Sans';}
+
+table.rewtable{ width: 100%; }
+
+table.rewtable td{ color: #ff7f66; text-align: left; padding: 5px 0; }
+
+table td.rewrezerv{padding: 0 5px; }
+
+table.rewtable .odd td{ background: #f5f5f5; }
+
+
+
+.login_widget, .register_widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 0 30px 0;
+
+}
+
+.loginwidget_title, .registerwidget_title{
+
+margin: 0 -30px 0;
+
+padding: 20px 30px 25px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+}
+
+.wline{padding:0 0 20px 0;}
+
+.wlineleft{float:right; width:100px; padding: 0 0 15px 0; text-align: right; }
+
+.wlineright{float:left; width:100px; }
+
+.wlinesubmit{
+
+background: #f5f5f5;
+
+padding: 15px 20px;
+
+margin: 0 -30px 0;
+
+border-radius: 0 0 4px 4px;
+
+border-top: 1px solid #ebebeb;
+
+}
+
+.wlinesubmit input{
+
+margin: 0 auto;
+
+display: block;
+
+}
+
+
+.user_widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 0 30px 0;
+
+}
+
+.userwidget_title{
+
+margin: 0 -30px 0;
+
+padding: 20px 30px 20px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.user_widget ul li{display:block;padding:0 0 5px 0px;}
+
+.user_widget ul{margin:0 0 0 0px;padding: 0 0 5px 0;}
+
+.wexit{
+
+margin: 0 -30px 10px;
+
+padding: 10px 30px;
+
+background: #f5f5f5;
+
+border-top: 1px solid #ebebeb;
+
+text-align: center;
+
+}
+
+.uswidin{
+
+margin: 0 -30px 10px;
+
+padding: 10px 30px;
+
+background: #f5f5f5;
+
+}
+
+	.uswidinleft{
+
+	float: left;
+
+	width: 100px;
+
+	}
+
+	.uswidinright{
+
+	float: right;
+
+	width: 100px;
+
+	text-align: right;
+
+	color: #ff7f66;
+
+	}
+
+
+.bexbcurs_widget{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 0 0 0;
+
+}
+
+.bexbcurs_widgettitle{
+
+margin: 0 0 0;
+
+padding: 20px 30px;
+
+font: 600 17px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.bexbcurs_update{
+
+border-top: 1px solid #ebebeb;
+
+padding: 15px 30px;
+
+color: #929292;
+
+font: 100 14px 'Open Sans';
+
+}
+
+.bexbcurs_tableline{
+
+background: #f5f5f5;
+
+padding: 10px 10px 10px 30px;
+
+}
+
+	.bexbcurs_tableline.odd{
+
+	background: #fff;
+
+	}
+
+.bexbcurs_tabletab1{
+
+float: left;
+
+width: 75px;
+
+}
+
+.bexbcurs_para{
+
+color: #545454;
+
+font: 100 13px 'Open Sans';
+
+text-transform: uppercase;
+
+padding: 0 0 3px 0;
+
+}
+
+.bexbcurs_birga{
+
+color: #929292;
+
+font: 100 10px 'Open Sans';
+
+}
+
+.bexbcurs_arr{
+
+float: left;
+
+width: 25px;
+
+background: url(images/wliarr.png) no-repeat 0 5px;
+
+height: 30px;
+
+}
+
+.bexbcurs_tabletab3{
+
+float: left;
+
+width: 110px;
+
+}
+
+.bexbcurs_cursline{
+
+color: #545454;
+
+font: 100 12px 'Open Sans';
+
+}
+
+
+
+.thecontent{
+
+margin:0 0 30px 0;
+
+background:#fff;
+
+border-radius:4px;
+
+padding: 25px 30px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+}
+
+h1.titlepage{
+
+font: 600 24px/26px 'Open Sans';
+
+color: #929292;
+
+margin: 0 0px 25px 0px;
+
+}
+
+.text p{padding:0 0 20px 0;}
+
+.text h2{font: 600 18px 'Open Sans'; color:#929292; margin:0 0 10px 0;}
+
+.text h3{font: 600 15px 'Open Sans'; color:#929292; margin:0 0 10px 0;}
+
+.text h4{font: 100 14px 'Open Sans'; color:#ff7f66; margin:0 0 10px 0;}
+
+
+
+.text ul li{display:block;background:url(images/wliarr.png) no-repeat 0 3px;padding:0 0 5px 15px;}
+
+.text ul{margin:0 0 20px 20px;}
+
+.text ol{list-style-type:decimal;margin:0 0 20px 40px;color:#ff7f66;}
+
+.fcwidget ul{margin:0 0 10px 20px; padding:10px 0 0 0;}
+
+.fcwidget ul li{display:block; background:url(images/wliarr.png) no-repeat 0 3px;padding:0 0 5px 15px;}
+
+.fcwidget ol{list-style-type:decimal; margin:0 0 10px 40px;padding:10px 0 0 0;color:#ff7f66;}
+
+
+
+.text table{border:none; margin:0 0 20px;}
+
+.text table th{font: 600 18px 'Open Sans';color:#929292;padding: 10px 15px;background:#f5f5f5;text-align:left; border-top: 1px solid #ebebeb;}
+
+.text table td{font: 100 14px 'Open Sans'; padding:10px 15px;text-align:left; border-bottom:1px solid #ebebeb;}
+
+
+
+.manynews{
+
+border-top: 1px solid #ebebeb;
+
+margin: 0 -30px;
+
+padding: 0 30px;
+
+}
+
+.posts{
+
+padding: 15px 30px;
+
+margin: 0 -30px;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+h2.poststitle{font: 100 18px 'Open Sans'; margin:0 0 20px 0;}
+
+.poststitle a{text-decoration:none; }
+
+.poststitle a:hover{text-decoration:underline;}
+
+.postsexcerpt{
+
+margin: 0 0 15px 0;
+
+}
+
+
+
+.metabox{
+
+font: 12px 'Open Sans';
+
+color: #0ca4a3;
+
+}
+
+.onepostdate{float: left;}
+
+
+
+.metaboxleft{float:left; padding: 0 0 0 15px; margin: 0 0 0 15px; background: url(images/bo.png) no-repeat 0 1px;}
+
+
+
+.metaboxright{float:right;text-align:right;}
+
+.metaboxright a{text-decoration:underline;}
+
+.metaboxright a:hover{text-decoration:none;}
+
+
+.pagenavi{padding: 30px 0 0 0;margin:0 0 20px 0;color:#393f4f;text-align:center; font: 100 12px 'Open Sans';}
+
+.pagenavi span, .pagenavi a{margin:0 1px;position:relative; padding: 6px 10px; border-radius:4px;}
+
+.pagenavi span{
+
+background: #00cccb;
+
+color: #fff;
+
+}
+
+.pagenavi a{
+
+text-decoration:none;
+
+color: #fff;
+
+background: #cdcdcd;
+
+text-decoration: none;
+
+}
+
+.pagenavi a:hover{
+
+color: #fff;
+
+text-decoration: none;
+
+}
+
+
+
+.hometexttop{
+
+background:#fff;
+
+border-radius:4px;
+
+padding: 25px 30px 5px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+color:#484747;
+
+margin: 0 0 30px 0;
+
+}
+
+.fcwidget{
+
+background:#fff;
+box-shadow:0;
+
+border-radius: 4px;
+
+padding: 25px 30px 10px;
+
+
+}
+
+.fcwidgetvn{padding:0 0 20px 0;color:#484747;}
+
+.fcwtitle{margin:0 0 25px 0;}
+
+.fcwtitlevn{
+
+font: 600 24px/26px 'Open Sans';
+
+color: #929292;
+
+}
+
+.fcwidget p{padding: 0 0 10px 0;}
+
+
+
+.otzivdiv{ 
+
+margin: 0 0 30px 0;
+
+}
+
+.otzcaptcha .captchablock{
+
+margin: 0 0 5px 0;
+
+}
+
+table.otzivform{
+
+width: 100%;
+
+border: none;
+
+background: none;
+
+}
+
+table.otzivform td.otzleft{
+
+width: 100px;
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.otzivform td.otzright{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+
+
+.manyotzivs{border-bottom:1px solid #e0e8ed;margin:0 0 30px 0;}
+
+.oneotziv{padding:15px 0 15px 0;border-top:1px solid #e0e8ed;}
+
+.nootziv{padding:15px 0 15px 0;border-top:1px solid #e0e8ed;}
+
+.oneotzivleft{float:left;width: 150px;overflow:hidden;}
+
+.oneotzivright{float:right;width: 460px;}
+
+.oneotzivright p{padding:3px 0;}
+
+.oneotdate{color:#484747;padding:0 0 3px 0;}
+
+.oneotname{color:#589500;}
+
+
+
+.cfdiv, .lfdiv, .lpdiv, .rfdiv{
+
+margin: 0 0 20px 0;
+
+}
+
+.cfcaptcha .captchablock{
+
+margin: 0 0 5px 0;
+
+}
+
+table.cftable{
+
+width: 100%;
+
+border: none;
+
+background: none;
+
+}
+
+table.cftable td{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.cftable td.cfleft{
+
+width: 100px;
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.cftable td.cfright{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+.cftable{font-weight:bold;padding:10px 0 0 0;}
+
+
+
+.lfcaptcha .captchablock{
+
+margin: 0 0 5px 0;
+
+}
+
+table.lftable{
+
+width: 100%;
+
+border: none;
+
+background: none;
+
+}
+
+table.lftable td.lfleft{
+
+width: 100px;
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.lftable td.lfright{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+.lftable{padding:10px 0 0 0;}
+
+.lfdiv{ width: 400px; }
+
+input.lfinput{
+
+width: 290px;
+
+}
+
+.lflink{
+
+float: left;
+
+width: 150px;
+
+text-align: left;
+
+}
+
+    .lflink p{
+
+	padding: 0;
+
+	margin: 0;
+
+	}
+
+.lfsubm{
+
+float: right;
+
+width: 120px;
+
+text-align: right;
+
+}
+
+
+
+.rfcaptcha .captchablock{
+
+margin: 0 0 5px 0;
+
+}
+
+table.rftable{
+
+width: 100%;
+
+border: none;
+
+background: none;
+
+}
+
+table.rftable td.rfleft{
+
+width: 100px;
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.rftable td.rfright{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+.rftable{padding:10px 0 0 0;}
+
+.rfdiv{ width: 450px; }
+
+input.rfinput{
+
+width: 330px;
+
+}
+
+.rflink{
+
+float: left;
+
+width: 150px;
+
+text-align: left;
+
+}
+
+    .rflink p{
+
+	padding: 0;
+
+	margin: 0;
+
+	}
+
+.rfsubm{
+
+float: right;
+
+text-align: right;
+
+}
+
+
+
+.lpscaptcha .captchablock{
+
+margin: 0 0 5px 0;
+
+}
+
+.lptext{
+
+padding: 0 0 15px 0;
+
+}
+
+table.lpstable{
+
+width: 100%;
+
+border: none;
+
+background: none;
+
+}
+
+table.lpstable td.lpsleft{
+
+width: 100px;
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.lpstable td.lpsright{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+.lplable{font-weight:bold;padding:10px 0 0 0;}
+
+.lpdiv{ width: 500px; }
+
+input.lpsinput{
+
+width: 260px;
+
+}
+
+
+
+#promotopmenu{
+
+margin: 0 0 20px 0;
+
+}
+
+    #promotopmenu ul{
+
+	margin: 0;
+
+	list-style: none;
+
+	padding: 0;
+
+	}
+
+    #promotopmenu li{
+
+	display: inline;
+
+	padding: 0;
+
+	margin: 0 5px 0 0;
+
+	background: none;
+
+	}
+
+	#promotopmenu a{
+
+	margin: 0;
+
+	padding: 0;
+
+	font: 600 12px 'Open Sans';
+
+	}
+
+	    #promotopmenu a:hover{
+
+        color: #ff0000;
+
+	    }
+
+	    #promotopmenu li.current a{
+
+	    text-decoration: none;
+
+		color: #000;
+
+	    }
+
+.promotextwarning{
+
+margin: 0 0 20px 0;
+
+}
+
+    .onepromotxt{
+
+	margin: 0 0 10px 0;
+
+	font: italic 600 12px 'Open Sans';
+
+	}
+
+	.onepromotxttext{
+
+	margin: 0 0 30px 0;
+
+	}
+
+	.ptextarea{
+
+	margin: 0;
+
+	padding: 3px 5px;
+
+	background: #fff;
+
+	color: #6d6d6d;
+
+	font: 13px 'Open Sans';
+
+	border: 1px solid #bbbbbb;
+
+	border-radius: 2px;
+
+	width: 100%;
+
+	min-width: 100%;
+
+	max-width: 100%;	
+
+    height: 50px;
+
+	box-sizing: border-box;
+
+    -moz-box-sizing: border-box; /*Firefox 1-3*/
+
+    -webkit-box-sizing: border-box; /* Safari */
+
+	}
+
+	    .onepromotxttext .ptextarea{ height: 100px; }
+
+	textarea.ptextareaus{
+
+	margin: 0 0 20px 0;
+
+	padding: 3px 5px;
+
+	background: #fff;
+
+	color: #6d6d6d;
+
+	font: 13px 'Open Sans';
+
+	border: 1px solid #bbbbbb;
+
+	border-radius: 2px;
+
+	width: 100%;
+
+	min-width: 100%;
+
+	max-width: 100%;
+
+    height: 50px;
+
+	min-height: 50px;
+
+    box-sizing: border-box;
+
+    -moz-box-sizing: border-box; /*Firefox 1-3*/
+
+    -webkit-box-sizing: border-box; /* Safari */
+
+	}		
+
+#promomenu{
+
+margin: 0 0 20px 0;
+
+}
+
+    #promomenu ul{
+
+	list-style: none;
+
+	margin: 0;
+
+	padding: 0;
+
+	}
+
+    #promomenu ul li{
+
+	display: inline;
+
+	margin: 0 5px;
+
+	padding: 0;
+
+	background: none;
+
+	}
+
+	#promomenu ul li a{
+
+	position: relative;
+
+	margin: 0;
+
+    border-bottom: 1px dotted #09344b;
+
+    color: #09344b;
+
+	text-decoration: none;
+
+	}
+
+	#promomenu ul li a:hover{
+
+	position: relative;
+
+	margin: 0;
+
+    border-bottom: 1px dotted #ff0000;
+
+    color: #ff0000;
+
+	text-decoration: none;
+
+	}
+
+	#promomenu ul li.act a{
+
+	position: relative;
+
+	margin: 0;
+
+    border-bottom: none;
+
+    color: #000;
+
+	text-decoration: none;
+
+	}
+
+	.pbcontainer{
+
+	display: none;
+
+	}
+
+	    .pbcontainer.act{
+
+		display: block;
+
+		}
+
+		.prevbanner{
+
+		margin: 0 0 5px 0;
+
+		}
+
+		.bannerboxone{
+
+		margin: 0 0 20px 0;
+
+		}	
+
+        .bannerboxlink{
+
+        margin: 0 0 5px 0;
+
+        }
+
+		.bannerboxlink a{
+
+	    position: relative;
+
+	    margin: 0;
+
+        border-bottom: 1px dotted #09344b;
+
+        color: #09344b;
+
+	    text-decoration: none;		
+
+		}
+
+	    .bannerboxlink a.act{
+
+	    position: relative;
+
+	    margin: 0;
+
+        border-bottom: 1px dotted #000;
+
+        color: #000;
+
+	    font-weight: bold;
+
+	    text-decoration: none;
+
+	    }			
+
+	    .bannerboxlink a:hover, .bannerboxlink a.act:hover{
+
+	    position: relative;
+
+	    margin: 0;
+
+        border-bottom: 1px dotted #ff0000;
+
+        color: #ff0000;
+
+	    text-decoration: none;
+
+	    }
+
+	.bannerboxone textarea{
+
+	display: none;
+
+    height: 100px;
+
+	min-height: 100px;
+
+	}		
+
+
+
+.accounttitle{
+
+font: 600 20px 'Open Sans';
+
+margin:0 0 10px 0;
+
+}
+
+table.aftable{
+
+width: 100%;
+
+border: none;
+
+background: none;
+
+}
+
+table.aftable td.afleft{
+
+width: 100px;
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+table.aftable td.afright{
+
+padding: 5px;
+
+border: none;
+
+background: none;
+
+}
+
+.accounttopblock{
+
+margin: 0 0 20px 0;
+
+}
+
+.accountwarn{padding:5px 0 0 0;font: 12px 'Open Sans'; color:#e74b4b; display:none;}
+
+.err .accountwarn{display:block;}
+
+
+
+.usstatdivvn{
+
+width: 275px;
+
+margin: 0 0 30px 0;
+
+padding: 15px;
+
+border-radius: 4px;
+
+background: #00cccb;
+
+}
+
+table.usstattable{
+
+border: none;
+
+width: 100%;
+
+}
+
+table.usstattable th{padding:5px 10px;text-align:left;background:none;color:#fff;}
+
+table.usstattable td{padding:5px 10px;text-align:right;background:none; color: #fff;}
+
+
+
+table.usobmentable {border:none; width: 100%;}
+
+table.usobmentable  th{font: 600 16px 'Open Sans';color:#929292;padding: 10px 5px;background:#f5f5f5;text-align:left; border-top: 1px solid #ebebeb;}
+
+table.usobmentable td{font: 12px 'Open Sans'; padding:10px 5px;text-align:left; border-bottom:1px solid #ebebeb;}
+
+ 
+
+table.usobmentable td.noitems{
+
+text-align: center;
+
+font: 600 12px 'Open Sans';
+
+}
+
+a.uostat{
+
+text-decoration: none;
+
+color: #545454;
+
+}
+
+a.uostat:hover{
+
+text-decoration: underline;
+
+}
+
+a.uostat.bt_success{
+
+text-decoration: none;
+
+color: #ff7f66;
+
+}
+
+
+
+.sitemaptitle{
+
+font: 100 18px 'Open Sans';
+
+color: #fff;
+
+float: left;
+
+padding: 5px 15px;
+
+border-radius: 4px;
+
+background: #00cccb;
+
+margin:0 0 15px 0;
+
+}
+
+ul.smap{
+
+margin:0 0 20px 20px;
+
+}
+
+ul.smap li{ display:block;background:url(images/wliarr.png) no-repeat 0 3px;padding:0 0 5px 15px; }
+
+.sitemapleft{float:left;width:300px;overflow:hidden;}
+
+.sitemapright{float:right;width:300px;overflow:hidden;}
+
+
+
+.javahref{cursor:pointer;}
+
+.tariftitle{
+
+font: 100 18px 'Open Sans';
+
+color: #fff;
+
+float: left;
+
+padding: 5px 15px;
+
+border-radius: 4px;
+
+background: #00cccb;
+
+margin:0 0 15px 0;
+
+}
+
+.tarifbl{ margin: 0 0 20px 0; }
+
+
+
+table.tariftable {border:none; width: 100%; }
+
+table.tariftable  th{font: 600 16px 'Open Sans';color:#929292;padding: 10px 5px;background:#f5f5f5;text-align:left; border-top: 1px solid #ebebeb;}
+
+
+
+table.tariftable td{font: 100 13px 'Open Sans'; padding:10px 5px;text-align:left; border-bottom:1px solid #ebebeb;}
+
+
+
+table.tariftable td.tacursotd{
+
+padding: 0 0 0 10px;
+
+width: 90px;
+
+}
+
+table.tariftable td.tavnstr{
+
+width: 20px;
+
+}
+
+table.tariftable td.tarezervs{
+
+padding: 0 0 0 10px;
+
+}
+
+.tavnstr div{
+
+width: 20px;
+
+height: 40px;
+
+background: url(images/wliarr.png) no-repeat center center;
+
+}
+
+.obmenline{display:block;height:40px;width:160px;overflow:hidden;text-decoration:none;}
+
+.obmenlineico{display: none; height:40px;width:40px;overflow:hidden;float:left;margin:0 10px 0 0;}
+
+.obmenlinetext{color:#393f4f;float:left;width:120px; font: 100 13px/40px 'Open Sans';}
+
+
+table.stattable{
+
+padding: 20px;
+
+border-radius: 4px;
+
+background: #00cccb;
+
+margin:0 0 30px 0;
+
+}
+
+table.stattable th{padding:5px 10px;text-align:left;background:none;color:#fff;}
+
+table.stattable td{padding:5px 10px;text-align:right;background:none; color: #fff;}
+
+
+
+table.statusertable{border:none;margin:0 0 20px 0; width: 330px;
+
+padding: 20px;
+
+border-radius: 4px;
+
+background: #00cccb;
+
+}
+
+table.statusertable th{
+
+font: 100 20px 'Open Sans';
+
+color: #fff;
+
+padding:5px 15px;text-align:left;
+
+}
+
+table.statusertable td{font:12px 'Open Sans';padding:10px 15px;text-align:left; color: #fff; border-bottom:1px solid #fff;}
+
+table.statusertable td.stusright{ text-align: right; font-weight: bold; color: #fff;}
+
+.promouserdiv h3{
+
+font: 18px 'Open Sans';
+
+color: #00cccb;
+
+margin:0 0 10px 0;
+
+}
+
+.promouserdiv h4{
+
+font: 16px 'Open Sans';
+
+color: #00cccb;
+
+margin:0 0 10px 0;
+
+}
+
+.promouserdiv p{
+
+padding:0 0 20px 0;
+
+}
+
+
+
+.payments_minitext{
+
+border-radius: 4px;
+
+margin: 0 0 20px 0;
+
+padding: 15px 20px;
+
+font: 13px 'Open Sans';
+
+background: #f5f5f5;
+
+border: 1px solid #ebebeb;
+
+}
+
+    .paymin{
+
+	color: #ff0000;
+
+	font-weight: bold;
+
+	}
+
+	.exbpayform{
+
+	margin: 0 0 15px 0;
+
+	}
+
+	table.exbpaytable{
+
+	border: 1px solid #ebebeb;
+
+	border-radius: 3px;
+
+	padding: 10px;
+
+	border-collapse: separate;
+
+	width: 100%;
+
+	}
+
+	    table.exbpaytable  td{
+
+		vertical-align: top;
+
+		padding: 5px 5px;
+
+		}
+
+		.ptlabel{
+
+		padding: 10px 0 0 0;
+
+		}
+
+		.ptschet{
+
+		padding: 10px 0 0 0;
+
+		}
+
+		    .ptschet input{
+
+			width: 210px;
+
+			}
+
+			td.ptwebmoney{
+
+			width: 240px;
+
+			}
+
+.paytable_title{
+
+font: 20px 'Open Sans';
+
+color: #00cccb;
+
+margin: 0 0 15px 0;
+
+}			
+
+
+
+table.paytablearchive {border:none; width: 100%;}
+
+table.paytablearchive  th{font: 600 16px 'Open Sans';color:#929292;padding: 10px 5px;background:#f5f5f5;text-align:left; border-top: 1px solid #ebebeb;}
+
+table.paytablearchive td{font: 100 12px 'Open Sans'; padding:10px 5px;text-align:left; border-bottom:1px solid #ebebeb;}
+
+table.paytablearchive td.noitems{
+
+text-align: center;
+
+font: bold 12px 'Open Sans';
+
+}
+
+.ptvaluts{ font-weight: bold; }
+
+
+
+#exbprezshadow{
+
+position: fixed;
+
+float: none;
+
+top: 0;
+
+left: 0;
+
+z-index: 99998;
+
+width: 100%;
+
+height: 100%;
+
+display: none;
+
+background: #000;
+
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);
+
+-moz-opacity: 0.7; 
+
+-khtml-opacity: 0.7;
+
+opacity: 0.7;
+
+}
+
+.exbprezbox{
+
+position: fixed;
+
+float: none;
+
+top: 0;
+
+left: 0;
+
+z-index: 99999;
+
+width: 100%;
+
+height: 100%;
+
+display: none;
+
+}
+
+    .exbprezboxvn{
+
+	position: relative;
+
+    width: 350px;
+
+	margin: 0 auto;
+
+    padding: 15px;
+
+    border: 1px solid #ddd;
+
+    box-shadow: 0 0 10px #000;
+
+    background: #fff;
+
+	}	
+
+    .exbprezboxclose{
+
+	position: absolute;
+
+	float: none;
+
+	width: 16px;
+
+	height: 16px;
+
+	cursor: pointer;
+
+	background: url(images/close.png) no-repeat;
+
+	top: 20px;
+
+	right: 17px;
+
+	}
+
+	.exbprezboxtitle{
+
+	font: 100 23px/25px 'Open Sans';
+
+	color: #ff7f66;
+
+	padding: 0 30px 0 0;
+
+	margin: 0 0 10px 0;
+
+	}
+
+	.exbprezboxvn p{
+
+	padding: 5px 0;
+
+	}
+
+
+.homeobmentable{
+  margin-bottom:30px;
+
+background:#fff;
+
+border-radius:4px;
+
+padding: 0px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+background: #37597c;
+background:#4a5866;
+}
+
+.lefthomecol{
+
+float: left;
+
+width: 230px;
+
+margin: 0 0 0px 0;    background: #2f4d6b;
+    border-radius: 4px 0 0 4px;     padding: 0 0 10px 0;
+ background:  #3d4b59;
+}
+
+.righthomecol{
+
+float: left;
+
+width: 440px;
+
+margin: 0 0 0px -1px;
+
+}
+
+.widgethometitle{
+
+border-radius: 4px 0 0 0;
+
+background: #f5f5f5;
+
+border-bottom: 1px solid #2f4d6b;
+    background: #2f4d6b;
+background: #3d4b59;
+ border:none !Important;
+}
+
+.widgethometitle2{
+
+border-radius: 0 4px 0 0;
+
+background: #f5f5f5;
+
+border-bottom: 1px solid #ebebeb;
+border:none!important;    background: #37597c; border:none !Important; background: #4a5866; 
+
+}
+
+.widt{
+
+color: #929292;
+
+font: 400 20px 'Open Sans';
+
+padding: 20px;
+color: #ffffff;
+ 
+    padding: 10px 20px;
+
+}
+
+.widt1{
+
+float:left;
+
+width: 200px;
+
+color: #929292;
+
+font: 400 20px 'Open Sans';
+
+padding: 20px;
+
+ 
+    color: #ffffff;
+ 
+    padding: 10px 20px;
+
+}
+
+.widt2{
+
+float:left;
+
+color: #929292;
+
+font: 400 20px 'Open Sans';
+
+padding: 20px;
+
+    color: #ffffff;
+ 
+    padding: 10px 20px;
+
+}
+
+.onehline{
+
+position: relative;
+
+padding: 5px 0 0 10px;
+
+display: block;
+
+height: 35px;
+
+cursor: pointer;
+
+text-decoration: none;
+
+background:#fff;
+
+border-bottom: 1px solid #ebebeb;
+
+border-right:1px solid #ebebeb;
+
+    background: #2f4d6b;
+border:none !important;
+background: #3d4b59;
+width:219px;
+
+}
+
+	.onehline.last{
+
+	border-radius: 0 0 0 4px;
+
+	}
+
+.onehlineico{
+
+position: relative;
+
+height: 30px;
+
+width: 30px;
+
+overflow: hidden;
+
+float:left;
+
+margin: 0 10px 0 0;
+
+}
+
+.onehlinetext{position: relative; float:left; width: 140px; font: 100 14px/40px 'Open Sans'; color: #545454;     position: relative;
+    float: left;
+    width: 150px;
+    font: 13px/30px 'Open Sans';
+    color: #7aa9db;}
+
+.onehline:hover{background:#f5f5f5;     background: #2f4d6b; background: #3d4b59;}
+
+.onehline.act{
+
+background:#f5f5f5;    background: #2f4d6b; background: #3d4b59;
+
+}
+
+.onehline:hover .onehlinetext, .onehline.act .onehlinetext{
+
+color: #ff7f66;
+
+}
+
+a.onehrine{
+
+padding: 5px 0 0 10px;
+
+display:block;
+
+height:35px;
+
+cursor:pointer;
+
+text-decoration:none;
+
+background:#fff;
+
+border-bottom: 1px solid #ebebeb;
+
+border-left:1px solid #ebebeb;
+
+overflow: hidden;
+border:none !important;
+background:#37597c;
+background:#4a5866;
+}
+
+	a.onehrine.last{
+
+	border-radius: 0 0 4px 0;
+
+	}
+
+a.onehrine:hover, a.onehrine.active{background:none;}
+
+.onehrineico{height:30px;width:30px;overflow:hidden;float:left;margin:0 10px 0 0;}
+
+.onehrinetext{float:left; width: 180px; font: 100 14px/40px 'Open Sans';color:#545454;  width: 185px; font: 13px/30px 'Open Sans'; color: #7aa9db}
+
+.onehrinerezerv{position: relative; padding: 5px 0 5px 20px; margin: -5px 0; border-left:1px solid #ebebeb; float:left;width:160px;font: 14px/40px 'Open Sans';color:#545454; border:none;
+    position: relative;
+ 
+    float: left;
+    width: 160px;
+    font: 13px/30px 'Open Sans';
+    color: #7aa9db;
+}
+
+a.onehrine.active .onehrinetext, a.onehrine:hover .onehrinetext{
+
+color: #ff7f66;
+
+}
+
+a.onehrine.active .onehrinerezerv, a.onehrine:hover .onehrinerezerv{
+
+color: #ff7f66;
+
+}
+
+.zaprosvalutrelvn{
+
+display: none;
+
+position: absolute;
+
+float: none;
+
+top: 16px;
+
+right: 0px;
+
+font: 600 12px 'Open Sans';
+
+color: #0ca4a3;
+
+border-bottom: 1px dotted #0ca4a3;
+
+}
+
+	.zaprosvalutrelvn:hover{
+
+	border-bottom: none;
+
+	}	
+
+.onehrine:hover .zaprosvalutrelvn{ display: block; }
+
+.tabhome{display:none;}
+
+.tabhome.act{display:block;}
+
+ 
+
+.widgetobmen{
+
+margin: 0 0 30px 0;
+
+background: #fff;
+
+border-radius: 4px;
+
+box-shadow: 0 2px 4px #c4c2c2;
+
+padding: 25px 30px 15px;
+
+}
+
+.wosubmit input{
+
+display: block;
+
+margin: 0 auto;
+
+}
+
+.widgetobmentitle{
+
+margin: -25px -30px 10px;
+
+padding: 20px 30px;
+
+font: 600 18px/20px 'Open Sans';
+
+color: #929292;
+
+border-bottom: 1px solid #ebebeb;
+
+}
+
+.wopredblock{
+
+background: #f5f5f5; margin: -10px -30px 10px; padding: 10px 30px;
+
+}
+
+.wopredtext{font: 100 11px 'Open Sans';}
+
+.wopred{ font:14px 'Open Sans';  padding: 0 0 10px 30px; background: url(images/vopr.png) no-repeat 0 0;}
+
+.wotitle{color:#929292; font: 600 18px 'Open Sans'; margin:0 0 10px;}
+
+
+
+.parenttool{
+
+position: relative;	
+
+}
+
+.wolineinput{ padding:0 0 10px 0;}
+
+.wowarnerr{color:#ff7f66; font: 10px 'Open Sans'; display: none; padding: 0 0 0 2px;}
+
+.err .wowarnerr{display: block; }
+
+
+
+.wosummtitle{font:12px 'Open Sans'; margin:0 0 4px 0;}
+
+.wvalname{
+
+font-weight: bold;
+
+}
+
+.wosumline{padding:0 0 10px 0;}
+
+.wosumline.err { padding: 0 0 15px 0; }
+
+.wosumminput{float:left;width:90px;padding:2px 0 2px 0;}
+
+.wosumminput input{ width: 80px; }
+
+.wosummnazv{float:left;width:100px;padding:13px 0 0 0;font: 600 13px 'Open Sans';overflow:hidden;}
+
+.wosummopis{float:left;width:100px; font: 100 10px/11px 'Open Sans'; padding:2px 0 0 0;overflow:hidden; color: #929292;}
+
+.woschettitle{font:13px 'Open Sans';margin:0 0 2px 0;} 
+
+ 
+.xchangestep1title, .xchangestep2title, .xchangestep3title{
+
+font: 600 24px/26px 'Open Sans';
+
+color: #929292;
+
+margin: -25px -30px 15px;
+
+padding: 20px 30px;
+
+background: #f5f5f5;
+
+border-radius: 4px 4px 0 0;
+
+border-bottom: 1px solid #e7e8eb;
+
+display:none;
+
+}
+
+.obmentitlevn{color: #fc531e;}
+
+
+.biginfo{
+
+background: #f5f5f5 url(images/vopr.png) no-repeat 40px 18px; padding: 15px 50px 15px 70px; 
+
+margin: -25px -30px 20px;
+
+border-bottom: 1px solid #e7e8eb;     border-radius: 4px   4px 0 0;
+
+}
+
+.binfotitle{font: 100 18px 'Open Sans'; margin:0 0 5px 0;}
+
+.biginfo p{padding:5px 0;}
+
+
+
+.xchangestep1submit input{
+
+display: block;
+
+margin: 0 auto;
+
+}
+
+.obmentablediv{
+
+border-bottom: 1px solid #e7e8eb;
+
+border-top: 1px solid #e7e8eb;
+
+margin: 0 -30px 20px;
+
+padding: 20px 30px;
+
+background: #f5f5f5;
+
+}
+
+table.obmentable td{padding:0 0 0 10px; font: 100 13px 'Open Sans'; vertical-align:top;}
+
+table.obmentable td.tdobmtitle{width: 100px; padding: 17px 0 0 0;}
+
+table.obmentable td.tdfirst{ width: 5px; }
+
+.wolineinputtab input{ width: 310px; }
+
+.wolineinputtab{
+
+padding: 5px 0 5px 0;
+
+}
+
+
+
+.blockchange{
+
+margin: 0 0 20px 0;
+
+}
+
+.obmentitle{
+
+color:#929292; 
+
+font: 600 18px 'Open Sans';
+
+margin:0 0 15px 0;
+
+}
+
+
+
+
+
+.obmenfirstblock{
+
+margin: 0 0 15px 0;
+
+}
+
+.obmenfirstleft{float:left;width:330px;}
+
+.obmenfirstright{float:right;width:270px;}
+
+.wcomtext{
+
+font: 100 12px 'Open Sans';
+
+}
+
+.plsyst{
+
+font-weight: 600;
+
+}
+
+table.obmminit{
+
+width:270px;
+
+vertical-align: top;
+
+}
+
+td.obmminitleft{
+
+padding: 13px 10px 0 15px;
+
+vertical-align: top;
+
+}
+
+td.obmminitright{
+
+width: 180px;
+
+vertical-align: top;
+
+}
+
+.obmminitright input{
+
+width: 180px;
+
+}
+
+
+
+.stepshetline{
+
+margin: 0 0 10px 0;
+
+}
+
+.stepshettitle{
+
+font: 13px 'Open Sans';
+
+padding: 0 0 2px 2px;
+
+}
+
+.stepshetleft{
+
+float: left;
+
+width: 330px;
+
+}
+
+    .stepshetleft input{
+
+	width: 100%;
+
+	}
+
+    .stepshetleft select{
+
+	width: 100%;
+
+	}	
+
+.stepshetright{
+
+float:right;
+
+width:270px;
+
+padding: 12px 0 0 0;
+
+}	
+
+	
+
+.rselected{cursor:pointer;position:relative;}
+
+.rselecttitle{
+
+width:330px;
+
+height:40px;
+
+border:1px solid #d2d2d2;
+
+border-radius:4px;
+
+background:#ffffff;
+
+}
+
+.act .rselecttitle, .rselected:hover .rselecttitle{
+
+background:#f5f5f5;
+
+}
+
+.rselecttitlevn{background:url(images/rselect.png) no-repeat right center; height:40px;}
+
+.rselectico{float:left;width:40px;height:40px;margin:0 10px 0 10px;}
+
+.rselectname{float:left;width:240px;height:40px;font: 100 16px/40px 'Open Sans'; color:#545454;}
+
+.rselectlinemenu{display:none;position:absolute; z-index: 5; float:none;top:40px;left:0;width:330px;border:1px solid #d2d2d2;border-radius:4px;background:#fff; overflow-y: auto; max-height: 180px;}
+
+.act .rselectlinemenu{display:block;}
+
+.rselectline{background:#fff;height:40px;}
+
+.rselectline.cur .rselectname, .rselectline:hover .rselectname{ color: #ff7f66;}
+ 
+
+.stepwarning{
+
+font: 600 12px 'Open Sans';
+
+text-align: center;
+
+color: #ff7f66;
+
+margin: 0 0 25px 0;
+
+}
+
+.stepcheckbox{
+
+padding: 0 0 30px 170px;
+
+}
+
+.stepline{margin:0 0 5px 0; font: 100 13px 'Open Sans';}
+
+.step2name{font-weight:bold;}
+
+.step2submit{
+
+text-align: center;
+
+}
+
+.stepblock{
+
+border-bottom: 1px solid #ebebeb;
+
+margin: -20px -30px 20px;
+
+padding: 15px 30px;
+
+}
+
+.steptitle{
+
+margin: 0 0 10px;
+
+color: #929292; 
+
+font: 600 18px 'Open Sans';
+
+}
+
+    .steptitlemin{
+
+	margin: 0 0 0 5px;
+
+	font: 100 12px 'Open Sans';
+
+	color: #929292;
+
+	}
+
+	.stepblleft{
+
+	padding: 5px 0 0 0;
+
+	float: left;
+
+	width: 330px;
+
+	font: 14px 'Open Sans';
+
+	}
+
+	    .stepblleft p{
+
+		padding: 0 0 5px 0;
+
+		}
+
+	.stepblright{
+
+	float: right;
+
+	width: 200px;
+
+	padding: 5px 0 0 0;
+
+	}
+
+		.stepicotext{
+
+		float: right;
+
+		height: 40px;
+
+		font: 14px/40px 'Open Sans';
+
+		}
+
+	.stepico{float:right;width:40px;height:40px;margin: 0px 10px 0 0; }	
+ 
+
+.merchantinst{
+
+margin: 0 0 10px 0;
+
+font: 14px 'Open Sans';
+
+}
+
+    .merchantinst p{
+
+	padding: 0 0 10px 0;
+
+	}
+
+	.merchantinst h3{
+
+	color: #929292; 
+
+	font: 600 18px 'Open Sans';
+
+	margin:0 0 10px 0;}
+
+.plategblock{
+
+margin: 0 0 20px 0;
+
+font: 14px 'Open Sans';
+
+}
+
+.plblockvid{
+
+color: #3f3f3f;
+
+}
+
+.zawarntext{
+
+margin: 0 0 20px 0;
+
+}
+
+.statusza{
+
+background: #f5f5f5;
+
+padding: 15px 30px;
+
+margin: 0 -30px;
+
+font: 100 14px 'Open Sans';
+
+}
+
+.statuszadel, .statuszaworked, .statuszasuc{
+
+background: #f5f5f5;
+
+padding: 15px 30px;
+
+margin: 0 -30px;
+
+font: 100 14px 'Open Sans';
+
+}
+
+.statuszadel.topped, .statuszaworked.topped, .statuszasuc.topped{
+
+margin: 0 -30px 20px;
+
+}
+
+.statuszadeleted{
+
+color: #ff0000;
+
+}
+
+.statuszabolds, .statuszawobolds, .statuszasucbolds{
+
+font-weight: bold;
+
+}
+
+.zadate{
+
+margin:0 0 5px 0; font: 100 14px 'Open Sans';
+
+}
+
+.newstatbo{
+
+color: #000;
+
+}
+
+.oplblockstep{
+
+padding: 20px 0 10px 0;
+
+}
+
+.oplblockstepleft{
+
+float: left; width: 45%;
+
+}
+
+.oplblockstepright{
+
+float: right; width: 45%; text-align: right;
+
+}
+
+.zayastatus{
+
+background: #f5f5f5;
+
+padding: 15px 30px;
+
+margin: 0 -30px;
+
+font: 100 14px 'Open Sans';
+
+}
+ 
+
+.exchboxtool{
+
+position: absolute;
+
+z-index: 2;
+
+float: none;
+
+top: 50px;
+
+left: 0;
+
+width: 100%;
+
+display: none; 
+
+border-radius: 4px;
+
+color: #fff;
+
+font: 300 11px 'Open Sans';
+
+background: #00cccb;
+
+}
+
+.exchboxtoolvnug{
+
+position: absolute;
+
+float: none;
+
+top: -3px;
+
+left: 30px;
+
+width: 6px;
+
+height: 3px;
+
+background: url(images/ug.png) no-repeat;
+
+}
+
+.exchboxtooltext{
+
+padding: 10px 15px;	
+
+overflow: hidden;
+
+}
+ 
+
+.exbresfalse{font: 600 13px/16px 'Open Sans'; border-radius:3px; background:#fbe1e5; padding:10px 20px;color:#a9081f;margin:0 0 10px 0;}
+
+.exbrestrue{font: 600 13px/16px 'Open Sans'; border-radius:3px; background:#d4fbd6; padding:10px 20px;color:#13a51d;margin:0 0 10px 0;}
+
+ 
+
+.fwidget{
+
+background:  #4a5866 !important;
+
+width: 100%;
+
+min-width: 1000px;
+
+padding: 34px 0;
+
+}
+
+.fwidgetvn{
+
+width: 960px;
+
+margin: 0 auto;
+
+}
+
+table.tpartner{width:100%;}
+
+table.tpartner td{text-align:center; vertical-align: middle; color:#fff; font: 600 18px 'Open Sans';}
+ 
+
+#footer{
+
+position:relative;
+
+z-index: 10;
+
+padding: 15px 0;
+
+background: #2a2a2a;
+
+width: 100%;
+
+min-width: 1000px;
+
+}
+
+.footer{width: 960px; margin: 0 auto; color:#fff; font: 100 13px 'Open Sans';}
+
+.footer a{color:#fff;}
+
+.fleft{width: 430px;float:left;}
+
+.fright{text-align:right;width: 430px;float:right;}
+
+.fright ul li{ display: inline; margin: 0 0 0 45px;}
+
+.fright ul li a{
+
+color: #fff;
+
+text-decoration: underline;
+
+}
+
+	.fright ul li a:hover{ text-decoration: none; }
+
+  
+
+.clear{clear:both;}
+
+.right{float:right;}
+
+.red{ color: #ff7f66; }
+
+img.alignnone{display:block;margin:0 0 20px 20px;}
+
+img.alignright{float:right;margin:0 0 1em 1em}
+
+img.alignleft{float:left;margin:0 1em 1em 0}
+
+img.aligncenter{display:block;margin:20px auto;}
+
+a img.alignnone{display:block;margin:0 0 20px 20px;}
+
+a img.alignright{float:right;margin:0 0 1em 1em}
+
+a img.alignleft{float:left;margin:0 1em 1em 0}
+
+a img.aligncenter{display:block;margin:20px auto;}
+
+
+.verform{padding-top:10px;}
+ .verform p{margin-bottom:10px;}
+ .tolab span{  color: #ff0000;    font-weight: 600;}
+.tolab {   font-size: 13px; float: left;    width: 115px; padding-top: 10px;}
+.verform input {    background: white;    border-radius: 4px;    border: 1px solid #D0D0D0;    height: 40px;    width: 230px;    margin: 0;    padding: 0px 10px;}
+.verform input[type="tel"]{    width: 208px;}
+.verform input[type="file"]{  padding: 0;    background: none;    border: none; padding-top:10px;} 
+.verform input[type="submit"]{  background: #FB602F;    color: white;    margin-left: 113px;    border: none;    border-radius: 21px;
+    font-size: 16px;    font-weight: 500;}
+.verform input[type=submit]:hover{background: #DE4A1B;}
+
+.onehline:hover .onehlinetext, .onehline.act .onehlinetext, a.onehrine.active .onehrinetext, a.onehrine:hover .onehrinetext, a.onehrine.active .onehrinerezerv, a.onehrine:hover .onehrinerezerv{color:#fff!important;}		</style>
+		
+	
+			<link rel="stylesheet" href="https://2x2change.com/wp-content/themes/exchangeboxtheme2/green.css?ver=2.4" type="text/css" />
+		
+	
+</head>
+
+<body class="page-template page-template-exb-pluginpage page-template-exb-pluginpage-php page page-id-152">
+<div id="container">
+	<div class="headline"></div>
+
+		
+    <div id="header">
+	    <div class="header">
+		
+		    <div class="logo">
+									<a href="https://2x2change.com" title="2x2change.com"><img src="https://2x2change.com/wp-content/uploads/34441-1.png" alt="2x2change.com" /></a>
+							</div>
+			
+						
+			<div class="hright">
+				<div class="hrighttop">
+																																			<div class="hicon email"><a href="mailto:contact&#64;2&#120;&#50;c&#104;an&#103;&#101;.&#99;o&#109;">&#99;ont&#97;c&#116;&#64;2x&#50;c&#104;ang&#101;.&#99;&#111;m</a></div>						<div class="clear"></div>
+				</div>
+			
+				<div class="hrightbot">
+					<div class="hworktime"></div>
+					<div class="htel"></div>
+						<div class="clear"></div>
+				</div>
+			</div>
+			
+			    <div class="clear"></div>
+		</div>
+	</div>	
+	
+	<div id="cwrap">
+		<div id="menutopped">
+			<div id="topmenu">
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom  first_menu_li menu-item-130"><a href="/"><span>Обмен</span></a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://2x2change.com/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://2x2change.com/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://2x2change.com/tos/"><span>Правила</span></a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-171"><a href="#"><span>Кабинет</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://2x2change.com/login/"><span>Авторизация</span></a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://2x2change.com/register/"><span>Регистрация</span></a></li>
+	<li id="menu-item-384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-384"><a href="https://2x2change.com/register/"><span>Партнерам</span></a></li>
+</ul>
+</li>
+<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="https://2x2change.com/userverify/"><span>Верификация</span></a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-169"><a href="https://2x2change.com/feedback/"><span>Контакты</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>
+			</div>	
+		</div>	
+	
+		<div class="content">
+			<div class="contentzone">		
+		
+	    		
+
+		
+	<form method="post" class="ajax_post_bids" action="https://2x2change.com/ajax-bidsform.html?meth=post&yid=2478c5d9fb0d">
+		<div class="exch_ajax_wrap">
+			<div class="exch_ajax_wrap_abs"></div>
+			<div id="exch_html">
+	<div class="thecontent">		
+	
+	<input type="hidden" name="naps_id" class="js_naps_id" value="121" />
+	<input type="hidden" name="place" value="2" />
+	
+	<div class="xchangestep1div">
+		<div class="xchangestep1divvn">
+			<h1 class="xchangestep1title js_exchangestep_title">Обмен Bitcoin BTC на Яндекс.Деньги RUB</h1>
+		</div>
+	</div>
+		<div class="clear"></div>
+		
+	<div class="xchangestep1body">
+		<div class="xchangestep1bodyvn"><div id="naprtext1"><div class="biginfo"><div class="biginfovn"><div class="binfotitle">Внимание!</div><p>Данная операция производится оператором в ручном режиме и занимает от 5 до 30 минут в рабочее время<span style="line-height: 1.5;">. В отдельных случаях может быть задержка в обмене, при технической невозможности выполнить обмен или задержки по вине платежной системы.</span></p>
+</div></div></div>
+			<div class="blockchange topped">
+				<div class="obmentitle"><div class="obmentitlevn">Отдаете &rarr;</div></div><div class="clear"></div> 
+				<div id="ajaxobmen1" class="theblocks">
+		<div class="obmenfirstblock">
+			<div class="obmenfirstleft">
+		
+			<div class="rselected" name="1">
+				<input type="hidden" name="idfirst1" value="41" />
+					<div class="rselecttitle">
+						<div class="rselecttitlevn">
+							<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/bitcoin-1.png) no-repeat center center"></div>
+							<div class="rselectname">Bitcoin BTC</div>
+								<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="rselectlinemenu">
+			
+							<div class="rselectline cur" name="41">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/bitcoin-1.png) no-repeat center center"></div>
+								<div class="rselectname">Bitcoin BTC</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="18">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/yd.png) no-repeat center center"></div>
+								<div class="rselectname">Яндекс.Деньги RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="34">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/qw.png) no-repeat center center"></div>
+								<div class="rselectname">Qiwi RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="60">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/sb.png) no-repeat center center"></div>
+								<div class="rselectname">Сбербанк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="37">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/ac-1.png) no-repeat center center"></div>
+								<div class="rselectname">Альфа-Банк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="38">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/TCS-e1460938839584.png) no-repeat center center"></div>
+								<div class="rselectname">Тинькофф RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="53">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/vtb.png) no-repeat center center"></div>
+								<div class="rselectname">ВТБ24 RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="54">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/Rai--ffai--zen-e1460936701682.jpg) no-repeat center center"></div>
+								<div class="rselectname">Райффайзен RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="56">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/r5-1.png) no-repeat center center"></div>
+								<div class="rselectname">Русский стандарт RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="58">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/logo-28x28-otk-1.png) no-repeat center center"></div>
+								<div class="rselectname">Открытие RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="63">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/8.png) no-repeat center center"></div>
+								<div class="rselectname">Промсвязьбанк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="64">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/ps-gazprombank.png) no-repeat center center"></div>
+								<div class="rselectname">Газпромбанк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="61">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/av.png) no-repeat center center"></div>
+								<div class="rselectname">Авангард RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="59">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/lbrf.png) no-repeat center center"></div>
+								<div class="rselectname">Любой банк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="42">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/mastercard-visa.png) no-repeat center center"></div>
+								<div class="rselectname">Visa/MasterCard RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+					</div>
+			</div>
+			</div>
+			<div class="obmenfirstright">
+			<table class="obmminit">
+				<tr>
+					<td class="obmminitleft">Сумма:</td>
+					<td class="obmminitright">
+						<div class="changewoerr">
+							<input type="text" name="summ1" id="wsumm1" value="1" />
+							<div class="wowarnerr"></div>
+						</div>
+					</td>
+				</tr>						
+			</table>
+			
+			</div>
+				<div class="clear"></div>
+		</div>
+		<div class="obmenfirstblock" style="display: none;">
+			<div class="obmenfirstleft">
+				<div class="wcomtext" id="wcomtext-1">
+					
+				</div>
+					
+			</div>
+			<div class="obmenfirstright">
+			<table class="obmminit">
+				<tr>
+					<td class="obmminitleft">Сумма:</td>
+					<td class="obmminitright">
+						<div class="changewoerr">
+							<input type="text" name="" id="wsummcom1" disabled="disabled" class="disabled" value="1" />
+							<div class="wowarnerr"></div>
+						</div>
+					</td>
+				</tr>						
+			</table>	
+			</div>
+				<div class="clear"></div>
+		</div>
+				</div>
+					
+			</div>	
+			<div class="blockchange bottomed">
+				<div class="obmentitle"><div class="obmentitlevn">Получаете &larr;</div></div><div class="clear"></div> 
+				<div id="ajaxobmen2" class="theblocks">
+		<div class="obmenfirstblock">
+			<div class="obmenfirstleft">
+		
+			<div class="rselected" name="2">
+				<input type="hidden" name="idfirst2" value="18" />
+					<div class="rselecttitle">
+						<div class="rselecttitlevn">
+							<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/yd.png) no-repeat center center"></div>
+							<div class="rselectname">Яндекс.Деньги RUB</div>
+								<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="rselectlinemenu">
+			
+							<div class="rselectline " name="59">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/lbrf.png) no-repeat center center"></div>
+								<div class="rselectname">Любой банк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="60">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/sb.png) no-repeat center center"></div>
+								<div class="rselectname">Сбербанк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="61">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/av.png) no-repeat center center"></div>
+								<div class="rselectname">Авангард RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="63">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/8.png) no-repeat center center"></div>
+								<div class="rselectname">Промсвязьбанк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="64">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/ps-gazprombank.png) no-repeat center center"></div>
+								<div class="rselectname">Газпромбанк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="42">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/mastercard-visa.png) no-repeat center center"></div>
+								<div class="rselectname">Visa/MasterCard RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="34">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/qw.png) no-repeat center center"></div>
+								<div class="rselectname">Qiwi RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="38">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/TCS-e1460938839584.png) no-repeat center center"></div>
+								<div class="rselectname">Тинькофф RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="37">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/ac-1.png) no-repeat center center"></div>
+								<div class="rselectname">Альфа-Банк RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline cur" name="18">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/yd.png) no-repeat center center"></div>
+								<div class="rselectname">Яндекс.Деньги RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="53">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/vtb.png) no-repeat center center"></div>
+								<div class="rselectname">ВТБ24 RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="56">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/r5-1.png) no-repeat center center"></div>
+								<div class="rselectname">Русский стандарт RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="54">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/Rai--ffai--zen-e1460936701682.jpg) no-repeat center center"></div>
+								<div class="rselectname">Райффайзен RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+							<div class="rselectline " name="58">
+								<div class="rselectico" style="background: url(https://2x2change.com/wp-content/uploads/logo-28x28-otk-1.png) no-repeat center center"></div>
+								<div class="rselectname">Открытие RUB</div>
+									<div class="clear"></div>
+							</div>								
+							
+					</div>
+			</div>
+			</div>
+			<div class="obmenfirstright">
+			<table class="obmminit">
+				<tr>
+					<td class="obmminitleft">Сумма:</td>
+					<td class="obmminitright">
+						<div class="changewoerr">
+							<input type="text" name="summ2" id="wsumm2" value="264452.9078" />
+							<div class="wowarnerr"></div>
+						</div>
+					</td>
+				</tr>						
+			</table>
+			
+			</div>
+				<div class="clear"></div>
+		</div>
+		<div class="obmenfirstblock" style="display: none;">
+			<div class="obmenfirstleft">
+				<div class="wcomtext" id="wcomtext-2">
+					
+				</div>
+					
+			</div>
+			<div class="obmenfirstright">
+			<table class="obmminit">
+				<tr>
+					<td class="obmminitleft">Сумма:</td>
+					<td class="obmminitright">
+						<div class="changewoerr">
+							<input type="text" name="" id="wsummcom2"  class="" value="264452.9078" />
+							<div class="wowarnerr"></div>
+						</div>
+					</td>
+				</tr>						
+			</table>	
+			</div>
+				<div class="clear"></div>
+		</div>
+			<div class="stepshetline">
+				<div class="stepshettitle">На кошелек Яндекс.Деньги:</div>				
+					<div class="changewoerr">
+						<div class="stepshetleft parenttool">
+							<div class="stepshetinput">
+								<input type="text" name="wschet2" id="wschet2" class="toolinput"  placeholder="" value="" />
+							</div>
+							
+				<div class="exchboxtool">
+					<div class="exchboxtoolvnug"></div>
+					<div class="exchboxtooltext">
+					Пример: 410012345678900
+					</div>
+				</div>	
+										
+						</div>
+						<div class="stepshetright">
+							<div class="wowarnerr"></div>					    
+						</div>					
+							<div class="clear"></div>
+					</div>
+			</div>				
+			
+				</div>
+					
+			</div>
+				<div class="clear"></div>
+				
+			<div class="obmentablediv">
+				<div class="obmentabledivvn">
+					<table class="obmentable">
+			<tr>
+				<td class="tdfirst"></td>
+				<td class="tdobmtitle">E-mail:</td>
+				<td>
+				<div class="parenttool changewoerr">
+					<div class="wolineinputtab">
+						<input type="text" name="user_email" id="exc_user_email" class="toolinput" value="" />
+							<div class="wowarnerr"></div>
+					</div>
+					
+				<div class="exchboxtool">
+					<div class="exchboxtoolvnug"></div>
+					<div class="exchboxtooltext">
+						Пожалуйста, укажите действующий адрес электронный почты.
+					</div>
+				</div>
+			
+				</div>
+				</td>
+			</tr>	
+			<tr><td class="tdfirst"></td><td></td><td></td></tr></table>
+				</div>
+			</div>
+			<div class="xchangestep1submit">	
+				<input type="submit" formtarget="_top" name="" value="Продолжить" />
+					<div class="clear"></div>
+			</div>
+			
+		</div>
+	</div></div><div id="naprtext2">
+		<div class="fcwidget">
+			<div class="fcwidgetvn">
+				<div class="fcwtitle">
+					<div class="fcwtitlevn">
+						Обмен Bitcoin BTC на Яндекс.Деньги RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+				
+				<p>Для обмена Вам необходимо выполнить несколько шагов:</p>
+<p>1. Заполните все поля представленной формы. Нажмите кнопку «Продолжить».</p>
+<p>2. Ознакомьтесь с условиями договора на оказание услуг обмена, если вы принимаете их, поставьте галочку в соответствующем поле/нажмите кнопку «Принимаю» («Согласен»). Еще раз проверьте данные заявки.</p>
+<p>3. Оплатите заявку. Для этого следует совершить перевод необходимой суммы, следуя инструкциям на нашем сайте.</p>
+<p>4. После выполнения указанных действий, система переместит Вас на страницу «Состояние заявки», где будет указан статус вашего перевода.</p>
+<p><strong>Внимание</strong>: для выполнения данной операции потребуется участие оператора (см. статус оператора).</p>
+
+					<div class="clear"></div>
+			</div>
+		</div></div></div>
+		</div>
+	</form>
+	
+				
+		
+	    			
+	
+	<div class="clear"></div>
+		
+	
+			</div>
+			<div class="sidebar">
+				
+	<div class="statuswork_widget online"><div class="statuswork_widgetvn">
+		<div class="statuswork_widget_text">ЗАЯВКИ ПРИНИМАЕМ КРУГЛОСУТОЧНО</div>
+	</div></div>
+	
+			<div class="login_widget">
+				<div class="login_widgetvn login_widget_ins">
+				<div class="loginwidget_title login_widget_title">
+					<div class="loginwidget_titlevn login_widget_title_ins">Авторизация</div>
+				</div>
+					<form method="post" class="ajax_post_form" action="https://2x2change.com/ajax-loginform.html?meth=post&yid=2478c5d9fb0d">
+		<div class="resultgo"></div>
+		<div class="wline">
+			<input type="text" name="logmail" placeholder="Логин" value="" />
+		</div>
+		<div class="wline">
+			<input type="password" name="pass" placeholder="Пароль" value="" />
+		</div>	
+					
+		
+					
+		<div class="wlineleft">
+			<p><a href="https://2x2change.com/register/">Регистрация</a></p>
+		</div>
+		<div class="wlineright">
+			<p><a href="https://2x2change.com/lostpass/">Забыли пароль?</a></p>
+		</div>                    				
+			<div class="clear"></div>
+		<div class="wlinesubmit">
+			<input type="submit" formtarget="_top" name="" value="Войти" />
+		</div>  		
+	
+					</form>
+				</div>
+			</div>
+			<div class="widget"><div class="widget_ins">			<div class="textwidget"><p><a href="https://telegram.me/BTC_CHANGE_BOT?start=MTg2Nzc0MTg3"><img style="-webkit-user-select: none;" title="Обмен Bitcoin без комиссий" src="https://2x2change.com/wp-content/uploads/88x31123.gif" alt="P2P Bitcoin биржа" width="88" height="31" border="0" /> </a> <!-- BestChange.ru --> <a href="https://www.bestchange.ru/"><img title="Обмен Perfect Money, BTC-e, OKPay, Payeer" src="https://www.bestchange.ru/bestchange.gif" alt="Мониторинг обменных пунктов BestChange.ru" width="88" height="31" border="0" /> </a> <!-- BestChange.ru --></p>
+<p><a title="Мониторинг обменников, анализатор валют КурсЕксперт" href="https://kurs.expert"><img src="https://kurs.expert/i/buttonY.png" width="88" height="31" border="0" /></a> <a title="Мониторинг обменников BestExchangers.ru" href="https://bestexchangers.ru/" target="_blank" rel="noopener"><img src="https://2x2change.com/wp-content/uploads/88x31321.gif" alt="Мониторинг обменных пунктов. Только лучшие курсы обмена!" border="0" /><br />
+</a></p>
+<p><meta name="interkassa-verification" content="fad59fb81207f685f7ec29b22651e0f5" /></p>
+</div>
+		<div class="clear"></div></div></div><div class="widget_text widget"><div class="widget_text widget_ins"><div class="textwidget custom-html-widget"><script type="text/javascript">
+$('.sidebar .widget:last').hide();
+
+function GetURLParameter(sParam)
+{
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) 
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) 
+        {
+            return sParameterName[1];
+        }
+    }
+}
+$(function() {
+  var sum = GetURLParameter('sum');
+  if (sum) {
+    $('#wsumm1').val(sum).keyup();
+  }
+  var to = GetURLParameter('to');
+  if (to) {
+    $('#wschet2').val(to)
+  }
+  var from = GetURLParameter('from');
+  if (from) {
+    $('#wschet1').val(from)
+  }
+  var email = GetURLParameter('email');
+  if (email) {
+    $('#obmen_email').val(email)
+  }
+  if(sum && to && from && email) {
+    $('#obmen_f').val("Иванов");
+    $('#obmen_i').val("Иван");
+    $('#obmen_o').val("Иванович");
+    $('.xchangestep1submit input').click();
+  }  
+});
+</script></div><div class="clear"></div></div></div>			</div>
+				<div class="clear"></div>
+		</div>
+	</div>
+	
+			<div class="partners_div">
+	        <div class="partners_div_ins">
+				<table class="partners_table">
+				    <tr>
+					    <td>
+													</td>
+													<td>
+								<a href="https://online.sberbank.ru/CSAFront/index.do" target="_blank" title="Сбербанк">									<img src="https://2x2change.com/wp-content/uploads/SBERRUB11.png" alt="Сбербанк" />
+								</a>							</td>
+													<td>
+								<a href="https://www.bestchange.ru/" target="_blank" title="bestchange">									<img src="https://2x2change.com/wp-content/uploads/best-88x31.gif" alt="bestchange" />
+								</a>							</td>
+													<td>
+								<a href="https://qiwi.com/" target="_blank" title="qiwi">									<img src="https://2x2change.com/wp-content/uploads/QIWI.png" alt="qiwi" />
+								</a>							</td>
+													<td>
+																	<img src="https://2x2change.com/wp-content/uploads/pmnt15.jpg" alt="VISA" />
+															</td>
+													<td>
+																	<img src="https://2x2change.com/wp-content/uploads/pmnt16.jpg" alt="MasterCard" />
+															</td>
+													<td>
+								<a href="https://perfectmoney.is/" target="_blank" title="perfectmoney">									<img src="https://2x2change.com/wp-content/uploads/perfekt.png" alt="perfectmoney" />
+								</a>							</td>
+													<td>
+								<a href="https://alfabank.ru/" target="_blank" title="Альфа Банк">									<img src="https://2x2change.com/wp-content/uploads/alfa.png" alt="Альфа Банк" />
+								</a>							</td>
+													<td>
+								<a href="https://money.yandex.ru" target="_blank" title="Яндекс.Деньги">									<img src="https://2x2change.com/wp-content/uploads/yandeks.png" alt="Яндекс.Деньги" />
+								</a>							</td>
+												
+					</tr>
+				</table>
+				
+				<div class="clear"></div>
+	        </div>
+	    </div>	
+		
+	
+    <div id="footer">
+	    <div class="footer">
+		    <div class="fleft">
+							© 2015 Сервис обмена электронных валют.						</div>
+
+		    <div class="fright">
+				<ul id="menu-nizhnee-menyu" class="tmenu"><li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-220"><a href="https://2x2change.com/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://2x2change.com/tos/"><span>Правила сайта</span></a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-221"><a href="https://2x2change.com/preduprezhdenie/"><span>Предупреждение</span></a></li>
+</ul>					<div class="clear"></div>
+			</div> 
+                <div class="clear"></div>			
+		</div>
+	</div>	
+	
+</div>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/2x2change.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435, \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u0440\u043e\u0431\u043e\u0442."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://2x2change.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://2x2change.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			</body>
+</html>

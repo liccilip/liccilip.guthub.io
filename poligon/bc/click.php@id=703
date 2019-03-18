@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>Онлайн обмен электронных валют. Obmen4you</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://obmen4you.com/wp-content/themes/exchanger/style.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://obmen4you.com/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://obmen4you.com/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://obmen4you.com/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://obmen4you.com/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://obmen4you.com/wp-content/themes/exchanger/js/jquery-select.js?ver=1.4'></script>
+<script type='text/javascript' src='https://obmen4you.com/wp-content/themes/exchanger/js/jquery-checkbox.js?ver=1.4'></script>
+<script type='text/javascript' src='https://obmen4you.com/wp-content/themes/exchanger/js/site.js?ver=1.4'></script>
+<script type='text/javascript' src='https://obmen4you.com/premiumjs.js?lang=ru&#038;ver=1.7'></script>
+	<link rel="shortcut icon" href="https://obmen4you.com/wp-content/uploads/logo.png" type="image/png" />
+	<link rel="icon" href="https://obmen4you.com/wp-content/uploads/logo.png" type="image/png" />
+	<link rel='canonical' href='https://obmen4you.com/' />
+<meta name="keywords" content="обмен валют онлайн,
+онлайн обменник,
+обменники валют онлайн,
+онлайн обменники электронных валют,
+онлайн обмен, 
+онлайн обмен электронных валют,
+обмен электронных валют,
+обменник электронных валют,
+обменник онлайн,
+обменник,
+обмен онлайн," />
+<meta name="description" content="Онлайн обмен электронных валют. Обменник Obmen4you предназначен для Ввода, вывода Webmoney, Яндекс, Qiwi  на карту Приват, Сбербанк, VISA/MASTERCARD. Круглосуточная поддержка поможет справиться с трудностями при обмене  24/7/365. Меняйся с нами!" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://obmen4you.com/?rid=1614" />
+<meta property="og:site_name" content="Obmen4you" />
+<meta property="og:description" content="Автоматический сервис по обмену электронных валют" />
+<meta property="og:title" content="Obmen4you" />
+<meta property="og:image" content="https://obmen4you.com/wp-content/uploads/logo2.jpg" />
+<link rel="icon" href="https://obmen4you.com/wp-content/uploads/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://obmen4you.com/wp-content/uploads/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://obmen4you.com/wp-content/uploads/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://obmen4you.com/wp-content/uploads/cropped-favicon-270x270.png" />
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4 ">
+<div id="container">
+
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" >
+		<div class="topbar_ins" >
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://obmen4you.com/?rid=1614" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://obmen4you.com/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+			</div>
+		</div></div>			
+								
+				
+				
+				
+								
+				
+								
+									<div class="topbar_icon email">
+						<a href="mailto:ob&#109;&#101;nyo&#117;&#64;g&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">o&#98;m&#101;ny&#111;&#117;&#64;&#103;&#109;ai&#108;.c&#111;&#109;</a>
+					</div>		
+				
+									<div class="topbar_phone">
+						+79601012843					</div>		
+								
+			
+									<a href="https://obmen4you.com/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://obmen4you.com/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://obmen4you.com">
+													
+															<img src="https://obmen4you.com/wp-content/uploads/logo2-4.jpg" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+	<!-- top menu -->
+	<div class="tophead_wrap" id="fix_div">
+		<div class="tophead_ins" id="fix_elem">
+			<div class="tophead">
+			
+				
+				
+				<div class="topmenu">
+					<ul id="menu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://obmen4you.com/"><span>Главная</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://obmen4you.com/tarifs/"><span>Курсы</span></a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="https://obmen4you.com/tos-2/"><span>Бонусная система</span></a></li>
+<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="https://obmen4you.com/terms/"><span>Партнерская программа</span></a></li>
+<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has_sub_menu menu-item-358"><a href="https://obmen4you.com/account/"><span>Личный кабинет</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://obmen4you.com/account/"><span>Личный кабинет</span></a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://obmen4you.com/userwallets/"><span>Ваши счета</span></a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="https://obmen4you.com/userxch/"><span>Ваши операции</span></a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://obmen4you.com/payouts/"><span>Вывод партнёрских средств</span></a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://obmen4you.com/paccount/"><span>Партнёрский аккаунт</span></a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://obmen4you.com/plinks/"><span>Партнёрские переходы</span></a></li>
+</ul>
+</li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://obmen4you.com/feedback/"><span>Помощь</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+			
+		
+				<div class="homepage_wrap">
+
+		<div class="home_wtext_wrap">
+		<div class="home_wtext_ins">
+			<div class="home_wtext_block">
+				<div class="home_wtext_title">Онлайн обменник электронных валют. Obmen4you.com</div>
+				<div class="home_wtext_div">
+					<div class="text">
+						<p style="text-align: center; font-size: 25px; color: red;"><span style="color: #ff0000;"><span style="font-size: 25px;">Автоматический обменный сервис Obmen4you.com</span></span></p>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+		
+	<div class="xchange_table_wrap">
+		
+	<div class="xchange_type_plitka">
+		<div class="xchange_type_plitka_ins">
+			<div class="xtp_table_wrap">
+				<div class="xtp_table_wrap_ins">
+					<div class="xtp_col_table_top">
+						<div class="xtp_left_col_table">
+	<div class="xtp_table">
+		<div class="xtp_table_ins">	
+			<div class="xtp_table_title">
+				<div class="xtp_table_title_ins">
+					<span>Вы отдаете</span>
+				</div>
+			</div>
+				<div class="clear"></div>
+											
+			<div class="xtp_table_list">
+				<div class="xtp_table_list_ins">
+						<div class="xtp_item js_item js_item_left js_item_left_RUB active" data-id="17" title="Qiwi">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(https://obmen4you.com/wp-content/uploads/qiwi.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_left js_item_left_RUB " data-id="3" title="Яндекс.Деньги">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(https://obmen4you.com/wp-content/uploads/yandex.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_left js_item_left_USD js_item_left_RUB js_item_left_EUR " data-id="1" title="Webmoney">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_left js_item_left_UAH " data-id="5" title="Приват24">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(https://obmen4you.com/wp-content/uploads/privat24.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_left js_item_left_RUB " data-id="6" title="Сбербанк">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+		
+						</div>
+						<div class="xtp_right_col_table">
+	<div class="xtp_table">
+		<div class="xtp_table_ins">	
+			<div class="xtp_table_title">
+				<div class="xtp_table_title_ins">
+					<span>Вы получаете</span>
+				</div>
+			</div>
+				<div class="clear"></div>
+											
+			<div class="xtp_table_list">
+				<div class="xtp_table_list_ins">
+						<div class="xtp_item js_item js_item_right js_item_right_RUB " data-id="17" title="Qiwi">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(https://obmen4you.com/wp-content/uploads/qiwi.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_right js_item_right_RUB active" data-id="3" title="Яндекс.Деньги">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(https://obmen4you.com/wp-content/uploads/yandex.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_right js_item_right_USD js_item_right_RUB js_item_right_EUR " data-id="1" title="Webmoney">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_right js_item_right_UAH " data-id="5" title="Приват24">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(https://obmen4you.com/wp-content/uploads/privat24.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+						<div class="xtp_item js_item js_item_right js_item_right_RUB " data-id="6" title="Сбербанк">
+							<div class="xtp_item_ins">
+								<div class="xtp_item_abs"></div>
+								<div class="xtp_item_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+							</div>
+						</div>
+						
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+						</div>
+							<div class="clear"></div>
+					</div>	
+					<div class="xtp_html_wrap">
+						<div class="xtp_html_abs js_loader"></div>
+						<div id="js_html">
+		<input type="hidden" name="" class="js_direction_id" value="171" />
+		<div class="xtp_col_table_body">
+			<div class="xtp_left_col_table">
+				<div class="xtp_curs_wrap">
+		
+					<div class="xtp_input_wrap js_wrap_error js_wrap_error_br error"><input type="text" name="sum1"  autocomplete="off" cash-id="sum1" data-decimal="4" class="js_decimal js_sum1 cache_data" value="1" />	
+						<div class="js_error js_sum1_error">min.: <span class="js_amount" data-id="sum1">5000</span> RUB</div>
+					</div>
+					<div class="xtp_select_wrap">
+						<select name="0" class="js_my_sel js_item_sel js_item_sel1" autocomplete="off">
+								<option value="26"  selected='selected'>RUB</option>
+								
+						</select>
+					</div>	
+				</div>
+				<div class="xtp_commis_wrap js_wrap_error js_wrap_error_br " style="display: none;"><input type="text" name=""  autocomplete="off" class="js_decimal js_sum1c" data-decimal="4" value="1" />
+					<div class="xtp_commis_text">С комиссией</div>
+					<div class="js_error js_summ1c_error"></div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="xtp_right_col_table">
+				<div class="xtp_curs_wrap">
+			
+					<div class="xtp_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2" data-decimal="4" value="0.995" />
+						<div class="js_error js_sum2_error"></div>
+					</div>
+					<div class="xtp_select_wrap">
+						<select name="" class="js_my_sel js_item_sel js_item_sel2" autocomplete="off">
+								<option value="6"  selected='selected'>RUB</option>
+																		
+						</select>
+					</div>	
+				</div>
+				<div class="xtp_commis_wrap js_wrap_error js_wrap_error_br " style="display: none;"><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2c" data-decimal="4" value="0.995" /> 
+					<div class="xtp_commis_text">С комиссией</div>
+					<div class="js_error js_sum2c_error"></div>
+					<div class="clear"></div>
+				</div>
+					<div class="xtp_line xtp_exchange_rate">
+						Курс обмена: <span class="js_curs_html">1 RUB = 0.995 RUB</span> 
+					</div>					
+					
+					<div class="xtp_line xtp_exchange_reserve">
+						Резерв: <span class="js_reserv_html">90 917.68 RUB</span> 
+					</div>					
+					
+			</div>
+				<div class="clear"></div>
+		</div>
+						</div>
+					</div>
+					<div class="xtp_submit_wrap">
+						<a href="https://obmen4you.com/exchange_QWRUB_to_YAMRUB2/" class="xtp_submit js_exchange_link" id="js_submit_button" data-direction-id="171">Обменять</a>
+							<div class="clear"></div>							
+					</div>
+					<div id="js_error_div"></div>		
+				</div>
+			</div>	
+		</div>
+	</div>				
+		</div>
+
+		
+	
+		<div class="home_text_wrap">
+		<div class="home_text_ins">
+			<div class="home_text_abs"></div>
+			<div class="home_text_block">
+				<div class="home_text_title">Приветствуем на онлайн обменнике электронных валют &quot;Obmen4you.com&quot;</div>
+				<div class="home_text_div">
+					<div class="text">
+						<p>Cервис по обмену электронных валют «Obmen4you» был реализован специалистами. Перед разработчиками стояла непростая задача сделать сервис максимально удобным и привлекательным, поэтому особое внимание было уделено таким аспектам, как широкий спектр популярных валют, выгодный курс, удобный и интуитивно понятный интерфейс, высокая скорость обмена, оперативная техническая поддержка, надежность и безопасность. В результате мы получили проект, отвечающий этим критериям и обладающий очень хорошими перспективами. За время работы мы приобрели репутацию проверенного партнера и делаем все возможное, чтобы ваши впечатления от нашего сервиса были только благоприятными.</p>
+<p>Мы гарантируем полную работоспособность проекта. Наш On-line сервис предназначен для тех, кто хочет быстро, безопасно и по выгодному курсу обменять такие виды электронных валют: Webmoney, Яндекс. Деньги, Qiwi, Сбербанк, Приват24, Visa/Master Card.</p>
+<p>В рамках проекта действуют программа лояльности, накопительная скидка и партнерская программа, воспользовавшись преимуществами которых, вы сможете совершать обмен электронных валют на более выгодных условиях. Для этого нужно просто зарегистрироваться на сайте.</p>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+			
+	
+		<div class="home_reviews_wrap">
+		<div class="home_reviews_ins">
+			<div class="home_reviews_abs"></div>
+			<div class="home_reviews_block">
+				<div class="home_reviews_title">Отзывы</div>
+				
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins">
+				
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Андрей, 16.03.2019, 16:20</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Самый лучший обменник. Пользуюсь только им. Спасибо!</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Vzor, 15.03.2019, 20:17</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Безупречно и Оперативно ! Успехов Вам.</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Ростислав, 15.03.2019, 18:33</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Все очень быстро, спасибо)</div>
+						</div>			
+					
+									
+						<div class="clear"></div>
+					</div>
+				</div>
+				
+				<a href="https://obmen4you.com/reviews/" class="home_reviews_more">Все отзывы</a>
+			</div>
+		</div>
+	</div>
+		
+	
+	
+		<div class="home_lchange_wrap">
+		<div class="home_lchange_wrap_ins">
+			<div class="home_lchange_block">
+				<div class="home_lchange_title">Последний обмены</div>
+				
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">18.03.2019, 11:36</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(https://obmen4you.com/wp-content/uploads/privat24.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">500</div>
+									<div class="home_lchange_name">UAH</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(https://obmen4you.com/wp-content/uploads/webmoney-1.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">18.59</div>
+									<div class="home_lchange_name">USD</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="clear"></div>
+			</div>	
+		</div>
+	</div>	
+		
+			<div class="home_news_wrap">
+			<div class="home_news_wrap_ins">
+				<div class="home_news_abs"></div>
+				<div class="home_news_block">
+					<div class="home_news_title">Новости</div>
+					
+					<div class="home_news_div">
+						<div class="home_news_div_ins">
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">08.03.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://obmen4you.com/ru-ru-dorogie-nashi-devushki-pozdravlyaem-vas-s-8-marta-zhelaem-zamechatelnogo-nastroeniya-i-mnogo-mnogo-ulyibok-pust-rabota-daet-zhelannyie-rezultatyi-vsyo-poluchaetsya-legko-i-bez-prepyatstviy/">Дорогие наши Девушки, поздравляем Вас с 8 Марта! Желаем замечательного настроения и много-много улыбок. Пусть работа дает желанные результаты, всё получается легко и без препятствий. Огромного женского счастья, невероятно сильной любви и нежности, внимания и заботливого участия. Будьте готовы к лучшему, оно обязательно произойдет! С праздником!</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">31.12.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://obmen4you.com/pozdravlyaem-vseh-s-nastupayushhim-novyim-godom-i-rozhdestvom-druzya-budte-schastlivyi-i-zdorovyi-lyubvi-vam-vsem-mira-dobra-i-zapasa-sil-na-tselyiy-god/">Поздравляем всех с наступающим Новым годом и Рождеством! Друзья, будьте счастливы и здоровы! Любви Вам всем, мира, добра и запаса сил на целый год!!!</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">08.04.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://obmen4you.com/ru-ru-svetloy-pashi-tepla-dobra-i-radosti-ru-ru/">Светлой Пасхи! Тепла, добра и радости!</a></div>
+								</div>
+							</div>			
+						
+											
+							<div class="clear"></div>
+						</div>
+					</div>
+					
+					<a href="https://obmen4you.com/news/" class="home_news_more">Все новости</a>
+				</div>
+			</div>
+		</div>
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/qiwi.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Qiwi RUB										</div>
+										<div class="one_home_reserv_sum">
+											143 060.51										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/yandex.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Яндекс.Деньги RUB										</div>
+										<div class="one_home_reserv_sum">
+											91 374.56										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/privat24.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Приват24 UAH										</div>
+										<div class="one_home_reserv_sum">
+											63 688.29										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/sber.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Сбербанк RUB										</div>
+										<div class="one_home_reserv_sum">
+											224.31										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/webmoney-1.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney RUB										</div>
+										<div class="one_home_reserv_sum">
+											6 238.02										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/webmoney-1.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney USD										</div>
+										<div class="one_home_reserv_sum">
+											2 412.88										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://obmen4you.com/wp-content/uploads/webmoney-1.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney EUR										</div>
+										<div class="one_home_reserv_sum">
+											19.79										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																							
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins">
+			<div class="home_partner_block">
+				<div class="home_partner_title">Партнеры</div>
+
+										<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/yandex.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/privat24.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/visamaster-1.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/qiwi.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/sber.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/webmoney.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/alfaclick.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/rsb.png" alt="" />
+													</div>
+											<div class="home_partner_one">
+															<img src="https://obmen4you.com/wp-content/uploads/tinkoff-1.png" alt="" />
+													</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>Быстрый автоматический сервис обмена электронных валют.</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://obmen4you.com/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://obmen4you.com/notice/"><span>О нас</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://obmen4you.com/314-autosave-v1/"><span>Соглашение</span></a></li>
+<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-237"><a href="https://obmen4you.com/kontaktyi/"><span>Контакты</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>	
+
+<a href="http://megastock.ru" target="_blank">
+<img src="/wp-content/uploads/wm-blue-on-white-ru.png" alt="">
+</a>
+<a href="https://passport.webmoney.ru/asp/CertView.asp?wmid=320026778932
+" target="_blank">
+<img src="/wp-content/uploads/v_blue_on_white_ru.png" alt="">
+</a>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="https://vk.com/public160355935" class="" target="_blank" rel="nofollow"><img src="https://obmen4you.com/wp-content/themes/exchanger/images/vk-ico.png" alt="" /></a>
+													<a href="https://www.facebook.com/groups/161699341103493/" class="" target="_blank" rel="nofollow"><img src="https://obmen4you.com/wp-content/themes/exchanger/images/fb-ico.png" alt="" /></a>
+													<a href="https://twitter.com/obmen4you" class="" target="_blank" rel="nofollow"><img src="https://obmen4you.com/wp-content/themes/exchanger/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://obmen4you.com/ajax-set_site_vers.html?meth=get&yid=8078cb972c77&lang=ru&set=mobile&return_url=%2F%3Frid%3D1614">Мобильная версия</a></div>
+							</div>
+			
+			<div class="footer_right">
+			
+								<div class="footer_phone">
+					<span>+79601012843</span>
+				</div>
+								
+								<div class="footer_timetable">
+					<p>Он-лайн поддержка пользователей: пн &#8212; вс, с 8:00 до 24:00<br />
+Время работы 24/7/365</p>
+				</div>
+					
+				
+			<!-- BestChange.ru -->
+<a href="https://www.bestchange.ru/obmen4you-exchanger.html" target="_blank"><img
+src="https://www.bestchange.ru/bestchange.gif"
+title="Обменники WebMoney"
+
+alt="Мониторинг обменных пунктов BestChange.ru"
+width="88" height="31" border="0" /></a>
+<!-- BestChange.ru -->
+<a href="https://kurs.expert/ru/obmennik/obmen4you-com/feedbacks.html" title="Анализатор обменников №1" target="_blank"><img src="https://kurs.expert/i/buttonY.png" width="88" height="31" border="0"></a>				
+<a href="https://udifo.com" target="_blank"><img src="https://obmen4you.com/wp-content/uploads/udifo_logo.png" width="88" height="31" alt="Udifo.com" title="Udifo.com - Мониторинг пунктов обмена электронных валют"></a>
+<a target="_blank" href="https://www.okchanger.ru/?a=132963"><img src="https://www.okchanger.ru/images/banners/90x32.png" /></a>
+<a href='https://exchangesumo.com' title='Сервис поиска выгодного курса обмена'><img src='https://exchangesumo.com/i/1.svg' width='88' height='31' border='0'></a>
+<a href="https://kurses.com.ua" target="_blank"><img src="https://kurses.com.ua/img/banners/88x31/about-white.gif" target="_blank" style="border: 0;" alt="мониторинг обменников"></a>			
+			</div>	
+			
+				<div class="clear"></div>
+				</div><!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t57.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+		</div>
+	</div>
+	<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'o4pVB033Oh';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+	<!-- end footer -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter47488048 = new Ya.Metrika2({
+                    id:47488048,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/47488048" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113313674-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113313674-1');
+</script>
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D1614&ltime=1552909615';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://obmen4you.com/ajax-globalajax_wp_check.html?meth=post&yid=8078cb972c77&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+<script type='text/javascript' src='https://obmen4you.com/wp-includes/js/wp-embed.min.js?ver=4.9.7'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			
+</body>
+</html>

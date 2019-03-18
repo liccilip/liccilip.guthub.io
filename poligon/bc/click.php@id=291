@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+    <meta charset="UTF-8">
+    <title>Обмен валют - UKR-OBMEN.COM - обмен электронных валют: Perfect Money, Advanced Cash, Bitcoin, Приват24</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="keywords" content="Обмен валют - UKR-OBMEN.COM - обмен электронных валют: Perfect Money, Advanced Cash, Bitcoin, Приват24 - "/>
+<meta name="description" content="Обмен валют. Лучшие курсы, значительные запасы."/>
+<link rel="icon" href="https://ukr-obmen.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://ukr-obmen.com/favicon.ico" type="image/x-icon"> 
+    <link href="https://ukr-obmen.com/skin/default/css/bootstrap.min.css?v=7.8" rel="stylesheet">
+    <link href="https://ukr-obmen.com/skin/default/css/style.css?v=7.8" rel="stylesheet">
+<!--COLOR-->
+<link rel="stylesheet" type="text/css" href="https://ukr-obmen.com/skin/default/skins/green.css?v=7.8" title="green" media="screen" />
+<!--!COLOR-->
+        <link href="https://ukr-obmen.com/skin/default/other.css?v=7.8" rel="stylesheet">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+<link rel="stylesheet" type="text/css" href="https://ukr-obmen.com/skin/default/exchange.css?v=7.8"/>
+<link href="https://ukr-obmen.com/skin/default/dd.css" rel="stylesheet"> 
+<script>window.onerror= function(){return true;}</script><script src="https://ukr-obmen.com/lang/ru-ru/lang.js?v=7.8"></script>
+<script src="https://ukr-obmen.com/file/script/config.js"></script>
+<script src="https://ukr-obmen.com/file/script/common.js?v=7.8"></script>
+<script src="https://ukr-obmen.com/file/script/sha256.js?v=7.8"></script>
+<script src="https://ukr-obmen.com/file/script/portal.js?v=7.8"></script>
+<script src="https://ukr-obmen.com/file/script/jquery.js?v=7.8"></script>
+    <script src="https://ukr-obmen.com/file/script/switches.js?v=7.8"></script>
+    <script src="https://ukr-obmen.com/file/script/tooltips.js?v=7.8"></script>
+<script src="https://ukr-obmen.com/file/script/dd.js"></script>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ukr-obmen.com/skin/default/images/apple-touch/apple-touch-icon-152x152.png" />
+  </head>
+ <body class="cnt-home">
+<header class="header-style-1">
+<div class="top-bar animate-dropdown">
+<div class="container">
+<div class="header-top-inner">
+    <div class="cnt-account hidden-xs"><h1 class="box-header">Курсы обсуждаем. Обращайтесь в поддержку.</h1></div>
+<div class="cnt-block">
+<ul class="list-unstyled list-inline">
+<link rel="stylesheet" type="text/css" href="https://ukr-obmen.com/skin/default/flag.css?v=7.8" />                               <li class="dropdown language js-selectable-dropdown">
+<a data-toggle="dropdown" class="selected" href="#"><span class="js-change-text"><i class="famfamfam-flag-ru-ru"></i> &nbsp;Русский</span> <span class="caret"></span></a>
+                                    <ul class="dropdown-menu js-possibilities" role="menu">
+<li><a class="l_cursor" onClick="lang_switch('ru', 'ru-ru');"><i class="famfamfam-flag-ru-ru"></i> &nbsp;Русский</a></li>
+<li><a class="l_cursor" onClick="lang_switch('ru', 'en-en');"><i class="famfamfam-flag-en-en"></i> &nbsp;English</a></li>
+                                    </ul>
+                                </li>
+<!--  = USER INFO scripts NOT DELETE=  -->
+<li class="dropdown dropdown-small" id="uportal_member"></li>
+<!--  = END USER INFO scripts NOT DELETE=  -->
+    &nbsp;
+<li><a role="button" data-toggle="collapse" href="#hidemtop" aria-expanded="false" id="mhide">
+<i id="mthh_plus" class="mthh fa fa-plus-square-o fa-lg hidden" data-toggle="tooltip" data-placement="bottom" title="Открыть блок"></i>
+<i id="mthh_minus" class="mthh fa fa-minus-square-o fa-lg " data-toggle="tooltip" data-placement="bottom" title="Закрыть блок"></i>
+</a></li>
+</ul><!-- /.list-unstyled -->
+</div><!-- /.cnt-block -->
+<div class="clearfix"></div>
+</div><!-- /.header-top-inner -->
+</div><!-- /.container -->
+</div><!-- /.top-bar -->
+<!-- box collapse -->
+<div class="collapse in" id="hidemtop">
+<div class="main-header">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-3 logo-holder">
+              <div class="logo"><a href="https://ukr-obmen.com/"><img src="https://ukr-obmen.com/skin/default/images/logo.png" data-toggle="tooltip" data-placement="bottom" alt="UKR-OBMEN.COM - обмен электронных валют: Perfect Money, Advanced Cash, Bitcoin, Приват24"/></a></div>
+               </div>
+<!-- START BOX CONTACT -->
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 f_white hidden-xs">
+Время работы - 08:00 - 02:00 (ежедневно).</div>
+                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 f_white">
+                          <p data-toggle="tooltip" data-placement="top" title="E-mail"><i class="fa fa-envelope sa"></i> ukrobmencom@gmail.com</p>                                                      </div>
+                    <!-- END BOX CONTACT -->
+</div><!-- /.row -->
+</div><!-- /.container -->
+</div><!-- /.main-header -->
+<!-- END box collapse -->
+</div>
+<div class="header-nav animate-dropdown">
+    <div class="container">
+        <div class="yamm navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+                <button data-target="#mc-horizontal-menu-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+                    <span class="sr-only">Menu</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="nav-bg-class">
+           <div class="navbar-collapse collapse" id="mc-horizontal-menu-collapse">
+    <div class="nav-outer">
+<ul class="nav navbar-nav">
+<li class="active"><a href="https://ukr-obmen.com/">Главная</a></li>
+<li><a href="https://ukr-obmen.com/news/"><span>Новости</span></a></li>
+<li><a href="https://ukr-obmen.com/help/"><span>Помощь</span></a></li>
+<li><a href="https://ukr-obmen.com/exchange/feedback.php">Отзывы</a></li>
+ 
+<li><a href="https://ukr-obmen.com/tariff/">Тарифы</a></li>
+ 
+ 
+<li><a href="https://ukr-obmen.com/contact/">Контакты</a></li> 
+<!-- START OPERATOR -->
+<li class="navbar-right special-menu online">
+ <a class="l_cursor" id="onlineChat" data-toggle="tooltip" data-placement="top" data-original-title="Оператор онлайн"><i class="fa fa-comments fa-lg sa"></i> Оператор онлайн</a>
+</li>
+<!-- END OPERATOR -->
+</ul><!-- /.navbar-nav -->
+<div class="clearfix"></div>
+</div><!-- /.nav-outer -->
+</div><!-- /.navbar-collapse -->
+            </div><!-- /.nav-bg-class -->
+        </div><!-- /.navbar-default -->
+    </div><!-- /.container-class -->
+</div><!-- /.header-nav -->
+</header>
+            <!-- Fixed Icon Start -->
+            <div class="fixed-icon hidden-xs">
+                <ul class="fixed-icon-list">
+                                                            <li><a href="https://ukr-obmen.com/member/register.php" data-toggle="tooltip" title="Регистрация"><i class="fa fa-user-circle"></i></a></li>
+                    <li><a href="https://ukr-obmen.com/member/login.php" data-toggle="tooltip" title="Вход"><i class="fa fa-user-plus"></i></a></li>
+                    <li><a href="https://ukr-obmen.com/member/send.php" data-toggle="tooltip" title="Забыли пароль?"><i class="fa fa-unlock-alt"></i></a></li>
+                </ul>
+            </div>
+            <!-- Fixed Icon End -->
+              <!--  = initialization scripts NOT DELETE=  -->
+    <div id="uportal_script"></div><div class="body-content">
+<div class="container">
+<div class="moneytop" id="step1">
+ <div class="row">
+  <div class="aop-steps hidden-xs">
+  <ul>
+<li class="current-steps">Выбор направления</li>
+<li>Ввод данных</li>
+<li>Проверка</li>
+<li>Завершение обмена</li>
+  </ul>
+  </div>
+
+<div class="col-md-12">
+ <div class="spinner"></div>
+<div id="ExchvuForm">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 FromCurrencies">
+<h3 class="entry-title t_c">Отдаете</h3>
+                    <ul>
+<li data-currency="btc">
+                        <img src="https://ukr-obmen.com/api/changers/icons/bitcoin7.png" alt="Bitcoin (BTC)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Bitcoin (BTC)</span>
+                        </li>
+<li data-currency="abc">
+                        <img src="https://ukr-obmen.com/api/changers/icons/bitcoincash7.png" alt="Bitcoin Cash (ABC)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Bitcoin Cash (ABC)</span>
+                        </li>
+<li data-currency="ltc">
+                        <img src="https://ukr-obmen.com/api/changers/icons/litecoin30-30.png" alt="Litecoin (LTC)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Litecoin (LTC)</span>
+                        </li>
+<li data-currency="eth">
+                        <img src="https://ukr-obmen.com/api/changers/icons/ethereum30.png" alt="Ethereum (ETH)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Ethereum (ETH)</span>
+                        </li>
+<li data-currency="etc">
+                        <img src="https://ukr-obmen.com/api/changers/icons/ethereumclassic7.png" alt="Ethereum Classic (ETC)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Ethereum Classic (ETC)</span>
+                        </li>
+<li data-currency="dash">
+                        <img src="https://ukr-obmen.com/api/changers/icons/dash30-30.png" alt="Dash (DASH)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Dash (DASH)</span>
+                        </li>
+<li data-currency="zec">
+                        <img src="https://ukr-obmen.com/api/changers/icons/zcash7.png" alt="Zcash (ZEC)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Zcash (ZEC)</span>
+                        </li>
+<li data-currency="monero">
+                        <img src="https://ukr-obmen.com/api/changers/icons/monero7.png" alt="Monero (XMR)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Monero (XMR)</span>
+                        </li>
+<li data-currency="nem">
+                        <img src="https://ukr-obmen.com/api/changers/icons/nem30.png" alt="NEM (XEM)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">NEM (XEM)</span>
+                        </li>
+<li data-currency="xrp">
+                        <img src="https://ukr-obmen.com/api/changers/icons/ripple7.png" alt="Ripple (XRP)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Ripple (XRP)</span>
+                        </li>
+<li data-currency="xlm">
+                        <img src="https://ukr-obmen.com/api/changers/icons/stellar30.png" alt="Stellar (XLM)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Stellar (XLM)</span>
+                        </li>
+<li data-currency="rep">
+                        <img src="https://ukr-obmen.com/api/changers/icons/augur30.png" alt="Augur (REP)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Augur (REP)</span>
+                        </li>
+<li data-currency="eos">
+                        <img src="https://ukr-obmen.com/api/changers/icons/eos30.png" alt="EOS (EOS)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">EOS (EOS)</span>
+                        </li>
+<li data-currency="iota">
+                        <img src="https://ukr-obmen.com/api/changers/icons/iota30.png" alt="IOTA (MIOTA)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">IOTA (MIOTA)</span>
+                        </li>
+<li data-currency="neo">
+                        <img src="https://ukr-obmen.com/api/changers/icons/neo30.png" alt="NEO (NEO)"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">NEO (NEO)</span>
+                        </li>
+<li data-currency="tetherusd">
+                        <img src="https://ukr-obmen.com/api/changers/icons/tether7.png" alt="Tether USD"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Tether USD</span>
+                        </li>
+<li data-currency="privat24uah">
+                        <img src="https://ukr-obmen.com/api/changers/icons/privat1.png" alt="Приват24 UAH"/>&nbsp;<span class="mbadge">1</span><br/><span class="name">Приват24 UAH</span>
+                        </li>
+                    </ul>
+                 </div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ToCurrencies">
+<h3 class="entry-title t_c">Получаете</h3>
+                    <ul>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/bitcoin7.png" alt="Bitcoin (BTC)"/>
+                       <span class="name">Bitcoin (BTC)</span>&nbsp;Резерв: <span class="px12 reserve">0.25000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/bitcoincash7.png" alt="Bitcoin Cash (ABC)"/>
+                       <span class="name">Bitcoin Cash (ABC)</span>&nbsp;Резерв: <span class="px12 reserve">5.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/litecoin30-30.png" alt="Litecoin (LTC)"/>
+                       <span class="name">Litecoin (LTC)</span>&nbsp;Резерв: <span class="px12 reserve">25.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/ethereum30.png" alt="Ethereum (ETH)"/>
+                       <span class="name">Ethereum (ETH)</span>&nbsp;Резерв: <span class="px12 reserve">5.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/ethereumclassic7.png" alt="Ethereum Classic (ETC)"/>
+                       <span class="name">Ethereum Classic (ETC)</span>&nbsp;Резерв: <span class="px12 reserve">152.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/dash30-30.png" alt="Dash (DASH)"/>
+                       <span class="name">Dash (DASH)</span>&nbsp;Резерв: <span class="px12 reserve">9.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/zcash7.png" alt="Zcash (ZEC)"/>
+                       <span class="name">Zcash (ZEC)</span>&nbsp;Резерв: <span class="px12 reserve">12.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/monero7.png" alt="Monero (XMR)"/>
+                       <span class="name">Monero (XMR)</span>&nbsp;Резерв: <span class="px12 reserve">17.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/nem30.png" alt="NEM (XEM)"/>
+                       <span class="name">NEM (XEM)</span>&nbsp;Резерв: <span class="px12 reserve">12521.99000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/ripple7.png" alt="Ripple (XRP)"/>
+                       <span class="name">Ripple (XRP)</span>&nbsp;Резерв: <span class="px12 reserve">2218.79000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/stellar30.png" alt="Stellar (XLM)"/>
+                       <span class="name">Stellar (XLM)</span>&nbsp;Резерв: <span class="px12 reserve">7850.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/augur30.png" alt="Augur (REP)"/>
+                       <span class="name">Augur (REP)</span>&nbsp;Резерв: <span class="px12 reserve">155.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/eos30.png" alt="EOS (EOS)"/>
+                       <span class="name">EOS (EOS)</span>&nbsp;Резерв: <span class="px12 reserve">345.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/iota30.png" alt="IOTA (MIOTA)"/>
+                       <span class="name">IOTA (MIOTA)</span>&nbsp;Резерв: <span class="px12 reserve">2750.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/neo30.png" alt="NEO (NEO)"/>
+                       <span class="name">NEO (NEO)</span>&nbsp;Резерв: <span class="px12 reserve">107.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/tether7.png" alt="Tether USD"/>
+                       <span class="name">Tether USD</span>&nbsp;Резерв: <span class="px12 reserve">1100.00000000</span>
+                        </li>
+<li>
+                       <img src="https://ukr-obmen.com/api/changers/icons/privat1.png" alt="Приват24 UAH"/>
+                       <span class="name">Приват24 UAH</span>&nbsp;Резерв: <span class="px12 reserve">5.00000000</span>
+                        </li>
+                    </ul>
+                 </div>
+ </div>
+        </div>
+</div>
+
+
+<style>
+#ExchvuForm li button {
+    width: 120px;
+    position: absolute;
+    top:20px;
+    right: 10px;
+    opacity: 0;
+    font-size: 14px;
+    font-weight: normal;
+    color: #666666;
+    padding: 3px 8px;
+}
+</style>
+
+
+
+<div id="botblocks">
+<div class="divider2"></div>
+             <div class="col-md-12">
+<h3>Отзывы<span class="f_r"> <a title="Смотреть все..." class="btn btn-primary btn-xs" href="https://ukr-obmen.com/exchange/feedback.php"><span class="fa fa-hand-o-right"></span> Смотреть все...</a></span></h3>
+        <div class="mtop-section">
+        <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Сергей<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-01-05</span></h6>
+        <p>Менял Монеро (XMR) на гривни. Все про...</p>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Ярослав<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-01-04</span></h6>
+        <p>Обменом доволен.Спасибо.</p>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Игорь<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-01-04</span></h6>
+        <p>Сменился курс и поменяли по более выс...</p>
+        </div>
+        </div>
+        </div>
+        </div> 
+     </div> 
+    
+
+</div>
+</div>
+<script>
+var valuteid;
+var mainpage = 'https://ukr-obmen.com/';
+var formaction = 'https://ukr-obmen.com/exchange/';
+var shortlink = '1';
+var ajaxpages = 0;
+var defid = 'step1';
+var scrpt = '';
+</script>
+<span id="step1script">
+<script type="text/javascript">
+var iconpath = 'https://ukr-obmen.com/api/changers/icons/';
+var excmin = 'обменять';
+</script>
+</span>
+</div>
+</div>
+ <div class="divider1"></div>
+<script src="https://ukr-obmen.com/file/script/exc_main.js?v=7.8"></script><script src="https://ukr-obmen.com/file/script/exc_global.js?v=7.8"></script><div class="container" id="cookie_info"><div class="moneytop"><div class="divider1"></div><div class="row"><div class="col-md-12"><div class="well">На нашем сайте мы используем cookie для сбора информации технического характера.<br/>В частности, для персонифицированной работы сайта мы обрабатываем IP-адрес региона вашего местоположения.&nbsp;<a class="btn btn-primary btn-sm" onClick="cc_close();">OK</a></div></div></div></div></div>
+<script>
+if((UA.indexOf('chrome') == -1 || UA.indexOf('firefox') == -1) && get_cookie('goo_agree')) $('#cookie_info').hide();
+function cc_close() {$('#cookie_info').hide();set_cookie('goo_agree', 1);}
+</script>
+<footer id="footer" class="footer">
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="module-body">
+        <ul class="toggle-footer">
+            <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-copyright fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p><a href="https://ukr-obmen.com/">2019 Ukr-Obmen.com - Обмен электронных валют</a></p>
+                </div>
+            </li>
+<!--            <li class="media">   -->
+<!--                <div class="pull-left">  -->
+<!--                     <span class="icon fa-stack fa-lg">  -->
+<!--                      <i class="fa fa-connectdevelop fa-stack-1x fa-inverse"></i>  -->
+<!--                    </span>  -->
+<!--                </div>  -->
+<!--                <div class="media-body">  -->
+<!--                    <p><a href="https://money-top.com" target="_blank">Powered by Money Top V 7.8</a></p>  -->
+<!--                </div>  -->
+<!--            </li>  -->
+            </ul>
+    </div><!-- /.module-body -->
+                </div><!-- /.col -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="module-body">
+                        <ul class='list-unstyled'>
+                <li><a href="https://ukr-obmen.com/sitemap/" title="Карта сайта">Карта сайта</a></li>
+                                                      </ul>
+                    </div><!-- /.module-body -->
+                </div><!-- /.col -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="module-body">
+                        <ul class='list-unstyled'>
+<li><a href="https://ukr-obmen.com/contact/" title="Контакты">Контакты</a></li><li><a href="https://ukr-obmen.com/static/p.php?itemid=2">Соглашение</a></li>
+<li><a href="https://ukr-obmen.com/static/p.php?itemid=1">Борьба с отмыванием денег</a></li>
+                        </ul>
+                    </div><!-- /.module-body -->
+                </div><!-- /.col -->
+            </div>
+        </div>
+    </div>
+
+
+    <div class="copyright-bar">
+        <div class="container">
+            <div class="col-xs-12 col-sm-6 no-padding social">
+                <ul class="link">
+                  </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 no-padding">
+                <div class="clearfix payment-methods">
+                    <ul>
+ <!-- <li class="f_gray">Здесь ваши коды счетчиков. <br/>Шаблон</li> -->
+<!--  -->
+<!-- BestChange.ru -->
+<a href="https://www.bestchange.ru/"><img
+src="https://www.bestchange.ru/bestchange.gif"
+title="Обмен Perfect Money, Bitcoin, Приват24"
+alt="Мониторинг обменных пунктов BestChange.ru"
+width="88" height="31" border="0" /></a>
+<!-- BestChange.ru -->
+<a href="https://good-kurs.ru" title="Лучший курс электронных валют на good-kurs.ru"><img src="https://good-kurs.ru/ban/88x31.gif" alt="Лучший курс электронных валют на good-kurs.ru"/></a>
+<a href="https://glazok.org/" target="_blank" title="Мониторинг обменных пунктов GLAZOK"><img border=0 src="https://glazok.org/88x31.gif" width="88" height="31" ></a>
+<a href="https://bestcurs.org"><img src="https://bestcurs.org/wp-content/plugins/exchangers-monitor/images/bestkurs_88x31k.png" alt="Обмен валют по лучшему курсу" title="Мониторинг обменников" width="88" height="31" border="0" /></a>
+<a href="//eobmen-obmen.ru" title="Мониторинг обменников eobmen-obmen.ru"><img src="https://ukr-obmen.com/image/eobmen-obmen.gif" alt="eobmen-obmen.ru"></a>
+<a href="https://udifo.com"><img src="https://udifo.com/images/udifo_logo.png" width="88" height="31" alt="Udifo.com" title="Udifo.com - Мониторинг пунктов обмена электронных валют"></a>                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+<div style="display: none" id="uportal_message"></div>
+ </footer>
+     <a href="#" class="scroll_top" title="Вверх" style="display: inline;">Вверх</a>
+    <div id="fb-root"></div>
+    <script src="https://ukr-obmen.com/skin/default/js/bootstrap.min.js"></script>
+<script src="https://ukr-obmen.com/file/script/bxslider.min.js"></script>
+    <script src="https://ukr-obmen.com/skin/default/js/script.js"></script>
+<script>
+jQuery(document).ready(function() {
+var c = get_cookie('topcolor');
+if (c) style_switch(c);
+});
+show_task('moduleid=25');
+</script>
+<script type='text/javascript'>
+(function(){ 
+var widget_id = 'rAyOpqmaDi';
+var s = document.createElement('script'); 
+s.type = 'text/javascript'; 
+s.async = true; 
+s.src = '//code.jivosite.com/script/widget/'+widget_id; 
+var ss = document.getElementsByTagName('script')[0]; 
+ss.parentNode.insertBefore(s, ss);})();
+Vu('onlineChat').onclick=function(e){
+e.preventDefault();
+jivo_api.open();
+};
+</script>
+  </body>
+</html>

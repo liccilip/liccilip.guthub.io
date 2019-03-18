@@ -1,0 +1,765 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Обменный сервис E-Obmen, Visa, MasterCard, BTC, Perfect Money, Яндекс деньги, QIWI, Advcash, Payeer</title>
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="5 days" />
+<meta name="description" content="Автоматический обмен BTC, PerfectMoney,Advcash, Payeer, ЯД и QIWI. Работаем с Альфа-банк,ВТБ,ПриватБанк,Visa,MasterCard,Сбербанк,Русский стандарт, Тинькофф Банк. Скидки, партнерская программа" />
+<meta name="keywords" content="PerfectMoney, Payeer, BTC, Bitcoin, Яндекс Деньги, QIWI, Advcash, Альфа-клик, Альфа-банк, ВТБ, Телебанк, Русский стандарт, Приват24, ввод/вывод, обмен, купить, продать, Visa, MasterCard, Сбербанк, Сбербанк Онлайн, ТинькоффБанк" />
+<meta name="generator" content="Aranea.CMS 2.4.1 - Авторские права (C) 2004-2019 студия веб-дизайна Aranea. Все права защищены" />
+<base href="https://e-obmen.net/" />
+<link href="https://e-obmen.net/images/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="https://e-obmen.net/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="https://e-obmen.net/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<!--[if lte IE 8]><link href="https://e-obmen.net/css/style_ie8.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if lte IE 7]><link href="https://e-obmen.net/css/style_ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if lte IE 6]><link href="https://e-obmen.net/css/style_ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<link href="https://e-obmen.net/css/widget.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://e-obmen.net/widget/datepicker/datepicker.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://e-obmen.net/widget/slimbox/russian/slimbox.css" rel="stylesheet" type="text/css" media="screen" />
+<script language="JavaScript" type="text/javascript">var site_url = 'https://e-obmen.net/'; var ajax_url = 'https://e-obmen.net/module/ajax/'; var lang_code = ''; var prefix = 'VMEX2_';</script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/lang/russian.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/js/mootools.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/js/mootools-more.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/js/swfobject.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/js/system.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/js/user.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/widget/clientcide/clientcide.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/widget/slimbox/slimbox.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://e-obmen.net/cache/js/hints.js"></script>
+<meta name="yandex-verification" content="7170ddcade67314c" />
+<meta name="verify-v1" content="6-cQkvy6Nry1frcFdaLXtP65L139sZY52PMjtiutDU0" />
+<meta name="google-site-verification" content="6-cQkvy6Nry1frcFdaLXtP65L139sZY52PMjtiutDU0" />
+</head>
+
+<body>
+
+<div id="header">
+	<p class="service"><span><a id="icon_main" href="https://e-obmen.net/" title="Обменный сервис E-Obmen, Visa, MasterCard, BTC, Perfect Money, Яндекс деньги, QIWI, Advcash, Payeer"></a></span><span><a id="icon_contact" href="https://e-obmen.net/contacts" title="Контакты"></a></span><a id="icon_map" href="https://e-obmen.net/sitemap" title="Карта сайта"></a></p>
+	<p id="lang"><a id="lang_english" href="https://e-obmen.net/en/" title="English"></a><a id="lang_russian" class="selected"  href="https://e-obmen.net/" title="Русский"></a></p>
+	<p class="buttons">
+		<a id="btn_rules" href="https://e-obmen.net/rules" title="Правила">Правила</a>
+		<a id="btn_faq" href="https://e-obmen.net/faq" title="ЧаВо">ЧаВо</a>
+		<a id="btn_reviews" href="https://e-obmen.net/reviews" title="Отзывы">Отзывы</a>
+		<a id="btn_contact" href="https://e-obmen.net/contacts" title="Контакты">Контакты</a>
+	</p>
+</div>
+
+<div id="content-wrapper"><div id="content-wrapper2">
+	<div id="content-left">
+		<a id="logo" class="winter" href="https://e-obmen.net/" title="Обменный сервис E-Obmen, Visa, MasterCard, BTC, Perfect Money, Яндекс деньги, QIWI, Advcash, Payeer"></a>
+<div id="block101" class="block-line">
+
+</div>
+
+<div id="block86" class="block">
+<h2 class="block-title">Резерв валют</h2>
+<div id="reserv"><p class="curr70"><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></p>
+<p class="curr6"><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></p>
+<p class="curr6"><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></p>
+<p class="curr77"><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></p>
+<p class="curr77"><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></p>
+<p class="curr20"><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></p>
+<p class="curr20"><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></p>
+<p class="curr20"><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></p>
+<p class="curr19"><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></p>
+<p class="curr19"><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></p>
+<p class="curr19"><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></p>
+<p class="curr552"><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></p>
+<p class="curr16"><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></p>
+<p class="curr12"><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></p>
+<p class="curr52"><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></p>
+<p class="curr551"><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></p>
+<p class="curr522"><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></p>
+<p class="curr551"><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></p>
+<p class="curr51"><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></p>
+<p class="curr50"><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></p>
+<p class="curr543"><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></p>
+<p class="curr62"><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></p>
+<p class="curr55"><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></p>
+<p class="curr0"><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></p>
+</div>
+</div>
+
+
+	</div>
+	<div id="content-right">
+<div id="block64" class="block">
+<h2 class="block-title">Контакты</h2>
+<!-- Start SiteHeart code -->
+<script type="text/javascript">// <![CDATA[
+    (function(){
+    var widget_id = 33496;
+    _shcp =[{widget_id : widget_id}];
+    var lang =(navigator.language || navigator.systemLanguage 
+    || navigator.userLanguage ||"en")
+    .substr(0,2).toLowerCase();
+    var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+    var hcc = document.createElement("script");
+    hcc.type ="text/javascript";
+    hcc.async =true;
+    hcc.src =("https:"== document.location.protocol ?"https":"http")
+    +"://"+ url;
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hcc, s.nextSibling);
+    })();
+// ]]></script>
+<!-- End SiteHeart code --> 
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td><img title="icon-phone.png" src="files/icon-phone.png" alt="icon-phone.png" width="21" height="21" /></td>
+<td class="font18px text-orange" style="width: 100%;">&nbsp;8 (800) 333-06-51</td>
+</tr>
+<tr>
+<td class="font10px" colspan="2">&nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>ICQ: 290-687</p>
+<p>E-mail: <a href="mailto:rus@e-obmen.cc">rus@e-obmen.cc</a></p>
+<p>Skype: <a href="skype:live:rus_367?chat" target="_blank">Нажмите для связи</a></p>
+<ul>
+</ul>
+</div>
+
+<div id="block99" class="block-line">
+
+</div>
+
+<div id="block77" class="block">
+<h2 class="block-title">Кабинет пользователя</h2>
+<div id="account">
+				<div align="center">
+					<form method="post" id="login_form" name="login_form" action="https://e-obmen.net/user/login">
+						<input type="hidden" name="act" value="login" />
+						<div class="form-data">
+							<p><input type="text" class="fld " id="frm_login" name="frm_login" placeholder="Логин" value="" /></p>
+							<p><input type="password" class="fld " id="frm_password" name="frm_password" placeholder="Пароль" /></p>
+							<div style="width:203px;">
+								<a id="login_form_captchas" class="captchas" href="#" onclick="return updateCaptcha('login_form_captchas');" title="Нажмите чтобы обновить код">
+									<img src="captchas.php?1552902472" alt="Проверочный код" />
+								</a>
+								<div align="right" class="fl_left">
+									<input class="fld" type="text" id="frm_captchas" name="frm_captcha" value="" size="6" />
+								</div>
+							</div>
+						</div>
+						<table class="form-data" cellspacing="0" width="203">
+						<tr>
+							<td align="left">
+								<a href="https://e-obmen.net/user/remember" title="Забыли пароль ?">Забыли пароль ?</a>
+								<a href="https://e-obmen.net/user/register" title="Регистрация">Регистрация</a><br />
+							</td>
+							<td align="right">
+								<input id="btn_login" class="btn" type="submit" name="login" value="Войти" />
+							</td>
+						</tr>
+						<tr>
+							<td align="center" colspan="2">
+								
+							</td>
+						</tr>
+						</table>
+					</form>
+					<script language="javascript" type="text/javascript">
+					setHints('login_form');
+					</script>
+				</div>
+</div>
+</div>
+
+<div id="block100" class="block-line">
+
+</div>
+
+<div id="block65" class="block-buttons">
+<script type="text/javascript"> //<![CDATA[ 
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+<script language="JavaScript" type="text/javascript">
+TrustLogo("https://e-obmen.net/files/comodo_secure_100x85_transp.png", "CL1", "none");
+</script>
+<a  href="https://www.instantssl.com/" id="comodoTL">Essential SSL</a>
+</div>
+
+
+	</div>
+	<div id="content">
+		<h2 id="slogan">Автоматический обмен Perfect Money, BTC, Яндекс Деньги, QIWI, Advcash, Payeer</h2>
+
+
+		<noscript>
+			<div class="msg_err">Для просмотра этой страницы необходим Javascript<br />Пожалуйста включите Javascript в Вашем браузере</div>
+		</noscript>
+<div id="block62" class="block-course block-border">
+<div class="title">
+	<h2 class="inner-sell"><strong>Отдаете</strong></h2>
+	<h2 class="inner-buy"><strong>Получаете</strong></h2>
+	<h2 class="inner-reserv"><strong>Резерв</strong></h2>
+</div>
+<div class="inner">
+	<div class="inner-sell">
+		<p id="sell_item57" class="curr70" onmouseover="doSelect(57);"><span class="course">1.00</span><span class="logo"></span><strong>BTC</strong></p>
+		<p id="sell_item16" class="curr6" onmouseover="doSelect(16);"><span class="course">1.00</span><span class="logo"></span><strong>PM USD</strong></p>
+		<p id="sell_item28" class="curr6" onmouseover="doSelect(28);"><span class="course">1.00</span><span class="logo"></span><strong>PM EUR</strong></p>
+		<p id="sell_item67" class="curr77" onmouseover="doSelect(67);"><span class="course">1.00</span><span class="logo"></span><strong>EXMO USD</strong></p>
+		<p id="sell_item69" class="curr77" onmouseover="doSelect(69);"><span class="course">1.00</span><span class="logo"></span><strong>EXMO RUB</strong></p>
+		<p id="sell_item58" class="curr20" onmouseover="doSelect(58);"><span class="course">1.00</span><span class="logo"></span><strong>Payeer, USD</strong></p>
+		<p id="sell_item62" class="curr20" onmouseover="doSelect(62);"><span class="course">1.00</span><span class="logo"></span><strong>Payeer, EUR</strong></p>
+		<p id="sell_item64" class="curr20" onmouseover="doSelect(64);"><span class="course">1.00</span><span class="logo"></span><strong>Payeer, RUR</strong></p>
+		<p id="sell_item51" class="curr19" onmouseover="doSelect(51);"><span class="course">1.00</span><span class="logo"></span><strong>AdvCash, USD</strong></p>
+		<p id="sell_item59" class="curr19" onmouseover="doSelect(59);"><span class="course">1.00</span><span class="logo"></span><strong>AdvCash, EUR</strong></p>
+		<p id="sell_item55" class="curr19" onmouseover="doSelect(55);"><span class="course">1.00</span><span class="logo"></span><strong>AdvCash, RUR</strong></p>
+		<p id="sell_item32" class="curr12" onmouseover="doSelect(32);"><span class="course">1.00</span><span class="logo"></span><strong>Яндекс Деньги</strong></p>
+		<p id="sell_item7" class="curr52 selected" onmouseover="doSelect(7);"><span class="course">1.00</span><span class="logo"></span><strong>Приват24 грн.</strong></p>
+		<p id="sell_item20" class="curr51" onmouseover="doSelect(20);"><span class="course">1.00</span><span class="logo"></span><strong>Альфа банк</strong></p>
+		<p id="sell_item19" class="curr50" onmouseover="doSelect(19);"><span class="course">1.00</span><span class="logo"></span><strong>ВТБ</strong></p>
+		<p id="sell_item26" class="curr543" onmouseover="doSelect(26);"><span class="course">1.00</span><span class="logo"></span><strong>Сбербанк</strong></p>
+		<p id="sell_item38" class="curr62" onmouseover="doSelect(38);"><span class="course">1.00</span><span class="logo"></span><strong>Тинькофф Банк</strong></p>
+		<p id="sell_item35" class="curr55" onmouseover="doSelect(35);"><span class="course">1.00</span><span class="logo"></span><strong>Рус.Стандарт</strong></p>
+		<p id="sell_item24" class="curr51" onmouseover="doSelect(24);"><span class="course">1.00</span><span class="logo"></span><strong>Cash-in RUB</strong></p>
+		<p id="sell_item68" class="curr51" onmouseover="doSelect(68);"><span class="course">1.00</span><span class="logo"></span><strong>Cash-in USD</strong></p>
+
+	</div>
+	<div class="inner-buy-reserv">
+<div id="buy_item7" class="buy_items selected">		<a class="curr70" href="https://e-obmen.net/exchange/sell7/buy57" title="Обменять Гривны, Приват24 на Bitcoin"><span class="course">0.000009</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell7/buy16" title="Обменять Гривны, Приват24 на Perfect Money USD"><span class="course">0.037</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell7/buy28" title="Обменять Гривны, Приват24 на Perfect Money EUR"><span class="course">0.033</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell7/buy67" title="Обменять Гривны, Приват24 на EXMO USD"><span class="course">0.037</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell7/buy69" title="Обменять Гривны, Приват24 на EXMO RUB"><span class="course">2.311</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell7/buy58" title="Обменять Гривны, Приват24 на Payeer, USD"><span class="course">0.037</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell7/buy62" title="Обменять Гривны, Приват24 на Payeer, EUR"><span class="course">0.033</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell7/buy64" title="Обменять Гривны, Приват24 на Payeer, RUR"><span class="course">2.263</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell7/buy51" title="Обменять Гривны, Приват24 на AdvCash, USD"><span class="course">0.036</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell7/buy59" title="Обменять Гривны, Приват24 на AdvCash, EUR"><span class="course">0.032</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell7/buy55" title="Обменять Гривны, Приват24 на AdvCash, RUR"><span class="course">2.311</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell7/buy43" title="Обменять Гривны, Приват24 на PayPal"><span class="course">0.034</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell7/buy32" title="Обменять Гривны, Приват24 на Рубли, Яндекс"><span class="course">2.358</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item32" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell32/buy57" title="Обменять Рубли, Яндекс на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell32/buy16" title="Обменять Рубли, Яндекс на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell32/buy28" title="Обменять Рубли, Яндекс на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell32/buy67" title="Обменять Рубли, Яндекс на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell32/buy69" title="Обменять Рубли, Яндекс на EXMO RUB"><span class="course">0.87</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell32/buy58" title="Обменять Рубли, Яндекс на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell32/buy62" title="Обменять Рубли, Яндекс на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell32/buy64" title="Обменять Рубли, Яндекс на Payeer, RUR"><span class="course">0.94</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell32/buy51" title="Обменять Рубли, Яндекс на AdvCash, USD"><span class="course">0.014</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell32/buy59" title="Обменять Рубли, Яндекс на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell32/buy55" title="Обменять Рубли, Яндекс на AdvCash, RUR"><span class="course">0.96</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell32/buy43" title="Обменять Рубли, Яндекс на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell32/buy7" title="Обменять Рубли, Яндекс на Гривны, Приват24"><span class="course">0.365</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell32/buy52" title="Обменять Рубли, Яндекс на VISA/MC, USD"><span class="course">0.014</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell32/buy31" title="Обменять Рубли, Яндекс на UAH, VISA/MC"><span class="course">0.375</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell32/buy39" title="Обменять Рубли, Яндекс на RUR, VISA/MC"><span class="course">0.943</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell32/buy20" title="Обменять Рубли, Яндекс на Рубли, Альфа-банк"><span class="course">0.95</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell32/buy19" title="Обменять Рубли, Яндекс на Рубли, ВТБ"><span class="course">0.95</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell32/buy26" title="Обменять Рубли, Яндекс на Рубли, Сбербанк"><span class="course">0.95</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell32/buy38" title="Обменять Рубли, Яндекс на Рубли, Тинькофф Банк"><span class="course">0.95</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell32/buy35" title="Обменять Рубли, Яндекс на Рубли, Рус.Стандарт"><span class="course">0.95</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell32/buy8" title="Обменять Рубли, Яндекс на Рубли"><span class="course">0.95</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item55" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell55/buy57" title="Обменять AdvCash, RUR на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell55/buy16" title="Обменять AdvCash, RUR на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell55/buy28" title="Обменять AdvCash, RUR на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell55/buy67" title="Обменять AdvCash, RUR на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell55/buy69" title="Обменять AdvCash, RUR на EXMO RUB"><span class="course">0.97</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell55/buy58" title="Обменять AdvCash, RUR на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell55/buy62" title="Обменять AdvCash, RUR на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell55/buy64" title="Обменять AdvCash, RUR на Payeer, RUR"><span class="course">0.97</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell55/buy51" title="Обменять AdvCash, RUR на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell55/buy59" title="Обменять AdvCash, RUR на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell55/buy43" title="Обменять AdvCash, RUR на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell55/buy56" title="Обменять AdvCash, RUR на QIWI"><span class="course">0.94</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell55/buy32" title="Обменять AdvCash, RUR на Рубли, Яндекс"><span class="course">0.971</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell55/buy7" title="Обменять AdvCash, RUR на Гривны, Приват24"><span class="course">0.382</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell55/buy52" title="Обменять AdvCash, RUR на VISA/MC, USD"><span class="course">0.015</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell55/buy31" title="Обменять AdvCash, RUR на UAH, VISA/MC"><span class="course">0.382</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell55/buy39" title="Обменять AdvCash, RUR на RUR, VISA/MC"><span class="course">0.97</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell55/buy20" title="Обменять AdvCash, RUR на Рубли, Альфа-банк"><span class="course">0.97</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell55/buy19" title="Обменять AdvCash, RUR на Рубли, ВТБ"><span class="course">0.97</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell55/buy26" title="Обменять AdvCash, RUR на Рубли, Сбербанк"><span class="course">0.97</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell55/buy38" title="Обменять AdvCash, RUR на Рубли, Тинькофф Банк"><span class="course">0.97</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell55/buy35" title="Обменять AdvCash, RUR на Рубли, Рус.Стандарт"><span class="course">0.97</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell55/buy8" title="Обменять AdvCash, RUR на Рубли"><span class="course">0.97</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item64" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell64/buy57" title="Обменять Payeer, RUR на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell64/buy16" title="Обменять Payeer, RUR на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell64/buy28" title="Обменять Payeer, RUR на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell64/buy67" title="Обменять Payeer, RUR на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell64/buy69" title="Обменять Payeer, RUR на EXMO RUB"><span class="course">0.95</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell64/buy58" title="Обменять Payeer, RUR на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell64/buy62" title="Обменять Payeer, RUR на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell64/buy51" title="Обменять Payeer, RUR на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell64/buy59" title="Обменять Payeer, RUR на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell64/buy55" title="Обменять Payeer, RUR на AdvCash, RUR"><span class="course">0.98</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell64/buy43" title="Обменять Payeer, RUR на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell64/buy56" title="Обменять Payeer, RUR на QIWI"><span class="course">0.95</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell64/buy32" title="Обменять Payeer, RUR на Рубли, Яндекс"><span class="course">0.971</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell64/buy7" title="Обменять Payeer, RUR на Гривны, Приват24"><span class="course">0.371</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell64/buy52" title="Обменять Payeer, RUR на VISA/MC, USD"><span class="course">0.014</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell64/buy31" title="Обменять Payeer, RUR на UAH, VISA/MC"><span class="course">0.365</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell64/buy39" title="Обменять Payeer, RUR на RUR, VISA/MC"><span class="course">0.95</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell64/buy20" title="Обменять Payeer, RUR на Рубли, Альфа-банк"><span class="course">0.95</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell64/buy19" title="Обменять Payeer, RUR на Рубли, ВТБ"><span class="course">0.95</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell64/buy26" title="Обменять Payeer, RUR на Рубли, Сбербанк"><span class="course">0.95</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell64/buy38" title="Обменять Payeer, RUR на Рубли, Тинькофф Банк"><span class="course">0.95</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell64/buy35" title="Обменять Payeer, RUR на Рубли, Рус.Стандарт"><span class="course">0.95</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell64/buy8" title="Обменять Payeer, RUR на Рубли"><span class="course">0.95</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item69" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell69/buy57" title="Обменять EXMO RUB на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell69/buy16" title="Обменять EXMO RUB на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell69/buy28" title="Обменять EXMO RUB на Perfect Money EUR"><span class="course">0.014</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell69/buy67" title="Обменять EXMO RUB на EXMO USD"><span class="course">0.015</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell69/buy58" title="Обменять EXMO RUB на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell69/buy62" title="Обменять EXMO RUB на Payeer, EUR"><span class="course">0.014</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell69/buy64" title="Обменять EXMO RUB на Payeer, RUR"><span class="course">0.98</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell69/buy51" title="Обменять EXMO RUB на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell69/buy59" title="Обменять EXMO RUB на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell69/buy55" title="Обменять EXMO RUB на AdvCash, RUR"><span class="course">0.971</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell69/buy43" title="Обменять EXMO RUB на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell69/buy56" title="Обменять EXMO RUB на QIWI"><span class="course">0.92</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell69/buy32" title="Обменять EXMO RUB на Рубли, Яндекс"><span class="course">0.99</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell69/buy7" title="Обменять EXMO RUB на Гривны, Приват24"><span class="course">0.371</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell69/buy52" title="Обменять EXMO RUB на VISA/MC, USD"><span class="course">0.014</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell69/buy31" title="Обменять EXMO RUB на UAH, VISA/MC"><span class="course">0.371</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell69/buy39" title="Обменять EXMO RUB на RUR, VISA/MC"><span class="course">0.9</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell69/buy20" title="Обменять EXMO RUB на Рубли, Альфа-банк"><span class="course">0.9</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell69/buy19" title="Обменять EXMO RUB на Рубли, ВТБ"><span class="course">0.9</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell69/buy26" title="Обменять EXMO RUB на Рубли, Сбербанк"><span class="course">0.9</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell69/buy38" title="Обменять EXMO RUB на Рубли, Тинькофф Банк"><span class="course">0.9</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell69/buy35" title="Обменять EXMO RUB на Рубли, Рус.Стандарт"><span class="course">0.9</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell69/buy8" title="Обменять EXMO RUB на Рубли"><span class="course">0.9</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item16" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell16/buy57" title="Обменять Perfect Money USD на Bitcoin"><span class="course">0.000237</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell16/buy16" title="Обменять Perfect Money USD на Perfect Money USD"><span class="course">0.9</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell16/buy28" title="Обменять Perfect Money USD на Perfect Money EUR"><span class="course">0.873</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell16/buy67" title="Обменять Perfect Money USD на EXMO USD"><span class="course">0.96</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell16/buy69" title="Обменять Perfect Money USD на EXMO RUB"><span class="course">59.487</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell16/buy58" title="Обменять Perfect Money USD на Payeer, USD"><span class="course">0.96</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell16/buy62" title="Обменять Perfect Money USD на Payeer, EUR"><span class="course">0.856</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell16/buy64" title="Обменять Perfect Money USD на Payeer, RUR"><span class="course">60.134</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell16/buy51" title="Обменять Perfect Money USD на AdvCash, USD"><span class="course">0.95</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell16/buy59" title="Обменять Perfect Money USD на AdvCash, EUR"><span class="course">0.856</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell16/buy55" title="Обменять Perfect Money USD на AdvCash, RUR"><span class="course">60.134</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell16/buy43" title="Обменять Perfect Money USD на PayPal"><span class="course">0.9</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell16/buy56" title="Обменять Perfect Money USD на QIWI"><span class="course">59.487</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell16/buy32" title="Обменять Perfect Money USD на Рубли, Яндекс"><span class="course">59.487</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell16/buy7" title="Обменять Perfect Money USD на Гривны, Приват24"><span class="course">24.12</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell16/buy52" title="Обменять Perfect Money USD на VISA/MC, USD"><span class="course">0.9</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell16/buy31" title="Обменять Perfect Money USD на UAH, VISA/MC"><span class="course">24.12</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell16/buy39" title="Обменять Perfect Money USD на RUR, VISA/MC"><span class="course">59.487</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell16/buy20" title="Обменять Perfect Money USD на Рубли, Альфа-банк"><span class="course">59.487</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell16/buy19" title="Обменять Perfect Money USD на Рубли, ВТБ"><span class="course">59.487</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell16/buy26" title="Обменять Perfect Money USD на Рубли, Сбербанк"><span class="course">59.487</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell16/buy38" title="Обменять Perfect Money USD на Рубли, Тинькофф Банк"><span class="course">59.487</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell16/buy35" title="Обменять Perfect Money USD на Рубли, Рус.Стандарт"><span class="course">59.487</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell16/buy8" title="Обменять Perfect Money USD на Рубли"><span class="course">59.487</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item19" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell19/buy57" title="Обменять Рубли, ВТБ на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell19/buy16" title="Обменять Рубли, ВТБ на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell19/buy28" title="Обменять Рубли, ВТБ на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell19/buy67" title="Обменять Рубли, ВТБ на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell19/buy69" title="Обменять Рубли, ВТБ на EXMO RUB"><span class="course">0.909</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell19/buy58" title="Обменять Рубли, ВТБ на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell19/buy62" title="Обменять Рубли, ВТБ на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell19/buy64" title="Обменять Рубли, ВТБ на Payeer, RUR"><span class="course">0.926</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell19/buy51" title="Обменять Рубли, ВТБ на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell19/buy59" title="Обменять Рубли, ВТБ на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell19/buy55" title="Обменять Рубли, ВТБ на AdvCash, RUR"><span class="course">0.943</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell19/buy43" title="Обменять Рубли, ВТБ на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell19/buy32" title="Обменять Рубли, ВТБ на Рубли, Яндекс"><span class="course">0.971</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item20" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell20/buy57" title="Обменять Рубли, Альфа-банк на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell20/buy16" title="Обменять Рубли, Альфа-банк на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell20/buy28" title="Обменять Рубли, Альфа-банк на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell20/buy67" title="Обменять Рубли, Альфа-банк на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell20/buy69" title="Обменять Рубли, Альфа-банк на EXMO RUB"><span class="course">0.893</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell20/buy58" title="Обменять Рубли, Альфа-банк на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell20/buy62" title="Обменять Рубли, Альфа-банк на Payeer, EUR"><span class="course">0.012</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell20/buy64" title="Обменять Рубли, Альфа-банк на Payeer, RUR"><span class="course">0.926</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell20/buy51" title="Обменять Рубли, Альфа-банк на AdvCash, USD"><span class="course">0.014</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell20/buy59" title="Обменять Рубли, Альфа-банк на AdvCash, EUR"><span class="course">0.012</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell20/buy55" title="Обменять Рубли, Альфа-банк на AdvCash, RUR"><span class="course">0.943</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell20/buy43" title="Обменять Рубли, Альфа-банк на PayPal"><span class="course">0.013</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell20/buy32" title="Обменять Рубли, Альфа-банк на Рубли, Яндекс"><span class="course">0.952</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item24" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell24/buy57" title="Обменять Рубли, Cash-in на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell24/buy16" title="Обменять Рубли, Cash-in на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell24/buy28" title="Обменять Рубли, Cash-in на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell24/buy67" title="Обменять Рубли, Cash-in на EXMO USD"><span class="course">0.015</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell24/buy69" title="Обменять Рубли, Cash-in на EXMO RUB"><span class="course">0.943</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell24/buy58" title="Обменять Рубли, Cash-in на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell24/buy62" title="Обменять Рубли, Cash-in на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell24/buy64" title="Обменять Рубли, Cash-in на Payeer, RUR"><span class="course">0.962</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell24/buy51" title="Обменять Рубли, Cash-in на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell24/buy59" title="Обменять Рубли, Cash-in на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell24/buy55" title="Обменять Рубли, Cash-in на AdvCash, RUR"><span class="course">0.962</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell24/buy43" title="Обменять Рубли, Cash-in на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell24/buy32" title="Обменять Рубли, Cash-in на Рубли, Яндекс"><span class="course">0.99</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item26" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell26/buy57" title="Обменять Рубли, Сбербанк на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell26/buy16" title="Обменять Рубли, Сбербанк на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell26/buy28" title="Обменять Рубли, Сбербанк на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell26/buy67" title="Обменять Рубли, Сбербанк на EXMO USD"><span class="course">0.015</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell26/buy69" title="Обменять Рубли, Сбербанк на EXMO RUB"><span class="course">0.909</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell26/buy58" title="Обменять Рубли, Сбербанк на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell26/buy62" title="Обменять Рубли, Сбербанк на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell26/buy64" title="Обменять Рубли, Сбербанк на Payeer, RUR"><span class="course">0.926</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell26/buy51" title="Обменять Рубли, Сбербанк на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell26/buy59" title="Обменять Рубли, Сбербанк на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell26/buy55" title="Обменять Рубли, Сбербанк на AdvCash, RUR"><span class="course">0.943</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell26/buy43" title="Обменять Рубли, Сбербанк на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+</div>
+<div id="buy_item35" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell35/buy57" title="Обменять Рубли, Рус.Стандарт на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell35/buy16" title="Обменять Рубли, Рус.Стандарт на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell35/buy28" title="Обменять Рубли, Рус.Стандарт на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell35/buy67" title="Обменять Рубли, Рус.Стандарт на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell35/buy69" title="Обменять Рубли, Рус.Стандарт на EXMO RUB"><span class="course">0.909</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell35/buy58" title="Обменять Рубли, Рус.Стандарт на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell35/buy62" title="Обменять Рубли, Рус.Стандарт на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell35/buy64" title="Обменять Рубли, Рус.Стандарт на Payeer, RUR"><span class="course">0.926</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell35/buy51" title="Обменять Рубли, Рус.Стандарт на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell35/buy59" title="Обменять Рубли, Рус.Стандарт на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell35/buy55" title="Обменять Рубли, Рус.Стандарт на AdvCash, RUR"><span class="course">0.943</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell35/buy43" title="Обменять Рубли, Рус.Стандарт на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell35/buy32" title="Обменять Рубли, Рус.Стандарт на Рубли, Яндекс"><span class="course">0.971</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item38" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell38/buy57" title="Обменять Рубли, Тинькофф Банк на Bitcoin"><span class="course">0.000003</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell38/buy16" title="Обменять Рубли, Тинькофф Банк на Perfect Money USD"><span class="course">0.015</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell38/buy28" title="Обменять Рубли, Тинькофф Банк на Perfect Money EUR"><span class="course">0.013</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell38/buy67" title="Обменять Рубли, Тинькофф Банк на EXMO USD"><span class="course">0.014</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell38/buy69" title="Обменять Рубли, Тинькофф Банк на EXMO RUB"><span class="course">0.909</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell38/buy58" title="Обменять Рубли, Тинькофф Банк на Payeer, USD"><span class="course">0.015</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell38/buy62" title="Обменять Рубли, Тинькофф Банк на Payeer, EUR"><span class="course">0.013</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell38/buy64" title="Обменять Рубли, Тинькофф Банк на Payeer, RUR"><span class="course">0.926</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell38/buy51" title="Обменять Рубли, Тинькофф Банк на AdvCash, USD"><span class="course">0.015</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell38/buy59" title="Обменять Рубли, Тинькофф Банк на AdvCash, EUR"><span class="course">0.013</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell38/buy55" title="Обменять Рубли, Тинькофф Банк на AdvCash, RUR"><span class="course">0.943</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell38/buy43" title="Обменять Рубли, Тинькофф Банк на PayPal"><span class="course">0.014</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell38/buy32" title="Обменять Рубли, Тинькофф Банк на Рубли, Яндекс"><span class="course">0.971</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item51" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell51/buy57" title="Обменять AdvCash, USD на Bitcoin"><span class="course">0.000244</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell51/buy16" title="Обменять AdvCash, USD на Perfect Money USD"><span class="course">1</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell51/buy28" title="Обменять AdvCash, USD на Perfect Money EUR"><span class="course">0.882</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell51/buy67" title="Обменять AdvCash, USD на EXMO USD"><span class="course">1</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell51/buy69" title="Обменять AdvCash, USD на EXMO RUB"><span class="course">62.074</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell51/buy58" title="Обменять AdvCash, USD на Payeer, USD"><span class="course">0.99</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell51/buy62" title="Обменять AdvCash, USD на Payeer, EUR"><span class="course">0.856</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell51/buy64" title="Обменять AdvCash, USD на Payeer, RUR"><span class="course">59.487</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell51/buy59" title="Обменять AdvCash, USD на AdvCash, EUR"><span class="course">0.856</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell51/buy55" title="Обменять AdvCash, USD на AdvCash, RUR"><span class="course">61.427</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell51/buy43" title="Обменять AdvCash, USD на PayPal"><span class="course">0.9</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell51/buy56" title="Обменять AdvCash, USD на QIWI"><span class="course">60.134</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell51/buy32" title="Обменять AdvCash, USD на Рубли, Яндекс"><span class="course">61.427</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell51/buy7" title="Обменять AdvCash, USD на Гривны, Приват24"><span class="course">24.388</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell51/buy52" title="Обменять AdvCash, USD на VISA/MC, USD"><span class="course">0.9</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell51/buy31" title="Обменять AdvCash, USD на UAH, VISA/MC"><span class="course">24.12</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell51/buy39" title="Обменять AdvCash, USD на RUR, VISA/MC"><span class="course">61.427</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell51/buy20" title="Обменять AdvCash, USD на Рубли, Альфа-банк"><span class="course">61.427</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell51/buy19" title="Обменять AdvCash, USD на Рубли, ВТБ"><span class="course">61.427</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell51/buy26" title="Обменять AdvCash, USD на Рубли, Сбербанк"><span class="course">61.427</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell51/buy38" title="Обменять AdvCash, USD на Рубли, Тинькофф Банк"><span class="course">61.427</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell51/buy35" title="Обменять AdvCash, USD на Рубли, Рус.Стандарт"><span class="course">61.427</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell51/buy8" title="Обменять AdvCash, USD на Рубли"><span class="course">61.427</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item58" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell58/buy57" title="Обменять Payeer, USD на Bitcoin"><span class="course">0.000237</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell58/buy16" title="Обменять Payeer, USD на Perfect Money USD"><span class="course">0.995</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell58/buy28" title="Обменять Payeer, USD на Perfect Money EUR"><span class="course">0.873</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell58/buy67" title="Обменять Payeer, USD на EXMO USD"><span class="course">0.95</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell58/buy69" title="Обменять Payeer, USD на EXMO RUB"><span class="course">58.194</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell58/buy62" title="Обменять Payeer, USD на Payeer, EUR"><span class="course">0.856</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell58/buy64" title="Обменять Payeer, USD на Payeer, RUR"><span class="course">58.841</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell58/buy51" title="Обменять Payeer, USD на AdvCash, USD"><span class="course">0.95</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell58/buy59" title="Обменять Payeer, USD на AdvCash, EUR"><span class="course">0.856</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell58/buy55" title="Обменять Payeer, USD на AdvCash, RUR"><span class="course">59.487</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell58/buy43" title="Обменять Payeer, USD на PayPal"><span class="course">0.9</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell58/buy56" title="Обменять Payeer, USD на QIWI"><span class="course">58.194</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell58/buy32" title="Обменять Payeer, USD на Рубли, Яндекс"><span class="course">58.194</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell58/buy7" title="Обменять Payeer, USD на Гривны, Приват24"><span class="course">24.12</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell58/buy52" title="Обменять Payeer, USD на VISA/MC, USD"><span class="course">0.88</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell58/buy31" title="Обменять Payeer, USD на UAH, VISA/MC"><span class="course">24.12</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell58/buy39" title="Обменять Payeer, USD на RUR, VISA/MC"><span class="course">58.194</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell58/buy20" title="Обменять Payeer, USD на Рубли, Альфа-банк"><span class="course">58.194</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell58/buy19" title="Обменять Payeer, USD на Рубли, ВТБ"><span class="course">58.194</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell58/buy26" title="Обменять Payeer, USD на Рубли, Сбербанк"><span class="course">58.194</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell58/buy38" title="Обменять Payeer, USD на Рубли, Тинькофф Банк"><span class="course">58.194</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell58/buy35" title="Обменять Payeer, USD на Рубли, Рус.Стандарт"><span class="course">58.194</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell58/buy8" title="Обменять Payeer, USD на Рубли"><span class="course">58.194</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item67" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell67/buy57" title="Обменять EXMO USD на Bitcoin"><span class="course">0.000239</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell67/buy16" title="Обменять EXMO USD на Perfect Money USD"><span class="course">0.99</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell67/buy28" title="Обменять EXMO USD на Perfect Money EUR"><span class="course">0.882</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell67/buy69" title="Обменять EXMO USD на EXMO RUB"><span class="course">60.134</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell67/buy58" title="Обменять EXMO USD на Payeer, USD"><span class="course">1</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell67/buy62" title="Обменять EXMO USD на Payeer, EUR"><span class="course">0.873</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell67/buy64" title="Обменять EXMO USD на Payeer, RUR"><span class="course">61.427</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell67/buy51" title="Обменять EXMO USD на AdvCash, USD"><span class="course">0.952</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell67/buy59" title="Обменять EXMO USD на AdvCash, EUR"><span class="course">0.848</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell67/buy55" title="Обменять EXMO USD на AdvCash, RUR"><span class="course">61.427</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell67/buy43" title="Обменять EXMO USD на PayPal"><span class="course">0.9</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell67/buy56" title="Обменять EXMO USD на QIWI"><span class="course">61.427</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell67/buy32" title="Обменять EXMO USD на Рубли, Яндекс"><span class="course">61.427</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell67/buy7" title="Обменять EXMO USD на Гривны, Приват24"><span class="course">23.852</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell67/buy52" title="Обменять EXMO USD на VISA/MC, USD"><span class="course">0.88</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell67/buy31" title="Обменять EXMO USD на UAH, VISA/MC"><span class="course">23.852</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell67/buy39" title="Обменять EXMO USD на RUR, VISA/MC"><span class="course">61.427</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell67/buy20" title="Обменять EXMO USD на Рубли, Альфа-банк"><span class="course">61.427</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell67/buy19" title="Обменять EXMO USD на Рубли, ВТБ"><span class="course">61.427</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell67/buy26" title="Обменять EXMO USD на Рубли, Сбербанк"><span class="course">61.427</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell67/buy38" title="Обменять EXMO USD на Рубли, Тинькофф Банк"><span class="course">61.427</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell67/buy35" title="Обменять EXMO USD на Рубли, Рус.Стандарт"><span class="course">61.427</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell67/buy8" title="Обменять EXMO USD на Рубли"><span class="course">61.427</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item68" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell68/buy57" title="Обменять доллары, Cash-in на Bitcoin"><span class="course">0.000244</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell68/buy16" title="Обменять доллары, Cash-in на Perfect Money USD"><span class="course">0.99</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell68/buy28" title="Обменять доллары, Cash-in на Perfect Money EUR"><span class="course">0.847</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell68/buy67" title="Обменять доллары, Cash-in на EXMO USD"><span class="course">0.99</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell68/buy69" title="Обменять доллары, Cash-in на EXMO RUB"><span class="course">60.78</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell68/buy58" title="Обменять доллары, Cash-in на Payeer, USD"><span class="course">0.99</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell68/buy62" title="Обменять доллары, Cash-in на Payeer, EUR"><span class="course">0.811</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell68/buy64" title="Обменять доллары, Cash-in на Payeer, RUR"><span class="course">62.729</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell68/buy51" title="Обменять доллары, Cash-in на AdvCash, USD"><span class="course">0.99</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell68/buy43" title="Обменять доллары, Cash-in на PayPal"><span class="course">0.926</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell68/buy32" title="Обменять доллары, Cash-in на Рубли, Яндекс"><span class="course">64.66</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+</div>
+<div id="buy_item28" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell28/buy57" title="Обменять Perfect Money EUR на Bitcoin"><span class="course">0.000256</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell28/buy16" title="Обменять Perfect Money EUR на Perfect Money USD"><span class="course">1.077</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell28/buy67" title="Обменять Perfect Money EUR на EXMO USD"><span class="course">1.077</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell28/buy69" title="Обменять Perfect Money EUR на EXMO RUB"><span class="course">67.491</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell28/buy58" title="Обменять Perfect Money EUR на Payeer, USD"><span class="course">1.077</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell28/buy62" title="Обменять Perfect Money EUR на Payeer, EUR"><span class="course">0.98</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell28/buy64" title="Обменять Perfect Money EUR на Payeer, RUR"><span class="course">66.758</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell28/buy51" title="Обменять Perfect Money EUR на AdvCash, USD"><span class="course">1.059</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell28/buy59" title="Обменять Perfect Money EUR на AdvCash, EUR"><span class="course">0.95</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell28/buy55" title="Обменять Perfect Money EUR на AdvCash, RUR"><span class="course">66.024</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell28/buy43" title="Обменять Perfect Money EUR на PayPal"><span class="course">1.012</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell28/buy56" title="Обменять Perfect Money EUR на QIWI"><span class="course">67.491</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell28/buy32" title="Обменять Perfect Money EUR на Рубли, Яндекс"><span class="course">67.491</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell28/buy7" title="Обменять Perfect Money EUR на Гривны, Приват24"><span class="course">27.27</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell28/buy52" title="Обменять Perfect Money EUR на VISA/MC, USD"><span class="course">1.041</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell28/buy31" title="Обменять Perfect Money EUR на UAH, VISA/MC"><span class="course">27.27</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell28/buy39" title="Обменять Perfect Money EUR на RUR, VISA/MC"><span class="course">67.491</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell28/buy20" title="Обменять Perfect Money EUR на Рубли, Альфа-банк"><span class="course">67.491</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell28/buy19" title="Обменять Perfect Money EUR на Рубли, ВТБ"><span class="course">67.491</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell28/buy26" title="Обменять Perfect Money EUR на Рубли, Сбербанк"><span class="course">67.491</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell28/buy38" title="Обменять Perfect Money EUR на Рубли, Тинькофф Банк"><span class="course">67.491</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell28/buy35" title="Обменять Perfect Money EUR на Рубли, Рус.Стандарт"><span class="course">67.491</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell28/buy8" title="Обменять Perfect Money EUR на Рубли"><span class="course">67.491</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item59" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell59/buy57" title="Обменять AdvCash, EUR на Bitcoin"><span class="course">0.000274</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell59/buy16" title="Обменять AdvCash, EUR на Perfect Money USD"><span class="course">1.111</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell59/buy28" title="Обменять AdvCash, EUR на Perfect Money EUR"><span class="course">1</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell59/buy67" title="Обменять AdvCash, EUR на EXMO USD"><span class="course">1.1</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell59/buy69" title="Обменять AdvCash, EUR на EXMO RUB"><span class="course">69.692</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell59/buy58" title="Обменять AdvCash, EUR на Payeer, USD"><span class="course">1.077</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell59/buy62" title="Обменять AdvCash, EUR на Payeer, EUR"><span class="course">1</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell59/buy64" title="Обменять AdvCash, EUR на Payeer, RUR"><span class="course">66.024</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell59/buy51" title="Обменять AdvCash, EUR на AdvCash, USD"><span class="course">1.088</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell59/buy55" title="Обменять AdvCash, EUR на AdvCash, RUR"><span class="course">69.692</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell59/buy43" title="Обменять AdvCash, EUR на PayPal"><span class="course">1.012</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell59/buy56" title="Обменять AdvCash, EUR на QIWI"><span class="course">68.225</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell59/buy32" title="Обменять AdvCash, EUR на Рубли, Яндекс"><span class="course">69.692</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell59/buy7" title="Обменять AdvCash, EUR на Гривны, Приват24"><span class="course">27.27</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell59/buy52" title="Обменять AdvCash, EUR на VISA/MC, USD"><span class="course">1.07</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell59/buy31" title="Обменять AdvCash, EUR на UAH, VISA/MC"><span class="course">27.27</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell59/buy39" title="Обменять AdvCash, EUR на RUR, VISA/MC"><span class="course">64.557</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell59/buy20" title="Обменять AdvCash, EUR на Рубли, Альфа-банк"><span class="course">69.692</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell59/buy19" title="Обменять AdvCash, EUR на Рубли, ВТБ"><span class="course">69.692</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell59/buy26" title="Обменять AdvCash, EUR на Рубли, Сбербанк"><span class="course">69.692</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell59/buy38" title="Обменять AdvCash, EUR на Рубли, Тинькофф Банк"><span class="course">69.692</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell59/buy35" title="Обменять AdvCash, EUR на Рубли, Рус.Стандарт"><span class="course">69.692</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell59/buy8" title="Обменять AdvCash, EUR на Рубли"><span class="course">69.692</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item62" class="buy_items">		<a class="curr70" href="https://e-obmen.net/exchange/sell62/buy57" title="Обменять Payeer, EUR на Bitcoin"><span class="course">0.000268</span><span class="logo"></span><strong>BTC</strong><em><span class="abs">BTC</span><span class="sum">26.71</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell62/buy16" title="Обменять Payeer, EUR на Perfect Money USD"><span class="course">1.1</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell62/buy28" title="Обменять Payeer, EUR на Perfect Money EUR"><span class="course">0.99</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell62/buy67" title="Обменять Payeer, EUR на EXMO USD"><span class="course">1.1</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell62/buy69" title="Обменять Payeer, EUR на EXMO RUB"><span class="course">69.692</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell62/buy58" title="Обменять Payeer, EUR на Payeer, USD"><span class="course">1.1</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell62/buy64" title="Обменять Payeer, EUR на Payeer, RUR"><span class="course">66.024</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell62/buy51" title="Обменять Payeer, EUR на AdvCash, USD"><span class="course">1.059</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell62/buy59" title="Обменять Payeer, EUR на AdvCash, EUR"><span class="course">0.96</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell62/buy55" title="Обменять Payeer, EUR на AdvCash, RUR"><span class="course">66.758</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell62/buy43" title="Обменять Payeer, EUR на PayPal"><span class="course">0.995</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell62/buy56" title="Обменять Payeer, EUR на QIWI"><span class="course">67.491</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell62/buy32" title="Обменять Payeer, EUR на Рубли, Яндекс"><span class="course">69.692</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell62/buy7" title="Обменять Payeer, EUR на Гривны, Приват24"><span class="course">27.27</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell62/buy52" title="Обменять Payeer, EUR на VISA/MC, USD"><span class="course">1.031</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell62/buy31" title="Обменять Payeer, EUR на UAH, VISA/MC"><span class="course">27.27</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell62/buy39" title="Обменять Payeer, EUR на RUR, VISA/MC"><span class="course">66.024</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell62/buy20" title="Обменять Payeer, EUR на Рубли, Альфа-банк"><span class="course">69.692</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell62/buy19" title="Обменять Payeer, EUR на Рубли, ВТБ"><span class="course">69.692</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell62/buy26" title="Обменять Payeer, EUR на Рубли, Сбербанк"><span class="course">69.692</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell62/buy38" title="Обменять Payeer, EUR на Рубли, Тинькофф Банк"><span class="course">69.692</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell62/buy35" title="Обменять Payeer, EUR на Рубли, Рус.Стандарт"><span class="course">69.692</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell62/buy8" title="Обменять Payeer, EUR на Рубли"><span class="course">69.692</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+<div id="buy_item57" class="buy_items">		<a class="curr6" href="https://e-obmen.net/exchange/sell57/buy16" title="Обменять Bitcoin на Perfect Money USD"><span class="course">4014.167</span><span class="logo"></span><strong>PM USD</strong><em><span class="abs">USD</span><span class="sum">67533.25</span></em></a>
+		<a class="curr6" href="https://e-obmen.net/exchange/sell57/buy28" title="Обменять Bitcoin на Perfect Money EUR"><span class="course">3576.259</span><span class="logo"></span><strong>PM EUR</strong><em><span class="abs">EUR</span><span class="sum">67250.35</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell57/buy67" title="Обменять Bitcoin на EXMO USD"><span class="course">3933.073</span><span class="logo"></span><strong>EXMO USD</strong><em><span class="abs">USD</span><span class="sum">108284.60</span></em></a>
+		<a class="curr77" href="https://e-obmen.net/exchange/sell57/buy69" title="Обменять Bitcoin на EXMO RUB"><span class="course">235952.7</span><span class="logo"></span><strong>EXMO RUB</strong><em><span class="abs">RUB</span><span class="sum">84031.30</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell57/buy58" title="Обменять Bitcoin на Payeer, USD"><span class="course">4014.167</span><span class="logo"></span><strong>Payeer, USD</strong><em><span class="abs">USD</span><span class="sum">16969.46</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell57/buy62" title="Обменять Bitcoin на Payeer, EUR"><span class="course">3540.496</span><span class="logo"></span><strong>Payeer, EUR</strong><em><span class="abs">EUR</span><span class="sum">14818.31</span></em></a>
+		<a class="curr20" href="https://e-obmen.net/exchange/sell57/buy64" title="Обменять Bitcoin на Payeer, RUR"><span class="course">238574.4</span><span class="logo"></span><strong>Payeer, RUR</strong><em><span class="abs">RUR</span><span class="sum">217834.47</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell57/buy51" title="Обменять Bitcoin на AdvCash, USD"><span class="course">3811.432</span><span class="logo"></span><strong>AdvCash, USD</strong><em><span class="abs">USD</span><span class="sum">8656.29</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell57/buy59" title="Обменять Bitcoin на AdvCash, EUR"><span class="course">3397.446</span><span class="logo"></span><strong>AdvCash, EUR</strong><em><span class="abs">EUR</span><span class="sum">8198.23</span></em></a>
+		<a class="curr19" href="https://e-obmen.net/exchange/sell57/buy55" title="Обменять Bitcoin на AdvCash, RUR"><span class="course">238574.4</span><span class="logo"></span><strong>AdvCash, RUR</strong><em><span class="abs">RUR</span><span class="sum">871720.90</span></em></a>
+		<a class="curr552" href="https://e-obmen.net/exchange/sell57/buy43" title="Обменять Bitcoin на PayPal"><span class="course">3527.602</span><span class="logo"></span><strong>PayPal, USD</strong><em><span class="abs">USD</span><span class="sum">22523.76</span></em></a>
+		<a class="curr16" href="https://e-obmen.net/exchange/sell57/buy56" title="Обменять Bitcoin на QIWI"><span class="course">238574.4</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618072.78</span></em></a>
+		<a class="curr12" href="https://e-obmen.net/exchange/sell57/buy32" title="Обменять Bitcoin на Рубли, Яндекс"><span class="course">238574.4</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1647543</span></em></a>
+		<a class="curr52" href="https://e-obmen.net/exchange/sell57/buy7" title="Обменять Bitcoin на Гривны, Приват24"><span class="course">97799.72</span><span class="logo"></span><strong>Приват24 грн.</strong><em><span class="abs">Грн.</span><span class="sum">241778.61</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell57/buy52" title="Обменять Bitcoin на VISA/MC, USD"><span class="course">3527.602</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16472.25</span></em></a>
+		<a class="curr522" href="https://e-obmen.net/exchange/sell57/buy31" title="Обменять Bitcoin на UAH, VISA/MC"><span class="course">94539.73</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">115700.28</span></em></a>
+		<a class="curr551" href="https://e-obmen.net/exchange/sell57/buy39" title="Обменять Bitcoin на RUR, VISA/MC"><span class="course">238574.4</span><span class="logo"></span><strong>VISA/MC, RUR</strong><em><span class="abs">Руб.</span><span class="sum">1053640</span></em></a>
+		<a class="curr51" href="https://e-obmen.net/exchange/sell57/buy20" title="Обменять Bitcoin на Рубли, Альфа-банк"><span class="course">238574.4</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">775625.02</span></em></a>
+		<a class="curr50" href="https://e-obmen.net/exchange/sell57/buy19" title="Обменять Bitcoin на Рубли, ВТБ"><span class="course">238574.4</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205338</span></em></a>
+		<a class="curr543" href="https://e-obmen.net/exchange/sell57/buy26" title="Обменять Bitcoin на Рубли, Сбербанк"><span class="course">238574.4</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2874422</span></em></a>
+		<a class="curr62" href="https://e-obmen.net/exchange/sell57/buy38" title="Обменять Bitcoin на Рубли, Тинькофф Банк"><span class="course">238574.4</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947348</span></em></a>
+		<a class="curr55" href="https://e-obmen.net/exchange/sell57/buy35" title="Обменять Bitcoin на Рубли, Рус.Стандарт"><span class="course">238574.4</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">977492.35</span></em></a>
+		<a class="curr0" href="https://e-obmen.net/exchange/sell57/buy8" title="Обменять Bitcoin на Рубли"><span class="course">238574.4</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">3000000</span></em></a>
+</div>
+
+	</div>
+<script type="text/javascript">
+<!--
+var select_items = new Array();
+select_items[0] = '7';
+select_items[1] = '32';
+select_items[2] = '55';
+select_items[3] = '64';
+select_items[4] = '69';
+select_items[5] = '16';
+select_items[6] = '8';
+select_items[7] = '19';
+select_items[8] = '20';
+select_items[9] = '24';
+select_items[10] = '26';
+select_items[11] = '31';
+select_items[12] = '35';
+select_items[13] = '38';
+select_items[14] = '39';
+select_items[15] = '43';
+select_items[16] = '51';
+select_items[17] = '52';
+select_items[18] = '56';
+select_items[19] = '58';
+select_items[20] = '67';
+select_items[21] = '68';
+select_items[22] = '28';
+select_items[23] = '59';
+select_items[24] = '62';
+select_items[25] = '57';
+//-->
+</script>
+
+</div>
+</div>
+
+<div id="block72" class="block">
+<h2 class="block-title">Новости</h2>
+		<div id="news">
+			<div class="news-item">
+				<div class="news-name"><a href="https://e-obmen.net/news/2019-02-24-vkljuchenie-priema-btc" title="Включение приема BTC">Включение приема BTC</a></div><div class="news-date">24.02.19</div>
+				<div class="news-content">
+					<p>Технические работы завершены и вновь принимаем BTC</p>
+				</div>
+			</div>
+			<div class="news-item">
+				<div class="news-name"><a href="https://e-obmen.net/news/2019-02-24-vremenno-otkljuchili-priem-btc" title="Временно отключили прием BTC">Временно отключили прием BTC</a></div><div class="news-date">24.02.19</div>
+				<div class="news-content">
+					<p>В связи с техническими работами на стороне партнера по приему BTC-временно отключили прием BTC на сайте. О включении будет сообщено дополнительно</p>
+				</div>
+			</div>
+			<p class="detail"><a href="https://e-obmen.net/news/" title="Все новости">Все новости</a></p>
+		</div>
+
+</div>
+
+
+
+	</div>
+</div></div>
+
+<div id="footer" align="center">
+	<div class="fl_left"><p>&copy; 2010-<script type="text/javascript">var mdate = new Date(); document.write(mdate.getFullYear());</script>, <a href="https://e-obmen.net/" title="Обменный сервис E-Obmen, Visa, MasterCard, BTC, Perfect Money, Яндекс деньги, QIWI, Advcash, Payeer">e-obmen.net</a></p><a href="http://aranea-studio.com/" title="Создание сайта студия Aranea" target="_blank">Создание сайта Aranea</a></div>
+<div id="block73" class="menu">
+<ul><li id="pid59" class="item-first"><a href="https://e-obmen.net/buy-pin" title="Магазин pin-кодов">Магазин pin-кодов</a></li><li id="pid63"><a href="https://e-obmen.net/rules" title="Правила сервиса e-obmen.net">Правила обменника</a></li><li id="pid64"><a href="https://e-obmen.net/faq" title="Часто задаваемые вопросы по обмену Perfect Money, Liqpay, Egopay">ЧаВо</a></li><li id="pid62"><a href="https://e-obmen.net/reviews" title="Отзывы сервиса E-obmen.net">Отзывы</a></li><li id="pid67"><a href="https://e-obmen.net/perfect-money" title="Описание платежной системы и обмен Perfect Money">Perfect Money</a></li><li id="pid69"><a href="https://e-obmen.net/sberbank" title="Описание интернет банкинга и обмен Сбербанк Онлайн">Sberbank</a></li><li id="pid70"><a href="https://e-obmen.net/VISA-MC" title="Правила вывода на карты VISA/MC">Вывод на карты VISA/MC</a></li><li id="pid61" class="item-last"><a href="https://e-obmen.net/contacts" title="Обратная связь">Контакты</a></li></ul>
+</div>
+
+<div id="block98" class="block-buttons">
+<!-- Код тега ремаркетинга Google -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1033217372;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1033217372/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Поместите этот тег туда, где должна отображаться кнопка +1. -->
+<g:plusone size="tall" annotation="none"></g:plusone>
+
+<!-- Поместите этот вызов функции отображения в соответствующее место. -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'ru'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<style type="text/css">
+.opacity {
+display: inline-block;
+opacity: 0.5;
+filter:alpha(opacity=50);
+}
+.opacity:hover {
+display: inline-block;
+opacity: 1.0;
+filter: alpha(opacity=100);
+}
+</style>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t22.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31' class='opacity'></a>")
+//--></script><!--/LiveInternet-->
+<a href="http://www.bestchange.ru/?p=838" target="_blank"><img src="https://e-obmen.net/files/bestchange.gif" alt="Мониторинг обменников" title="Мониторинг обменников" border="0" class='opacity'></a>
+<a href="http://xrates.ru"><img src="https://e-obmen.net/files/88x31b.gif" width="88" height="31" border="0" alt="Мониторинг обменников XRates.ru" class='opacity'></a>
+<a href="http://extra-change.ru/" target="_blank"><img src="https://e-obmen.net/files/banner2.gif" border="0" height="31" width="88" alt="Удобный мониторинг обменников Extra-Change.ru" class='opacity'></a>
+<a href="http://x-monitor.com" target="_blank"><img src="https://e-obmen.net/files/banner_88x31_5.gif"  border="0" width="88" height="31" alt="Мониторинг обменников" class='opacity'></a>
+
+
+</div>
+
+
+</div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+setSelected('icon_main');
+//-->
+</script>
+
+</body>
+</html>

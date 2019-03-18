@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="ru"><head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8">-->
+
+    <!-- Site Title-->
+    <title>Электронный обменник, онлайн обмен электронных валют - GreenCash</title>
+    <meta name="description" content="Наш электронный обменник позволит выгодно обменять валюту в Москве. Нашим клиентам мы предлагаем надежность, быстрые транзакции, лучшие курсы и минимальные комиссии. С нами работать выгодно!">
+    <meta name="keywords" content="Компания GreenCash, онлайн обменник валют" />
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+    <!-- Stylesheets-->
+    <!--<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,700%7CRubik:300,300i,500,700,900%7CMontserrat:400,700">-->
+    <link rel="stylesheet" type="text/css" href="/assets/templates/greencash/fonts/fonts/opensans.css">
+    <link rel="stylesheet" href="/assets/templates/greencash/css/fonts.css">
+    <link rel="stylesheet" href="/assets/templates/greencash/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="/assets/vendors/toastr-master/toastr.css">
+    <!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
+    <script src='/assets/templates/greencash/js/recaptchapi.js'></script>
+
+    <link rel="stylesheet" href="/assets/templates/greencash/css/style.css">
+    <link rel="stylesheet" href="/assets/modules/frontchat/css/frontchat.css">
+    <link rel="stylesheet" href="/assets/templates/greencash/css/my.css">
+    <!--[if lt IE 10]>
+    <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="/assets/templates/greencash/images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <script src="/assets/templates/greencash/js/html5shiv.min.js"></script>
+    <![endif]-->
+    </head>
+<body class="page2">
+<div class="frontchat">
+    <div class="frontchat_inner">
+        <div class="messager_block" style="display: none;">
+            <div class="message_head">
+                <div class="head_img"></div>
+                <div class="head_text">Green Cash</div>
+                <a href="#" class="head_close">&times;</a>
+            </div>
+            <div class="message_body">
+                <div class="list_messages">
+
+                </div>
+            </div>
+            <div class="message_footer">
+                <div contenteditable="true" id="footer_text" class="footer_text"></div>
+                <a href="#" class="footer_send"></a>
+            </div>
+        </div>
+        <a href="#" class="frontchat_button"></a>
+    </div>
+</div>
+<!-- Page Header-->
+<header class="section page-header">
+    <!-- RD Navbar-->
+    <div class="rd-navbar-wrap rd-navbar-transparent">
+        <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed"
+             data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-fixed"
+             data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static"
+             data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static"
+             data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="40px" data-xl-stick-up-offset="40px"
+             data-xxl-stick-up-offset="40px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+            <div class="rd-navbar-main">
+                <!-- RD Navbar Panel-->
+                <div class="rd-navbar-panel">
+                    <!-- RD Navbar Toggle-->
+                    <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-outer"><span></span></button>
+                    <!-- RD Navbar Brand-->
+                    <div class="rd-navbar-brand"><a class="brand" href="/"><img class="brand-logo-dark"
+                                                                                src="/assets/templates/greencash/images/logo-default-125x45.png"
+                                                                                alt="" width="125" height="45"
+                                                                                srcset="/assets/templates/greencash/images/logo-default-210x76.png 2x"/><img
+                                class="brand-logo-light"
+                                src="/assets/templates/greencash/images/logo-inverse-125x45.png" alt="" width="125"
+                                height="45" srcset="/assets/templates/greencash/images/logo-inverse-210x76.png 2x"/></a>
+                    </div>
+                    <div class="rd-sidebar">
+                        <!--<button class="rd-sidebar__button" data-rd-navbar-toggle="#rd-sidebar__list">
+                            <svg class="rd-sidebar__shape" version="1.1" x="0px" y="0px" width="28px" height="27px" viewbox="0 0 28 27">
+                                <path d="M10,7c0,1.657-1.343,3-3,3H3c-1.657,0-3-1.343-3-3V3c0-1.657,1.343-3,3-3h4c1.657,0,3,1.343,3,3V7z"></path>
+                                <path d="M28,7c0,1.657-1.343,3-3,3h-4c-1.657,0-3-1.343-3-3V3c0-1.657,1.343-3,3-3h4c1.657,0,3,1.343,3,3V7z"></path>
+                                <path d="M10,24c0,1.657-1.343,3-3,3H3c-1.657,0-3-1.343-3-3v-4c0-1.657,1.343-3,3-3h4c1.657,0,3,1.343,3,3V24z"></path>
+                                <path d="M28,24c0,1.657-1.343,3-3,3h-4c-1.657,0-3-1.343-3-3v-4c0-1.657,1.343-3,3-3h4c1.657,0,3,1.343,3,3V24z"></path>
+                            </svg>
+                        </button>   -->
+                        <ul class="rd-sidebar__list context-dark" id="rd-sidebar__list">
+                            <li class="rd-sidebar__list-item">
+                                <div class="rd-sidebar__list-item-inner">
+                                    <div class="icon rd-sidebar__list-item-icon linearicons-envelope"></div>
+                                    <div class="rd-sidebar__list-item-main"><a class="rd-sidebar__list-item-link"
+                                                                               href="contacts.html">Our Contacts</a>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="rd-sidebar__list-item">
+                                <div class="rd-sidebar__list-item-inner">
+                                    <div class="icon rd-sidebar__list-item-icon linearicons-cash-dollar"></div>
+                                    <div class="rd-sidebar__list-item-main"><a class="rd-sidebar__list-item-link"
+                                                                               href="#">Create a Wallet</a></div>
+                                </div>
+                            </li>
+                            <li class="rd-sidebar__list-item">
+                                <div class="rd-sidebar__list-item-inner">
+                                    <div class="icon rd-sidebar__list-item-icon linearicons-share2"></div>
+                                    <div class="rd-sidebar__list-item-main">
+                                        <ul class="list-inline list-inline-xs">
+                                            <li><a class="icon icon-md link-light mdi mdi-facebook" href="#"></a></li>
+                                            <li><a class="icon icon-md link-light mdi mdi-twitter" href="#"></a></li>
+                                            <li><a class="icon icon-md link-light mdi mdi-youtube-play" href="#"></a>
+                                            </li>
+                                            <li><a class="icon icon-md link-light mdi mdi-instagram" href="#"></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="rd-sidebar__list-item">
+                                <div class="rd-sidebar__list-item-inner">
+                                    <div class="icon rd-sidebar__list-item-icon linearicons-bubble-dots"></div>
+                                    <div class="rd-sidebar__list-item-main"><a class="rd-sidebar__list-item-link"
+                                                                               href="#">Question Room</a></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="topwmid">
+                    WMID: 342364964284
+                </div>
+                <div class="rd-navbar-nav-outer">
+                    <!-- RD Navbar Nav-->
+                    <ul class="rd-navbar-nav">
+                                                        <li class="rd-nav-item active">
+                                    <a class="rd-nav-link" href="/">Главная</a></li>
+                                                            <li class="rd-nav-item">
+                                    <a class="rd-nav-link" href="/mainpage/charge">Пополнить</a></li>
+                                                            <li class="rd-nav-item">
+                                    <a class="rd-nav-link" href="/mainpage/out">Вывести</a></li>
+                                                            <li class="rd-nav-item">
+                                    <a class="rd-nav-link" href="/blogs">Блог</a></li>
+                                                            <li class="rd-nav-item">
+                                    <a class="rd-nav-link" href="/page/rates">Тарифы</a></li>
+                                                            <li class="rd-nav-item">
+                                    <a class="rd-nav-link" href="/page/contacts">Контакты</a></li>
+                                                            <li class="rd-nav-item">
+                                    <a class="rd-nav-link" href="http://wiki.webmoney.ru/projects/webmoney/wiki/Условия_для_обменных_пунктов">Информация</a></li>
+                                                    
+<li class="rd-nav-item active"><a class="rd-nav-link" href="/">RU</a></li>
+<li class="rd-nav-item"><a class="rd-nav-link" href="/en">EN</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+
+<!-- Slider-->
+<section class="section bg-gray-800">
+    <div class="slick-group-slider slick-transparent-header bg-gray-700">
+        <div class="carousel-parent-outer">
+            <svg class="carousel-parent-shape" width="1216px" height="625px" viewBox="0 0 1216 625"
+                 preserveAspectRatio="none">
+                <path fill-rule="evenodd"
+                      d="M-0.000,311.382 C-0.000,311.382 62.999,372.037 102.727,273.078 C118.498,233.793 168.280,306.657 186.342,249.138 C203.245,195.310 231.848,195.447 246.067,143.801 C266.856,68.285 291.661,3.867 310.569,0.159 C341.089,-5.826 374.891,182.287 422.852,134.224 C468.160,88.821 511.245,170.842 535.135,177.317 C545.468,180.117 579.312,194.321 613.972,189.287 C635.941,186.097 655.397,155.251 678.475,172.529 C726.537,208.512 730.880,342.989 781.202,397.567 C807.168,425.730 831.757,373.189 862.428,356.869 C890.078,342.156 923.937,365.255 946.043,356.869 C975.409,345.727 998.875,341.716 1015.324,294.624 C1027.442,259.931 1032.880,184.101 1048.770,155.771 C1068.789,120.077 1110.838,156.070 1129.996,129.436 C1169.461,74.571 1216.000,43.251 1216.000,43.251 L1216.000,624.999 L-0.000,624.999 L-0.000,311.382 Z"></path>
+            </svg>
+            <div class="slick-slider carousel-parent" data-arrows="true" data-loop="true" data-dots="true"
+                 data-swipe="true" data-items="1" data-fade="true" data-child="#slider-child-carousel"
+                 data-for="#slider-child-carousel" data-autoplay="true">
+                <div>
+                    <div class="slick-slide-caption">
+                        <div class="box-inset-4">
+                            <h2 class="wow fadeInLeftSmall" style="visibility: visible; animation-name: fadeInLeftSmall;">Легко <strong>конвертировать</strong> любую валюту</h2>
+
+<p class="wow fadeInLeftSmall" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeftSmall;">Миллионы людей сотворили состояние с биткойнами! Проверьте текущие курсы обмена и получите прибыль от покупки / продажи биткойнов.</p>                                                    </div>
+                        <form class="form form-lg form-calculator form-btc-calculator wow fadeInLeftSmall"
+                              data-wow-delay=".2s">
+                            <input class="form-input form-input-result" value="1000" name="summ1">
+                            <div class="form-wrap">
+                                <select class="form-input select-currency select-primary select-payment"
+                                        name="payment_one" data-dropdown-class="select-primary-dropdown">
+                                                                            <option
+                                        value="CASHRUB">Нал Руб</option>                                        <option
+                                        value="CASHUSD">USD</option>                                        <option
+                                        value="QWRUB">Qiwi</option>                                        <option
+                                        value="SBERRUB">Сбербанк</option>                                        <option
+                                        value="SKLUSD">Skrill</option>                                        <option
+                                        value="TCSBRUB">Тинькофф</option>                                        <option
+                                        value="USD">USD</option>                                        <option
+                                        value="USDT">USDT</option>                                        <option
+                                        value="WMR">Wmr</option>                                        <option
+                                        value="WMZ">Wmz</option>                                        <option
+                                        value="YAMRUB">Яндекс деньги</option>                                        <option
+                                        value="ePaymaents">ePaymaents</option>                                </select>
+                            </div>
+                            <div class="form-info"> =</div>
+                            <input class="form-input form-input-result" placeholder="" disabled="disabled" name="summ2">
+                            <div class="form-wrap">
+                                <select class="form-input select-currency select-primary select-payment"
+                                        name="payment_two" data-dropdown-class="select-primary-dropdown">
+                                                                    </select>
+                            </div>
+                        </form>
+                        <p class="wow fadeInLeftSmall" data-wow-delay=".2s"><span style="opacity: .5; color: #fff;">*Все пары обмена проводятся в ручном режиме. Для этого свяжитесь с оператором.</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="slick-slider carousel-child slick-animation-scale" id="slider-child-carousel"
+             data-for=".carousel-parent" data-arrows="false" data-loop="true" data-dots="false" data-swipe="false"
+             data-fade="true" data-items="1" data-slide-to-scroll="1" data-autoplay="true">
+                                        <div class="item">
+                                <div class="slick-img section-overlay-4"
+                                     style="background-image: url('/uploads/blog/slider/slider-slide-1.jpg');"></div>
+                            </div>
+                                                        <div class="item">
+                                <div class="slick-img section-overlay-4"
+                                     style="background-image: url('/uploads/blog/slider/slider-slide-2.jpg');"></div>
+                            </div>
+                                                        <div class="item">
+                                <div class="slick-img section-overlay-4"
+                                     style="background-image: url('/uploads/blog/slider/slider-slide-3.jpg');"></div>
+                            </div>
+                                                </div>
+    </div>
+</section>
+
+<section >
+    <div class="ccc-widget ccc-header-v2"
+         style="background: rgb(255, 255, 255); float: right; box-sizing: border-box; line-height: 1;">
+                    <div class="ccc-coin-container">
+                <div class="ccc-price" style="float: left;">
+                    <div class="priceTabContent priceTabContentUSD" style="display: block;">
+                        <div class="priceName">BTCUSD</div>
+                        <div class="priceValue" style="color: #000;"><a href="#">4058.2</a></div>
+                                                <div class="priceChange priceChangeDown">
+                            <img class="priceChangeImage" alt="price"
+                                 style="margin-right: 5px; vertical-align: middle;"
+                                 src="/assets/templates/greencash/images/str1.svg" />
+                            <span>-0.05 %</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="ccc-coin-container">
+                <div class="ccc-price" style="float: left;">
+                    <div class="priceTabContent priceTabContentUSD" style="display: block;">
+                        <div class="priceName">LTCUSD</div>
+                        <div class="priceValue" style="color: #000;"><a href="#">60.222</a></div>
+                                                <div class="priceChange priceChangeDown">
+                            <img class="priceChangeImage" alt="price"
+                                 style="margin-right: 5px; vertical-align: middle;"
+                                 src="/assets/templates/greencash/images/str1.svg" />
+                            <span>-2.54 %</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="ccc-coin-container">
+                <div class="ccc-price" style="float: left;">
+                    <div class="priceTabContent priceTabContentUSD" style="display: block;">
+                        <div class="priceName">LTCBTC</div>
+                        <div class="priceValue" style="color: #000;"><a href="#">0.014872</a></div>
+                                                <div class="priceChange priceChangeDown">
+                            <img class="priceChangeImage" alt="price"
+                                 style="margin-right: 5px; vertical-align: middle;"
+                                 src="/assets/templates/greencash/images/str1.svg" />
+                            <span>-2.07 %</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="ccc-coin-container">
+                <div class="ccc-price" style="float: left;">
+                    <div class="priceTabContent priceTabContentUSD" style="display: block;">
+                        <div class="priceName">ETHUSD</div>
+                        <div class="priceValue" style="color: #000;"><a href="#">140.29</a></div>
+                                                <div class="priceChange priceChangeDown">
+                            <img class="priceChangeImage" alt="price"
+                                 style="margin-right: 5px; vertical-align: middle;"
+                                 src="/assets/templates/greencash/images/str1.svg" />
+                            <span>-1.24 %</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="ccc-coin-container">
+                <div class="ccc-price" style="float: left;">
+                    <div class="priceTabContent priceTabContentUSD" style="display: block;">
+                        <div class="priceName">ETHBTC</div>
+                        <div class="priceValue" style="color: #000;"><a href="#">0.034633</a></div>
+                                                <div class="priceChange priceChangeDown">
+                            <img class="priceChangeImage" alt="price"
+                                 style="margin-right: 5px; vertical-align: middle;"
+                                 src="/assets/templates/greencash/images/str1.svg" />
+                            <span>-0.67 %</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="ccc-coin-container">
+                <div class="ccc-price" style="float: left;">
+                    <div class="priceTabContent priceTabContentUSD" style="display: block;">
+                        <div class="priceName">ETCBTC</div>
+                        <div class="priceValue" style="color: #000;"><a href="#">0.0010995</a></div>
+                                                <div class="priceChange priceChangeDown">
+                            <img class="priceChangeImage" alt="price"
+                                 style="margin-right: 5px; vertical-align: middle;"
+                                 src="/assets/templates/greencash/images/str1.svg" />
+                            <span>-0.73 %</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                </div>
+</section>
+<!-- Welcome-->
+<section class="section section-xl bg-white">
+    <div class="container">
+        <div class="row row-50 justify-content-center flex-md-row-reverse align-items-center">
+            <div class="col-md-10 col-lg-6">
+                <h1 class="text-initial-letter">GREENCASH - ЛУЧШИЙ ОБМЕННИК ЭЛЕКТРОННЫХ ДЕНЕГ!</h1>
+ <div class="divider-modern"></div>
+ <p>Бизнес в интернете развивается космическими темпами. В сети предлагается огромное количество товаров и услуг – от косметики до обучения иностранным языкам. Работая в электронной сети, без электронных денег – не обойтись. Выгодно купить или вывести в наличные ту или иную электронную валюту можно в нашей компании!</p>                <div class="group group-middle">
+                    <a class="button button-primary" href="/page/contacts">Напишите нам</a>                </div>
+            </div>
+            <div class="col-md-10 col-lg-6">
+                <div class="image-group-1"><img src="/assets/templates/greencash/images/about-image-1-399x307.jpg"
+                                                alt="" width="399" height="307"
+                                                data-parallax-scroll="{&quot;y&quot;: 110, &quot;from-scroll&quot;: 20, &quot;smoothness&quot;: 30 }"/><img
+                        class="shadow-sm" src="/assets/templates/greencash/images/about-image-2-421x332.jpg" alt=""
+                        width="421" height="332"
+                        data-parallax-scroll="{&quot;y&quot;: -50, &quot;from-scroll&quot;: 20, &quot;smoothness&quot;: 30}"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features-->
+<section class="section section-sm bg-gray-700">
+    <div class="container">
+        <div class="row row-50">
+            <div class="col-sm-6 col-md-3">
+ <article class="box-elegant">
+ <div class="box-elegant__header"><span class="icon box-elegant__icon linearicons-bag-euro"></span>
+ <p class="box-elegant__title">пополнить</p>
+ </div>
+ <div class="box-elegant__text">
+ <p>Пополнить кошелек любой электронной валюты быстро и легко у нас в офисе или дистанционно.</p>
+ </div>
+ </article>
+ </div>
+ <div class="col-sm-6 col-md-3">
+ <article class="box-elegant">
+ <div class="box-elegant__header"><span class="icon box-elegant__icon linearicons-paper-plane"></span>
+ <p class="box-elegant__title">вывести</p>
+ </div>
+ <div class="box-elegant__text">
+ <p>Вывести в наличные или поменять электронную валюту оперативно у нас в офисе или дистанционно </p>
+ </div>
+ </article>
+ </div>
+ <div class="col-sm-6 col-md-3">
+ <article class="box-elegant">
+ <div class="box-elegant__header"><span class="icon box-elegant__icon linearicons-bag2"></span>
+ <p class="box-elegant__title">хранить</p>
+ </div>
+ <div class="box-elegant__text">
+ <p>Храните свои биткойны и другую электронную валюту с абсолютной уверенностью в своей финансовой безопасности.</p>
+ </div>
+ </article>
+ </div>
+ <div class="col-sm-6 col-md-3">
+ <article class="box-elegant">
+ <div class="box-elegant__header"><span class="icon box-elegant__icon linearicons-download"></span>
+ <p class="box-elegant__title">получать</p>
+ </div>
+ <div class="box-elegant__text">
+ <p>Самую актуальную информацию о состоянии рынка электронной валюты абсолютно бесплатно</p>
+ </div>
+ </article>
+ </div>        </div>
+    </div>
+</section>
+
+<!-- What bitcoin offers you-->
+<section class="section section-xl bg-white text-center text-lg-left">
+    <div class="container">
+        <div class="row row-30">
+            <div class="col-lg-5">
+                <div class="row row-30">
+                    <div class="col-12">
+                        <h2>О нас</h2>
+ <p><span style="max-width: 430px;">Мы это выгодный, надежный и лучший сервис для обмена электронных валют! Наша команда всегда старается подобрать для Вас самые выгодные условия обмена, <a href="/mainpage/charge">покупки</a> и <a href="/mainpage/out">вывода Webmoney</a>. У нас Вы можете оперативно, удобно и легко произвести обмен с WMZ, WMR, WME, WMX на наличные, любую карту банка и на другие виды электронных валют. Аттестованный обменный пункт GreenCash – надежный гарант безопасности обмена ваших титульных знаков. Мы заботимся о наших клиентах и непрерывно совершенствуемся.</span></p>
+ <br>
+ <h6>Ввод/вывод Webmoney для юридических и физических лиц</h6>
+ <p><span style="max-width: 430px;">Мы предоставляем услуги обмена WebMoney физическим и юридическим лицам. Для уточнения деталей работы с юридическими лицами свяжитесь любым удобным способом с консультантом нашей компании.</span></p>                    </div>
+                </div>
+            </div>
+            <div class="col-lg-7 wow fadeInUpSmall" data-wow-delay=".1s">
+                <h2>Правила Обмена.</h2>
+ <div class="col-sm-12 col-lg-12">
+ <!-- Bootstrap card-->
+ <article class="card card-custom card-line">
+ <div class="card-header" id="accordion-faq-1Heading1">
+ <div class="card-title"><a role="button" data-toggle="collapse" data-parent="#accordion-faq-1" href="#accordion-faq-1Collapse1" aria-controls="accordion-faq-1Collapse1" aria-expanded="true">1 ШАГ
+ <div class="card-arrow"></div></a>
+ </div>
+ </div>
+ <div class="collapse show" id="accordion-faq-1Collapse1" role="tabpanel" aria-labelledby="accordion-faq-1Heading1">
+ <div class="card-body">
+ <p>Заполните заявку на сайте или напишите нашему специалисту в Телеграм &nbsp;<a href="https://t.me/GreenCash_wm">@GreenCash_wm&nbsp;</a>.</p>
+ </div>
+ </div>
+ </article>
+ <!-- Bootstrap card-->
+ <article class="card card-custom card-line">
+ <div class="card-header" id="accordion-faq-1Heading2">
+ <div class="card-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-faq-1" href="#accordion-faq-1Collapse2" aria-controls="accordion-faq-1Collapse2" aria-expanded="false">2 ШАГ
+ <div class="card-arrow"></div></a>
+ </div>
+ </div>
+ <div class="collapse" id="accordion-faq-1Collapse2" role="tabpanel" aria-labelledby="accordion-faq-1Heading2" style="">
+ <div class="card-body">
+ <p>Время обработки заявки 5-10 минут (заявки, поданные в не рабочее время, обрабатываются на следующий день).</p>
+ </div>
+ </div>
+ </article>
+ <!-- Bootstrap card-->
+ <article class="card card-custom card-line">
+ <div class="card-header" id="accordion-faq-1Heading3" >
+ <div class="card-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-faq-1" href="#accordion-faq-1Collapse3" aria-controls="accordion-faq-1Collapse3" aria-expanded="false">3 ШАГ
+ <div class="card-arrow"></div></a>
+ </div>
+ </div>
+ <div class="collapse" id="accordion-faq-1Collapse3" role="tabpanel" aria-labelledby="accordion-faq-1Heading3">
+ <div class="card-body">
+ <p>Все операции происходят в ручном и полуавтоматическом режиме</p>
+ </div>
+ </div>
+ </article>
+ <!-- Bootstrap card-->
+ <article class="card card-custom card-line">
+ <div class="card-header" id="accordion-faq-1Heading4">
+ <div class="card-title"><a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-faq-1" href="#accordion-faq-1Collapse4" aria-controls="accordion-faq-1Collapse4" aria-expanded="false">4 ШАГ
+ <div class="card-arrow"></div></a>
+ </div>
+ </div>
+ <div class="collapse" id="accordion-faq-1Collapse4" role="tabpanel" aria-labelledby="accordion-faq-1Heading4">
+ <div class="card-body">
+ <p>Минимальная сумма для ввода/вывода вебмани 100 WMR, 5 WMZ или 5 WME.</p>
+ </div>
+ </div>
+ </article>
+ </div>                            </div>
+        </div>
+    </div>
+</section>
+
+<!-- How it works-->
+<section class="section section-lg bg-gray-100 text-center">
+    <div class="container container-md-smaller">
+        <div class="row justify-content-center">
+ <div class="col-sm-10 col-md-12">
+ <h2 class="wow fadeInUpSmall" data-wow-delay=".1s"><span class="d-inline-block" style="max-width: 570px;">НАШИ ПРЕИМУЩЕСТВА:</span></h2>
+ </div>
+ </div>
+ <ul class="list-steps">
+ <li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".1s">
+ <div class="list-steps__item-counter"></div>
+ <div class="list-steps__item-divider"></div>
+ <div class="list-steps__item-main">
+ <h4><a href="#">Прием заявок – круглосуточно</a></h4>
+ <p></p>
+ </div>
+ </li>
+ <li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".2s">
+ <div class="list-steps__item-counter"></div>
+ <div class="list-steps__item-divider"></div>
+ <div class="list-steps__item-main">
+ <h4><a href="#">Работаем 7 дней в неделю</a></h4>
+ <p></p>
+ </div>
+ </li>
+ <li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".3s">
+ <div class="list-steps__item-counter"></div>
+ <div class="list-steps__item-divider"></div>
+ <div class="list-steps__item-main">
+ <h4><a href="#">Выгодные тарифы</a></h4>
+ <p></p>
+</div>
+ </li>
+<li class="list-steps__item wow fadeInLeftSmall" data-wow-delay=".3s">
+ <div class="list-steps__item-counter"></div>
+ <div class="list-steps__item-divider"></div>
+ <div class="list-steps__item-main">
+ <h4><a href="#">Индивидуальный подход к клиенту</a></h4>
+ <p></p>
+</div>
+ </li>
+ </ul>    </div>
+</section>
+
+<!-- CTA-->
+<section class="section parallax-container section-md bg-gray-700 text-center section-overlay-1 text-lg-left"
+         data-parallax-img="/assets/templates/greencash/images/home-parallax-1.jpg">
+    <div class="parallax-content">
+        <div class="container">
+            <div class="row row-30 align-items-center">
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Feedback-->
+<section class="section bg-gray-100 slider-group_testimonials">
+    <div class="slick-slider carousel-child wow fadeIn" id="child-carousel" data-for=".carousel-parent" data-arrows="false" data-loop="true" data-dots="false" data-swipe="false" data-fade="true" data-swiper="true" data-items="1">
+ <div class="item"><img src="/assets/templates/greencash/images/home-testimonials-1-744x623.png" alt="" width="744" height="623"/>
+ </div>
+ <div class="item"><img src="/assets/templates/greencash/images/home-testimonials-2-744x623.png" alt="" width="744" height="623"/>
+ </div>
+ <div class="item"><img src="/assets/templates/greencash/images/home-testimonials-3-744x623.png" alt="" width="744" height="623"/>
+ </div>
+ </div>
+ <div class="container">
+ <div class="row justify-content-end">
+ <div class="col-md-8 col-lg-7">
+ <h2><strong>Что</strong> говорят люди</h2>
+ <div class="slick-slider carousel-parent" data-arrows="false" data-loop="false" data-dots="true" data-swipe="false" data-items="1" data-fade="true" data-child="#child-carousel" data-for="#child-carousel">
+ <div class="item">
+ <blockquote class="quote-classic">
+ <div class="quote-classic__text">
+ <p> Я увлекся криптовалютой давно. Считаю, что за ней - будущее. Но пришлось потратить время на поиск надежных партнеров для обмена. Удобное расположение офиса, положительная репутация, адекватная комиссия и дружелюбная атмосфера - основные причины, почему я выбрал именно эту команду. Более того, я с уверенностью рекомендую сервис своим друзьям и коллегам.</p>
+ </div>
+ <div class="quote-classic__meta">
+ <cite class="quote-classic__cite">Виктор Чернышев</cite>
+ <p class="quote-classic__info">Бизнесмен </p>
+ </div>
+ </blockquote>
+ </div>
+ <div class="item">
+ <blockquote class="quote-classic">
+ <div class="quote-classic__text">
+ <p>Постоянно пополняем свой электронный кошелек WebMoney через сервис GreenCash на самых выгодных условиях для своих партнерских выплат. Очень довольны оперативностью, лояльностью и способностью решать нестандартные задачи</p>
+ </div>
+ <div class="quote-classic__meta">
+ <cite class="quote-classic__cite">Виктория Крылова </cite>
+ <p class="quote-classic__info">Руководитель отдела выплат</p>
+ </div>
+ </blockquote>
+ </div>
+ <div class="item">
+ <blockquote class="quote-classic">
+ <div class="quote-classic__text">
+ <p>Регулярно вывожу с Яндекс и Киви кошельков. Быстро, удобно и легко. Чувствуется уровень.</p>
+ </div>
+ <div class="quote-classic__meta">
+ <cite class="quote-classic__cite">Сергей Кузнецов </cite>
+ <p class="quote-classic__info">дизайнер </p>
+ </div>
+ </blockquote>
+ </div>
+ </div>
+ </div>
+ </div>
+ </div>
+ <p class="text-extra-large">Обратная связь</p></section>
+
+<!--include ../sections/_section-main-features-->
+<!-- News-->
+<section class="section parallax-container section-md bg-gray-700 section-overlay-2 text-center text-lg-left"
+         data-parallax-img="/assets/templates/greencash/images/home-parallax-2.jpg">
+    <div class="parallax-content">
+        <div class="container">
+            <div class="row row-30 flex-lg-row-reverse justify-content-center align-items-center">
+                <div class="col-sm-10 col-lg-5">
+ <div class="box-inset-2">
+ <h6 class="wow fadeInRightSmall">В центре внимания</h6>
+ <h2 class="wow fadeInRightSmall" data-wow-delay=".1s">Наш <strong>Блог</strong></h2>
+ <p class="wow fadeInRightSmall" data-wow-delay=".2s">Прочитайте последние статьи, новости и истории, связанные с электронной валютой </p><a class="button button-primary wow fadeIn" data-wow-delay=".3s" href="/blogs">Читать</a>
+ </div>
+ </div>
+ <div class="col-lg-7">
+ <div class="post-minimal-group">
+ <!-- 1-->
+ <!-- Owl Carousel-->
+ <div class="owl-carousel" data-items="1" data-dots="false" data-nav="false" data-loop="true" data-margin="10" data-autoplay="true" data-mouse-drag="false" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay-timeout="4012">
+ <article class="post-minimal">
+ <div class="post-minimal__time">Анна, Руководитель Партнёрской программы</div>
+ <p>Периодически обращаемся в GreenCash. Всегда приятно с ними работать!)</p>
+ </article>
+ <article class="post-minimal">
+ <div class="post-minimal__time">Евгений, Руководитель Ico-проекта</div>
+ <p>Давно сотрудничаем с GreenCash. Уровень работы - на высоте!</p>
+ </article>
+ <article class="post-minimal">
+ <div class="post-minimal__time">Дмитрий, Менеджер</div>
+ <p>Нашел информацию на форуме. Сработали быстро. Я доволен.</p>
+ </article>
+ </div>
+ <!-- 2-->
+ <!-- Owl Carousel-->
+ <div class="owl-carousel" data-items="1" data-dots="false" data-nav="false" data-loop="true" data-margin="10" data-autoplay="true" data-mouse-drag="false" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay-timeout="5017">
+ <article class="post-minimal">
+ <div class="post-minimal__time">Евгений, Руководитель Ico-проекта</div>
+ <p>Давно сотрудничаем с GreenCash. Уровень работы - на высоте!</p>
+ </article>
+ <article class="post-minimal">
+ <div class="post-minimal__time">Дмитрий, Менеджер</div>
+ <p>Нашел информацию на форуме. Сработали быстро. Я доволен.</p>
+ </article>
+ <article class="post-minimal">
+ <div class="post-minimal__time">Анна, Руководитель Партнёрской программы</div>
+ <p>Периодически обращаемся в GreenCash. Всегда приятно с ними работать!)</p>
+ </article>
+ </div>
+ <!-- 3-->
+ <!-- Owl Carousel-->
+ <div class="owl-carousel" data-items="1" data-dots="false" data-nav="false" data-loop="true" data-margin="10" data-autoplay="true" data-mouse-drag="false" data-animation-in="fadeIn" data-animation-out="fadeOut" data-autoplay-timeout="6035">
+ <article class="post-minimal">
+ <div class="post-minimal__time">Дмитрий, Менеджер</div>
+ <p>Нашел информацию на форуме. Сработали быстро. Я доволен.</p>
+ </article>
+ <article class="post-minimal">
+ <div class="post-minimal__time">Анна, Руководитель Партнёрской программы</div>
+ <p>Периодически обращаемся в GreenCash. Всегда приятно с ними работать!)</p>
+ </article>
+ <article class="post-minimal">
+ <div class="post-minimal__time">Евгений, Руководитель Ico-проекта</div>
+ <p>Давно сотрудничаем с GreenCash. Уровень работы - на высоте!</p>
+ </article>
+ </div>
+ </div>
+ </div>            </div>
+        </div>
+    </div>
+</section>
+<div class="botch"></div>
+<section class="section parallax-container section-md bg-gray-700 section-overlay-1 text-center"
+         data-parallax-img="/assets/templates/greencash/images/home-parallax-1.jpg">
+    <div class="parallax-content">
+        <div class="container">
+            <div class="row row-30 align-items-center">
+                                    <div class="col-lg-12 wow fadeInLeftSmall" style="visibility: visible; animation-name: fadeInLeftSmall;">
+                        <h2>Мы на карте</h2>
+                        <p class="big">г.Москва, 5-й Донской проезд, 4, 14 проходная</p>
+                    </div>
+                                </div>
+        </div>
+    </div>
+</section>
+<!-- Feedback-->
+<section class="section">
+    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A70f812409ff461c227cb0a701dd547c8d34a2a84a33079a5cfc29fc18b30c275&amp;width=100%&amp;height=445&amp;lang=ru_RU&amp;scroll=false"></script>
+</section>
+<!-- Page Footer-->
+<footer class="section footer-classic context-dark">
+    <div class="container">
+        <div class="footer-classic__main">
+            <div class="row row-50">
+                <div class="col-lg-6">
+                    <div class="unit unit-spacing-sm flex-column flex-sm-row align-items-sm-center">
+                        <div class="unit-left"><a class="brand" href="/"><img class="brand-logo-dark" src="/assets/templates/greencash/images/logo-default-125x45.png" alt="" width="125" height="45" srcset="/assets/templates/greencash/images/logo-default-210x76.png 2x"/><img class="brand-logo-light" src="/assets/templates/greencash/images/logo-inverse-125x45.png" alt="" width="125" height="45" srcset="/assets/templates/greencash/images/logo-inverse-210x76.png 2x"/></a>
+                        </div>
+                        <div class="unit-body">
+                            <p><span style="max-width: 380px;">GreenCash является лидером обмена валютами №1, предлагая вам лучшие коэффициенты конверсии.</span></p>                        </div>
+                    </div>
+                    <div class="group group-lg group-middle">
+                        <p class="large">Поделиться</p>                        <div class="group-item">
+                                                        <ul class="list-inline list-inline-sm">
+                                <li><a class="icon icon-md link-default mdi mdi-facebook" href="https://www.facebook.com/sharer.php?u=https://greencash-wm.ru:443/"></a></li>
+                                <li><a class="icon icon-md link-default mdi mdi-twitter" href="http://twitter.com/share?text=&url=https://greencash-wm.ru:443/"></a></li>
+                                <li><a class="icon icon-md link-default mdi mdi-vk" href="https://vk.com/share.php?url=https://greencash-wm.ru:443/"></a></li>
+                            </ul>
+                        </div>
+                        <br>
+                        <div>
+
+                                <ul class="footer_counters">
+                                    <li class="first">
+                                        <a rel="nofollow" target="_blank" href="https://www.webmoney.ru/">
+                                            <img alt="www.webmoney.ru" src="/assets/templates/greencash/images/88x31_wm_blue_on_white_ru.png"></a>
+                                    </li><li>
+                                        <a rel="nofollow" target="_blank" href="https://passport.webmoney.ru/asp/certView.asp?wmid=342364964284">
+                                            <img alt="Здесь находится аттестат нашего WM идентификатора 342364964284" src="/assets/templates/greencash/images/88x31_wm_v_blue_on_white_ru.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a rel="nofollow" target="_blank" href="http://www.paymer.ru">
+                                            <img alt="Принимаем Paymer" src="/assets/templates/greencash/images/88x31_paymer_blue_on_white_ru.png">
+                                        </a>
+                                    </li>
+                                </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="box-inset-3">
+                        <h4>ПОДПИСАТЬСЯ НА НОВОСТИ</h4>                        <!-- RD Mailform-->
+                        <form class="form form-lg form_light rd-mailform form-inline" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
+                            <div class="form-wrap">
+                                <input class="form-input emailSubscription" id="footer-subscribe-form-email" type="email" name="email" data-constraints="Почта">
+                                <label class="form-label" for="footer-subscribe-form-email">Email</label>
+                            </div>
+                            <div class="form-button">
+                                <button class="button button-color-2 AddSubscription" type="submit">ПОДПИСАТЬСЯ</button>                            </div>
+                        </form>
+                        <p>Не пропустите важную информацию о электронных деньгах.</p>                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="footer-classic__aside">
+            <div class="list-wrap">
+                <ul class="list-nav">
+                                                <li><a href="/">Главная</a></li>
+                                                    <li><a href="/mainpage/charge">Пополнить</a></li>
+                                                    <li><a href="/mainpage/out">Вывести</a></li>
+                                                    <li><a href="/blogs">Блог</a></li>
+                                                    <li><a href="/page/rates">Тарифы</a></li>
+                                                    <li><a href="/page/contacts">Контакты</a></li>
+                                                    <li><a href="http://wiki.webmoney.ru/projects/webmoney/wiki/Условия_для_обменных_пунктов">Информация</a></li>
+                                        </ul>
+            </div>
+            <div class="list-wrap">
+                <ul class="list-bordered">
+                    <li>
+                        <!-- Rights-->
+                        <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>GreenCash</span><span>.&nbsp;</span></p>
+                    </li>
+                    <li><a href="mailto:greencashwm@gmail.com">GreenCashwm@gmail.com</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Modal Login/Register-->
+<!-- Global Mailform Output-->
+<div class="snackbars" id="form-output-global"></div>
+<!-- Javascript-->
+<script src="/assets/templates/greencash/js/core.min.js"></script>
+<script src="/assets/templates/greencash/js/script2.js"></script>
+<!--<script src="https://widgets.bitcoin.com/widget.js"></script>-->
+<script language="JavaScript" type="text/javascript" src="/assets/vendors/toastr-master/toastr.js"></script>
+
+<script src="/assets/vendors/jquery-mask/jquery.mask.min.js"></script>
+
+<script src="/assets/templates/greencash/js/my.js"></script>
+<script src="/assets/modules/blog/js/front_subscription.js"></script>
+<script src="/assets/modules/userextension/js/order_front.js"></script>
+<script src="/assets/modules/feedbacknew/js/feedback_front.js"></script>
+<script language="JavaScript" type="text/javascript" src="/assets/modules/frontchat/js/frontchat.js?version2"></script>
+
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<!--<script type='text/javascript'>
+    (function(){ var widget_id = 'cSporwV4Hk';var d=document;var w=window;function l(){var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>-->
+<!-- {/literal} END JIVOSITE CODE -->
+</body>
+</html>

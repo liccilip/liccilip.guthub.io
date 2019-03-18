@@ -1,0 +1,287 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Обменник::онлайн обмен электронных валют. Вывод и пополнение Яндекс.Деньги, Perfect Money, Приват 24, оплата и вывод на карту Приватбанка</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="keywords" content="Обменник Perfect Money, Обмен Perfect Money, обменник Perfect Money в Украине, Perfect Money в Украине, обмен yandex.деньги, вывод Perfect Money, вывод yandex.деньги, пополнение Perfect Money, вывод Perfect Money на карту, вывод Perfect Money на карту приватбанка, visa на Perfect Money, пополнение Perfect Money privat24, пополнение Perfect Money приват24" />
+	<meta name="interkassa-verification" content="b86e9f283e2aef748c1758bd79e9f44d" />
+		<link rel="stylesheet" type="text/css" media="screen" href="/compiled/css/e686dae.css"/>
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/superchange.css"/>
+		<script type="text/javascript" src="/compiled/js/d10eabf.js"></script>
+	
+	<script type="text/javascript">
+		$(window).load(function() {
+
+	$('#login-modal').on('shown.bs.modal', function (event) {
+		$.ajax({
+			url: '/ru/login',
+			type: 'GET',
+			dataType: 'html',
+			success: function(data) {
+				$('#login-modal .modal-body').html(data);
+				$('#login-modal a').on('click', function () {
+					$('#login-modal').modal('hide');
+				});
+			}
+		});
+	});
+});
+		var userLoggedIn = 'true';
+		var lang = 'ru';
+	</script>
+	
+</head>
+
+<body id="page">
+
+    <div class="progress loading" style="display: none;">
+        <div class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+            <span class="sr-only">100% Complete</span>
+        </div>
+    </div>
+    <div id="status-box" class="alert alert-success hidden"></div>
+
+    <div class="">
+        <div id="top-box">
+            <div class="container-small clearfix">
+                <div class="top-box-wrapper">
+                    <div class="row">                        
+                        <div class="col-xs-6 visible-xs">
+                            <a href="#" class="fa fa-bars navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main-xs"></a>
+                        </div>
+                        <div class="col-xs-6 visible-xs">
+                            <div class="top-security">
+                                <ul class="security">
+                                    <li class="first"><a href="/ru/login" class="static">Войти</a></li>
+                                    <li class="last"><a href="/ru/signup">Регистрация</a></li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                        <div class="visible-xs">
+                            <nav id="navbar-collapse-main-xs" class="navbar-collapse visi-ble-xs collapse">
+                                <ul class="nav navbar-nav navbar-left">            <li id="3e11b6881d458705f85d6a1f5d0143ae">
+            <a
+                                                            class="active"
+                                        href="/ru/">
+                    Обменять
+                                                </a>
+        </li>
+                <li id="ac33647d48bff350f675c46695442826">
+            <a
+                                                        href="/ru/loyalty">
+                    Бонусы
+                                                </a>
+        </li>
+                <li id="570eccee4b9dba96b39e997316d18690">
+            <a
+                                                        href="/ru/partner-program">
+                    Партнёрка
+                                                </a>
+        </li>
+                <li id="51cc3253ee15768334d96ccd0f1b76c6">
+            <a
+                                                        href="/ru/ticket">
+                    Контакты
+                                                </a>
+        </li>
+    
+                                    </ul>
+                            </nav>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="hidden-xs col-sm-8">
+                            <div id="toper-navbar" class="toper-navbar">
+                                <ul><li id="3e11b6881d458705f85d6a1f5d0143ae"><a
+                                                            class="active"
+                                        href="/ru/">
+                    Обменять
+                                                </a></li><li id="ac33647d48bff350f675c46695442826"><a
+                                                        href="/ru/loyalty">
+                    Бонусы
+                                                </a></li><li id="570eccee4b9dba96b39e997316d18690"><a
+                                                        href="/ru/partner-program">
+                    Партнёрка
+                                                </a></li><li id="51cc3253ee15768334d96ccd0f1b76c6"><a
+                                                        href="/ru/ticket">
+                    Контакты
+                                                </a></li>                                </ul>
+                            </div>
+                        </div>
+                        <div class="hidden-xs col-sm-4">
+                            <div class="top-security">
+                                <ul class="security">
+                                    <li class="first"><a href="/ru/login" class="static">Войти</a></li>
+                                    <li class="last"><a href="/ru/signup">Регистрация</a></li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <header class="header">
+            <div class="container-small clearfix">
+                <div class="header-wrapper">
+                    <div class="row">
+                        <div class="col-sm-5 hidden-xs">
+                            <div class="title">
+	    Автоматический обменник валют: Perfect Money, Wallet One, Яндекс.Деньги.
+	    Моментальный ввод/вывод на карту Приватбанка. Выгодные курсы обмена.
+	    Высокое качество и скорость обслуживания. Партнерская программа.
+	    Скидки постоянным клиентам.
+	</div>
+                        </div>
+                        <div class="col-sm-3 col-xs-5">
+                            <a class="logo" href="/ru/"></a>
+                        </div>
+                        <div class="col-sm-4 col-xs-7">
+                            <div class="title">
+                                <p><b>superchange.net</b>  работает круглосуточно: 24&times;7&times;365</p>
+                                <p><a id="pp_support" href="/ru/ticket">Он-лайн поддержка  пользователей:</a><br/>
+                                пн - пт, с <b>9:00</b>
+                                 до <b>19:00</b></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="bread-holder"></div>
+        </header>
+
+        <section id="main">
+            <div class="container-small clearfix">
+                <header class="page-header">
+                    <div id="content">
+                    <link rel="stylesheet" href="/compiled/css/0a3efd2.css" /><script type="text/javascript" src="/compiled/js/510ca73.js"></script><div class="row homepage"><div class="col-sm-8"><link rel="stylesheet" href="/compiled/css/4ddd202.css"/><script type="text/javascript" src="/compiled/js/510ca73.js"></script><form action="/ru/"
+      method="post"
+      id="calc_form"
+      data-step="1"
+      class="dynamic not_asterisk padding-none hide"
+      style="margin: 0 0 20px;"  ><div class="row"><div class="col-xs-12"><div class="panel panel-form"><div class="row form-field currency-fields"><!-- Title FROM --><div class="col-xs-6"><div class="title exchange">
+                            Отдаю                        </div></div><!-- Title TO --><div class="col-xs-6"><div class="title exchange">
+                            Получаю                        </div></div></div><div class="row form-field currency-fields"><div class="col-xs-6 padding-bottom-10"><select id="order_currency_from" name="order[currency_from]" required="required"    style="width: 100%;"><option value="82">AdvCash EUR</option><option value="84">AdvCash RUB</option><option value="88">AdvCash UAH</option><option value="81">AdvCash USD</option><option value="13">Perfect Money EUR</option><option value="12" selected="selected">Perfect Money USD</option><option value="53">P24 (без комиссии 2%)</option><option value="15">Yandex Money</option></select></div><div class="col-xs-6 padding-bottom-10"><select id="order_currency_to" name="order[currency_to]" required="required"    style="width: 100%"><option value="113">Сбербанк РУБЛ</option><option value="105">VISA/MC RUBL</option><option value="116">ВТБ24 РУБЛ</option><option value="115">Тинькофф РУБЛ</option><option value="114">Альфа-клик РУБЛ</option><option value="82" selected="selected">AdvCash EUR</option><option value="84">AdvCash RUB</option><option value="88">AdvCash UAH</option><option value="81">AdvCash USD</option><option value="13">Perfect Money EUR</option><option value="12">Perfect Money USD</option><option value="49">Privat24_UAH</option><option value="51">VISA/MC UAH</option><option value="23">WalletOne RUR</option><option value="24">WalletOne UAH</option><option value="21">WalletOne USD</option><option value="15">Yandex Money</option></select></div></div><div class="row form-field"><div class="col-xs-6 padding-bottom-10"><label for="order_amount" class=" required">Отдаете</label><input type="text" id="order_amount" name="order[amount]" required="required"    class="form-control" value="50" /></div><div class="col-xs-6 padding-bottom-10"><label for="order_sum_t" class=" required">Получаете</label><input type="text" id="order_sum_t" name="order[sum_t]" required="required"    class="form-control" /></div><div class="col-xs-6 padding-bottom-10"><label for="order_sum_client_f">с учетом комиссии</label><input type="text" id="order_sum_client_f" name="order[sum_client_f]"    class="form-control" /></div><div id="order-descriptions" class="col-xs-12 col-sm-6 padding-bottom-none"><div id="rate" class="course"></div><div id="reserve" class="course"></div><div id="custom-commission" class="course"></div></div></div><div class="row form-field"><div class="col-xs-12 padding-bottom-10"><a id="link_signup" href="/ru/signup" class="pull-right" style="font-size: 11px; text-decoration: underline;">
+                                        Зарегистрируйтесь</a><label title="Укажите корректный e-mail" for="order_user_email" class=" required">Ваш E-mail</label><input type="text" id="order_user_email" name="order[user][email]" required="required"    title="Укажите корректный e-mail" class="form-control" /></div><div class="col-xs-12"><div id="account_to" class="input-group padding-bottom-10"><label class=" required">Email для счета AdvCash EUR</label><input type="text" id="order_account_to_name" name="order[account_to][name]" required="required" pattern="^(([\-\w\.]+@([A-z0-9][-A-z0-9]+\.)+[A-z]{2,4})|((e|E)[\d]{12,12}))$"    class="form-control" /><div class="input-group-btn"><button type="button" class="btn btn-account dropdown-toggle"
+                                                data-toggle="dropdown" aria-expanded="false"><span class="caret"></span></button><ul class="dropdown-menu" role="menu"></ul></div></div></div><div class="col-xs-12 col-sm-5 margin-top-10 xs-padding-bottom-10"><label class="checkbox"><input type="checkbox" id="order_agreement" name="order[agreement]" required="required" value="1" checked="checked" />
+                                     Ознакомлен с                                     <a href="/ru/about">регламентом работы</a> и                                     <a href="/ru/agreement">соглашения пользователя</a> принимаю                                </label><div style="display: none;"><input type="hidden" id="order__token" name="order[_token]" value="e35f9e015c81fb5dcae612872621e5531e70d6bf" /></div></div><div class="col-xs-12"><div id="calc-errors" class="alert alert-danger padding-left-40 fade"></div></div></div><div class="row form-field submit-btn"><div class="col-xs-12 col-sm-7 margin-top-10"><button type="submit" class="btn btn-lg btn-exchange btn-block">Обменять</button></div></div></div></div></div></form><script type="text/javascript">
+    Application.checkAndLoad('/ru/jquery/calc', function () {
+        $('#calc_form').calc();
+
+            });
+    Application.checkAndLoad('/compiled/js/acf9ca2.js', function () {
+        $('#account_from').inputselect();
+        $('#account_to').inputselect();
+    });
+</script><div class="row"><div class="col-xs-12"><div class="panel panel-attention margin-top-none"><div class="important-title"><div class="important-logo"><img src="/compiled/bundles/obmennikclient/images/attention.png" /></div><div class="important-info">
+                    Пополнение с приват24 без комиссии 2%                </div></div><div class="important-text text-justify"><div style="font-size:20px;text-align: left; color:red;"><strong>Отправляйте квитанции при оплате через "приват24 без 2%"</strong></div><br><strong><div style="font-size:14px;text-align: left;">Из-за глобальной проблемы на стороне Приватбанка заявки, оплаченные способом "P24 UAH (без комисии банка 2%)" могут выполняется от нескольких часов до суток. </div><div style="font-size:14px;text-align: left;">Для ускорения обработки заявок такого типа просьба <strong>сразу</strong> посе оплаты <span style="font-size:14px;text-align: left; color:red;">высылать квитанцию в формате PDF из архива Приват24 на <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2dbdcd4ddf2c1c7c2d7c0d1dad3dcd5d79cdcd7c6">[email&#160;protected]</a></span></div><div style="font-size:14px;text-align: left;">Квитанции в приват24 находятся здесь - Приват24/Все услуги/Архив (самая нижняя ссылка).</div></strong><br><div style="font-size:14px;text-align: left;">Спасибо за понимание!</div></div></div></div></div><div class="panel panel-form"><link rel="stylesheet" href="/compiled/css/dbc7966.css"/><section id="service_benefits_wrapper" class="block-title-linear"><div class="block-title-info"><h4><span>Уважаемые клиенты</span></h4></div>
+    
+        Superchange.net – сервис предоставляющий услуги по выводу, пополнению и обмену электронной валюты в автоматическом режиме 24/7!
+Мы предлагаем своим пользователям всегда выгодные предложения во многих популярных направлениях на современном рынке электронных валют. 
+Минимальная комиссия, компетентная служба поддержки, скорость обслуживания и организация операций вывода делают наш ресурс лидером в данном сегменте. 
+
+<br><br>
+Для всех постоянных клиентов обменника действует автоматическая система начисление скидок, которая поможет сделать обмен выгоднее от 5 до 20% в зависимости от объема операции пользователя.
+
+<br><br>
+В случае возникновения каких либо вопросов, Вы можете обратиться за помощью в нашу службу поддержки – время работы техподдержки с 9:00 до 19:00 по Киеву будни, выходные – дежурный режим. Так же будем рады выслушать Ваши предложения по улучшению работы нашего сервиса.
+    </section></div></div><div class="col-sm-4"><div class="panel panel-form"><div class="title reserve">Доступные резервы</div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayscardruecointerkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="VISA/MC RUBL">VISA/MC RUBL</div><div class="currency-sum">389 676.24</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayscardruecosberbankinterkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="Сбербанк РУБЛ">Сбербанк РУБЛ</div><div class="currency-sum">376 309.46</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayscardruecoalphaclickinterkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="Альфа-клик РУБЛ">Альфа-клик РУБЛ</div><div class="currency-sum">253 937.69</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayscardruecotinkoffinterkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="Тинькофф РУБЛ">Тинькофф РУБЛ</div><div class="currency-sum">444 756.01</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayscardruecovtb24interkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="ВТБ24 РУБЛ">ВТБ24 РУБЛ</div><div class="currency-sum">480 514.90</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysadvcash/images/small_logo.png" class="currency-logo" /><div class="currency" title="AdvCash EUR">AdvCash EUR</div><div class="currency-sum">1 981.34</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysadvcash/images/small_logo.png" class="currency-logo" /><div class="currency" title="AdvCash RUB">AdvCash RUB</div><div class="currency-sum">17 956.98</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysadvcash/images/small_logo.png" class="currency-logo" /><div class="currency" title="AdvCash UAH">AdvCash UAH</div><div class="currency-sum">6.94</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysadvcash/images/small_logo.png" class="currency-logo" /><div class="currency" title="AdvCash USD">AdvCash USD</div><div class="currency-sum">11 478.33</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysperfectmoney/images/small_logo.png" class="currency-logo" /><div class="currency" title="Perfect Money EUR">Perfect Money EUR</div><div class="currency-sum">156.79</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysperfectmoney/images/small_logo.png" class="currency-logo" /><div class="currency" title="Perfect Money USD">Perfect Money USD</div><div class="currency-sum">5 986.15</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysprivat24interkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="Privat24_UAH">Privat24_UAH</div><div class="currency-sum"><span class="reserve-empty" rel="tooltip" title="На текущий момент недостаточно средств для моментального обмена. Вы можете продолжить оформление заявки и как только необходимая сумма будет доступна, Вы получите уведомление на e-mail. Если в течении 24 часов не будет доступных средств, заявка будет закрыта автоматически.">0</span></div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayscardinterkassa/images/small_logo.png" class="currency-logo" /><div class="currency" title="VISA/MC UAH">VISA/MC UAH</div><div class="currency-sum">6.63</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayswalletone/images/small_logo.png" class="currency-logo" /><div class="currency" title="WalletOne RUR">WalletOne RUR</div><div class="currency-sum">266 240.54</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayswalletone/images/small_logo.png" class="currency-logo" /><div class="currency" title="WalletOne UAH">WalletOne UAH</div><div class="currency-sum">36.56</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewayswalletone/images/small_logo.png" class="currency-logo" /><div class="currency" title="WalletOne USD">WalletOne USD</div><div class="currency-sum">1 729.61</div></div><div class="panel panel-reserve"><img src="/compiled/bundles/obmennikgatewaysyandexmoney/images/small_logo.png" class="currency-logo" /><div class="currency" title="Yandex Money">Yandex Money</div><div class="currency-sum">75.34</div></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	$(function () {
+		$('.reserve-empty').tooltip();
+	});
+</script></div></div><div class="clearfix"></div>                    </div>
+                </header>
+            </div>
+        </section>
+
+        <footer id="footer" class="footer hidden-xs">
+            <div class="container-small clearfix">
+                <ul class="nav navbar-nav">
+                                <li id="fda4a7a9607a2ef4896fec260412b49c">
+            <a
+                                                        href="/ru/rates">
+                    Курсы обмена
+                            </a>
+        </li>
+                <li id="ac33647d48bff350f675c46695442826">
+            <a
+                                                        href="/ru/loyalty">
+                    Бонусы
+                            </a>
+        </li>
+                <li id="570eccee4b9dba96b39e997316d18690">
+            <a
+                                                        href="/ru/partner-program">
+                    Партнёрка
+                            </a>
+        </li>
+                <li id="48d00df13cbdd6a4dcce634415c0eff5">
+            <a
+                                                        href="/ru/questions-and-answers">
+                    Вопросы и ответы
+                            </a>
+        </li>
+                <li id="51cc3253ee15768334d96ccd0f1b76c6">
+            <a
+                                                        href="/ru/ticket">
+                    Контакты
+                            </a>
+        </li>
+                <li id="c295403a023b5c00d5dd6435d67ba4cb">
+            <a
+                                                        href="/ru/about">
+                    Регламент
+                            </a>
+        </li>
+                    </ul>
+            </div>
+        </footer>
+
+        <footer id="bottom-box">
+            <div class="container-small clearfix">
+                <div class="bottom-box-wrapper">
+                    <div class="logos hidden-xs"><img src="/images/superchange/privat24.png" height="24" alt="Privat24" /><img src="/images/superchange/perfectmoney.gif" width="81" height="31" hspace="10" alt="PerfectMoney Accepted" /><img src="/images/superchange/visa-master.png" height="25" alt="Verified by Visa. MasterCard secure code" /></div>
+                    <i class="logo"></i>
+                    &copy; 2015&ndash;2019 &laquo;Superchange.net&raquo;                    <div><a href="/ru/agreement">Соглашение пользователя</a></div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+            <script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {(i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-41564226-1', 'obmennik.ua');
+            ga('send', 'pageview');
+
+                    </script>
+    
+
+		<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="login-modal-label" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h6 id="login-modal-label" class="modal-title">Войти</h6>
+					<span class=""></span>
+				</div>
+				<div class="modal-body"></div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

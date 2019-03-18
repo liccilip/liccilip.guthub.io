@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>WmBox &#8212; вывод Вебмани на карту Приватбанка, Visa / MC, Монобанк. Пополнить Вебмани через Приват24 и картой Виза и Монобанк. Обмен Вебмани, Яндекс.Деньги и Киви.</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='ubuntu-sans-css'  href='https://fonts.googleapis.com/css?family=Ubuntu%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i&#038;subset=cyrillic%2Ccyrillic-ext%2Clatin-ext&#038;ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://wmbox.com.ua/wp-content/themes/wmbox/style.css?ver=1.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=1552902209'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/themes/wmbox/js/jquery-select.js?ver=1.5'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/themes/wmbox/js/jquery-checkbox.js?ver=1.5'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/themes/wmbox/js/site.js?ver=1.5'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-content/plugins/premiumbox/moduls/js_timer/js/jquery-timer.js?ver=1552902209'></script>
+<script type='text/javascript' src='https://wmbox.com.ua/premiumjs.js?lang=ru&#038;ver=1552913009'></script>
+	<link rel="shortcut icon" href="https://ntest.wmbox.com.ua/wp-content/uploads/favicon-2.png" type="image/png" />
+	<link rel="icon" href="https://ntest.wmbox.com.ua/wp-content/uploads/favicon-2.png" type="image/png" />
+	<link rel='canonical' href='https://wmbox.com.ua/' />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://wmbox.com.ua/" />
+<meta property="og:site_name" content="WmBox" />
+<meta property="og:description" content="вывод Вебмани на карту Приватбанка, Visa / MC, Монобанк. Пополнить Вебмани через Приват24 и картой Виза и Монобанк. Обмен Вебмани, Яндекс.Деньги и Киви." />
+<meta property="og:title" content="WmBox" />
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4">
+<div id="container">
+
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://wmbox.com.ua/" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://wmbox.com.ua/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+			</div>
+		</div></div>			
+							
+			
+								
+									<div class="topbar_icon email">
+						<a href="/cdn-cgi/l/email-protection#fa89dcd9cbcbcdc18a8a9588dcd9cbcbccc1dcd9cccec1dcd9cbcbc3c1dcd9cbcac3c19895dcd9cbc8cac1d4dcd9c3c3c1dcd9cbcbcbc197d4dcd9cbcbcdc19b">su&#112;po&#114;&#116;&#64;&#119;&#109;b&#111;&#120;.&#99;om.ua</a>
+					</div>		
+								
+			
+									<a href="https://wmbox.com.ua/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://wmbox.com.ua/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://wmbox.com.ua">
+													
+															<img src="/wp-content/themes/wmbox/logo.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://wmbox.com.ua/"><span>Главная</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://wmbox.com.ua/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-355"><a href="https://wmbox.com.ua/category/articles/"><span>Статьи</span></a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="https://wmbox.com.ua/faq/"><span>FAQ</span></a></li>
+<li id="menu-item-261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261"><a href="https://wmbox.com.ua/nakopitelnyie-skidki/"><span>Скидки</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://wmbox.com.ua/feedback/"><span>Контакты</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">	
+		
+				
+
+
+<!-- livezilla.net PLACE SOMEWHERE IN BODY -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" id="7340b9ebe3aeb361fd0f48aedae9ab03" src="https://help.wmbox.com.ua/script.php?id=7340b9ebe3aeb361fd0f48aedae9ab03" defer></script>
+<!-- livezilla.net PLACE SOMEWHERE IN BODY --><div class="homepage_wrap">
+
+	<div class="homepage_table">
+		<div class="homepage_table_ins">
+		
+						
+			<div class="xchange_table_wrap">
+				
+	<div class="xchange_type_table4">
+		<div class="xchange_type_table4_ins">
+			<div class="xtt4_table_wrap"><div class="xtt_icon_abs_table"></div>
+				<div class="xtt4_table_title_wrap">
+					<div class="xtt4_left_col_title">
+						<div class="xtt4_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt4_right_col_title">
+						<div class="xtt4_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt4_table_title3">
+							<span>Курс</span>
+						</div>						
+						<div class="xtt4_table_title4">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt4_table_body_wrap">
+					<div class="xtt4_html_abs"></div>
+						<div class="xtt4_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="3" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Webmoney USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="22" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Webmoney RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_UAH  " data-id="23" data-type="UAH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Webmoney UAH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_EUR  " data-id="24" data-type="EUR">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Webmoney EUR
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="6" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Яндекс.Деньги RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="12" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(https://wmbox.com.ua/wp-content/uploads/qiwinew.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Qiwi RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_UAH  " data-id="5" data-type="UAH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Приват24 UAH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_UAH  " data-id="27" data-type="UAH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Приват24 скидка 2% UAH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt4_right_col_table">
+						
+								<div id="xtt4_right_col_html"></div>
+								
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div>			</div>
+	
+		</div>
+	</div>
+
+		
+	
+		<div class="home_text_wrap">
+		<div class="home_text_ins">
+			<div class="home_text_abs"></div>
+			<div class="home_text_block">
+				<div class="home_text_title">О сервисе</div>
+				<div class="home_text_div">
+					<div class="text">
+						<p>Рады представить Вам автоматический обменный пункт WmBox. У нас Вы можете совершить <strong>вывод webmoney</strong> на карту Приватбанка и карты Visa / MasterCard украинских банков.  Так же, мы работаем с направлением Яндекс деньги и QIWI на Приват банк, карты VISA/Mastercard и Монобанк.</p>
+<p>Если Вам необходимо <strong>пополнить Webmoney, Яндекс деньги и QIWI</strong>, в Украине используя наш сервис, то вы с легкостью можете сделать это через приват24 или оплатив картой Виза, Мастеркард или Монобанк.</p>
+<p>И конечно же, мы меняем между собой популярные электронные денежные знаки, такие как: <strong>webmoney wmz, wmr, wme, wmu, Яндекс.Деньги и QIWI</strong>.</p>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+			
+	
+		<div class="home_reviews_wrap">
+		<div class="home_reviews_ins">
+			<div class="home_reviews_abs"></div>
+			<div class="home_reviews_block">
+				<div class="home_reviews_top">
+					<div class="home_reviews_title">Отзывы</div>
+					<a href="https://wmbox.com.ua/reviews/" class="home_reviews_more">Все отзывы</a>
+						<div class="clear"></div>
+				</div>	
+				
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins">
+				
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Геннадий, 15.03.2019, 18:42</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Обмен происходит быстро. Рекомендую.</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Анатолий, 14.03.2019, 15:40</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Всё отлично, спасибо!</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">gesser, 13.03.2019, 08:42</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Спасибо все оперативно, даже учитывая что я номер неверно написал киви, но поддержка оперативно помогла,&hellip;</div>
+						</div>			
+					
+									
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+		
+	
+	
+		<div class="home_lchange_wrap">
+		<div class="home_lchange_wrap_ins">
+			<div class="home_lchange_block">
+				<div class="home_lchange_title">Последние обмены</div>
+				
+				<div class="home_lchange_in">
+					<div class="home_lchange_in2">
+					
+													<div class="home_lchange_one">
+								<div class="home_lchange_date">18.03.2019, 12:39</div>
+								<div class="home_lchange_body">
+									
+									<div class="home_lchange_why">
+										<div class="home_lchange_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+										<div class="home_lchange_txt">
+											<div class="home_lchange_sum">344.2931</div>
+											<div class="home_lchange_name">UAH</div>
+										</div>
+											<div class="clear"></div>
+									</div>
+									
+									<div class="home_lchange_arr"></div>
+									
+									<div class="home_lchange_why">
+										<div class="home_lchange_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+										<div class="home_lchange_txt">
+											<div class="home_lchange_sum">12.8</div>
+											<div class="home_lchange_name">USD</div>
+										</div>
+									</div>				
+										<div class="clear"></div>
+								</div>
+							</div>
+													<div class="home_lchange_one">
+								<div class="home_lchange_date">18.03.2019, 12:33</div>
+								<div class="home_lchange_body">
+									
+									<div class="home_lchange_why">
+										<div class="home_lchange_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+										<div class="home_lchange_txt">
+											<div class="home_lchange_sum">26897.9</div>
+											<div class="home_lchange_name">UAH</div>
+										</div>
+											<div class="clear"></div>
+									</div>
+									
+									<div class="home_lchange_arr"></div>
+									
+									<div class="home_lchange_why">
+										<div class="home_lchange_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+										<div class="home_lchange_txt">
+											<div class="home_lchange_sum">1000</div>
+											<div class="home_lchange_name">USD</div>
+										</div>
+									</div>				
+										<div class="clear"></div>
+								</div>
+							</div>
+							
+							<div class="clear"></div>
+					</div>	
+				</div>	
+			</div>	
+		</div>
+	</div>	
+		
+			<div class="home_news_wrap">
+			<div class="home_news_wrap_ins">
+				<div class="home_news_abs"></div>
+				<div class="home_news_block">
+					<div class="home_reviews_top">
+						<div class="home_reviews_title">Новости</div>
+						<a href="https://wmbox.com.ua/news/" class="home_reviews_more">Все новости</a>
+							<div class="clear"></div>
+					</div>				
+					
+					<div class="home_news_div">
+						<div class="home_news_div_ins">
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">31.12.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://wmbox.com.ua/obnovlen-dvizhok-sayta-pozhaluysta-perenesite-vashi-dannyie/">Обновлен движок сайта. Пожалуйста перенесите Ваши данные.</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">27.12.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://wmbox.com.ua/registratsiya-v-yandeks-dengi/">Регистрация в Яндекс.Деньги</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">27.12.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://wmbox.com.ua/obmen-yandeks-dengi-na-privat24-webmoney-nekotoryie-tonkosti/">Обмен Яндекс.Деньги на Приват24, WebMoney. Некоторые тонкости.</a></div>
+								</div>
+							</div>			
+						
+											
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney USD										</div>
+										<div class="one_home_reserv_sum">
+											16906.4109										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney RUB										</div>
+										<div class="one_home_reserv_sum">
+											108112.2101										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney UAH										</div>
+										<div class="one_home_reserv_sum">
+											10.63										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney EUR										</div>
+										<div class="one_home_reserv_sum">
+											722.1										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Яндекс.Деньги RUB										</div>
+										<div class="one_home_reserv_sum">
+											37563.96										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://wmbox.com.ua/wp-content/uploads/qiwinew.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Qiwi RUB										</div>
+										<div class="one_home_reserv_sum">
+											97561.004										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Приват24 UAH										</div>
+										<div class="one_home_reserv_sum">
+											20744.12										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/monobank.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Монобанк UAH										</div>
+										<div class="one_home_reserv_sum">
+											7378.5893										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/003-mastercard-1.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MC UAH										</div>
+										<div class="one_home_reserv_sum">
+											10296.5538										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																							
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+
+</div>
+
+				
+	</div>
+
+	<!-- partners -->
+		
+	<div class="footer_partner_wrap">
+		<div class="footer_partner_wrap_ins">
+			<div class="footer_partner_block">
+				<div class="footer_partner_title">Партнеры</div>
+
+										<div class="footer_partner_one">
+							<a href="http://megastock.ru/Resource.aspx?id=52409" target="_blank">								<img src="https://ntest.wmbox.com.ua/wp-content/uploads/88x31-wm-black.png" alt="" />
+							</a>						</div>
+											<div class="footer_partner_one">
+							<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=329025066047" target="_blank">								<img src="https://ntest.wmbox.com.ua/wp-content/uploads/135-wm-merchant.png" alt="" />
+							</a>						</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		<!-- end partners -->
+	
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>Сервис обмена электронных валют.</p>
+									</div>
+									<div class="mobile_link"><a href="https://wmbox.com.ua/ajax-set_site_vers.html?meth=get&yid=422bd79614ef&lang=ru&set=mobile&return_url=%2F">Мобильная версия</a></div>
+								
+			</div>	
+				
+			<div class="footer_menu">
+				<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://wmbox.com.ua/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://wmbox.com.ua/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://wmbox.com.ua/uvedomlenie-o-riskah-webmoney/"><span>Уведомление о рисках</span></a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="https://wmbox.com.ua/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://wmbox.com.ua/tos/"><span>Правила сайта</span></a></li>
+</ul>					<div class="clear"></div>
+			</div>				
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F&ltime=1552913009';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://wmbox.com.ua/ajax-globalajax_wp_check.html?meth=post&yid=422bd79614ef&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+<script type='text/javascript' src='https://wmbox.com.ua/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+</body>
+</html>

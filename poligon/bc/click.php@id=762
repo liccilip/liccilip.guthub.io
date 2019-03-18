@@ -1,0 +1,4251 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+	<meta charset="UTF-8">
+	<title>Сервис обмена электронных валют. | Ввод/Вывод WebMoney, Skrill | Пополнить/Вывести AdvCash, Perfect Money, Payeer  	| Снять Qiwi, Yandex Купить BitCoin | Продать Биткоин | Покупка Криптовалют</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='theme style-css'  href='https://tetchange.com/wp-content/themes/tetchange/style.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://tetchange.com/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://tetchange.com/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://tetchange.com/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://tetchange.com/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://tetchange.com/wp-content/themes/tetchange/js/site.js?ver=1.3'></script>
+<script type='text/javascript' src='https://tetchange.com/wp-content/themes/tetchange/js/jquery-select.js?ver=1.3'></script>
+<script type='text/javascript' src='https://tetchange.com/premiumjs.js?lang=ru&#038;ver=1.6'></script>
+<link rel="shortcut icon" href="https://tetchange.com/wp-content/uploads/New-Project-1.png" type="image/png" />
+<link rel="icon" href="https://tetchange.com/wp-content/uploads/New-Project-1.png" type="image/png" />
+<link rel='canonical' href='https://tetchange.com/' />
+<meta name="keywords" content="обмен валют, платежные системы, crypto exchange, exchange, BitCoin, Skrill, Webmoney, AdvCash" />
+<meta name="description" content="Обмен/Пополнение/Вывод в платежных системах:
+BitCoin/Skrill/Webmoney/AdvCash в городах Ереван, Москва, Тбилиси
+BitCoin / Skrill / Webmoney / AdvCash and more Buy/Exchange/Sell in Armenia/Moscow/Tbilisi with good rates" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://tetchange.com/?rid=19" />
+<meta property="og:site_name" content="TetChange.com - Обмен/Ввод-Вывод BitCoin / WebMoney / Skrill /и другие Электронные валюты в Армении, в Москве и в Тбилиси." />
+<meta property="og:description" content="TetChange.com - Обмен/Ввод-Вывод BitCoin / WebMoney / Skrill /и другие Электронные валюты в Армении, в Москве и в Тбилиси." />
+<meta property="og:title" content="TetChange.com - Обмен/Ввод-Вывод BitCoin / WebMoney / Skrill /и другие Электронные валюты в Армении, в Москве и в Тбилиси." />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://tetchange.com/wp-content/themes/tetchange/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<!-- google adsense -->
+    	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3704147957012966",
+            enable_page_level_ads: true
+          });
+        </script>
+    <!-- /google adsense -->
+</head>
+
+<body class="custom-background" >
+<div id="container">
+
+
+	
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://tetchange.com">
+													
+															<img src="https://tetchange.com/wp-content/uploads/logo-com.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://tetchange.com/"><span>Главная</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://tetchange.com/news"><span>Новости</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://tetchange.com/reviews"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://tetchange.com/tarifs"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://tetchange.com/feedback"><span>Контакты</span></a></li>
+</ul>					<div class="filial">
+				Наши филиалы:<br>
+				<img src="https://tetchange.com/wp-content/themes/tetchange/images/flag_am.png">Ереван +37477136563<br>
+				<img src="https://tetchange.com/wp-content/themes/tetchange/images/flag_ru.png">Москва +79688868711<br>
+				<img src="https://tetchange.com/wp-content/themes/tetchange/images/flag_ge.png">Тбилиси +995599906906<br>
+				</div>
+					<div class="clear"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" >
+		<div class="topbar_ins" >
+			<div class="topbar">
+			
+							
+				<div class="topbar_icon1">
+											<a href="https://t.me/+79688868711"><img class="iconicon" src="https://tetchange.com/wp-content/themes/tetchange/images/telegram.png"></a>
+					
+											<a href="viber://chat?number=+79688868711"><img class="iconicon" src="https://tetchange.com/wp-content/themes/tetchange/images/viber.png"></a>
+					
+											<a href="https://api.whatsapp.com/send?phone=79688868711"><img class="iconicon" src="https://tetchange.com/wp-content/themes/tetchange/images/whatsup.png"></a>
+									</div>
+				<div class="topbar_icon1">
+					<span>+79688868711</span>
+				</div>
+
+				
+								
+				
+								
+									<div class="topbar_icon email">
+						<a href="mailto:&#115;&#117;&#112;p&#111;r&#116;&#64;t&#101;t&#99;h&#97;nge&#46;&#99;&#111;&#109;">&#115;up&#112;o&#114;&#116;&#64;t&#101;tc&#104;&#97;&#110;&#103;&#101;.&#99;&#111;&#109;</a>
+					</div>		
+				
+									<!-- <div class="topbar_phone"> -->
+					<div class="topbar_icon phone">
+						+37477136563					</div>		
+								
+			
+									<a href="https://tetchange.com/register" class="toplink">Регистрация</a>
+					<a href="https://tetchange.com/login" class="toplink">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+		<div class="wrapper">
+		
+			
+
+			<div class="homepage_wrap">
+
+
+<div class="xchange_table_wrap">
+	
+	<div class="xchange_type_table">
+		<div class="xchange_type_table_ins">	
+				<div class="xtt_icon_wrap">
+					<div class="xtt_left_col_icon">
+					
+						<div class="xtt_icon active js_icon_left" data-type="0"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>Все</div></div>
+						<div class="xtt_icon js_icon_left js_icon_left_USD" style="display: none;" data-type="USD"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>USD</div></div><div class="xtt_icon js_icon_left js_icon_left_RUB" style="display: none;" data-type="RUB"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>RUB</div></div><div class="xtt_icon js_icon_left js_icon_left_BCH" style="display: none;" data-type="BCH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BCH</div></div><div class="xtt_icon js_icon_left js_icon_left_BTC" style="display: none;" data-type="BTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BTC</div></div><div class="xtt_icon js_icon_left js_icon_left_ETH" style="display: none;" data-type="ETH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ETH</div></div><div class="xtt_icon js_icon_left js_icon_left_LTC" style="display: none;" data-type="LTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>LTC</div></div><div class="xtt_icon js_icon_left js_icon_left_PLC" style="display: none;" data-type="PLC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>PLC</div></div><div class="xtt_icon js_icon_left js_icon_left_XRP" style="display: none;" data-type="XRP"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>XRP</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt_right_col_icon">
+
+						<div class="xtt_icon active js_icon_right" data-type="0"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>Все</div></div>
+						<div class="xtt_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>USD</div></div><div class="xtt_icon js_icon_right js_icon_right_RUB" style="display: none;" data-type="RUB"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>RUB</div></div><div class="xtt_icon js_icon_right js_icon_right_BCH" style="display: none;" data-type="BCH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BCH</div></div><div class="xtt_icon js_icon_right js_icon_right_BTC" style="display: none;" data-type="BTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BTC</div></div><div class="xtt_icon js_icon_right js_icon_right_ETH" style="display: none;" data-type="ETH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ETH</div></div><div class="xtt_icon js_icon_right js_icon_right_LTC" style="display: none;" data-type="LTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>LTC</div></div><div class="xtt_icon js_icon_right js_icon_right_PLC" style="display: none;" data-type="PLC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>PLC</div></div><div class="xtt_icon js_icon_right js_icon_right_XRP" style="display: none;" data-type="XRP"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>XRP</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt_table_wrap">
+				<div class="xtt_table_title_wrap">
+					<div class="xtt_left_col_title">
+						<div class="xtt_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt_right_col_title">
+						<div class="xtt_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt_table_title3">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt_table_body_wrap">
+					<div class="xtt_html_abs"></div>
+						<div class="xtt_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="27" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Наличные Москва USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="28" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Наличные Тбилиси USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="29" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Наличные Ереван USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="30" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Наличные Москва RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="10" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														AdvCash USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="9" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Payeer USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="25" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Skrill.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Skrill USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="23" data-type="USD">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Webmoney USD
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="24" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Webmoney RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="6" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Яндекс.Деньги RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="11" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Qiwi RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BTC  " data-id="18" data-type="BTC">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														BitCoin BTC
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_ETH  " data-id="19" data-type="ETH">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Ethereum ETH
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_LTC  " data-id="20" data-type="LTC">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Litecoin LTC
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BCH  " data-id="21" data-type="BCH">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/bitcoincash-icon.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														BitCoin.Cash BCH
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_PLC  " data-id="26" data-type="PLC">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/plc.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Platincoin PLC
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt_right_col_table">
+						
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_27">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_Skrill_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="120">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Skrill.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Skrill USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="120" data-title="Наличные Москва USD-Skrill USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_WebMoneyWMZ_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="121">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Webmoney USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3500
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="121" data-title="Наличные Москва USD-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_BitcoinCash_BCH_Moscow/" class="js_exchange_link js_item_right js_item_right_BCH" data-type="BCH" data-naps="123">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/bitcoincash-icon.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin.Cash BCH
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00616018
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	70
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="123" data-title="Наличные Москва USD-BitCoin.Cash BCH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_LiteCoin_LTC_Moscow/" class="js_exchange_link js_item_right js_item_right_LTC" data-type="LTC" data-naps="126">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Litecoin LTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.01658028
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	268.53941
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="126" data-title="Наличные Москва USD-Litecoin LTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_Ethereum_ETH_Moscow/" class="js_exchange_link js_item_right js_item_right_ETH" data-type="ETH" data-naps="127">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Ethereum ETH
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00714103
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	100
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="127" data-title="Наличные Москва USD-Ethereum ETH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_BitCoin_BTC_Moscow/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-naps="128">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin BTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00024477
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	13.3054179
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="128" data-title="Наличные Москва USD-BitCoin BTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_Payeer_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="129">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	971.6805
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="129" data-title="Наличные Москва USD-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_AdvCash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="130">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	AdvCash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="130" data-title="Наличные Москва USD-AdvCash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CASHUSDMOSCOW_to_PLC/" class="js_exchange_link js_item_right js_item_right_PLC" data-type="PLC" data-naps="178">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/plc.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Platincoin PLC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.05
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	500
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="178" data-title="Наличные Москва USD-Platincoin PLC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_28">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_AdvCash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="135">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	AdvCash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="135" data-title="Наличные Тбилиси USD-AdvCash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_Payeer_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="136">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	971.6805
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="136" data-title="Наличные Тбилиси USD-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_BitCoin_BTC_Tbilisi/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-naps="137">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin BTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00024717
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	13.3054179
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="137" data-title="Наличные Тбилиси USD-BitCoin BTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_Ethereum_ETH_Tbilisi/" class="js_exchange_link js_item_right js_item_right_ETH" data-type="ETH" data-naps="138">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Ethereum ETH
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.0070717
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	100
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="138" data-title="Наличные Тбилиси USD-Ethereum ETH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_LiteCoin_LTC_Tbilisi/" class="js_exchange_link js_item_right js_item_right_LTC" data-type="LTC" data-naps="139">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Litecoin LTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.01641931
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	268.53941
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="139" data-title="Наличные Тбилиси USD-Litecoin LTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_BitcoinCash_BCH_Tbilisi/" class="js_exchange_link js_item_right js_item_right_BCH" data-type="BCH" data-naps="140">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/bitcoincash-icon.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin.Cash BCH
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00610037
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	70
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="140" data-title="Наличные Тбилиси USD-BitCoin.Cash BCH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_WebMoney_WMZ_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="141">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Webmoney USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3500
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="141" data-title="Наличные Тбилиси USD-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Cash_USD_to_Skrill_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="142">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Skrill.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Skrill USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="142" data-title="Наличные Тбилиси USD-Skrill USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CASH_USD_TBILISI_to_Platincoin_PLC/" class="js_exchange_link js_item_right js_item_right_PLC" data-type="PLC" data-naps="179">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/plc.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Platincoin PLC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.05
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	500
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="179" data-title="Наличные Тбилиси USD-Platincoin PLC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_29">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_Skrill_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="156">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Skrill.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Skrill USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="156" data-title="Наличные Ереван USD-Skrill USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_WebMoneyWMZ_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="157">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Webmoney USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3500
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="157" data-title="Наличные Ереван USD-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_BitcoinCash_BCH_Yerevan/" class="js_exchange_link js_item_right js_item_right_BCH" data-type="BCH" data-naps="158">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/bitcoincash-icon.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin.Cash BCH
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00610037
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	70
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="158" data-title="Наличные Ереван USD-BitCoin.Cash BCH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_LiteCoin_LTC_Yerevan/" class="js_exchange_link js_item_right js_item_right_LTC" data-type="LTC" data-naps="159">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Litecoin LTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.01641931
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	268.53941
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="159" data-title="Наличные Ереван USD-Litecoin LTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_Ethereum_ETH_Yerevan/" class="js_exchange_link js_item_right js_item_right_ETH" data-type="ETH" data-naps="160">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Ethereum ETH
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.0070717
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	100
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="160" data-title="Наличные Ереван USD-Ethereum ETH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_BitCoin_BTC_Yerevan/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-naps="161">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin BTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00024717
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	13.3054179
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="161" data-title="Наличные Ереван USD-BitCoin BTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_Payeer_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="162">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	971.6805
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="162" data-title="Наличные Ереван USD-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashUSD_to_AdvCash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="163">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	AdvCash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="163" data-title="Наличные Ереван USD-AdvCash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CASHUSDYEREVAN_to_PLC/" class="js_exchange_link js_item_right js_item_right_PLC" data-type="PLC" data-naps="177">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/plc.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Platincoin PLC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.05
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	500
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="177" data-title="Наличные Ереван USD-Platincoin PLC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_30">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashRUB_to_Qiwi_RUB_Moscow/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="151">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Qiwi RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	681666
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="151" data-title="Наличные Москва RUB-Qiwi RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-CashRUB_to_YandexMoney_RUB_Moscow/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="152">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Яндекс.Деньги RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	104475
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="152" data-title="Наличные Москва RUB-Яндекс.Деньги RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_10">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-AdvCash_USD_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="8">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="8" data-title="AdvCash USD-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-AdvCash_USD_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="10">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="10" data-title="AdvCash USD-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-AdvCash_USD_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="118">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.955
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="118" data-title="AdvCash USD-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-AdvCash_USD_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="143">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="143" data-title="AdvCash USD-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-AdvCash_USD_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="164">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="164" data-title="AdvCash USD-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_9">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Payeer_USD_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="32">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="32" data-title="Payeer USD-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Payeer_USD_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="34">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="34" data-title="Payeer USD-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Payeer_USD_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="119">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="119" data-title="Payeer USD-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Payeer_USD_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="144">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="144" data-title="Payeer USD-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Payeer_USD_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="165">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="165" data-title="Payeer USD-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_25">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Skrill_USD_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="104">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="104" data-title="Skrill USD-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Skrill_USD_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="105">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="105" data-title="Skrill USD-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Skrill_USD_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="122">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="122" data-title="Skrill USD-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Skrill_USD_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="150">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.95
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="150" data-title="Skrill USD-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Skrill_USD_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="170">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.96
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="170" data-title="Skrill USD-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_23">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMZ_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="97">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="97" data-title="Webmoney USD-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMZ_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="100">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="100" data-title="Webmoney USD-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMZ_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="124">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.975
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="124" data-title="Webmoney USD-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMZ_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="149">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.96
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="149" data-title="Webmoney USD-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMZ_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="169">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="169" data-title="Webmoney USD-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_24">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMR_to_MoneyGram_RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="101">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	300000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="101" data-title="Webmoney RUB-MoneyGram RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoney_WMR_to_Unistream_RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="102">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	300000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="102" data-title="Webmoney RUB-Unistream RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-WebMoneyWMR_to_Cash_RUB_Moscow/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="155">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.97
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	100000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="155" data-title="Webmoney RUB-Наличные Москва RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_6">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-YandexMoney_RUB_to_MoneyGram_RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="62">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	300000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="62" data-title="Яндекс.Деньги RUB-MoneyGram RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-YandexMoney_RUB_to_Unistream_RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="63">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	300000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="63" data-title="Яндекс.Деньги RUB-Unistream RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-YandexMoney_RUB_to_CashRUB_Moscow/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="153">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	100000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="153" data-title="Яндекс.Деньги RUB-Наличные Москва RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_11">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Qiwi_RUB_to_MoneyGram_RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="64">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	300000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="64" data-title="Qiwi RUB-MoneyGram RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Qiwi_RUB_to_Unistream_RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="66">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	300000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="66" data-title="Qiwi RUB-Unistream RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Qiwi_RUB_to_CashRUB_Moscow/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="154">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.94
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	100000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="154" data-title="Qiwi RUB-Наличные Москва RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Qiwi_RUB_to_BitCoin_BTC/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-naps="114">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	BitCoin BTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	0.00000185
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	13.3054179
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="114" data-title="Qiwi RUB-BitCoin BTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_18">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitCoin_BTC_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="68">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	3741.9906
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="68" data-title="BitCoin BTC-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitCoin_BTC_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="69">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	3741.9906
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="69" data-title="BitCoin BTC-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitCoin_BTC_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="134">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	3851.3545
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="134" data-title="BitCoin BTC-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitCoin_BTC_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="145">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	3850.9806
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="145" data-title="BitCoin BTC-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitCoin_BTC_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="166">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	3850.9806
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="166" data-title="BitCoin BTC-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_19">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Ethereum_ETH_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="71">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	129.5189
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="71" data-title="Ethereum ETH-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Ethereum_ETH_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="72">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	129.5189
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="72" data-title="Ethereum ETH-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Ethereum_ETH_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="133">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	133.9415
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="133" data-title="Ethereum ETH-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Ethereum_ETH_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="146">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	133.2913
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="146" data-title="Ethereum ETH-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Ethereum_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="171">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	133.2913
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="171" data-title="Ethereum ETH-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_20">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-LiteCoin_LTC_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="74">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	55.783
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="74" data-title="Litecoin LTC-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-LiteCoin_LTC_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="75">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	55.783
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="75" data-title="Litecoin LTC-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-LiteCoin_LTC_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="132">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	57.6878
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="132" data-title="Litecoin LTC-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-LiteCoin_LTC_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="147">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	57.4078
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="147" data-title="Litecoin LTC-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-LiteCoin_LTC_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="167">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	57.4078
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="167" data-title="Litecoin LTC-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_21">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitcoinCash_BCH_to_MoneyGram_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="77">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	MoneyGram USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	150.1415
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="77" data-title="BitCoin.Cash BCH-MoneyGram USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitcoinCash_BCH_to_Unistream_USD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="78">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Unistream USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	150.1415
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	40000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="78" data-title="BitCoin.Cash BCH-Unistream USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitcoinCash_BCH_to_Cash_USD_Moscow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="131">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	155.2683
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="131" data-title="BitCoin.Cash BCH-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitcoinCash_BCH_to_Cash_USD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="148">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	154.5146
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="148" data-title="BitCoin.Cash BCH-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-BitcoinCash_BCH_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="168">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	154.5146
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="168" data-title="BitCoin.Cash BCH-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_26">
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-Platincoin_PLC_to_Cash_USD_Yerevan/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="116">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Ереван USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	10
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	21000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="116" data-title="Platincoin PLC-Наличные Ереван USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-PLC_to_CASHUSD_Moskow/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="175">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Москва USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	10
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	16943.111
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="175" data-title="Platincoin PLC-Наличные Москва USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://tetchange.com/exchange-PLC_to_CASHUSD_Tbilisi/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="176">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Наличные Тбилиси USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	10
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	20000
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="176" data-title="Platincoin PLC-Наличные Тбилиси USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div></div>
+
+
+<div class="home_text_wrap">
+	<!--<div class="home_gray_blick"></div>-->
+	<div class="home_text_ins">
+		<div class="home_text_block">
+			<div class="home_text_title">Приветствуем на сайте обменного пункта TetChange.com</div>
+			<div class="home_text_div">
+				<div class="text">
+					<p><img class="aligncenter" src="https://tetchange.com/wp-content/uploads/banner-1-2.gif" alt="" width="566" height="109" /></p>
+<h2>Надежный способ обмена валюты</h2>
+<p>
+В наши дни сеть интернет используется не только для познания и развлечений, но и для дополнительного заработка. Поэтому становится все более востребованной услуга обмена электронных валют.
+</p>
+<p>
+А за счет того, что многие сейчас предпочитают производить покупки через интернет, то число пользователей сети, пользующихся электронными деньгами, выросло до 75%. Большинство магазинов, продающих свои товары через сеть, принимают к оплате именно электронные валюты.
+</p>
+<p>
+Но у пользователей не всегда имеется в наличии нужная электронная валюта. Поэтому всё чаще открываются обменные пункты, которые позволяют купить/обналичить/обменять наличные деньги на электронные и наоборот.
+</p>
+<p>
+Tetchange.com – это активно пользующийся спросом обменник электронных валют. Обменный пункт представляет собой сайт в интернете, который позволяет в онлайн-режиме обменять один тип валюты на другой. Также вы можете заплатить наличные деньги, а взамен получить электронные. Это очень удобно, потому что вы не теряете время и силы, а просто находитесь у экрана своего компьютера.
+</p>
+<p>
+Работаем честно, лояльно и толерантно.
+</p>
+<h3>Tetchange.com – гарантии и безопасность</h3>
+<p>
+Обменный пункт Tetchange.com представляет собой эффективный сервис, позволяющий купить и продать электронные деньги в Ереване и в Москве. Выбирая нашу компанию, вы получаете следующие преимущества:</p>
+<ul>
+<li>Мы работаем полностью в ручном режиме, благодаря этому обеспечивается безопасность сделки для обеих сторон.
+<li>Tetchange.com имеет многолетний опыт работы, поэтому мы проводим все операции с довольно низкими процентами. Вы платите максимально низкую комиссию за приятный сервис и оперативное реагирование.
+<li>Происходит ежедневное улучшение работы сервиса, благодаря пристальному вниманию сотрудников к каждому клиенту. Мы собираем все отзывы клиентов, и учитываем их в работе. Благодаря связи по телефону, мы легко сможем пообщаться в нашими постоянными клиентами в процессе обмена.
+<li>Мы осуществляем индивидуальный подход к каждому человеку.
+<li>Личный кабинет позволяет иметь накопительные скидки и сотрудничать с каждым на особых условиях. Таким образом, с каждым последующим обращением для обмена вы получаете скидки и уменьшаете размер.
+</ul>
+<p><strong>TETCHANGE.com &#8212; Наши клиенты становятся нашими партнерами.</strong>
+</p>
+<p>
+<strong>Tetchange.com</strong> – надёжный партнёр, дающий вам самые выгодные условия сотрудничества. Мы не только призываем к работе в нами, но и реально выполняем все описанные преимущества.</p>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>	
+
+<div class="home_news_wrap">
+	<div class="home_news_blick"></div>
+	<div class="home_news_ins">
+		<div class="home_news_block">
+			<div class="home_news_title">Новости</div>
+			<div class="home_news_div">
+									<div class="home_news_one">
+						<div class="home_news_date">01.12.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://tetchange.com/ru-ru-14-noyabrya-myi-prinyali-uchastie-v-seminare-blockchain-armenia-ru-ru">14 ноября мы приняли участие в семинаре BlockChain Armenia</a></div>
+					</div>			
+									<div class="home_news_one">
+						<div class="home_news_date">25.07.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://tetchange.com/ru-ru-tetchange-na-seminare-blockchain-v-armenii-ru-ru">TETCHANGE НА СЕМИНАРЕ BLOCKCHAIN В АРМЕНИИ</a></div>
+					</div>			
+									<div class="home_news_one">
+						<div class="home_news_date">21.06.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://tetchange.com/tetchange-na-konferentsii-v-gruzii">TETChange на конференции BlockChain в Грузии</a></div>
+					</div>			
+								<div class="clear"></div>
+			</div>
+			<div class="home_news_more"><a href="https://tetchange.com/news">Все новости</a></div>
+		</div>
+	</div>
+</div>
+
+	<div class="home_reserv_wrap">
+		<div class="home_reserv_block_ins">
+			<div class="home_reserv_block">
+				<div class="home_reserv_title">Резерв валюты</div>
+				<div class="home_reserv_many">
+					<div class="home_reserv_many_ins">
+						 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Наличные Москва USD									</div>
+									<div class="one_home_reserv_sum">
+										16943.111									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Наличные Тбилиси USD									</div>
+									<div class="one_home_reserv_sum">
+										20000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-USD.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Наличные Ереван USD									</div>
+									<div class="one_home_reserv_sum">
+										21000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Наличные Москва RUB									</div>
+									<div class="one_home_reserv_sum">
+										100000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>						 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										AdvCash USD									</div>
+									<div class="one_home_reserv_sum">
+										5000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Payeer USD									</div>
+									<div class="one_home_reserv_sum">
+										981									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Skrill.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Skrill USD									</div>
+									<div class="one_home_reserv_sum">
+										5000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Webmoney USD									</div>
+									<div class="one_home_reserv_sum">
+										3500									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>						 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Webmoney RUB									</div>
+									<div class="one_home_reserv_sum">
+										45000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Яндекс.Деньги RUB									</div>
+									<div class="one_home_reserv_sum">
+										105000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Qiwi RUB									</div>
+									<div class="one_home_reserv_sum">
+										681666									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										BitCoin BTC									</div>
+									<div class="one_home_reserv_sum">
+										13.3054179									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>						 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Ethereum ETH									</div>
+									<div class="one_home_reserv_sum">
+										100									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Litecoin LTC									</div>
+									<div class="one_home_reserv_sum">
+										268.53941									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/bitcoincash-icon.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										BitCoin.Cash BCH									</div>
+									<div class="one_home_reserv_sum">
+										70									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										MoneyGram USD									</div>
+									<div class="one_home_reserv_sum">
+										40000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>						 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										MoneyGram RUB									</div>
+									<div class="one_home_reserv_sum">
+										300000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Unistream USD									</div>
+									<div class="one_home_reserv_sum">
+										40000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/Bank-perevod.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Unistream RUB									</div>
+									<div class="one_home_reserv_sum">
+										300000									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+													 
+							<div class="one_home_reserv"> 
+								<div class="one_home_reserv_ico" style="background: url(https://tetchange.com/wp-content/uploads/plc.png) no-repeat center center;"></div>
+								<div class="one_home_reserv_block">
+									<div class="one_home_reserv_title">
+										Platincoin PLC									</div>
+									<div class="one_home_reserv_sum">
+										500									</div>
+								</div>
+								<div class="clear"></div>
+							</div>
+							<div class="clear"></div>												<div class="clear"></div>
+					</div>	
+				</div>
+			</div>	
+		</div>
+	</div>
+	<div class="home_text_div mytext">
+	<div class="home_text_ins">
+		<div class="home_text_block">
+			<div class="text">
+				<h3>Способ работы с сервисом</h3>
+				<p>
+					Понять, как произвести обмен Skrill, Bitcoin, Advcash, Webmoney, QIWI, Yandex, LiteCoin и тд в Москве или обмен в Армении, очень просто. Достаточно выбрать необходимую валюту и указать сумму. Сайт разработан таким образом, что любой, даже не сведущий в компьютерных технологиях, сможет легко произвести обмен на сайте TETChange.com 
+				</p>
+				<p>
+					После выбора необходимой валюты встроенный калькулятор покажет вам сумму комиссии. Она минимальна, чтобы вы понимали, что мы берем только небольшую сумму на поддержание сайта, помогающего произвести обмен биткоин или других электронных валют.
+				</p>
+				<p>
+					Для завершения операции необходимо нажать кнопку подтверждения и ждать звонка от нашего оператора. Это необходимо, чтобы все происходило с максимальной безопасностью для клиента. Потому что существует множество мошенников, желающих получить в сети легкую прибыль при обмене Ripple на Skrill (Armenia). После подтверждения происходит приобретение необходимых средств.
+				</p>
+				<p>
+					Tetchange.com – все просто и, главное, надежно!
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="home_reviews_wrap">
+		<div class="home_reviews_blick"></div>
+		<div class="home_reviews_ins">
+			<div class="home_reviews_block">
+				<div class="home_reviews_title">Отзывы</div>
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins">
+													<div class="home_reviews_one">
+								<div class="home_reviews_abs"></div>
+								<div class="home_reviews_date">Samvel, 20.12.2018, 18:53</div>
+									<div class="clear"></div>
+								<div class="home_reviews_content">Обменял Skrill и qiwi несколько раз,организовали быстро,буду работать с ним , рекомендую !! :)</div>
+							</div>			
+													<div class="home_reviews_one">
+								<div class="home_reviews_abs"></div>
+								<div class="home_reviews_date">Антон Мелников, 24.06.2018, 09:12</div>
+									<div class="clear"></div>
+								<div class="home_reviews_content">Суппорт адекватный, очень быстро обработали мою заявку в Москве!</div>
+							</div>			
+													<div class="home_reviews_one">
+								<div class="home_reviews_abs"></div>
+								<div class="home_reviews_date">Vladimir, 18.06.2018, 19:47</div>
+									<div class="clear"></div>
+								<div class="home_reviews_content">Спасибо, все оперативно!</div>
+							</div>			
+												<div class="clear"></div>
+					</div>
+				</div>
+				<div class="home_reviews_more"><a href="https://tetchange.com/reviews">Все отзывы</a></div>
+			</div>
+		</div>
+	</div>
+	<!-- home_partner_wrap -->
+</div>
+
+
+			</div>
+	<div class="home_bottom_logo">
+		<div class="home_bottom_logo1">
+
+		</div>
+	</div>
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+			<div class="footer_left">
+				<!-- mobile_vers_link -->
+									<!-- <div class="mobile_link"><a href=""></a></div> -->
+								<div class="copyright">
+											<p>© 2014 &#8212; 2018 TETchange.com<br />
+Сервис обмена электронных валют.</p>
+									</div>
+			</div>
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="https://vk.com/tetchange" class="" target="_blank" rel="nofollow"><img src="https://tetchange.com/wp-content/themes/tetchange/images/vk-ico.png" alt="" /></a>
+													<a href="https://www.facebook.com/TETChangecom-Обмен-электронных-валют-1520723588031970" class="" target="_blank" rel="nofollow"><img src="https://tetchange.com/wp-content/themes/tetchange/images/fb-ico.png" alt="" /></a>
+													<a href="https://plus.google.com/u/3/103545949618300652342" class="" target="_blank" rel="nofollow"><img src="https://tetchange.com/wp-content/themes/tetchange/images/gp-ico.png" alt="" /></a>
+													<a href="https://twitter.com/tetchange" class="" target="_blank" rel="nofollow"><img src="https://tetchange.com/wp-content/themes/tetchange/images/tw-ico.png" alt="" /></a>
+							
+					<div class="clear"></div>
+				</div>
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://tetchange.com/sitemap"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://tetchange.com/notice"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://tetchange.com/tos"><span>Правила сайта</span></a></li>
+</ul>					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="footer_right">
+				<!-- <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=087085525470" class="wmatestat"><img src="https://tetchange.com/wp-content/themes/tetchange/images/wm.gif"></a> -->
+				<!-- begin WebMoney Transfer : accept label -->
+					<!-- <a href="https://www.megastock.com/" target="_blank"><img src="https://www.webmoney.ru/img/icons/88x31_wm_blue.png" alt="www.megastock.com" border="0"/></a> -->
+				<!-- end WebMoney Transfer : accept label -->
+				<!-- begin WebMoney Transfer : attestation label -->
+					<!-- <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=087085525470" target="_blank"><img src="https://tetchange.com/wp-content/themes/tetchange/images/v_blue_on_white_ru.png" alt="Здесь находится аттестат нашего WM идентификатора 087085525470" border="0" /><br /><span style="font-size: 0,7em;">Проверить аттестат</span></a> -->
+				<!-- end WebMoney Transfer : attestation label -->
+				
+				<!-- BestChange.ru --> 
+				<a href="https://www.bestchange.ru/"><img 
+				src="https://www.bestchange.ru/bestchange.gif" 
+				title="Обмен Bitcoin, Advanced Cash, Ripple" 
+				alt="Мониторинг обменных пунктов BestChange.ru" 
+				width="88" height="31" border="0" /></a> 
+				<!-- BestChange.ru -->
+				<br>
+				<br>
+												<div class="footer_timetable">
+					<p>Пн. — Пт. с 10:00 до 19:00 по мск.<br />
+Сб. — Вск. свободный график.</p>
+				</div>
+							</div>			
+			<div class="clear"></div>
+			<div>
+				| Ввод/Вывод WebMoney, Skrill | Пополнить/Вывести AdvCash, Perfect Money, Payeer <br>
+				| Снять Qiwi, Yandex Купить BitCoin | Продать Биткоин | Покупка Криптовалют
+			</div>
+		</div>
+	</div>
+	<!-- end footer -->
+</div>
+
+<div id="topped"></div>
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D19&ltime=1552913219';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://tetchange.com/ajax-globalajax_wp_check.html?meth=post&yid=5592464ce4e5&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+ 
+		<div class="reserv_box js_techwindow">
+			<div class="reserv_box_ins">
+				<div class="reserv_box_title">Запрос резерва "<span id="reserv_box_title"></span>"</div>
+				<div class="reserv_box_close"></div>
+				<form method="post" class="ajax_post_form" action="https://tetchange.com/ajax-reservform.html?meth=post&yid=5592464ce4e5&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+					<div class="resultgo"></div>
+					
+					
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-email" class="rb_input "  placeholder="E-mail"  name="email" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_text ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="rb_id-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+					
+					<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>		
+		<!-- Yandex.Metrika counter by Yandex Metrica Plugin -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter49471096 = new Ya.Metrika({id:49471096,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:false,
+                    trackHash:false});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+	<div><img src="https://mc.yandex.ru/watch/49471096" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
+<!-- /Yandex.Metrika counter  --><script type='text/javascript' src='https://tetchange.com/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			<script type='text/javascript'>
+    (function(){ var widget_id = 'UT1MYrq5QK';
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id+'?plugin=wp'; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+</script>
+</body>
+</html>

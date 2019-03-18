@@ -1,0 +1,417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<title>Obmening.ru - Сервис автоматического ввода-вывода (оплаты) WebMoney, InJapan, Zapp, EbayToday, Forex4You, InstaForex, Moneta.ru, NJA Business</title>
+	<meta name="description" content="Автоматическая покупка (ввод), продажа (вывод), обмен WebMoney за АльфаКлик (АльфаБанк), Телебанк (ВТБ24), PSB-Retail(ПромСвязьБанк), СберБанк Онл@йн(СберБанк России)" />
+	<meta name="keywords" content="альфабанк, альфаклик, втб24, телебанк, промсвязьбанк, psb-retail, сбербанк, русский стандарт, авангард, связной, банк24, ак бакс, санкт-петербург, банк, webmoney, wmz, wmr, wme, injapan, obmening, обмен, обменять, ввод, вывод, купить, покупка, продать, продажа" />
+		<link rel="icon" href="/images/favicon.ico" />
+		<link media="screen" href="/css/styles.css" type="text/css" rel="stylesheet" />
+
+	<script type="text/javascript" src="/js/jquery.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="/css/lightbox.css" media="screen" />
+	<script type="text/javascript" src="/js/jquery-1.2.6.pack.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="/css/spoilers.css" />
+	<script type="text/javascript" src="/js/spoilers.js"></script>
+
+	<script type="text/javascript" src="/js/mistakes.js"></script>
+	<link href="/css/mistakes.css" rel="stylesheet" type="text/css" /> 
+
+</head>
+<body>
+<div class="wrapper">
+	<!--head-->
+	<div id="head">
+    	<!--logo-->
+    	<a href="/" class="logo left">Obmening.ru</a>
+    	<!--/logo-->
+        <ul class="reset contacts right">
+         	<li class="ci_phone">+7 (958) 564-42-42</li>
+        	<li class="ci_mail"><a href="/cdn-cgi/l/email-protection#32414742425d4046725d505f575c5b5c551c4047"><span class="__cf_email__" data-cfemail="d1a2a4a1a1bea3a591beb3bcb4bfb8bfb6ffa3a4">[email&#160;protected]</span></a></li>
+        </ul>
+        <ul class="reset contacts right">
+       		<li class="ci_telegram"><a href='http://tg1.me/obmeningru_bot?start=start'>@obmeningru_bot</a></li>
+        </ul>
+        <div class="clr"></div>
+    </div>
+	<!--/head-->
+	<!--content-->
+    <div class="con_c_c"><div class="con_c_l"><div class="con_c_r">
+    <div class="con_t_c"><div class="con_t_l"><div class="con_t_r">
+    <div class="con_b_c"><div class="con_b_l"><div class="con_b_r">
+            
+        	<div class="cbLeft left">
+<!--menu-->
+<ul class="reset menu">
+	<li><a href="/" title="Главная">Главная</a></li>
+	<li><a href="/?do=security" title="Безопасность операций">Безопасность операций</a></li>
+	<li><a href="/?do=faq" title="Ответы на частые вопросы">Ответы на частые вопросы</a></li>
+	<li><a href="/?do=partners" title="Партнерская программа">Партнерская программа</a></li>
+	<li><a href="/?do=attestat" title="Аттестация">Персональный аттестат</a></li>
+	<li><a href="/?do=sale" title="Продажа проекта">Хотите такой же?</a></li>
+	<li><a href="/?do=contacts" title="Контактная информация">Контактная информация</a></li>
+</ul>
+<!--/menu-->
+
+<!--rekol-->
+<div class="block rekol" align="center">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+	var banner = new Array()
+
+	banner[0] = new Array()
+	banner[0][0] = "/images/rekol/forex4you.gif"
+	banner[0][1] = "forex4you"
+	banner[0][2] = "Forex4You"
+
+	banner[1] = new Array()
+	banner[1][0] = "/images/rekol/instaforex.gif"
+	banner[1][1] = "instaforex"
+	banner[1][2] = "InstaForex"
+	
+	banner[2] = new Array()
+	banner[2][0] = "/images/rekol/wapconvert.gif"
+	banner[2][1] = "http://wapconvert.ru"
+	banner[2][2] = "WapConvert"
+
+	n = Math.random()*2
+	nb = Math.round(n)
+	document.write('<a href=' + banner[nb][1] + ' target=_blank>')
+	document.write('<img src=' + banner[nb][0] + ' alt=' + banner[nb][2] + ' border=0 ' + ' width=200 ' + ' height=200 > </a>')
+</script>
+</div>
+<!--/rekol-->
+
+<!--bonus-->
+                <div class="block bonus">
+	<script type="text/javascript"> 
+	function ajax(method,url,proc){ 
+		/*@cc_on@if(@_jscript_version&gt;=5) function XMLHttpRequest(){return new ActiveXObject("Microsoft.XMLHTTP")||new ActiveXObject("Msxml2.XMLHTTP");}@end@*/
+		var q=new XMLHttpRequest();
+		q.onreadystatechange=function(){
+			if(q.readyState==4){
+				q.onreadystatechange=function(){};                
+				proc(q);
+			}
+		};
+		q.open(method,url,1);
+		q.send(null);
+		return q;
+	}
+	function get_bonus(){
+		ajax('GET','/?do=bonuse&purse='+document.getElementById('purse').value+'&captcha='+document.getElementById('captcha').value,function(z){alert(z.responseText)})
+	}
+	</script> 
+
+                	<div class="bonTitle">Бонусы WebMoney</div>
+                    <div class="bonCon">Получите бонус 0.01 - 0.1 WMR!</div>
+                    <div class="bonBox">
+			WMR:
+			<input type="text" class="bonInp" size="13" maxlength="13" name="purse" id="purse" value="R" />
+
+                    	Код:
+                        <div align="center" class="bonCaptcha"><img id="bcap" src="/?do=captcha&bonuse"></div>
+                        <input type="text" class="bonInp" maxlength="10" size="10" id="captcha">
+                    </div>
+                    <div align="center"><input type="button" value="Получить бонус" onclick="get_bonus()" class="bonBut"></div>
+                    <div align="center" class="bonRul"><a href="/?do=bonus">Правила получения бонусов</a></div>
+                </div>
+            	<!--/bonus-->
+                
+            	<!--certificate-->
+                <div class="certTitle"><a href="/">Аттестат регистратора</a></div>
+                <div class="block certificate">
+                    <div class="certCont">
+                    	<span>WMID</span>: <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=142747776155" target=_blank>142747776155</a><br />
+                        <span>WMID</span>: <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=236299407498" target=_blank>236299407498</a>
+                    </div>
+                </div>
+            	<!--/certificate-->
+                
+            	<!--follow-->
+                <div class="folTitle">Рассказать о нас</div>
+                <div class="follow">
+                	<ul class="reset">
+			<!-- Кнопка ВКонтакте -->
+				<script type="text/javascript" src="https://vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
+			<li><script type="text/javascript"><!--
+					  document.write(VK.Share.button({
+					  url: 'http://www.obmening.ru',
+					  title: 'Obmening.ru - сервис автоматического ввода-вывода WebMoney на банковские карты и счета',
+					  description: 'Подробности на www.obmening.ru',
+					  image: 'https://www.obmening.ru/images/logo.png',
+					  noparse: true},{type: 'custom', text: '<img src="images/about/vkontakte.png" alt="ВКонтакте" title="Рассказать в ВКонтакте"/>'
+					  }));
+					  --></script></li>
+
+			<!-- Кнопка События.WebMoney-->
+			<a href="https://events.webmoney.ru/sharer.aspx?url=http://www.obmening.ru/" target="_blank">
+			<li class="fmarLeft13"><img src="images/about/events.png" alt="События.WebMoney" title="Поделиться в События.WebMoney" /></a></li>
+			<!-- Кнопка События.WebMoney-->
+
+			<!-- Кнопка Одноклассники -->
+			<script src="/js/odkl_share.js" type="text/javascript" ></script>
+			<li class="fmarLeft14"><a href="http://www.obmening.ru" onclick="ODKL.Share(this);return false;" ><img src="images/about/odnoklassniki.png" alt="Одноклассники" title="Рассказать в Одноклассниках" /></a></li>
+
+			<!-- Кнопка Mail.ru -->
+			<li class="fmarLeft14"><a href="https://connect.mail.ru/share?share_url=http://www.obmening.ru" target="_blank"><img src="images/about/mailru.png" alt="Mail.ru" title="Рассказать на Mail.ru"/></a></li>
+
+			<!-- Кнопка ЖЖ -->
+			<li class="fmarLeft14"><a target="_blank" href="https://www.livejournal.com/update.bml?subject=Обменный пункт Обменинг.ru&amp;event=http://www.obmening.ru"><img src="images/about/livejournal.png" alt="ЖЖ" title="Написать в ЖЖ" /></a></li>
+
+                    </ul>
+                    <div class="clr"></div>
+                	<ul class="reset">
+			<!-- Кнопка Яндекс -->
+			<li><a target="_blank" href="https://my.ya.ru/posts_add_link.xml?title=Obmening.ru - сервис автоматического ввода-вывода (оплаты, пополнения) WebMoney, InJapan, Zapp, EbayToday, Forex4You, InstaForex, Moneta.ru, NJA Business и др.&URL=http://www.obmening.ru"><img src="images/about/yandex.png" alt="Яндекс" title="Рассказать на Яндексе" /></a></li>
+
+			<!-- Кнопка Мой круг -->
+			<li class="fmarLeft13"><a target="_blank" href="https://moykrug.ru/"><img src="images/about/moikrug.png" alt="Мой круг" title="" /></a></li>
+
+			<!-- Кнопка Блог.ру -->
+			<li class="fmarLeft14"><a target="_blank" href="https://obmening.blog.ru/"><img src="images/about/blogru.png" alt="Блог.ру" title="" /></a></li>
+
+			<!-- Кнопка Хабр -->
+			<li class="fmarLeft14"><a target="_blank" href="https://habrahabr.ru/"><img src="images/about/habrahabr.png" alt="Хабр" title="" /></a></li>
+
+			<!-- Кнопка Плурк -->
+			<li class="fmarLeft14"><a target="_blank" href="https://plurk.com/"><img src="images/about/plurk.png" alt="" title="Плурк" /></a></li>
+
+                    </ul>
+                    <div class="clr"></div>
+                	<ul class="reset">
+			<!-- Кнопка Memori -->
+			<li><a target="_blank" href="https://memori.ru/link/" onclick="location.href='https://memori.ru/link/?sm=1&u_data[url]='+encodeURIComponent(document.location.href)+'&u_data[name]='+encodeURIComponent(document.title);return false;"><img src="images/about/memori.png" alt="Мемори" title="Запомнить эту страницу!" /></a></li>
+
+			<!-- Кнопка Twitter -->
+                    	<li class="fmarLeft13"><a target="_blank" href="https://twitter.com/home?status=http%3A%2F%2Fwww.obmening.ru%20-%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D0%B0%20(%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B)%20WebMoney%2C%20InJapan%2C%20Zapp%2C%20EbayToday%2C%20Forex4You%2C%20Moneta.ru%2C%20%D0%B8%20%D0%B4%D1%80.&url=http%3A%2F%2Fwww.obmening.ru%2F"><img src="images/about/twitter.png" alt="Twitter" title="Поделиться на Твиттере" /></a></li>
+
+			<!-- Кнопка MySpace -->
+                    	<li class="fmarLeft14"><a target="_blank" href="https://www.myspace.com"><img src="images/about/myspace.png" alt="MySpace" title="" /></a></li>
+
+			<!-- Кнопка FaceBook -->
+                    	<li class="fmarLeft14"><a target="_blank" href="https://www.facebook.com/sharer.php?u=http://www.obmening.ru"><img src="images/about/facebook.png" alt="FaceBook" title="Поделиться в FaceBook" /></a></li>
+
+			<!-- Кнопка Blogger -->
+                    	<li class="fmarLeft14"><a target="_blank" href="https://obmening.blogspot.com/"><img src="images/about/blogger.png" alt="Blogger" title="" /></a></li>
+                    </ul>
+                    <div class="clr"></div>
+                </div>
+            	<!--/follow-->
+            </div><div class="cbRight right"><div class="rblock"><div class="rbTitle"><div class="left">Новости</div><span class="right"><a href="/?do=news">Все новости</a></span><div class="clr"></div></div>
+<ul class="reset bnewsBox"><li>2 августа 2018 года
+<br /><a href="/?do=news" title="Внимание, мошенники в Telegram.">Внимание, мошенники в Telegram.</a></li>
+</ul>
+<ul class="reset bnewsBox"><li>22 апреля 2018 года
+<br /><a href="/?do=news" title="Вывод WMR в наличные от 2% в Москве">Вывод WMR в наличные от 2% в Москве</a></li>
+</ul>
+<ul class="reset bnewsBox"><li>30 января 2018 года
+<br /><a href="/?do=news" title="Еще больше новых направлений">Еще больше новых направлений</a></li>
+</ul>
+<ul class="reset bnewsBox"><li>23 декабря 2017 года
+<br /><a href="/?do=news" title="Новые направления и увеличение лимитов">Новые направления и увеличение лимитов</a></li>
+</ul>
+<ul class="reset bnewsBox"><li>28 августа 2017 года
+<br /><a href="/?do=news" title="Обмен">Обмен</a></li>
+</ul>
+
+</div><div class="rblock">
+<div class="rbTitle">Резервы</div>
+<ul class="reset reserve">
+	<li>WMZ:<span>53.6</span></li>
+	<li>WMR:<span>72626.87</span></li>
+	<li>WME:<span>0</span></li>
+	<li>ВТБ24:<span>2998500 RUR</span></li>
+	<li>АльфаБанк:<span>2381666 RUR</span></li>
+	<li>СберБанк (карт):<span>1800010 RUR</span></li>
+	<li>Русский Стандарт*:<span>1490000 RUR</span></li>
+	<li>Ак-Барс*:<span>2153001 RUR</span></li>
+	<li>РосБанк*:<span>2019999 RUR</span></li>
+	<li>ЮниКредит*:<span>2499000 RUR</span></li>
+	<li>РайффайзенБанк*:<span>2075000 RUR</span></li>
+	<li>Приват24*:<span>100000 UAH</span></li>
+	<li>Уралсиб*:<span>2150000 RUR</span></li>
+	<li>Возрождение*:<span>2142000 RUR</span></li>
+	<li>ВТБ Банк Москвы*:<span>2201000 RUR</span></li>
+	<li>МКБ*:<span>2298000 RUR</span></li>
+	<li>Связь-Банк*:<span>2168000 RUR</span></li>
+	<li>Тинькофф*:<span>3290000 RUR</span></li>
+	<li>ФК Открытие*:<span>2202500 RUR</span></li>
+	<li>Рокетбанк*:<span>2840000 RUR</span></li>
+	<li>Бинбанк*:<span>2760000 RUR</span></li>
+	<li>Карты:<span>1490000 RUR</span></li>
+	<li>Любой Банк (счет)*:<span>5000000 RUR</span></li>
+	<li>Наличные*:<span>5000000 RUR</span></li>
+	<li>PayPal*:<span>100000 RUR</span></li>
+	<li>Безнал ИП*:<span>5000000 RUR</span></li>
+	<li>* - остаток обновляется вручную</li>
+</ul>
+</div>
+</div>
+<div class="cbCenter debug-1">
+	<div class="obmeningBox">
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tr valign="top">
+			<td width="40%"><div class="obTitle obTitleMarl5">Отдаете</div></td>
+			<td width="40%"><div class="obTitle obTitleMarl15">Получаете</div></td>
+			<td width="20%"><div class="obTitle obTitleMarl5">Резерв</div></td>
+		</tr>
+		</table>
+		<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tr valign="top">
+			<td width="40%">
+                                <ul class="reset obList"></ul>
+			</td>
+			<td width="40%" class="obBox">
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0" class="obList2">
+				</table>
+			</td>
+			<td width="20%" class="obBoxR">
+                                <ul class="reset">
+				</ul>
+			</td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="clr"></div>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript">
+	var jsx={"z":{"name":"WMZ","ico":null,"directions":{"r":{"course":"56.5100","balance":72626,"url":"\/?do=exchange&from=z&to=r","ico":null,"name":"WMR"},"e":{"course":"0.8000","balance":0,"url":"\/?do=exchange&from=z&to=e","ico":null,"name":"WME"},"t":{"course":"58.6481","balance":2998500,"url":"\/?do=sell&from=z&to=t","ico":null,"name":"&#1042;&#1058;&#1041;24"},"a":{"course":"58.7749","balance":2381666,"url":"\/?do=sell&from=z&to=a","ico":null,"name":"&#1040;&#1083;&#1100;&#1092;&#1072;-&#1073;&#1072;&#1085;&#1082;"},"c":{"course":"58.6119","balance":1800010,"url":"\/?do=sell&from=z&to=c","ico":null,"name":"&#1057;&#1073;&#1077;&#1088;&#1073;&#1072;&#1085;&#1082;, &#1082;&#1072;&#1088;&#1090;&#1099;"},"d":{"course":"59.7525","balance":1490000,"url":"\/?do=sell&from=z&to=d","ico":null,"name":"&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; &#1089;&#1090;&#1072;&#1085;&#1076;&#1072;&#1088;&#1090; &#1073;&#1072;&#1085;&#1082;"},"h":{"course":"59.7525","balance":2153001,"url":"\/?do=sell&from=z&to=h","ico":null,"name":"&#1040;&#1082;-&#1041;&#1072;&#1088;&#1089; &#1041;&#1072;&#1085;&#1082;"},"w":{"course":"59.7525","balance":2094030,"url":"\/?do=sell&from=z&to=w","ico":null,"name":"&#1041;&#1072;&#1085;&#1082; &#1040;&#1074;&#1072;&#1085;&#1075;&#1072;&#1088;&#1076;"},"k":{"course":"59.7525","balance":2019999,"url":"\/?do=sell&from=z&to=k","ico":null,"name":"&#1056;&#1086;&#1089;&#1041;&#1072;&#1085;&#1082;"},"unicredit":{"course":"59.7525","balance":2499000,"url":"\/?do=sell&from=z&to=unicredit","ico":null,"name":"&#1070;&#1085;&#1080;&#1050;&#1088;&#1077;&#1076;&#1080;&#1090; &#1041;&#1072;&#1085;&#1082;"},"raiffeisen":{"course":"59.4447","balance":2075000,"url":"\/?do=sell&from=z&to=raiffeisen","ico":null,"name":"&#1056;&#1072;&#1081;&#1092;&#1092;&#1072;&#1081;&#1079;&#1077;&#1085;&#1041;&#1072;&#1085;&#1082;"},"privat24":{"course":"22.9770","balance":100000,"url":"\/?do=sell&from=z&to=privat24","ico":null,"name":"&#1055;&#1088;&#1080;&#1074;&#1072;&#1090;24 UAH"},"uralsib":{"course":"59.7525","balance":2150000,"url":"\/?do=sell&from=z&to=uralsib","ico":null,"name":"&#1041;&#1072;&#1085;&#1082; &#1059;&#1088;&#1072;&#1083;&#1089;&#1080;&#1073;"},"vbank":{"course":"59.7525","balance":2142000,"url":"\/?do=sell&from=z&to=vbank","ico":null,"name":"&#1042;&#1086;&#1079;&#1088;&#1086;&#1078;&#1076;&#1077;&#1085;&#1080;&#1077;"},"moscow":{"course":"59.7525","balance":2201000,"url":"\/?do=sell&from=z&to=moscow","ico":null,"name":"&#1042;&#1058;&#1041; &#1041;&#1072;&#1085;&#1082; &#1052;&#1086;&#1089;&#1082;&#1074;&#1099;"},"mkb":{"course":"60.2897","balance":2298000,"url":"\/?do=sell&from=z&to=mkb","ico":null,"name":"&#1052;&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081; &#1082;&#1088;&#1077;&#1076;&#1080;&#1090;&#1085;&#1099;&#1081; &#1041;&#1072;&#1085;&#1082;"},"svyaz":{"course":"59.7525","balance":2168000,"url":"\/?do=sell&from=z&to=svyaz","ico":null,"name":"&#1057;&#1074;&#1103;&#1079;&#1100;-&#1041;&#1072;&#1085;&#1082;"},"tinkoff":{"course":"58.7145","balance":3290000,"url":"\/?do=sell&from=z&to=tinkoff","ico":null,"name":"&#1058;&#1080;&#1085;&#1100;&#1082;&#1086;&#1092;&#1092;"},"open":{"course":"59.7525","balance":2202500,"url":"\/?do=sell&from=z&to=open","ico":null,"name":"&#1060;&#1050; &#1054;&#1090;&#1082;&#1088;&#1099;&#1090;&#1080;&#1077;"},"roket":{"course":"59.7525","balance":2840000,"url":"\/?do=sell&from=z&to=roket","ico":null,"name":"&#1056;&#1086;&#1082;&#1077;&#1090;&#1073;&#1072;&#1085;&#1082;"},"binbank":{"course":"59.7525","balance":2760000,"url":"\/?do=sell&from=z&to=binbank","ico":null,"name":"&#1041;&#1080;&#1085;&#1073;&#1072;&#1085;&#1082;"},"y":{"course":"58.5938","balance":1490000,"url":"\/?do=sell&from=z&to=y","ico":null,"name":"&#1041;&#1072;&#1085;&#1082;&#1086;&#1074;&#1089;&#1082;&#1072;&#1103; &#1082;&#1072;&#1088;&#1090;&#1072;"},"allbank":{"course":"59.1430","balance":5000000,"url":"\/?do=sell&from=z&to=allbank","ico":null,"name":"&#1051;&#1102;&#1073;&#1086;&#1081; &#1041;&#1072;&#1085;&#1082;"},"cash":{"course":"59.0947","balance":5000000,"url":"\/?do=sell&from=z&to=cash","ico":null,"name":"&#1053;&#1072;&#1083;&#1080;&#1095;&#1085;&#1099;&#1077;"},"paypal":{"course":"58.2377","balance":100000,"url":"\/?do=sell&from=z&to=paypal","ico":null,"name":"PayPal RUB"},"ipaccount":{"course":"60.3500","balance":5000000,"url":"\/?do=sell&from=z&to=ipaccount","ico":null,"name":"&#1048;&#1055; &#1089;&#1095;&#1077;&#1090;"}}},"r":{"name":"WMR","ico":null,"directions":{"z":{"course":0.0145,"balance":53,"url":"\/?do=exchange&from=r&to=z","ico":null,"name":"WMZ"},"e":{"course":0.0141,"balance":0,"url":"\/?do=exchange&from=r&to=e","ico":null,"name":"WME"},"t":{"course":"0.9718","balance":2998500,"url":"\/?do=sell&from=r&to=t","ico":null,"name":"&#1042;&#1058;&#1041;24"},"a":{"course":"0.9739","balance":2381666,"url":"\/?do=sell&from=r&to=a","ico":null,"name":"&#1040;&#1083;&#1100;&#1092;&#1072;-&#1073;&#1072;&#1085;&#1082;"},"c":{"course":"0.9712","balance":1800010,"url":"\/?do=sell&from=r&to=c","ico":null,"name":"&#1057;&#1073;&#1077;&#1088;&#1073;&#1072;&#1085;&#1082;, &#1082;&#1072;&#1088;&#1090;&#1099;"},"d":{"course":"0.9901","balance":1490000,"url":"\/?do=sell&from=r&to=d","ico":null,"name":"&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; &#1089;&#1090;&#1072;&#1085;&#1076;&#1072;&#1088;&#1090; &#1073;&#1072;&#1085;&#1082;"},"h":{"course":"0.9901","balance":2153001,"url":"\/?do=sell&from=r&to=h","ico":null,"name":"&#1040;&#1082;-&#1041;&#1072;&#1088;&#1089; &#1041;&#1072;&#1085;&#1082;"},"w":{"course":"0.9901","balance":2094030,"url":"\/?do=sell&from=r&to=w","ico":null,"name":"&#1041;&#1072;&#1085;&#1082; &#1040;&#1074;&#1072;&#1085;&#1075;&#1072;&#1088;&#1076;"},"k":{"course":"0.9901","balance":2019999,"url":"\/?do=sell&from=r&to=k","ico":null,"name":"&#1056;&#1086;&#1089;&#1041;&#1072;&#1085;&#1082;"},"unicredit":{"course":"0.9901","balance":2499000,"url":"\/?do=sell&from=r&to=unicredit","ico":null,"name":"&#1070;&#1085;&#1080;&#1050;&#1088;&#1077;&#1076;&#1080;&#1090; &#1041;&#1072;&#1085;&#1082;"},"raiffeisen":{"course":"0.9850","balance":2075000,"url":"\/?do=sell&from=r&to=raiffeisen","ico":null,"name":"&#1056;&#1072;&#1081;&#1092;&#1092;&#1072;&#1081;&#1079;&#1077;&#1085;&#1041;&#1072;&#1085;&#1082;"},"privat24":{"course":"0.3541","balance":100000,"url":"\/?do=sell&from=r&to=privat24","ico":null,"name":"&#1055;&#1088;&#1080;&#1074;&#1072;&#1090;24 UAH"},"uralsib":{"course":"0.9901","balance":2150000,"url":"\/?do=sell&from=r&to=uralsib","ico":null,"name":"&#1041;&#1072;&#1085;&#1082; &#1059;&#1088;&#1072;&#1083;&#1089;&#1080;&#1073;"},"vbank":{"course":"0.9901","balance":2142000,"url":"\/?do=sell&from=r&to=vbank","ico":null,"name":"&#1042;&#1086;&#1079;&#1088;&#1086;&#1078;&#1076;&#1077;&#1085;&#1080;&#1077;"},"moscow":{"course":"0.9901","balance":2201000,"url":"\/?do=sell&from=r&to=moscow","ico":null,"name":"&#1042;&#1058;&#1041; &#1041;&#1072;&#1085;&#1082; &#1052;&#1086;&#1089;&#1082;&#1074;&#1099;"},"mkb":{"course":"0.9990","balance":2298000,"url":"\/?do=sell&from=r&to=mkb","ico":null,"name":"&#1052;&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081; &#1082;&#1088;&#1077;&#1076;&#1080;&#1090;&#1085;&#1099;&#1081; &#1041;&#1072;&#1085;&#1082;"},"svyaz":{"course":"0.9901","balance":2168000,"url":"\/?do=sell&from=r&to=svyaz","ico":null,"name":"&#1057;&#1074;&#1103;&#1079;&#1100;-&#1041;&#1072;&#1085;&#1082;"},"tinkoff":{"course":"0.9729","balance":3290000,"url":"\/?do=sell&from=r&to=tinkoff","ico":null,"name":"&#1058;&#1080;&#1085;&#1100;&#1082;&#1086;&#1092;&#1092;"},"open":{"course":"0.9901","balance":2202500,"url":"\/?do=sell&from=r&to=open","ico":null,"name":"&#1060;&#1050; &#1054;&#1090;&#1082;&#1088;&#1099;&#1090;&#1080;&#1077;"},"roket":{"course":"0.9901","balance":2840000,"url":"\/?do=sell&from=r&to=roket","ico":null,"name":"&#1056;&#1086;&#1082;&#1077;&#1090;&#1073;&#1072;&#1085;&#1082;"},"binbank":{"course":"0.9901","balance":2760000,"url":"\/?do=sell&from=r&to=binbank","ico":null,"name":"&#1041;&#1080;&#1085;&#1073;&#1072;&#1085;&#1082;"},"y":{"course":"0.9709","balance":1490000,"url":"\/?do=sell&from=r&to=y","ico":null,"name":"&#1041;&#1072;&#1085;&#1082;&#1086;&#1074;&#1089;&#1082;&#1072;&#1103; &#1082;&#1072;&#1088;&#1090;&#1072;"},"allbank":{"course":"0.9800","balance":5000000,"url":"\/?do=sell&from=r&to=allbank","ico":null,"name":"&#1051;&#1102;&#1073;&#1086;&#1081; &#1041;&#1072;&#1085;&#1082;"},"cash":{"course":"0.9792","balance":5000000,"url":"\/?do=sell&from=r&to=cash","ico":null,"name":"&#1053;&#1072;&#1083;&#1080;&#1095;&#1085;&#1099;&#1077;"},"paypal":{"course":"0.9650","balance":100000,"url":"\/?do=sell&from=r&to=paypal","ico":null,"name":"PayPal RUB"},"ipaccount":{"course":"1.0000","balance":5000000,"url":"\/?do=sell&from=r&to=ipaccount","ico":null,"name":"&#1048;&#1055; &#1089;&#1095;&#1077;&#1090;"}}},"e":{"name":"WME","ico":null,"directions":{"z":{"course":"1.0200","balance":53,"url":"\/?do=exchange&from=e&to=z","ico":null,"name":"WMZ"},"r":{"course":"60.2000","balance":72626,"url":"\/?do=exchange&from=e&to=r","ico":null,"name":"WMR"}}}};	var alr=new Array();
+
+	$.each(jsx,function(i,e){
+		$('.obList').append('<li id="c1_'+i+'"><div class="obBit">1.00</div><div class="obCurrency ico-'+i+'"> '+e["name"]+'</div></li>')
+	});
+	                                	
+
+	$.each(['z'],function(xi,xe){
+		$.each(jsx[xe]["directions"],function(i,e){
+			if(alr[i]!=1){
+				$('.obBox table').append('<tr><td width="20%" class="obBit2">'+e["course"]+'</td><td width="80%"><div class="obCurrency2 ico-'+i+'"><a href="'+e["url"]+'">'+e["name"]+'</a></div></td></tr>');
+				$('.obBoxR ul').append('<li>'+e["balance"]+'</li>');
+				alr[i]=1;
+			}
+		});
+	});
+	$('.obList li').mouseover(function() {
+		$('.obList li.oblAct').removeClass('oblAct');
+		this.className += ' oblAct';
+		var tid=this.id.replace(/c1_/,'');
+		$('.obBox table').empty();
+		$('.obBoxR ul').empty();
+
+		$.each(jsx[tid]["directions"],function(i,e){
+				$('.obBox table').append('<tr><td width="20%" class="obBit2">'+e["course"]+'</td><td width="80%"><div class="obCurrency2 ico-'+i+'"><a href="'+e["url"]+'">'+e["name"]+'</a></div></td></tr>');
+				$('.obBoxR ul').append('<li>'+e["balance"]+'</li>');
+		});
+	});
+	$('.obBox tr a').css('color', '#2E8ABA');
+</script>
+<div class="text-block2">
+	<h1 class="cTitle">О сервисе автоматического ввода-вывода</h1>
+	<br />
+	<h2>Обмен Webmoney</h2>
+	Сервис Obmening.ru позволяет <b>купить или продать Webmoney</b>, не выходя из дома. Ввод и вывод денежных средств возможен для всех, у кого есть банковский счет в АльфаБанке, ВТБ24 или ПромСвязьБанке. <b>Обмен Webmoney</b> осуществляется в полностью автоматическом режиме с использованием надежной шифрации всех данных, что обеспечивает безопасность платежей. Кроме того, с помощью нашего сайта вы можете <b>купить InJapan USD</b> - валюту интернет-аукциона InJapan. <b>Купить Webmoney</b> или <b>вывести Webmoney</b> при помощи нашего сервиса - это удобно, надежно и выгодно.
+	<ul class="reset cBoxInfo">
+		<li>- Высокий уровень защиты при передаче информации, аттестаты регистратора WM и Capitaller гарантируют надежность при совершении всех финансовых операций.</li>
+		<li>- Сервис работает круглосуточно, и мы постоянно отслеживаем стабильность его работы.</li>
+		<li>- <b>Обмен Webmoney</b> осуществляется практически мгновенно.</li>
+		<li>- Мы берем минимальный процент за осуществление всех операций по <b>покупке и продаже Webmoney</b>.</li>
+	</ul>
+	Если у вас возникли какие-либо вопросы по работе сервиса, то вы можете обратиться в службу поддержки по телефону, ICQ, электронной почте или с помощью On-Line чата.
+	<br />
+	<h2>Купить Webmoney</h2>
+	Электронные деньги в России используются, как правило, непостоянно. Это удобно, чтобы оплатить заказ в интернет-магазине или услуги хостинга, но держать все свои сбережения в виде Webmoney осмеливаются не многие, да и не каждому нужна долго лежащая сумма в виде электронных денег. Задача <b>купить Webmoney</b> возникает, как правило, внезапно. Бежать в магазин за картой Webmoney неудобно и не всегда возможно. Куда удобнее было бы купить электронные деньги при помощи простого перевода с банковского счета. Современные системы интернет-банков позволяют делать это не выходя из дома. Наш сервис как раз предназначен для тех, кто дорожит своим временем и нуждается в быстрой <b>покупке Webmoney</b>.
+	<br />
+	<h2>Вывести Webmoney</h2>
+	Электронные деньги удобно использовать для удаленных платежей за товары или услуги, заказываемые в другом городе или просто в другом районе города. Если получателем электронных денег являетесь вы, то возникает задача <b>вывести Webmoney</b>, чтобы пользоваться наличными деньгами в обычной жизни для оплаты товаров и услуг обычных магазинов, кафе и других предприятий. Часто деньги нужно вывести быстро. Еще лучше - прямо сейчас, не отрываясь от компьютера и интернета. Наш сервис позволяет в считанные минуты перевести валюту с вашего электронного кошелька Webmoney на счет одного из трех популярных банков - АльфаБанк, ВТБ24 или ПромСвязьБанк. Помимо счета, у вас может быть пластиковая карта этого банка, поэтому деньги с банковского счета вы сможете перевести на карту и обналичить в ближайшем банкомате.
+</div>
+
+            <div class="clr"></div>
+		<!--content_bottom-->
+        <div class="con_b_cc"><div class="con_b_cl"><div class="con_b_cr"><div class="con_b_t">
+        	На сайте работает система проверки ошибок. Обнаружив неточность в тексте, выделите ее и нажмите <strong>Ctrl + Enter</strong>.
+        </div></div></div></div>
+		<!--/content_bottom-->
+    </div></div></div>
+    </div></div></div>
+    </div></div></div>
+	<!--/content-->
+    
+	<!--fmenu-->
+    <ul class="reset fmenu">
+    	<li><a href="/">Главная</a></li>
+    	<li><a href="/?do=security">Безопасность операций</a></li>
+    	<li><a href="/?do=faq">Ответы на частые вопросы</a></li>
+    	<li><a href="/?do=partners">Партнерская программа</a></li>
+    	<li><a href="/?do=contacts">Контактная информация</a></li>
+    	<li><a href="/"></a></li>
+    </ul>
+    <div class="clr"></div>
+	<!--/fmenu-->
+    
+	<!--footer-->
+    <div class="footer">
+    	<div class="copy left">© 2009-2018 <a href="http://finshark.ru" title="FinShark Corp." target="_blank">FinShark Corp.</a><br />Все права защищены</div>
+    	<div class="count right">
+		<!-- begin WebMoney Transfer : accept label -->
+		<a href="http://www.megastock.ru/" target="_blank"><img src="images/footer/counter_megastock.png" alt="www.megastock.ru" border="0"></a>
+		<!-- end WebMoney Transfer : accept label -->
+
+		<!-- webmoney attestation label#CE15A8EF-61E7-4067-BD2A-0AE0B0C1BDB1 begin --> 
+		<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=142747776155" target=_blank><IMG SRC="images/footer/counter-wm3.png" title="Здесь находится аттестат нашего WM идентификатора 142747776155" border="0"></a>
+		<!-- webmoney attestation label#CE15A8EF-61E7-4067-BD2A-0AE0B0C1BDB1 end --> 
+
+		<!--Capitaller-->
+		<A href="https://www.capitaller.ru/" > <IMG alt="управление бюджетом" src="images/footer/counter_cap.gif" border="0" ></A>
+		<!--/Capitaller-->
+
+		<!--LiveInternet counter-->
+		<script type="text/javascript"><!--
+		new Image().src = "https://counter.yadro.ru/hit?r"+
+		escape(document.referrer)+((typeof(screen)=="undefined")?"":
+		";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+		screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+		";"+Math.random();//--></script>
+		<!--/LiveInternet-->
+
+		<!-- Yandex.Metrika counter -->
+		<script src="https://mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		try { var yaCounter843758 = new Ya.Metrika({id:843758,
+		          webvisor:true,
+		          clickmap:true,
+		          trackLinks:true,
+		          accurateTrackBounce:true});
+		} catch(e) { }
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/843758" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+
+		<!-- begin of Top100 code -->
+		<noscript id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?2147292"></noscript>
+		<!-- end of Top100 code -->
+
+		<!-- begin of GoogleAnalytics code -->
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-39384350-1']);
+		  _gaq.push(['_setDomainName','obmening.ru']);
+		  _gaq.push(['_setAllowLinker',true]);
+		  _gaq.push(['_trackPageview']);
+		  
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+		<!-- end of GoogleAnalytics code -->
+	</div>
+        <div class="clr"></div>
+    </div>
+	<!--/footer-->
+</div>
+</body>
+</html>

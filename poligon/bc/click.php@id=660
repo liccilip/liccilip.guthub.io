@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129101317-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-129101317-1');
+    </script>
+    
+
+    <meta charset="utf-8">
+    <title>
+  Обмен цифровых валют Bitcoin➤Qiwi➤Ethereum➤Приват24 Лучший курс✔ Скидки✔
+</title>
+    <meta name="description" content="
+  Автоматическая покупка и продажа bitcoin, а также обмен bitcoin на множество других валют делайте с FlyChange. Высокая скорость обмена, накопительная система скидок и полная конфиденциальность пользователей.
+" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="
+  Купить биткоин, обменять биткоин, вывод крипто, биток на приват, купить биток за приват, крипто обменник, вывод этериум, купить эфир, биткоин на сбербанк, эфир на приват, быстрый обмен, пополнить кошелек, онлайн обменник биткойн
+">
+	<!-- CSS -->
+	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/static/css/normalize.css">
+	<link rel="stylesheet" href="/static/css/bootstrap-select.min.css">
+	<link rel="stylesheet" href="/static/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="/static/css/style.css">
+	<link rel="stylesheet" href="/static/css/media.css">
+    
+        <link rel="stylesheet" href="/static/css/flychange.css">
+    
+
+
+	<!-- Favicon -->
+    <!--link rel="icon" type="image/png" href="images/favicon.png"-->
+</head>
+<body>
+<header class="header">
+  <div class="container">
+    <div class="header-left">
+      <a href="/ru/" class="header-logo">
+        
+          <img src="/static/images/flychange-logo.png" alt="FlyChange" title="Flychange">
+        
+      </a>
+      <nav class="header-menu">
+        <button class="btn-menu-mobile" type="button">
+          <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+        </button>
+        <ul class="menu-wrap">
+
+
+
+          <li class="menu-item">
+            <a href="/ru/discounts" class="menu-link">Скидки</a>
+          </li>
+          <li class="menu-item">
+            <a href="/ru/#reserves" class="menu-link">Резервы</a>
+          </li>
+          <li class="menu-item">
+            <a href="/ru/bids" class="menu-link">Заявки</a>
+          </li>
+          <li class="menu-item">
+            <a href="/ru/contacts" class="menu-link">Контакты</a>
+          </li>
+          <li class="menu-item">
+            <a href="/ru/partners" class="menu-link">Партнерам</a>
+          </li>
+
+
+
+          <li class="menu-item">
+            <a href="/ru/contacts#faq" class="menu-link">FAQ</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="header-right">
+      
+      <div class="header-profile">
+        <a href="/ru/login" class="btn btn-custom btn-custom-sm btn-info signin">Вход</a>
+        <a href="/ru/register" class="signup">Регистрация</a>
+      </div>
+      
+      <div class="header-lang">
+
+
+
+
+
+
+      </div>
+    </div>
+    <div class="header-mobile-menu">
+      <div class="header-profile">
+      
+        <a href="/ru/login" class="btn btn-custom btn-custom-sm btn-info signin">Вход</a>
+        <a href="/ru/register" class="signup">Регистрация</a>
+      
+      </div>
+
+
+
+
+
+
+
+
+
+      <div style="clear:both"></div>
+
+
+
+
+
+        <li class="menu-item">
+          <a href="/ru/discounts" class="menu-link">Скидки</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/#reserves" class="menu-link">Резервы</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/bids" class="menu-link">Заявки</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/contacts" class="menu-link">Контакты</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/partners" class="menu-link">Партнерам</a>
+        </li>
+
+
+
+        <li class="menu-item">
+          <a href="/ru/contacts#faq" class="menu-link">FAQ</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="main">
+  
+
+<div class="exchange-form exchange-form-bitstore exchange-form-flychange">
+  
+  
+    <div class="container">
+      
+      <div class="flychange-left">
+        <div class="position-images-slot">
+          <img src="/static/images/sota-1-5.png">
+        </div>
+      </div>
+      <div class="flychange-right">
+        <div class="position-images-slot">
+          <img src="/static/images/sota-6-9.png">
+        </div>
+      </div>
+      
+      <div class="container_block">
+        <form id="exchangeForm">
+          <div class="row">
+            <div class="col-sm-5 exchange-direction">
+              <label class="title">Отдаю
+              <div class="exchange-direction_image" id="exchange-direction_invoice"></div>
+              </label>
+              <div class="select-block">
+                <select class="select-picker" name="invoice_payway" id="invoice_payway" oninvalid="setCustomValidity('Выберите валюту к получению')" required>
+                  
+                  <option value="20" data-currency="QWRUB" data-pm_id="1" data-pm_name="QIWI RUB" data-pm_min="1000" data-pm_max="200000" data-pm_step="0.01" data-path="/pm_img/1.png" data-content="<img src='/pm_img/1.png' alt=''/><span class='payment-item'>QIWI RUB</span>" ></option>
+                  
+                  <option value="12" data-currency="YAMRUB" data-pm_id="2" data-pm_name="Yandex RUB" data-pm_min="1000" data-pm_max="100000" data-pm_step="0.01" data-path="/pm_img/2.png" data-content="<img src='/pm_img/2.png' alt=''/><span class='payment-item'>Yandex RUB</span>" ></option>
+                  
+                  <option value="15" data-currency="WMR" data-pm_id="4" data-pm_name="WMR" data-pm_min="1000" data-pm_max="500000" data-pm_step="0.01" data-path="/pm_img/4.png" data-content="<img src='/pm_img/4.png' alt=''/><span class='payment-item'>WMR</span>" ></option>
+                  
+                  <option value="13" data-currency="WMZ" data-pm_id="5" data-pm_name="WMZ" data-pm_min="50" data-pm_max="10000" data-pm_step="0.01" data-path="/pm_img/5.png" data-content="<img src='/pm_img/5.png' alt=''/><span class='payment-item'>WMZ</span>" selected></option>
+                  
+                </select>
+              </div>
+              <div class="exchange-finance">
+                <div class="amount">
+                  <input type="number" step="any" class="amount-input" name="iamount" id="iamount" value="100.0" required>
+                  <span id="i_currency" class="amount-currency"></span>
+                </div>
+                <div class="limit">
+                  <span class="limit-output">Min: <span id="ipaywayMin"></span> Max: <span id="ipaywayMax"></span></span>
+                </div>
+                <div class="fee">
+                  <div class="fee-label">С учётом комиссии:</div>
+                  <div class="fee-output">
+                    <span id="ips_amount" class="fee-sum"></span>
+                    <span id="ips_currency" class="fee-currency"></span>
+                  </div>
+                </div>
+                <div class="rate" id="rate_info"></div>
+              </div>
+            </div>
+            <div class="col-sm-2 pointer pointer-bitstore pointer-flychange"></div>
+            <div class="col-sm-5 exchange-direction">
+              <label class="title">Получаю
+                <div class="exchange-direction_image" id="exchange-direction_withdraw"></div>
+              </label>
+              <div class="select-block">
+                <select class="select-picker" name="withdraw_payway" id="withdraw_payway" oninvalid="setCustomValidity('Выберите валюту обмена')">
+                  
+                  <option value="96" data-currency="QWRUB" data-pm_id="1" data-pm_name="QIWI RUB" data-pm_min="100" data-pm_max="100000" data-pm_step="0.01" data-path="/pm_img/1.png" data-content="<img src='/pm_img/1.png' alt=''/><span class='payment-item'>QIWI RUB</span>" ></option>
+                  
+                  <option value="18" data-currency="P24UAH" data-pm_id="3" data-pm_name="Приват24 UAH" data-pm_min="1" data-pm_max="14999" data-pm_step="0.01" data-path="/pm_img/3.png" data-content="<img src='/pm_img/3.png' alt=''/><span class='payment-item'>Приват24 UAH</span>" selected></option>
+                  
+                  <option value="15" data-currency="YAMRUB" data-pm_id="2" data-pm_name="Yandex RUB" data-pm_min="100" data-pm_max="60000" data-pm_step="0.01" data-path="/pm_img/2.png" data-content="<img src='/pm_img/2.png' alt=''/><span class='payment-item'>Yandex RUB</span>" ></option>
+                  
+                  <option value="20" data-currency="WMR" data-pm_id="4" data-pm_name="WMR" data-pm_min="1" data-pm_max="1000000" data-pm_step="0.01" data-path="/pm_img/4.png" data-content="<img src='/pm_img/4.png' alt=''/><span class='payment-item'>WMR</span>" ></option>
+                  
+                  <option value="4" data-currency="CARDRUB" data-pm_id="8" data-pm_name="Card RUB" data-pm_min="100" data-pm_max="60000" data-pm_step="0.01" data-path="/pm_img/8.png" data-content="<img src='/pm_img/8.png' alt=''/><span class='payment-item'>Card RUB</span>" ></option>
+                  
+                  <option value="23" data-currency="SBERRUB" data-pm_id="9" data-pm_name="Сбербанк RUB" data-pm_min="100" data-pm_max="60000" data-pm_step="0.01" data-path="/pm_img/9.png" data-content="<img src='/pm_img/9.png' alt=''/><span class='payment-item'>Сбербанк RUB</span>" ></option>
+                  
+                  <option value="31" data-currency="ACRUB" data-pm_id="10" data-pm_name="Альфа-Банк RUB" data-pm_min="100" data-pm_max="60000" data-pm_step="0.01" data-path="/pm_img/10.png" data-content="<img src='/pm_img/10.png' alt=''/><span class='payment-item'>Альфа-Банк RUB</span>" ></option>
+                  
+                  <option value="37" data-currency="TBRUB" data-pm_id="11" data-pm_name="ВТБ24 RUB" data-pm_min="100" data-pm_max="75000" data-pm_step="0.01" data-path="/pm_img/11.png" data-content="<img src='/pm_img/11.png' alt=''/><span class='payment-item'>ВТБ24 RUB</span>" ></option>
+                  
+                  <option value="33" data-currency="TCSBRUB" data-pm_id="12" data-pm_name="Тинькофф RUB" data-pm_min="100" data-pm_max="60000" data-pm_step="0.01" data-path="/pm_img/12.png" data-content="<img src='/pm_img/12.png' alt=''/><span class='payment-item'>Тинькофф RUB</span>" ></option>
+                  
+                  <option value="2" data-currency="CARDUAH" data-pm_id="14" data-pm_name="Card UAH" data-pm_min="1" data-pm_max="14999" data-pm_step="0.01" data-path="/pm_img/14.png" data-content="<img src='/pm_img/14.png' alt=''/><span class='payment-item'>Card UAH</span>" ></option>
+                  
+                  <option value="84" data-currency="MONOBUAH" data-pm_id="15" data-pm_name="Монобанк" data-pm_min="1" data-pm_max="14999" data-pm_step="0.01" data-path="/pm_img/15.png" data-content="<img src='/pm_img/15.png' alt=''/><span class='payment-item'>Монобанк</span>" ></option>
+                  
+                  <option value="63" data-currency="OSDBUAH" data-pm_id="16" data-pm_name="ОщадБанк" data-pm_min="1" data-pm_max="14999" data-pm_step="0.01" data-path="/pm_img/16.png" data-content="<img src='/pm_img/16.png' alt=''/><span class='payment-item'>ОщадБанк</span>" ></option>
+                  
+                  <option value="82" data-currency="PMBBUAH" data-pm_id="17" data-pm_name="ПУМБ" data-pm_min="1" data-pm_max="14999" data-pm_step="0.01" data-path="/pm_img/17.png" data-content="<img src='/pm_img/17.png' alt=''/><span class='payment-item'>ПУМБ</span>" ></option>
+                  
+                  <option value="81" data-currency="RFBUAH" data-pm_id="18" data-pm_name="Райффайзен" data-pm_min="1" data-pm_max="14999" data-pm_step="0.01" data-path="/pm_img/18.png" data-content="<img src='/pm_img/18.png' alt=''/><span class='payment-item'>Райффайзен</span>" ></option>
+                  
+                  <option value="87" data-currency="CARDEUR" data-pm_id="19" data-pm_name="Card EUR" data-pm_min="1" data-pm_max="2499" data-pm_step="0.01" data-path="/pm_img/19.png" data-content="<img src='/pm_img/19.png' alt=''/><span class='payment-item'>Card EUR</span>" ></option>
+                  
+                  <option value="86" data-currency="CARDUSD" data-pm_id="20" data-pm_name="Card USD" data-pm_min="1" data-pm_max="2499" data-pm_step="0.01" data-path="/pm_img/20.png" data-content="<img src='/pm_img/20.png' alt=''/><span class='payment-item'>Card USD</span>" ></option>
+                  
+                </select>
+              </div>
+              <div class="exchange-finance">
+                <div class="amount">
+                  <input id="wamount" type="number" step="any" class="amount-input" name="wamount" min="0" value="" required>
+                  <span id="w_currency" class="amount-currency exchange-direction_title_in"></span>
+                </div>
+                <div class="limit">
+                  <span class="limit-output">Min: <span id="wpaywayMin"></span></span>
+                  <span id="wps_fee_title" class="limit-fee" style="display:none;">
+                    Комиссия платёжной системы: <span id="wps_fee"></span>
+                  </span>
+                </div>
+                <div class="reserve">
+                  <span class="reserve-label">Резерв: </span>
+                  <span id="reserve_info" class="reserve-sum"></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row coupon">
+            <div class="col-sm-12 coupon-have">
+              <a href="#" id="promo_code_slider_button">У Вас есть промо-код?</a>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 promo_code_slider" >
+                
+                <div class="col-sm-5">
+                  <input type="text" id="promo_code" class="form-input" placeholder="Введите промо-код">
+                </div>
+                <div class="col-sm-2"></div>
+                <div class="col-sm-5">
+                  <button id="check_promo_code" class="btn-custom btn-custom-orange btn-custom-lg">Активировать</button>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-5">
+              <div>
+                <input id="email" type="email" name="email" class="form-input" placeholder="Ваш email" data-exists="" oninvalid="setCustomValidity('Укажите корректный email')" value=""  required>
+              </div>
+              <div id="add_ons"></div>
+            </div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-5">
+              <div id="account_info"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-5 user_info user_info_left"></div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-5 user_info user_info_right"></div>
+            <div class="col-sm-12 user_info user_info_center"></div>
+          </div>
+
+          
+            
+    <div class="row">
+      <div class="col-sm-12">
+        
+          
+        
+        <div class="error_msg" id="errors" style="display: none;"></div>
+      </div>
+    </div>
+    
+          
+
+          <div class="row exchange-terms">
+            <div class="col-sm-12">
+              <div class="form-checkbox">
+                <input type="checkbox" id="terms_use" name="terms_use" checked>
+                <label class="label" for="terms_use">
+                  При нажатии на кнопку "Обменять" Вы соглашаетесь с <a href="#" data-target="#agreement" data-toggle="modal">пользовательским соглашением</a> нашего ресурса
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="row exchange-start">
+            <button class="btn-custom btn-custom-orange btn-custom-lg exchButton exchangeButton" data-amount_type="invoice" data-refer_id="8">Обменять</button>
+          </div>
+          <input type="submit" style="display: none;">
+        </form>
+        <div id="wpayway_info" style="display: none;" class="col-sm-12 form_description"></div>
+        <div id="ipayway_info" style="display: none;" class="col-sm-12 form_description"></div>
+      </div><!--container_block-->
+    </div>
+</div>
+
+<div id="reserves" class="exchange-reserve">
+  <div class="container flychange-container">
+    <div class="corner-left-top"></div>
+    <div class="liner-for-corner-left-top"></div>
+    <div class="corner-left-down"></div>
+    <div class="liner-for-corner-left-down"></div>
+    <div class="corner-right-top"></div>
+    <div class="liner-for-corner-right-top"></div>
+    <div class="corner-right-down"></div>
+    <div class="liner-for-corner-right-down"></div>
+    <div class="title">Резервы валют</div>
+    <div class="reserve-wrap">
+      
+        <div class="col-sm-4">
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/1.png">
+              </div>
+              <div class="title">QIWI RUB</div>
+              <div class="sum">1082151.65</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/4.png">
+              </div>
+              <div class="title">WMR</div>
+              <div class="sum">8281344.63</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/9.png">
+              </div>
+              <div class="title">Сбербанк RUB</div>
+              <div class="sum">11203914.86</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/12.png">
+              </div>
+              <div class="title">Тинькофф RUB</div>
+              <div class="sum">5151414.59</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/16.png">
+              </div>
+              <div class="title">ОщадБанк</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/19.png">
+              </div>
+              <div class="title">Card EUR</div>
+              <div class="sum">4</div>
+            </div>
+          </div>
+          
+        </div>
+      
+        <div class="col-sm-4">
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/3.png">
+              </div>
+              <div class="title">Приват24 UAH</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/5.png">
+              </div>
+              <div class="title">WMZ</div>
+              <div class="sum">221058.04</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/10.png">
+              </div>
+              <div class="title">Альфа-Банк RUB</div>
+              <div class="sum">7974863.11</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/14.png">
+              </div>
+              <div class="title">Card UAH</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/17.png">
+              </div>
+              <div class="title">ПУМБ</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/20.png">
+              </div>
+              <div class="title">Card USD</div>
+              <div class="sum">4</div>
+            </div>
+          </div>
+          
+        </div>
+      
+        <div class="col-sm-4">
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/2.png">
+              </div>
+              <div class="title">Yandex RUB</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/8.png">
+              </div>
+              <div class="title">Card RUB</div>
+              <div class="sum">14590822.42</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/11.png">
+              </div>
+              <div class="title">ВТБ24 RUB</div>
+              <div class="sum">14494878.77</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/15.png">
+              </div>
+              <div class="title">Монобанк</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+          <div class="reserve-item" data-reserve-type="single" data-sub-view="false">
+            <div class="reserve-info">
+              <div class="icon">
+                <img src="/pm_img/18.png">
+              </div>
+              <div class="title">Райффайзен</div>
+              <div class="sum">0</div>
+            </div>
+          </div>
+          
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+<div class="exchange-features">
+  <div class="container">
+    <div class="title">
+      Преимущества
+    </div>
+    <div class="features-wrap">
+      <div class="col-xs-12 col-lg-4 feature-item">
+        <div class="feature-img">
+          
+          <img src="/static/images/feature-flychange-icon3.png">
+          
+        </div>
+        <div class="feature-info">
+          <div class="feature-title">Конфиденциальность</div>
+          <div class="feature-text">
+            Гарантия полной конфиденциальности при совершении обмена. Вероятность попадания ваших данных третьим лицам исключена полностью
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-lg-4 feature-item">
+        <div class="feature-img">
+          
+          <img src="/static/images/feature-flychange-icon2.png">
+          
+        </div>
+        <div class="feature-info">
+          <div class="feature-title">С нами выгодно</div>
+          <div class="feature-text">
+            Накопительная система скидок, реферальная партнерская программа, а также праздничная раздача промо-кодов сделают ваш обмен выгоднее на 95%
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 col-lg-4 feature-item">
+        <div class="feature-img">
+          
+          <img src="/static/images/feature-flychange.png">
+          
+        </div>
+        <div class="feature-info">
+          <div class="feature-title">Надежная защита</div>
+          <div class="feature-text">
+            Ваше подключение защищено SSL протоколом с 256-битным шифрованием данных, что полностью исключает возможность кражи http данных мошенниками
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- MODAL BLOCK -->
+<div id="proposeToLoginModal" class="modal fade" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="popup_cross"></div>
+        <h3>Вы зарегистрированы.</h3>
+        <div class="popup_description">
+        Войдите, чтобы <strong>получить скидку</strong>
+        </div>
+        <a href="/ru/login" class="btn-custom btn-custom-grey btn-custom-lg login_button">Войти</a>
+        <button class="btn-custom btn-custom-orange btn-custom-lg exchangeButton">ПРОДОЛЖИТЬ</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div id="agreement" class="modal fade" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h2 class="text-center">Пользовательское соглашение</h2>
+        <h3>1) Стороны согласия</h3>
+        <p>Заключаемое согласие между администраторами ресурса (далее – исполнителями или исполняющими лицами), - с одной из сторон и потребителем, в лице того, кто пользуется определенной услугой, далее – клиент (заказчик)</p>
+        <h3>2) Обозначения и термины</h3>
+        <ul>
+          <li>Обмен знаков (или Обмен) является автоматической продукцией обслуживания в интернет сфере, которая предоставляет непосредственно исполнитель, на основе этих правил.</li>
+          <li>Заказчик представляется физическим лицом, которое полностью соглашается на условия и нижеуказанную информацию. Он совершает обмен непосредственно на ресурсе.</li>
+          <li>Титульный знак представляет собой единицу на условном типе определенной системы платежей, которая работает в соответствии с системными расчетами. Определяет права, которые даются в соответствии с данным договором и ЭС (обозначение – система электронного типа).</li>
+          <li>Заявка является информацией со стороны заказчика, которая передается им для применения средств сервисом в электронном варианте. Это свидетельствует о том, что заказчик принимает все условия сервиса, которые предлагает первая сторона в заявке.</li>
+        </ul>
+        <h3>3) Условия</h3>
+        <p>Правила, указанные далее, являются указанием, которое организовано с помощью оферты, которая создается в то время, когда заказчик подает заявку на рассмотрение, что есть главной составляющей в договоре. Оферта общественного типа – это то, что именуется исполнителем в плане условий. Основным для оферты такого вида считаются действия, которые были проведены в момент завершения. Это говорит о том, что намерения заказчика точны и соответствуют действительности. В момент конца создания заявки, они формируются в автоматическом порядке. В течение суток предложение обязательно должно быть одобрено заказчиком. Обслуживание происходит тогда, когда знаки поступают полностью на реквизиты первой стороны – исполнителя (согласно оферте). Операции, которые проводятся с титульными знаками (ТЗ), проходят учет в соответствии с ЭС и регламенту расчетов. Данный договор является действительным сразу после оформления заяв от заказчика и до аннулирования по согласованию одной из двух сторон.</p>
+        <h3>4) Предмет</h3>
+        <p>Исполнитель (сервис), берет на себя обязанность выполнять операции, связанные со знаками за комиссию от заказчика. Кроме того, далее осуществляется продажа знаков людям, которые приняли решение купить их по стоимости не ниже поданной суммы в заяве второй стороной. Наш ресурс обязуется перевести вознаграждение заказчику полностью на реквизиты. При возникновении процесса в момент Обмена, всё остается на счету первой стороны (исполнителя) в качестве премии и выгоды за комиссию. Исполнитель никогда не проводит проверку денежных средств второй стороны, включая правомерность получения прибыли, которая предлагается для обмена.</p>
+        <h3>5) Дополнительные сведения</h3>
+        <ul>
+          <li>В случае, если второй стороне (Исп.) приходит определенная сумма, которая отличается от ранее обусловленной в договоре, то он вправе дать отказ на исполнение заявки до того момента, пока не будет проведем комплексный перерасчет. Также, исполнитель может самостоятельно решать в плане возврата другой стороне (или потребителю сервиса). Если сумма превысит ту, что указана в ставке, более, чем на 10 процентов, то исполнитель в праве расторгнуть данное соглашение и вернуть все ресурсы на счет потребителю. Притом же учитывается комиссия на вывод, о чем будет проинформировано второе лицо.</li>
+          <li>Если вышеуказанные знаки не приходят вам на счет в течение одних суток, заказчик может самостоятельно расторгнуть данный договор и возвратить все деньги в полном размере на определенный счет. Заявка на аннулирование или прекращение действия договора обрабатывается исключительно исполнителем тогда, когда деньги еще не были переведены клиентуре на «ресурсе». Электронная валюта, как правило, возвращается обратно (в случае аннуляции) в течение двадцати четырех часов. Если исполнитель не виноват в том, что происходит задержка, ответственности за вывод он не берет. В заявках клиент может ознакомиться со статусом выполнения.</li>
+          <li>Тогда, когда знаки не приходят исполнителю от определенного клиента в течение пятнадцати минут, то соглашение считается расторгнутым одной стороной (первой) сервисом. Это происходит потому, что договор не начал действовать и заказчику не всегда об этом может быть уведомлено. Если исполнитель определил поступление т.знаков после согласования срока с момента подачи, то в течение суток заявка обрабатывается вручную. Иная ситуация – средства могут перевестись обратно на указанных счет потребителя сервиса, но при этом, следует учитывать комиссию на вывод и обработку денежных средств в размере десяти процентов.</li>
+          <li>При условии, что на определенный реквизит происходит задержание выплат, и в случае вины ЭС (системы электронного вида), исполнитель не берет на себя ответственность в плане поступления или наоборот. В данном случае, по согласиям, вторая сторона принимает каждое условие и обязуется высылать претензии в ту или другую систему платежей. Первая сторона, в свою очередь, обязуется способствовать решению данного вопроса в законодательном порядке.</li>
+          <li>При обнаружении случая, когда заказчик пытается подделать коммуникационные ресурсы или другие рабочие процессы в коде, сделка считается остановленной, а средства, которые были введены, подвергаются проведению перерасчета согласно вышеуказанным правилам. В случае несогласия клиентом с перерасчетом, полное право подать заяву на закрытие согласия либо договора (расторгнуть) исключительно со своей стороны. После этого титульные знаки отправляются на счёт другой стороне. При этом, снимается комиссия по правилам системы платежей.</li>
+          <li>В момент, когда другая сторона берет в пользование все услуги нашего ресурса, то она обязуется согласиться со всеми правилами и несет ответственность, которая ограничена в правильных рамках. Вышеуказанные Знаки выводятся и предоставляются клиентам по правилам эл. Системы платежей (ЭПС). При этом, каждый пользователь индивидуально не должен нести ответственности перед ресурсом в индивидуальном порядке.</li>
+          <li>Заказчик берет на себя ответственность и обязуется не проводить подделку коммуникационных средств, не препятствовать нормализации обслуживаия программного обеспечения ПО исполнителя. Кроме того, вторая сторона даёт гарантию на выполнение законодательных норм и правил.</li>
+          <li>Исполнитель, как правило, за ущерб при ошибке в плане переводов денег с ПС, не несет ответственности. Это происходит в том случае, если клиентурой были указаны неправильные данные в плане реквизитов.</li>
+          <li>Каждая платежная система отличается своей специфичностью, поэтому сроки обработки заявки могут отличаться. В разделе FAQ прописана данная информация. В момент создания потребителем заявки на сервисе, он соглашается со всеми условиями обработки такой заявки и сроками выполнения.</li>
+        </ul>
+        <h3>6) Срок гарантии</h3>
+        <p>После того, как были обменены все знаки, в течение суток, исполнитель предоставляет гарантию на использование различных сервисов в случае, если не обсуждались другие сроки выполнения.</p>
+        <h3>7) Непредвиденные моменты</h3>
+        <p>Если в момент обработки у потребителя появляются непредвиденные ситуации, которые влияют на исполнение всех условий вышеуказанного договора, то сроки такого заявления могут быть перенесены до момента, когда обстоятельства не разрешаться. Исполнитель, в свою очередь, не берет ответственность за такие ситуации.</p>
+        <h3>8) Форма</h3>
+        <p>Это соглашение обязуются принимать обе стороны (сервис и заказчик) в качестве настоящего договора, который имеет юр. силу, и предоставляется в письменном виде.</p>
+        <h3>9) Спорные ситуации и претензии</h3>
+        <p>Заказчик может направить претензии исполнителю посредством ЭП (почты), где обязательно указываться её суть. Для таких целей на сайте исполнителя указаны реквизиты, куда нужно отправлять письмо.</p>
+        <h3>10) Операции по обмену</h3>
+        <ul>
+          <li>При условии мошеннических либо остальных действий, которые несут негативные последствия со стороны заказчика, договор аннулируется, так как такие процессы категорически запрещены. После заключения договора, заказчик, со своей стороны, обязуется проводить выполнение условий, указанных в оферте. В случае мошеннических действий, заказчик отвечает уголовно согласно действующим законам.</li>
+          <li>Если заявку выполнить автоматически не представляется возможным (по другим причинам, не учитывая исполнителя – обрыв связи, нехватка ресурсов или неправильно указанные данные), то средства могут поступить на счет в течение суток, либо быть возвращены в тот же период на счет заказчика вместе с комиссией определенной ПС.</li>
+          <li>Исполнитель может проводить передачу инф. о действиях, связанных с валютой, которые совершает заказчик в правоохранительные органы, администрации ПС или лицам, которые пострадали от мошеннических действий (в случае наличия доказательств со стороны суда).</li>
+          <li>Заказчик, в свою очередь, берет на себя обязанность предоставить данные и документы, которые подтверждают лицо в момент подозрения.</li>
+          <li>Категорически запрещено вмешиваться в работу ресурса, а также оказывать негативное влияние на работу кода. Вторая сторона обязуется не затрагивать аппаратную часть исполнителя и указывать абсолютно достоверную информацию, чтобы данный действующий договор выполнялся в полном объеме.</li>
+        </ul>
+        <h3>11) Отказ от обязательств</h3>
+        <p>Исполнитель вправе отказать заказчику в заключение и выполнить заявку. При этом, причины отказа могут не разъясняться. Данный пункт распространяется на каждого клиента (пользователя).</p>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!--/ MODAL BLOCK -->
+
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <nav class="footer-nav">
+      <ul class="menu-wrap">
+
+
+
+        <li class="menu-item">
+          <a href="/ru/discounts" class="menu-link">Скидки</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/#reserves" class="menu-link">Резервы</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/bids" class="menu-link">Заявки</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/contacts" class="menu-link">Контакты</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/partners" class="menu-link">Партнерам</a>
+        </li>
+        <li class="menu-item">
+          <a href="/ru/news" class="menu-link">Новости</a>
+        </li>
+
+
+
+        <li class="menu-item">
+          <a href="/ru/contacts#faq" class="menu-link">FAQ</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="footer-info">
+      <div class="col-xs-12 col-sm-12 footer-contact text-center">
+         <div class="contact-item col-xs-4">
+
+
+
+          
+          <span id="mailElement"><a href="/cdn-cgi/l/email-protection#31424441415e434571575d485259505f56541f5f5445" target="_blank"><span class="__cf_email__" data-cfemail="e0939590908f9294a0868c998388818e8785ce8e8594">[email&#160;protected]</span></a></span>
+          
+        </div>
+        
+        <div class="contact-item col-xs-8 col-md-8">
+          <div class="row">
+            <div class="col-xs-6 col-md-6 webmoney-block-footer">
+              <a href="https://www.megastock.com/" target="_blank"><img src="https://www.webmoney.ru/img/icons/88x31_wm_blue.png" alt="www.megastock.com" border="0"/></a>
+            </div>
+            <div class="col-xs-6 col-md-6 webmoney-block-footer">
+              <!-- webmoney passport label#2CEC53AA-9C1B-4AE8-A75C-6DA1152CC3BE begin -->
+              <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=290933993890" target="_blank"><img src="/static/images/web-money.png" alt="Здесь находится аттестат нашего WM идентификатора 290933993890" border="0" /></a>
+              <!-- webmoney passport label#2CEC53AA-9C1B-4AE8-A75C-6DA1152CC3BE end -->
+            </div>
+          </div>
+        </div>
+        
+        
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 footer-contact text-center">
+            <div class="contact-item col-xs-4">
+              <a href="/ru/regulations/agreement">Пользовательское соглашение</a>
+            </div>
+            <div class="contact-item col-xs-4">
+              <a href="/ru/regulations/mailing">Согласие на рассылку</a>
+            </div>
+            <div class="contact-item col-xs-4">
+              <a href="/ru/regulations/confidential">Уведомление об ответсвенности</a>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+
+<div class="button_to_top" id="toTop"></div>
+
+<!-- JS -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!--script src="/static/js/jquery.min.js"></script-->
+<script src="/static/js/owl.carousel.min.js"></script>
+<script src="/static/js/bootstrap-select.min.js"></script>
+<script src="/static/js/jquery.parallaxify.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/main.js"></script>
+<script type="text/javascript">
+  var csrftoken = "ImRjM2QyZDIyNmIxNjI2YzJjZWUwN2I5NzgyZTI1ZjE5MmQxMzQxNTIi.D3D5zw.c8pF3agFM3VebZAXgigilH2DXnE";
+  $.ajaxSetup({
+    beforeSend: function(xhr, settings) {
+      if (!/^(GET|HEAD|OPTIONS|TRACE)$/i.test(settings.type) && !this.crossDomain) {
+          xhr.setRequestHeader("X-CSRFToken", csrftoken)
+      }
+    }
+  });
+  var locale = "/ru"
+</script>
+
+<script type="text/javascript">
+var translations = {
+  exampleText : 'Например',
+  selectCurrencyToReceive : 'Выберите валюту к получению',
+  selectCurrencyOfExchange : 'Выберите валюту обмена',
+  badAmount: 'Укажите корректную сумму',
+  emptyAmount: 'Укажите сумму',
+  enterCorrect: 'Укажите корректный',
+  enterCode: 'Введите код подтверждения',
+  notAcceptedAgreement: 'Вы должны принять регламент работы и пользовательское соглашение нашего ресурса'
+};
+</script>
+<script src="/static/js/crypton.js"></script>
+<script>
+$(document).ready(function(){
+	Exchanger.initExchanger();
+});
+</script>
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+
+<script type='text/javascript'>
+(function(){ var widget_id = 'lRnDQ9wc2k';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0];
+ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}
+else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+</body>
+</html>

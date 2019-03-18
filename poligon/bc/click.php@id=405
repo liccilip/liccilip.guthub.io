@@ -1,0 +1,1909 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+	<meta http-equiv="content-language" content="ru">
+	<meta name="viewport" content="width=960">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="/bitrix/cache/css/ru/openchange/kernel_main/kernel_main.css?154850276526563" type="text/css" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Ubuntu:700&amp;amp;subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?149818617020704" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/openchange/template_d4fdbb5bd9921203916ae7843ea1094d/template_d4fdbb5bd9921203916ae7843ea1094d.css?1548494668403684" type="text/css" data-template-style="true" rel="stylesheet" />
+	<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY / HH:MI','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'25200','SITE_ID':'ru','SITE_DIR':'/ru/','USER_ID':'','SERVER_TIME':'1552903133','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'85742bb2154c0d517ba8fdadbb46d9a7'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/ru/openchange/kernel_main/kernel_main.js?1548502765275082"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallbackReCaptcha&render=explicit&hl=ru"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/local/templates/.default/static/js/jquery.js','/local/templates/.default/static/js/bootstrap.min.js','/local/templates/.default/static/js/jBox.min.js','/local/templates/.default/static/js/clipboard.min.js','/local/templates/.default/static/js/zeroclipboard_copy.js','/local/templates/.default/static/js/slick.min.js','/local/templates/.default/static/js/chosen.jquery.min.js','/local/templates/.default/static/js/chosenIcon.jquery.js','/local/templates/.default/static/js/jquery.autocomplete.min.js','/local/templates/.default/static/js/jquery.mCustomScrollbar.min.js','/local/templates/.default/static/js/modernizr.custom.js','/local/templates/.default/static/js/classie.js','/local/templates/.default/static/js/progressButton.js','/local/templates/.default/static/js/general.js','/local/templates/.default/static/js/fmq_form.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/local/templates/.default/static/css/reset.css','/local/templates/.default/static/css/normalize.css','/local/templates/.default/static/css/bootstrap.min.css','/local/templates/.default/static/css/slick.css','/local/templates/.default/static/css/jBox.css','/local/templates/.default/static/css/jquery.mCustomScrollbar.css','/local/templates/.default/static/css/component.css','/local/templates/.default/static/css/style.css','/local/templates/openchange/template_styles.css']); </script>
+<!--[if lt IE 9]><script src="/local/templates/.default/static/js/respond.min.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="/local/templates/.default/static/js/html5.js"></script><![endif]-->
+
+
+
+	<script type="text/javascript"  src="/bitrix/cache/js/ru/openchange/template_f2f6bbbdee5e565466cf93f80a8a17e6/template_f2f6bbbdee5e565466cf93f80a8a17e6.js?1550457026438481"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "6d4b1d8ee645fd15380e173991f1c979"]); _ba.push(["host", "openchange.me"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+		
+	<script>
+		var fmq_lang_default_settings = {
+			captcha: "Вы не прошли проверку, поставьте галочку «Я не робот»!",
+			required: "Поле обязательно для заполнения!",
+			min_length: "Введите больше 3х символов!",
+			not_phone: "Введите номер телефона с кодом!",
+			not_email: "Не верный E-mail адрес!",
+			not_number: "Это должно быть число!",
+			not_account: "Номер аккаунта некорректен!",
+			equal_pass: "Пароли должны совпадать!",
+			error_server: "Сервер не ответил (#CODE#). Попробуйте позже."
+		};
+		var idCaptchaAuth, idCaptchaReg, idCaptchaCallback, idForm;
+		function submit_reg_form(event, form) {
+			event.preventDefault();
+			idForm = 'reg_submit';  
+			grecaptcha.execute(idCaptchaReg);
+			console.log(idForm);
+		}
+		function submit_auth_form(event, form) {
+			event.preventDefault();
+			idForm = 'auth_submit';   
+			grecaptcha.execute(idCaptchaAuth);
+			console.log(idForm);
+		}
+		function submit_callback_form(event, form) {
+			event.preventDefault();
+			idForm = 'callback_submit';   
+			grecaptcha.execute(idCaptchaCallback);
+			console.log(idForm);
+		}
+		function reset_captcha_callback() {
+			console.log('form '+idForm);
+			reset_captcha_auth();
+		}
+		function reset_captcha_reg() {
+			console.log('form '+idForm);
+			reset_captcha_auth();
+		}
+		function reset_captcha_auth() {
+			console.log('form '+idForm);
+			if (idForm == 'auth_submit') {
+				console.log('auth');
+				$("#reset_captcha_auth").closest("form").find(".js_button").click();
+				setTimeout(function() {grecaptcha.reset();}, 100);
+			}
+			if (idForm == 'reg_submit') {
+				console.log('reg');
+				$("#reset_captcha_reg").closest("form").find(".js_button").click();
+				setTimeout(function() {grecaptcha.reset(idCaptchaReg);}, 100);
+			}
+			if (idForm == 'callback_submit') {
+				console.log('callback');
+				$("#reset_captcha_callback").closest("form").find(".js_button").click();
+				setTimeout(function() {grecaptcha.reset(idCaptchaCallback);}, 100);
+			}
+		}
+		function onloadCallbackReCaptcha() {
+			idCaptchaAuth = grecaptcha.render('reset_captcha_auth', {
+				"sitekey" : "6LdnYkIUAAAAAETFlmeHXaghdC9UWOIoAAVtIV2i",
+				"callback" : "reset_captcha_auth",
+				"badge" : "inline",
+				"size" : "invisible"
+			});
+			idCaptchaReg = grecaptcha.render('reset_captcha_reg', {
+				"sitekey" : "6Ld3vUcUAAAAAH5DYu90a9WjFDDNPm6vPjqHd4HY",
+				"callback" : "reset_captcha_reg",
+				"size" : "invisible"
+			});
+			idCaptchaCallback = grecaptcha.render('reset_captcha_callback', {
+				"sitekey" : "6Lc9-FUUAAAAAOAGG_h8mzfIoAAE226jSDixpBQc",
+				"callback" : "reset_captcha_callback",
+				"size" : "invisible"
+			});
+		}
+	</script>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color='#2d8ec0'>
+	<meta name="msapplication-config" content="/browserconfig.xml" />
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="theme-color" content="#ffffff">
+
+
+	<title>Openchange.me: Cryptocurrency & Ecurrency Exchanger</title>
+</head>
+
+<body>
+    
+	<div id="signIn" class="modal fade">
+		<div class="modal-dialog">
+			<button data-dismiss="modal" aria-label="Close" class="close right"><span aria-hidden="true"></span></button>
+			<div class="modal-content">
+				<div class="modal-header">Вход</div>
+
+				<form onsubmit="submit_auth_form(event, this);" form-title="Вход" action="/ru/local/ajax/login.php" method="post" data-callback="1" id="signin-popup-dialog" class="ajax_form_initialize">
+					<input type="hidden" name="sessid" id="sessid" value="85742bb2154c0d517ba8fdadbb46d9a7" />					<input type="hidden" name="AUTH_FORM" value="Y" />
+					<input type="hidden" name="TYPE" value="AUTH" />
+					<input type="hidden" name="CUSTOM_AUTH" value="Y">
+					<div class="modal-body">
+						<div class="form-group">
+							<input type="email" name="USER_LOGIN" id="LOGIN" value="" placeholder="E-mail" class="form-control req" required oninvalid="setCustomValidity('Не верный E-mail адрес!')" oninput="setCustomValidity('')">
+							<p class="help-block help-block-error js-error"></p>
+						</div>
+						<div class="form-group">
+							<input type="password" name="USER_PASSWORD" id="PASSWORD" placeholder="Пароль" value="" class="form-control req" required oninvalid="setCustomValidity('Поле обязательно для заполнения!')" oninput="setCustomValidity('')">
+							<p class="help-block help-block-error js-error"></p>
+						</div>
+						<label class="checkbox margin inline">
+							<input name="USER_REMEMBER" type="checkbox" value="Y"><span>Запомнить меня</span>
+							<input type="checkbox" name="c0">
+						</label>
+						<button class="btn btn-responsive pull-right btn-default js_button progress-button " data-style="fill" data-horizontal>Вход</button>
+						<div id="reset_captcha_auth"></div>
+					</div>
+					<div class="modal-footer"><a href="#" data-toggle="modal" data-target="#recoverPass">Забыли пароль?</a></div>
+					<div class="success_form_auth hidden">
+						<div class="title">Вход</div>
+						<p>Вы успешно авторизовались. Продолжайте заполнять форму.</p>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<div id="recoverPass" class="modal fade">
+		<div class="modal-dialog">
+			<button data-dismiss="modal" aria-label="Close" class="close right"><span aria-hidden="true"></span></button>
+			<div class="modal-content">
+				<div class="modal-header">Забыли пароль?</div>
+
+				<form form-title="Забыли пароль?" action="/ru/local/ajax/login.php" data-callback="1" method="post" id="forgot-popup-dialog" class="ajax_form_initialize">
+					<input type="hidden" name="sessid" id="sessid_1" value="85742bb2154c0d517ba8fdadbb46d9a7" />					<input type="hidden" name="CUSTOM_FORGOT" value="Y">
+
+					<div class="modal-body">
+						<div class="recover">
+							<div class="steps step1 active">
+								<p>Укажите ваш электронный адрес и мы вышлем Вам инструкции по смене пароля.</p>
+								<div class="form-group">
+									<input type="email" name="EMAIL" class="form-control req" required placeholder="E-mail" oninvalid="setCustomValidity('Не верный E-mail адрес!')" oninput="setCustomValidity('')">
+									<p class="help-block help-block-error js-error"></p>
+								</div>
+								<button data-style="fill" data-horizontal class="btn btn-responsive progress-button js_button">Отправить</button>
+							</div>
+							<div class="steps step2">
+								<p>Мы отправили Вам на E-mail инструкции по восстановлению пароля.</p>
+								<button data-toggle="modal" class="btn btn-responsive js-reset">Отлично!</button>
+							</div>
+						</div>
+					</div>
+				</form>
+
+
+			</div>
+		</div>
+	</div>
+	<div id="createAcc" class="modal fade">
+		<div class="modal-dialog">
+			<button data-dismiss="modal" aria-label="Close" class="close right green"><span aria-hidden="true"></span></button>
+			<div class="modal-silder slick-slider">
+	<div class="one-item">
+		<div class="img rocket"></div>
+		<div class="title">Быстрое выполнение заявок</div>
+		<p>Наш сервис оптимизирован для быстрого выполнения заявок и мы не останавливаемся на этом</p>
+	</div>
+	<div class="one-item">
+		<div class="img women"></div>
+		<div class="title">24/7 онлайн-поддержка</div>
+		<p>Наша служба поддержки всегда онлайн и готова ответить на ваши вопросы</p>
+	</div>
+	<div class="one-item">
+		<div class="img mans"></div>
+		<div class="title">Профессиональная команда</div>
+		<p>Внушительный опыт, качественный сервис, индивидуальный подход</p>
+	</div>
+</div>			<div class="modal-content">
+				<div class="modal-header">Регистрация</div>
+
+				<form onsubmit="submit_reg_form(event, this);" form-title="Регистрация" action="/ru/local/ajax/login.php" method="post" data-callback="1" id="signup-popup-dialog" class="ajax_form_initialize">
+					<input type="hidden" name="sessid" id="sessid_2" value="85742bb2154c0d517ba8fdadbb46d9a7" />					<input type="hidden" name="CUSTOM_REG" value="Y">
+
+					<div class="modal-body">
+						<div class="form-group">
+							<input type="email" name="EMAIL" class="form-control req" required placeholder="E-mail" oninvalid="setCustomValidity('Не верный E-mail адрес!')" oninput="setCustomValidity('')">
+							<p class="help-block help-block-error js-error"></p>
+						</div>
+						<div class="form-group">
+							<input type="password" name="PASSWORD" class="form-control req equal_pass" required placeholder="Пароль" oninvalid="setCustomValidity('Поле обязательно для заполнения!')" oninput="setCustomValidity('')">
+							<p class="help-block help-block-error js-error"></p>
+						</div>
+						<div class="form-group">
+							<input type="password" name="PASSWORD_REPEAT" class="form-control req equal_pass" required placeholder="Введите пароль повторно" oninvalid="setCustomValidity('Поле обязательно для заполнения!')" oninput="setCustomValidity('')">
+							<p class="help-block help-block-error js-error"></p>
+						</div>
+						<div class="form-group">
+							<label class="checkbox">
+								<input  required="required req" required type="checkbox" checked>
+								<span>Я согласен с                    				&nbsp;<a href="/ru/tеrms_of_service/" target="_blank">Пользовательским соглашением</a> и                    				&nbsp;<a href="/ru/privacy_policy/" target="_blank">политикой AML</a>
+								</span>
+							</label>
+							<p class="help-block help-block-error js-error"></p>
+						</div>
+						<div id="reset_captcha_reg"></div>
+						<button type="submit" class="btn btn-block progress-button js_button">Регистрация</button>						
+					</div>
+
+											<div class="success hidden">
+							<div class="title">Подтверждение регистрации</div>
+							<p>На указанный в форме e-mail было выслано письмо с информацией о подтверждении регистрации.</p>
+						</div>
+									</form>
+			</div>
+		</div>
+	</div>
+
+	<div id="successMessage" class="modal fade">
+		<div class="modal-dialog">
+			<button data-dismiss="modal" aria-label="Close" class="close right"><span aria-hidden="true"></span></button>
+			<div class="modal-content">
+				<div class="text-center">
+					<div id="header_modal" class="modal-header">
+						<div class="img pl21"><img src="/local/templates/.default/static/img/success.png" alt=""></div>
+					</div>
+					<form action="" class="form">
+						<div class="modal-body">
+							<p id="modal_text"></p>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="successReview" class="modal fade">
+		<div class="modal-dialog">
+			<button data-dismiss="modal" aria-label="Close" class="close right"><span aria-hidden="true"></span></button>
+			<div class="modal-content">
+				<div class="text-center">
+					<div id="header_modal" class="modal-header">
+						<div class="img pl21"><img src="/local/templates/.default/static/img/success.png" alt=""></div>
+						Отзыв успешно отправлен					</div>
+					<form action="" class="form">
+						<div class="modal-body">
+							<p id="modal_text">Спасибо за ваш отзыв</p>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="box">
+					<div class="booty">
+					<header>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="pull-right">
+		<ul class="top-menu">
+							<li><a href="/ru/news/">Новости</a></li>
+							<li><a href="/ru/reviews/">Отзывы</a></li>
+							<li><a href="/ru/contacts/">Контакты</a></li>
+					</ul>
+	</div>
+
+
+						<div class="live-support">24/7 ОНЛАЙН ПОДДЕРЖКА</div>					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12">
+							<div class="pull-right">
+		<button data-toggle="modal" data-target="#signIn" class="btn">Вход</button>
+		<button data-toggle="modal" data-target="#createAcc" class="btn btn-empty">Регистрация</button>
+	</div>
+
+						<a href="/ru/" class="logo"></a>
+						<a href="/ru/how_start/" class="btn btn-empty">Как начать</a>							<select id="lang" class="select-empty chosen-select">
+					<option  value="/">English</option>
+					<option selected value="/ru/">Русский</option>
+			</select>
+<script>
+	$(document).on('change', "#lang", function () {
+		location.href = $('#lang option:selected').val();
+    });
+</script>
+
+					</div>
+				</div>
+							</div>
+		</header>
+					</div>
+					<article class="content">
+			
+
+
+<section>
+	<div class="container">
+		<div id="mainLoading" class="loader-box">
+			<div class="loader-wrapper">
+				<div class="sk-fading-circle">
+					<div class="sk-circle1 sk-circle"></div>
+					<div class="sk-circle2 sk-circle"></div>
+					<div class="sk-circle3 sk-circle"></div>
+					<div class="sk-circle4 sk-circle"></div>
+					<div class="sk-circle5 sk-circle"></div>
+					<div class="sk-circle6 sk-circle"></div>
+					<div class="sk-circle7 sk-circle"></div>
+					<div class="sk-circle8 sk-circle"></div>
+					<div class="sk-circle9 sk-circle"></div>
+					<div class="sk-circle10 sk-circle"></div>
+					<div class="sk-circle11 sk-circle"></div>
+					<div class="sk-circle12 sk-circle"></div>
+				</div>
+			</div>
+			<form method="POST" action="/ru/" class="main-change-box js-OrderForm" >
+				<input type="hidden" name="sessid" id="sessid_3" value="85742bb2154c0d517ba8fdadbb46d9a7" />
+				<div class="change-field long">
+					<div class="column">
+						<div class="title">Отправить<span>шаг 1</span></div>
+						<div class="loader-box summ">
+							<div class="loader-wrapper">
+								<div class="sk-fading-circle">
+									<div class="sk-circle1 sk-circle"></div>
+									<div class="sk-circle2 sk-circle"></div>
+									<div class="sk-circle3 sk-circle"></div>
+									<div class="sk-circle4 sk-circle"></div>
+									<div class="sk-circle5 sk-circle"></div>
+									<div class="sk-circle6 sk-circle"></div>
+									<div class="sk-circle7 sk-circle"></div>
+									<div class="sk-circle8 sk-circle"></div>
+									<div class="sk-circle9 sk-circle"></div>
+									<div class="sk-circle10 sk-circle"></div>
+									<div class="sk-circle11 sk-circle"></div>
+									<div class="sk-circle12 sk-circle"></div>
+								</div>
+							</div>
+							<div id="box_you_send" class="form-group system-icon">
+								<input class="form-control " type="text" id="field_you_send" name="you_send" placeholder="" value="" data-required="Y" required="required" data-validation="INT" data-expr="" data-error="">
+								<span class="field_loader_calc"></span>
+								<p class="help-block help-block-error js-error " >
+																	</p>
+								<div class="img"><img src="/upload/iblock/af1/af1e847a8ad4b58113264d99858e3759.png" alt=""></div>
+							</div>
+						</div>
+
+						<fieldset id="giveFilter" class="change-filter">
+							<legend>Валюта:</legend>
+							<label>
+								<input type="radio" name="filter-give" value="" checked><span>Все</span>
+							</label>
+							<label>
+								<input type="radio" name="filter-give" value="RUB" ><span>RUB</span>
+							</label>
+							<label>
+								<input type="radio" name="filter-give" value="USD" ><span>USD</span>
+							</label>
+							<label>
+								<input type="radio" name="filter-give" value="coin" ><span>Coin</span>
+							</label>
+						</fieldset>
+						<fieldset class="choose-system" id="system-give">
+							<legend>Выберите систему:</legend>
+															<label>
+									<input type="radio" name="system-give" data-codecurency="SBERRUB" data-curency="" value="3473" ><span>Сбербанк (RUB)</span>
+									<div class="img"><img src="/upload/iblock/af1/af1e847a8ad4b58113264d99858e3759.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ACRUB" data-curency="" value="3028" ><span>Альфа-банк (RUB)</span>
+									<div class="img"><img src="/upload/iblock/d2f/d2fa4df84e52df7794913dfb3c31b5d4.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="TCSBRUB" data-curency="" value="15538" ><span>Тинькофф (RUB)</span>
+									<div class="img"><img src="/upload/iblock/348/3487d6770e13e3ecfa034f7cee4ffb9f.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="TBRUB" data-curency="" value="147933" ><span>ВТБ24 (RUB)</span>
+									<div class="img"><img src="/upload/iblock/4b7/4b7c1bcf6f02bdafb8ad8791933c466b.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="KUKRUB" data-curency="" value="287603" ><span>Кукуруза (RUB)</span>
+									<div class="img"><img src="/upload/iblock/a98/a98868d6b37c311f24e090b37b6d0765.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="GPBRUB" data-curency="" value="290549" ><span>Газпромбанк (RUB)</span>
+									<div class="img"><img src="/upload/iblock/8e3/8e37fab0d2a9d9c72536996574d10c4e.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ACCUSD" data-curency="" value="1403" ><span>Альфа Cash-In (USD)</span>
+									<div class="img"><img src="/upload/iblock/d71/d71a7e020ee06a76eba968b45a96b7c3.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="EXMUSD" data-curency="USD" value="654" ><span>Exmo Code (USD)</span>
+									<div class="img"><img src="/upload/iblock/ed7/ed77775f5ce3dc736624dbc2255a06d9.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="USDT" data-curency="USDT" value="143655" ><span>Tether (USDT)</span>
+									<div class="img"><img src="/upload/iblock/b85/b858dada936b8f0c79576c17c026ce0e.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="PMUSD" data-curency="USD" value="51" ><span>Perfect Money (USD)</span>
+									<div class="img"><img src="/upload/iblock/ad3/ad3bdeddcbd106b84c438bf33d7960c3.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ADVCUSD" data-curency="USD" value="738" ><span>Advanced Cash (USD)</span>
+									<div class="img"><img src="/upload/iblock/772/772a66b15096a301f1543c82106b8c3e.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="PRUSD" data-curency="USD" value="569" ><span>Payeer (USD)</span>
+									<div class="img"><img src="/upload/iblock/654/654a5c5140b4a2d4dfdb3a113d8cf12e.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="BTC" data-curency="BTC" value="53" ><span>Bitcoin (BTC)</span>
+									<div class="img"><img src="/upload/iblock/ae9/ae9bd122c3d5bb696ac2cf5e814f1242.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="BCH" data-curency="BCH" value="181141" ><span>Bitcoin Cash (ABC)</span>
+									<div class="img"><img src="/upload/iblock/cb9/cb9a3892cfc4945f3532aedbf916a2ba.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ETH" data-curency="ETH" value="898" ><span>Ethereum (ETH)</span>
+									<div class="img"><img src="/upload/iblock/dbe/dbe3cdfb4564bfb840c61141b0afabb3.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ETC" data-curency="ETC" value="279642" ><span>Ethereum Classic (ETC)</span>
+									<div class="img"><img src="/upload/iblock/e63/e630ae1343c6698a7aeacdaf66615de2.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="XRP" data-curency="XRP" value="143656" ><span>Ripple (XRP)</span>
+									<div class="img"><img src="/upload/iblock/b8e/b8e2188d076e3e59aa8e4b579c91b75a.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="XMR" data-curency="XMR" value="143652" ><span>Monero (XMR)</span>
+									<div class="img"><img src="/upload/iblock/bb6/bb64eeb92d75f68479d1550467c0e70e.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="LTC" data-curency="LTC" value="143648" ><span>Litecoin (LTC)</span>
+									<div class="img"><img src="/upload/iblock/394/394d1b5459db70cb09581ba4cb471f6a.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="DASH" data-curency="DASH" value="143649" ><span>Dash (DASH)</span>
+									<div class="img"><img src="/upload/iblock/be2/be2ef37ee48e00aaeacb7453636e6981.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ZEC" data-curency="ZEC" value="143651" ><span>ZCash (ZEC)</span>
+									<div class="img"><img src="/upload/iblock/ed9/ed9e9a17c437d76b37cc5018aa46e168.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="ADA" data-curency="ADA" value="283339" ><span>Cardano (ADA)</span>
+									<div class="img"><img src="/upload/iblock/1ef/1ef80ec1201e361c6234af34d3a22bed.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="DOGE" data-curency="DOGE" value="214225" ><span>Dogecoin (DOGE)</span>
+									<div class="img"><img src="/upload/iblock/f47/f47fb1960d2a10eebe8fa2e623cc4f47.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="XEM" data-curency="XEM" value="281557" ><span>NEM (XEM)</span>
+									<div class="img"><img src="/upload/iblock/1fb/1fb36300aa5481adf68045ca29b744cd.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="EOS" data-curency="EOS" value="281566" ><span>EOS (EOS)</span>
+									<div class="img"><img src="/upload/iblock/648/648013b95444f17ddfecb401f829a20c.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="BNB" data-curency="BNB" value="466125" ><span>Binance coin (BNB)</span>
+									<div class="img"><img src="/upload/iblock/6b7/6b737c0fcb9801edd1cf9acffad4439e.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="WUUSD" data-curency="" value="68" ><span>Western Union (USD)</span>
+									<div class="img"><img src="/upload/iblock/4b5/4b5bf4075b6d6e72490cd0a44c4d3c85.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="MGUSD" data-curency="" value="69" ><span>MoneyGram (USD)</span>
+									<div class="img"><img src="/upload/iblock/57c/57cb2a6f262362021813d62e13b75498.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="GCMTUSD" data-curency="" value="32854" ><span>Золотая Корона (USD)</span>
+									<div class="img"><img src="/upload/iblock/f59/f59f7bb69d00fb08464148861b4e07c8.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="CNTUSD" data-curency="" value="578" ><span>Contact (USD)</span>
+									<div class="img"><img src="/upload/iblock/9ef/9ef668961abee70fde765f7b587e355d.png" alt=""></div>
+								</label>
+																<label>
+									<input type="radio" name="system-give" data-codecurency="USTMUSD" data-curency="" value="779" ><span>UniStream (USD)</span>
+									<div class="img"><img src="/upload/iblock/29e/29ea794a547c34c9a22abe8fac9b3d9d.png" alt=""></div>
+								</label>
+														</fieldset>
+					</div>
+					<div class="column">
+						<div class="title">Получить<span>шаг 2</span></div>
+						<div class="loader-box summ">
+							<div class="loader-wrapper">
+								<div class="sk-fading-circle">
+									<div class="sk-circle1 sk-circle"></div>
+									<div class="sk-circle2 sk-circle"></div>
+									<div class="sk-circle3 sk-circle"></div>
+									<div class="sk-circle4 sk-circle"></div>
+									<div class="sk-circle5 sk-circle"></div>
+									<div class="sk-circle6 sk-circle"></div>
+									<div class="sk-circle7 sk-circle"></div>
+									<div class="sk-circle8 sk-circle"></div>
+									<div class="sk-circle9 sk-circle"></div>
+									<div class="sk-circle10 sk-circle"></div>
+									<div class="sk-circle11 sk-circle"></div>
+									<div class="sk-circle12 sk-circle"></div>
+								</div>
+							</div>
+							<div id="box_you_receive" class="form-group system-icon">
+								<input class="form-control " type="text" id="field_you_receive" name="you_receive" placeholder="" value="" data-required="Y" data-validation="INT" data-expr="" data-error="">
+								<span class="field_loader_calc"></span>
+								<p class="help-block help-block-error js-error " >
+																	</p>
+								<div class="img"></div>
+								<p id="reserve" data-name="Резерв" style="display:block;" class="help-block active hidden"></p>
+							</div>
+						</div>
+						<fieldset id="getFilter" class="change-filter">
+							<legend>Валюта:</legend>
+							<label>
+								<input type="radio" name="filter-get" value="" checked><span>Все</span>
+							</label>
+							<label>
+								<input type="radio" name="filter-get" value="RUB" ><span>RUB</span>
+							</label>
+							<label>
+								<input type="radio" name="filter-get" value="USD" ><span>USD</span>
+							</label>
+							<label>
+								<input type="radio" name="filter-get" value="coin" ><span>Coin</span>
+							</label>
+						</fieldset>
+						<fieldset class="choose-system" id="system-get">
+							<legend>Выберите систему:</legend>
+															<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="SBERRUB"
+																				/>
+									<span>Сбербанк (RUB)</span>
+									<div class="img"><img src="/upload/iblock/af1/af1e847a8ad4b58113264d99858e3759.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ACRUB"
+																				/>
+									<span>Альфа-банк (RUB)</span>
+									<div class="img"><img src="/upload/iblock/d2f/d2fa4df84e52df7794913dfb3c31b5d4.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="TCSBRUB"
+																				/>
+									<span>Тинькофф (RUB)</span>
+									<div class="img"><img src="/upload/iblock/348/3487d6770e13e3ecfa034f7cee4ffb9f.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="TBRUB"
+																				/>
+									<span>ВТБ24 (RUB)</span>
+									<div class="img"><img src="/upload/iblock/4b7/4b7c1bcf6f02bdafb8ad8791933c466b.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="KUKRUB"
+																				/>
+									<span>Кукуруза (RUB)</span>
+									<div class="img"><img src="/upload/iblock/a98/a98868d6b37c311f24e090b37b6d0765.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="GPBRUB"
+																				/>
+									<span>Газпромбанк (RUB)</span>
+									<div class="img"><img src="/upload/iblock/8e3/8e37fab0d2a9d9c72536996574d10c4e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ACCUSD"
+																				/>
+									<span>Альфа Cash-In (USD)</span>
+									<div class="img"><img src="/upload/iblock/d71/d71a7e020ee06a76eba968b45a96b7c3.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="USD"
+											data-reserve=""
+											data-codecurency=""
+											value="EXMUSD"
+																				/>
+									<span>Exmo Code (USD)</span>
+									<div class="img"><img src="/upload/iblock/ed7/ed77775f5ce3dc736624dbc2255a06d9.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="USDT"
+											data-reserve=""
+											data-codecurency=""
+											value="USDT"
+																				/>
+									<span>Tether (USDT)</span>
+									<div class="img"><img src="/upload/iblock/b85/b858dada936b8f0c79576c17c026ce0e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="USD"
+											data-reserve=""
+											data-codecurency=""
+											value="PMUSD"
+																				/>
+									<span>Perfect Money (USD)</span>
+									<div class="img"><img src="/upload/iblock/ad3/ad3bdeddcbd106b84c438bf33d7960c3.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="USD"
+											data-reserve=""
+											data-codecurency=""
+											value="ADVCUSD"
+																				/>
+									<span>Advanced Cash (USD)</span>
+									<div class="img"><img src="/upload/iblock/772/772a66b15096a301f1543c82106b8c3e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="USD"
+											data-reserve=""
+											data-codecurency=""
+											value="PRUSD"
+																				/>
+									<span>Payeer (USD)</span>
+									<div class="img"><img src="/upload/iblock/654/654a5c5140b4a2d4dfdb3a113d8cf12e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="BTC"
+											data-reserve=""
+											data-codecurency=""
+											value="BTC"
+																				/>
+									<span>Bitcoin (BTC)</span>
+									<div class="img"><img src="/upload/iblock/ae9/ae9bd122c3d5bb696ac2cf5e814f1242.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="BCH"
+											data-reserve=""
+											data-codecurency=""
+											value="BCH"
+																				/>
+									<span>Bitcoin Cash (ABC)</span>
+									<div class="img"><img src="/upload/iblock/cb9/cb9a3892cfc4945f3532aedbf916a2ba.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="ETH"
+											data-reserve=""
+											data-codecurency=""
+											value="ETH"
+																				/>
+									<span>Ethereum (ETH)</span>
+									<div class="img"><img src="/upload/iblock/dbe/dbe3cdfb4564bfb840c61141b0afabb3.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="ETC"
+											data-reserve=""
+											data-codecurency=""
+											value="ETC"
+																				/>
+									<span>Ethereum Classic (ETC)</span>
+									<div class="img"><img src="/upload/iblock/e63/e630ae1343c6698a7aeacdaf66615de2.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="XRP"
+											data-reserve=""
+											data-codecurency=""
+											value="XRP"
+																				/>
+									<span>Ripple (XRP)</span>
+									<div class="img"><img src="/upload/iblock/b8e/b8e2188d076e3e59aa8e4b579c91b75a.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="XMR"
+											data-reserve=""
+											data-codecurency=""
+											value="XMR"
+																				/>
+									<span>Monero (XMR)</span>
+									<div class="img"><img src="/upload/iblock/bb6/bb64eeb92d75f68479d1550467c0e70e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="LTC"
+											data-reserve=""
+											data-codecurency=""
+											value="LTC"
+																				/>
+									<span>Litecoin (LTC)</span>
+									<div class="img"><img src="/upload/iblock/394/394d1b5459db70cb09581ba4cb471f6a.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="DASH"
+											data-reserve=""
+											data-codecurency=""
+											value="DASH"
+																				/>
+									<span>Dash (DASH)</span>
+									<div class="img"><img src="/upload/iblock/be2/be2ef37ee48e00aaeacb7453636e6981.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="ZEC"
+											data-reserve=""
+											data-codecurency=""
+											value="ZEC"
+																				/>
+									<span>ZCash (ZEC)</span>
+									<div class="img"><img src="/upload/iblock/ed9/ed9e9a17c437d76b37cc5018aa46e168.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="ADA"
+											data-reserve=""
+											data-codecurency=""
+											value="ADA"
+																				/>
+									<span>Cardano (ADA)</span>
+									<div class="img"><img src="/upload/iblock/1ef/1ef80ec1201e361c6234af34d3a22bed.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="DOGE"
+											data-reserve=""
+											data-codecurency=""
+											value="DOGE"
+																				/>
+									<span>Dogecoin (DOGE)</span>
+									<div class="img"><img src="/upload/iblock/f47/f47fb1960d2a10eebe8fa2e623cc4f47.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="XEM"
+											data-reserve=""
+											data-codecurency=""
+											value="XEM"
+																				/>
+									<span>NEM (XEM)</span>
+									<div class="img"><img src="/upload/iblock/1fb/1fb36300aa5481adf68045ca29b744cd.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="EOS"
+											data-reserve=""
+											data-codecurency=""
+											value="EOS"
+																				/>
+									<span>EOS (EOS)</span>
+									<div class="img"><img src="/upload/iblock/648/648013b95444f17ddfecb401f829a20c.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency="BNB"
+											data-reserve=""
+											data-codecurency=""
+											value="BNB"
+																				/>
+									<span>Binance coin (BNB)</span>
+									<div class="img"><img src="/upload/iblock/6b7/6b737c0fcb9801edd1cf9acffad4439e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="WUUSD"
+																				/>
+									<span>Western Union (USD)</span>
+									<div class="img"><img src="/upload/iblock/4b5/4b5bf4075b6d6e72490cd0a44c4d3c85.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="MGUSD"
+																				/>
+									<span>MoneyGram (USD)</span>
+									<div class="img"><img src="/upload/iblock/57c/57cb2a6f262362021813d62e13b75498.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="GCMTUSD"
+																				/>
+									<span>Золотая Корона (USD)</span>
+									<div class="img"><img src="/upload/iblock/f59/f59f7bb69d00fb08464148861b4e07c8.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="CNTUSD"
+																				/>
+									<span>Contact (USD)</span>
+									<div class="img"><img src="/upload/iblock/9ef/9ef668961abee70fde765f7b587e355d.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="USTMUSD"
+																				/>
+									<span>UniStream (USD)</span>
+									<div class="img"><img src="/upload/iblock/29e/29ea794a547c34c9a22abe8fac9b3d9d.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="BTC"
+																				/>
+									<span>Bitcoin (BTC)</span>
+									<div class="img"><img src="/upload/iblock/ae9/ae9bd122c3d5bb696ac2cf5e814f1242.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="BCH"
+																				/>
+									<span>Bitcoin Cash (ABC)</span>
+									<div class="img"><img src="/upload/iblock/cb9/cb9a3892cfc4945f3532aedbf916a2ba.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ETH"
+																				/>
+									<span>Ethereum (ETH)</span>
+									<div class="img"><img src="/upload/iblock/dbe/dbe3cdfb4564bfb840c61141b0afabb3.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ETC"
+																				/>
+									<span>Ethereum Classic (ETC)</span>
+									<div class="img"><img src="/upload/iblock/e63/e630ae1343c6698a7aeacdaf66615de2.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="XRP"
+																				/>
+									<span>Ripple (XRP)</span>
+									<div class="img"><img src="/upload/iblock/b8e/b8e2188d076e3e59aa8e4b579c91b75a.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="XMR"
+																				/>
+									<span>Monero (XMR)</span>
+									<div class="img"><img src="/upload/iblock/bb6/bb64eeb92d75f68479d1550467c0e70e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="LTC"
+																				/>
+									<span>Litecoin (LTC)</span>
+									<div class="img"><img src="/upload/iblock/394/394d1b5459db70cb09581ba4cb471f6a.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="DASH"
+																				/>
+									<span>Dash (DASH)</span>
+									<div class="img"><img src="/upload/iblock/be2/be2ef37ee48e00aaeacb7453636e6981.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ZEC"
+																				/>
+									<span>ZCash (ZEC)</span>
+									<div class="img"><img src="/upload/iblock/ed9/ed9e9a17c437d76b37cc5018aa46e168.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ADA"
+																				/>
+									<span>Cardano (ADA)</span>
+									<div class="img"><img src="/upload/iblock/1ef/1ef80ec1201e361c6234af34d3a22bed.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="DOGE"
+																				/>
+									<span>Dogecoin (DOGE)</span>
+									<div class="img"><img src="/upload/iblock/f47/f47fb1960d2a10eebe8fa2e623cc4f47.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="NEO"
+																				/>
+									<span>NEO (NEO)</span>
+									<div class="img"><img src="/upload/iblock/0f4/0f4306fb8d53227b18ba81da5ade1b43.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="XEM"
+																				/>
+									<span>NEM (XEM)</span>
+									<div class="img"><img src="/upload/iblock/1fb/1fb36300aa5481adf68045ca29b744cd.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="EXMUSD"
+																				/>
+									<span>Exmo Code (USD)</span>
+									<div class="img"><img src="/upload/iblock/ed7/ed77775f5ce3dc736624dbc2255a06d9.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="USDT"
+																				/>
+									<span>Tether (USDT)</span>
+									<div class="img"><img src="/upload/iblock/b85/b858dada936b8f0c79576c17c026ce0e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="PMUSD"
+																				/>
+									<span>Perfect Money (USD)</span>
+									<div class="img"><img src="/upload/iblock/ad3/ad3bdeddcbd106b84c438bf33d7960c3.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="ADVCUSD"
+																				/>
+									<span>Advanced Cash (USD)</span>
+									<div class="img"><img src="/upload/iblock/772/772a66b15096a301f1543c82106b8c3e.png" alt=""></div>
+								</label>
+																<label>
+									<input
+											type="radio"
+											name="system-get"
+											data-curency=""
+											data-reserve=""
+											data-codecurency=""
+											value="PRUSD"
+																				/>
+									<span>Payeer (USD)</span>
+									<div class="img"><img src="/upload/iblock/654/654a5c5140b4a2d4dfdb3a113d8cf12e.png" alt=""></div>
+								</label>
+														</fieldset>
+					</div>
+				</div>
+				<div id="direction_field" class="change-field loader-box data">
+					<input type="hidden" name="code" value="western_union_usd_to_perfect_money_usd">
+					<div class="title">Ввод данных<span>шаг 3</span></div>
+
+						<div class="inf-form">
+															<p>
+									<b>Курс:</b>
+									<span class="pull-right">1 : 0.9552</span>
+								</p>
+																							<p>
+									<b>Мин-ая комиссия:</b>
+									<span class="pull-right">40 USD</span>
+								</p>
+																														<p>
+									<b>Резерв</b>
+									<span class="pull-right">30&nbsp;000	USD</span>
+								</p>
+																						<p>
+									<b>Мин / Макс сумма:</b>
+									<span class="pull-right">
+										300&nbsp;USD										/
+										5000&nbsp;USD									</span>
+								</p>
+								
+						</div>
+
+						    
+	
+		<div class="form-group  block js_validator" id="box_to_card">
+								<input
+													class="form-control "
+							type="text"
+							id="field_to_card"
+							name="to_card"
+							placeholder="Аккаунт Perfect Money"
+							value=""
+														data-required="Y" required="required" 							data-validation="REGEX" data-expr="/^U[0-9]{7,8}$/i" data-error=""					/>
+								<p class="help-block help-block-error js-error " >
+							</p>
+			<span class="field_loader_calc"></span>
+		</div>
+		    
+	
+		<div class="form-group  block js_validator" id="box_EMAIL">
+								<input
+													class="form-control "
+							type="text"
+							id="field_EMAIL"
+							name="EMAIL"
+							placeholder="E-mail"
+							value=""
+														data-required="Y" required="required" 							data-validation="EMAIL" data-expr="" data-error=""					/>
+								<p class="help-block help-block-error js-error " >
+							</p>
+			<span class="field_loader_calc"></span>
+		</div>
+		
+						<div class="form-group">
+							<label class="checkbox">
+								<input type="checkbox" required="required" name="i_agree" value="Y" class="js-Agreements"   />
+								<span>
+									Я согласен с									<a href="tеrms_of_service" target="_blank" data-width="900px" class="more u_hover js-popup"><u>Пользовательским соглашением</u></a>
+									и									<a href="privacy_policy" target="_blank" data-width="900px" class="more u_hover js-popup"><u>Политикой AML</u></a>
+								</span>
+							</label>
+							<p class="help-block help-block-error">Confirm the agreement</p>
+						</div>
+
+						<input name="make_order" type="hidden" value="Create order" />
+						<button class="btn btn-default" disabled>Обменять сейчас</button>
+													<div class="inf-form">
+								<div class="title">Детали</div>
+								<p>Внимание! Мы не обрабатываем переводы из списка стран: Афганистан, Ирак, Иран, Йемен, Ливан, Ливия, Пакистан, Северная Корея, Сирия, Сомали, Судан, Украина. Отправленные переводы из вышеуказанных стран будут игнорироваться нашим сервисом.<br><br>
+
+Openchange.me не принимает к оплате переводы отправленные онлайн. Для проведения заявки потребуется фото квитанции перевода.<br><br>
+
+Время обработки заявки может занимать от нескольких до 24ч  в рабочие дни.<br><br>
+
+Если Вы впервые создаете заявку на нашем сайте, то процесс регистрации происходит для Вас автоматически. Логин и пароль для входа в личный кабинет будут высланы на адрес электронной почты указанный Вами на этапе оформления заявки.
+</p>
+							</div>
+										</div>
+			</form>
+	</div>
+</section>
+<div class="hidden">
+	<div id="popup_agreements" style="max-height:650px;">
+		<h2>пользовательское соглашение</h2>
+<div style="max-height:500px;text-align:left;overflow:auto">
+	<p>
+		 Данные Условия использования определяют соглашение между Вами (Пользователем) и сервисом Imexchanger.pro, касающееся использования нашего обменного сервиса. Субъект (верифицированный или неверифицированный), посещающий сайт Imexchanger.pro, обязуется следовать установленным Условиям Использования. Следующий документ описывает характер предоставляемых услуг, объясняет права и обязанности Пользователя касательно получения и использования услуг, предоставляемых сервисом Imexchanger.pro.
+	</p>
+	<p>
+		 Imexchanger.pro оставляет за собой право периодически изменять Условия пользования. Imexchanger.pro обязуется информировать пользователей обо всех корректировках, произведенных в Условиях пользования сервисом Imexchanger.pro во время следующего визита на сайт.
+	</p>
+	<p>
+		 Версия Условий использования сервиса Imexchanger.pro со всеми поправками вступает в силу с момента публикации на вебсайте Imexchanger.pro. Клиенты сервиса Imexchanger.pro дают согласие использовать их персональные Imexchanger.pro аккаунты согласно примененным поправкам.
+	</p>
+	<p>
+ <b> Основные положения</b>
+	</p>
+	<p>
+		 Электронные платежные системы (в дальнейшем именуемой ЭПС) и/или Банки несут полную ответственность за денежные средства, доверенные им Пользователями. Imexchanger.pro не является участником соглашения между ЭПС и Пользователем, и не несет какой-либо ответственности за неправильное или злоумышленное использование соответствующей системы и/или Банка, также как и неверное техническое использование данной системы Пользователем.<br>
+		 Взаимные права и обязанности Пользователя и ЭПС и/или банка регулируются правилами и соглашениями принятыми в соответствующей ЭПС и/или банке. Сторонние платежи (от третьих лиц) не принимаются. Пользователь, который размещает заявку на вебсайте Imexchanger.pro должен оплачивать ее самостоятельно. Не разрешается отправлять платежи с помощью третьих лиц с их банковских счетов и/или отправлять денежные переводы от третьих лиц.<br>
+		 Услуги, предоставляемые сервисом Imexchanger.pro не предоставляются и недоступны в странах, где они являются противозаконными. Пользователь несет полную ответственность за соблюдение местных законов.<br>
+		 При внесение каких-либо изменений в предлагаемые продукты и услуги от Imexchanger.pro, а также правила доступа и использования требуют подтверждения от Пользователя, Imexchanger.pro отправит Пользователям необходимое уведомление за 30 дней до того, как данные изменения вступят в силу. До момента пока Пользователь не подтвердит вышеприведенные изменения, Imexchanger.pro оставляет за собой право отказать в оказании услуг данному Пользователю.<br>
+		 Платежные детали, предоставляемые верифицированным пользователям для заявок по покупке электронных валют, являются приватными. Пользователи не имеют права разглашать платежные детали, полученные на нашем сервисе. В случае разглашения приватной информации, администрация сервиса Imexchanger.pro свяжется с нужными инстанциями для принятия необходимых мер.<br>
+		 Согласно Окончательному правилу Сети по расследованию финансовых преступлений (FinCEN) в соответствии со статьей 31 Свода Федеральных Правил 1010.100(ff), которое обязует каждую иностранную фирму, оказывающую расчетно-кассовые услуги, назначить представителя сервиса, проживающего на территории США, в качестве агента для выполнения судебного процесса в соответствии с соблюдением требований ассоциации БСА и его подзаконных актов, Imexchanger.pro не предоставляет услуги обмена электронных валют гражданам США.
+	</p>
+	<p>
+ <b> Защита Вашей личной информации</b>
+	</p>
+	<p>
+		 Клиент должен предоставить личную информацию и подтвердить ее документами, удостоверяющими личность. Под “личной информацией” мы подразумеваем информацию, которая может быть связана с определенным человеком и может использоваться для идентификации этого человека.<br>
+		 У нас не хранится Ваша личная информация, она необходима только для идентификации Вашей личности. Идентификация личности является обязательной в качестве одного из этапов безопасности.<br>
+		 Чтобы защитить документ, удостоверяющий личность при отправке его нам, клиент может использовать водяные знаки.<br>
+		 Клиент имеет право выбрать, стоит ли предоставлять личную информацию или нет, следовательно, клиент решает пользоваться вебсайтом Imexchanger.pro или нет.<br>
+		 Все зарегистрированные пользователи Imexchanger.pro соглашаются с тем, что их имейл адрес может быть использован для имейл рассылки, посвященной новостям сервиса, специальным предложениям, новостным статьям. Каждый пользователь Imexchanger.pro, который получает имейл рассылку от Imexchanger.pro, может с легкостью отписаться от рассылки и не будет в будущем получать подобных писем от Imexchanger.pro.
+	</p>
+	<p>
+ <b> Транзакции и операции</b>
+	</p>
+	<p>
+		 Клиент несет ответственность за предоставление достоверной и точной информации, необходимой для выполнения и завершения платежной операции. Imexchanger.pro не несет ответственности за платежную операцию, если информация, предоставленная клиентом недостоверная.<br>
+		 Клиент должен быть осведомлен, что перевод средств на неверный банковский или платежный аккаунт, в результате предоставления клиентом неверных платежных реквизитов является необратимым и Imexchanger.pro не несет ответственность за данного рода платежи (переводы).<br>
+		 Сервис Imexchanger.pro несет ответственность за завершение транзакций на сайте Imexchanger.pro. Imexchanger.pro так же имеет право доступа 24/7 к информации о ходе транзакции в системе Imexchanger.pro. Оплата услуг, предоставленных сервисом Imexchanger.pro, осуществляется клиентом в соответствии с комиссиями Imexchanger.pro за услуги. Imexchanger.pro имеет право изменять данные тарифы в случае необходимости. Imexchanger.pro не отправляет платежи третьим лицам. Все платежи могут быть отправлены только на электронный и кроптовалютный кошелек, который принадлежит лицу, размещаюшему заявку. Банковские переводы также не отправляются на счета третьих лиц.<br>
+		 Imexchanger.pro не несет ответственность за любые убытки или ущерб, возникшие в связи с задержкой банковской транзакции или перевода электронных денег клиента, если день оправки или дни после отправки не являются рабочими днями страны партнера-участника Imexchanger.pro, то есть получателя.<br>
+		 Imexchanger.pro не несет ответственность за ошибки, упущения или задержки платежей со стороны банков, выступающих партнерами-участниками Imexchanger.pro, банков-корреспондентов или ЭПС, так же не несет ответственность за последствия, вызванные их финансовым состоянием.<br>
+		 Клиент должен ознакомиться и согласиться со всеми объяснениями комиссий, которые описаны в правой колонке каждой заявки.<br>
+		 Imexchanger.pro не несет ответственности за дополнительные комиссии платежной системы, удержанные с получателя.<br>
+		 Сроки каждой заявки описаны в правой колонке каждой заявки, а так же в разделе База Знаний. Пользователь дает согласие, что заявка выполняется в течении установленных сроков.<br>
+		 Криптовалюты обладают высокой волатильностью курса, в связи с этим, если с момента создания вашей заявки до момента поступления средств на наш счет прошло более 10 минут, получаемая вами сумма будет пересчитана по новому курсу.<br>
+		 Клиент должен ознакомиться и согласиться со всеми пунктами, указанными на странице Базы Знаний на сайте Imexchanger.pro.<br>
+		 В связи в увеличением случаев мошенничества, Imexchanger.pro не принимает переводы денежных средств (Western Union, MoneyGram), отправленных через онлайн-интерфейс. Пожалуйста, обратитесь в Western (MoneyGram) офис, чтобы отправить деньги.<br>
+		 Сервис Imexchanger.pro имеет право проводить регулярное техническое обслуживание оборудования и ПО. Во время технического обслуживания доступ в аккаунт может быть предоставлен лишь частично или вебсайт может не работать. Imexchanger.pro обязуется информировать пользователей о техническом обслуживании заблаговременно. Объявление о техническом обслуживании должно быть размещено в разделе “Новости”.<br>
+		 Imexchanger.pro не несет ответственность за любой ущерб, причиненный в связи с техническим обслуживанием. Imexchanger.pro не несет ответственность за возникший форс-мажор, когда Сервис может прекратить свою работу на неопределенное время. Примеры форс-мажорных ситуаций включают: стихийное бедствие, нарушение энергоснабжения,повреждение оборудования или программного обеспечения Imexchanger.pro, атака хакера или вируса на систему Imexchanger.pro, перегрузка системы, серьезные неполадки в работе оборудования или программного обеспечения, значительное повреждение оборудования или программного обеспечения, сбой Интернет-соединения, нарушение или разрыв защиты сети электронной связи или ее безопасности, повреждение аккаунта, вирусная атака аккаунта, и т.д.<br>
+		 Клиент должен указывать свои настоящие личные данные при размещении заявки на вывод средств на кредитные/дебетовые карты. Необходимо вводить полное имя в соответсвии с тем, как оно указано в национальной ID карте/загранпаспорте, в другом случае средства могут не дойти до карты получателя.
+	</p>
+	<p>
+ <b> Прекращение предоставления услуг. Возвраты.</b>
+	</p>
+	<p>
+		 Imexchanger.pro может прекратить предоставление услуг и выполнить возврат немедленно, если:<br>
+	</p>
+	<ul>
+		<li> Цель денежного перевода или источник средств, используемый для денежной транзакции ограничены или запрещены соответствующей политикой по борьбе с отмыванием денег. </li>
+		<li>
+		Клиент отправляет средства на третье лицо. </li>
+		<li>
+		Средства были отправлены от имени, не совпадающим с именем Клиента. </li>
+		<li>
+		Перевод был осуществлен третьим лицом. Например, кто-то другой отправил банковский перевод или денежный перевод на платежный аккаунт клиента. </li>
+		<li>
+		Назначение платежа не понятно. </li>
+	</ul>
+	<p>
+	</p>
+	<p>
+		 Imexchanger.pro имеет право отказать в оказании услуг, если Клиент отказывается предоставить необходимые для верификации документы или если верификации личности Клиента не была завершена. Так же, если есть обоснованное подозрение, что предоставленные для верификации документы являются недействительными или были незаконно изменены, что означает подделаны.
+	</p>
+	<p>
+		 Imexchanger.pro предоставляет услуги обмена единиц ЭПС между собой и на другие денежные средства (международные валюты), и наоборот.
+	</p>
+	<p>
+		 Imexchanger.pro имеет право отказать в предоставлении услуг без объяснения причины любому человеку, о чем он/она будут проинформированы в письменной форме.
+	</p>
+	<p>
+		 Платежи являются окончательными и не подлежат возврату, за исключением тех случаев, которые указаны в Условиях пользования.
+	</p>
+	<p>
+ <b> Разное </b>
+	</p>
+	<p>
+		 Пользователь имеет право на временное приостановление использования сервиса и/или отказаться от услуг Imexchanger.pro, и следовательно ограничить действие данных Условий использования. Любое прекращение предоставления тех или иных услуг будет произведено без нанесения ущерба правам и обязанностям компании Imexchanger.pro, а также клиентам нашей компании, все долги будут выплачены на момент завершения работы сервиса Imexchanger.pro. <br>
+		 Imexchanger.pro имеет право прекратить сотрудничество с Пользователем в случае получения информации, которая побуждает Imexchanger.pro сделать это.<br>
+		 Imexchanger.pro имеет право приостановить оказание услуг Пользователю, если: <br>
+	</p>
+	<ul>
+		<li> Пользователь нарушает любое из условий указанных в действующих Условиях пользования. </li>
+		<li> Состояние пользователя является одним из следующих - банкротство, смерть или неплатежеспособность. Прежде чем Imexchanger.pro получает информацию относительно этого, все платежи осуществленные с определенными условиями между Imexchanger.pro и Клиентом будут действительны. </li>
+	</ul>
+	 Нельзя производить денежные переводы онлайн. В случае, если денежный перевод отправлен онлайн, соответствующая заявка не будет обработана.
+	<p>
+	</p>
+</div>
+ <br>	</div>
+</div>
+<script type="application/javascript">
+	$(document).ready(function() {
+			});
+	$(document).ready(function() {
+		$(".js-OrderForm").submit(function() {
+			var isValidate = true;
+			$(this).find('select.req').each(function() {
+				if (!$(this).val()) {
+					isValidate = false;
+					$(this).parent().addClass('has-error').find('.js-error').css({'display':'block'}).addClass('active').html(fmq_lang_default_settings.required);
+				} else {
+					$(this).parent().removeClass('has-error').find('.js-error').css({'display':'block'}).removeClass('active').html('');
+				}
+			});
+			
+			//авторизация, если email существует
+							if ('AUTH_SUCCESS' in window && window.AUTH_SUCCESS !== true) {
+					var $this = $('.js-OrderForm #field_EMAIL');
+					var email = $this.val();
+
+                    $('#signIn').modal('show');
+					$('.success_form_auth').addClass('success');
+					$('input#LOGIN').val(email);
+					$('input#PASSWORD').focus();
+					return false;
+				}
+			
+			$(this).find('input[data-required="Y"]').each(function(){
+			    if($(this).parent().find('.js-error').hasClass('active')){
+			        isValidate = false;
+			    }
+			});
+
+			var btn = $(this).find("button");
+			if(btn[0].disabled) return false;
+			if (isValidate) {
+				//блокировка от повторных заявок
+				btn[0].disabled = true;
+                $("#mainLoading").addClass('loading');
+			}
+			
+			return isValidate;
+		});
+
+		$(document).on("change", ".js-Agreements", function() {
+		    $systemGet = $('#system-get input:checked');
+
+		    if($systemGet.length > 0) {
+                $(".js-OrderForm").find("button")[0].disabled = $(this).is(":checked") ? false : true;
+			}
+		});
+
+		//перерасчет при смене страны
+        $(document).on("change", "select[name=REGIONS]", function() {
+            var you_send = $("#field_you_send");
+            if (you_send.val() > 0) {
+                calc_sum(you_send.val(), 0, $(this).val(), you_send);
+                you_send.change();
+            }
+        });
+
+		/*Проверка выбора страны, при вводе суммы*/
+        $(document).on('change keyup', "#field_you_send, #field_you_receive", function() {
+            var $this = $(this);
+            var $regionSelector = $('select[name=REGIONS]');
+            var $regionSelect = $regionSelector.find("option:selected");
+            var regionVal = $regionSelect.val();
+
+            if($regionSelector.length > 0) {
+                if(!regionVal) {
+                    $regionSelector.parent().addClass('has-error').find('.js-error').css({'display':'block'}).addClass('active').html(fmq_lang_default_settings.required); //переменная в шаблоне
+                    return false;
+                } else {
+                    $regionSelector.parent().removeClass('has-error').find('.js-error').css({'display':''}).removeClass('active').html('');
+                }
+            }
+
+            if(!$regionSelector.length || (!!$regionSelector.length && !!regionVal)){
+                calc_sum($this.val(), $this.attr("name") == "you_send" ? 0 : 1, regionVal, $this);
+            }
+
+        });
+
+					$(document).on('change', '.js-OrderForm #field_EMAIL', function() {
+				var $this = this;
+				var email = $($this).val();
+
+				$.ajax({
+					method: "POST",
+					url: "./",
+					data: { EMAIL: email, ACTION: "CHECK_EMAIL" },
+					dataType: "json"
+				})
+				.done(function(data) {
+					if(data["EMAIL_EXIST"] == "Y") {
+//						signin_popup.open(); //fmq_form.js
+						$('#signIn').modal('show');
+						$('.success_form_auth').addClass('success');
+						$('input#LOGIN').val(email);
+						$('input#PASSWORD').focus();
+						window.AUTH_SUCCESS = false;
+					}
+				});
+			});			
+				
+		$(document).on("focus", ".js_validator input, select", function() {
+			if ($(this).attr('name') != 'you_send' && $(this).attr('name') != 'you_receive') {
+				$(this).parent().removeClass('has-success');
+			}
+		});
+		$(document).on("change blur", ".js_validator input, select", function() {
+			var $this = $(this);
+			var errorMsg = "";
+			var value = $this.val();
+			var obValidParams = $this.data();
+
+			if((obValidParams.required == "Y" || $this.hasClass('req')) && !value)
+				errorMsg = fmq_lang_default_settings.required;
+
+			if(obValidParams.validation && value) {
+				var regEx;
+				if(obValidParams.expr) {
+					var flags = obValidParams.expr.replace(/.*\/([gimsyu]*)$/, '$1');
+					var pattern = obValidParams.expr.replace(new RegExp('^\/(.*?)\/'+flags+'$'), '$1');
+					var regex = new RegExp(pattern, flags);
+				}
+				
+				var regexEMail = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				if(obValidParams.validation == "EMAIL" && !regexEMail.test(value))
+					errorMsg = fmq_lang_default_settings.not_email;
+				else if(obValidParams.validation == "INT" && !isInt(value) && !isFloat(value))
+					errorMsg = fmq_lang_default_settings.not_number;
+				else if(obValidParams.validation == "REGEX" && !regex.test(value)) {
+					if (obValidParams.error)
+						errorMsg = obValidParams.error;
+					else
+						errorMsg = fmq_lang_default_settings.not_account;
+				}
+			}
+
+			if(errorMsg) {
+				$this.parent().removeClass('has-success').addClass('has-error').find('.js-error').css({'display':'block'}).addClass('active').html(errorMsg);
+			} else {				
+				if ($this.attr('name') != 'you_send' && $this.attr('name') != 'you_receive') {
+					$this.parent().removeClass('has-error').find('.js-error').css({'display':''}).removeClass('active').html('');
+					if (value) $this.parent().addClass('has-success');
+					else $this.parent().removeClass('has-success');
+				}
+			}
+		});
+
+        				$img = $('input[value="68"]').parent().find('img').attr('src');
+
+        		$('#system-give').find('input[value="68"]').prop('checked', true);
+				$('#box_you_send').find('img').attr('src', $img);
+
+				$.ajax({
+					url: "/ru/local/ajax/get_curency_directions.php",
+					data: { ID: '68' }
+				})
+				.done(function( data ) {
+
+                    $reserveTxt = $('#reserve').data('name');
+
+                    $('#system-get').html(data);
+
+                    $('#system-get').find('input[value="51"]').prop('checked', true);
+
+                    $curDirection = $('input[value="51"]:checked');
+
+                    $imgGet = $curDirection.parent().find('img').attr('src');
+					$reservGet = $curDirection.data('reserve');
+					$curencyGet = $curDirection.data('curency');
+
+					$('#box_you_receive').find('.img').html('<img src="'+$imgGet+'" alt="">');
+					$('#getFilter').find('label input[name=filter-get]:checked').click();
+
+					$('#reserve').removeClass('hidden').html($reserveTxt+': '+$reservGet+' '+$curencyGet);
+				});
+					});
+
+    $(document).on('click', 'input[name=filter-give]', function () {
+        var $curFilter = $(this).val();
+
+        if($curFilter == 'coin'){
+            $curFilter = 'Bitcoin BTC';
+        }
+
+        $('#system-give input').each(function () {
+            var search = $(this).next().text().search($curFilter);
+
+            if(search == -1){
+                $(this).parent().addClass('hidden');
+            } else {
+                $(this).parent().removeClass('hidden');
+            }
+        });
+    });
+    $(document).on('click', 'input[name=filter-get]', function () {
+        var $curFilter = $(this).val();
+
+        if($curFilter == 'coin'){
+            $curFilter = 'Bitcoin BTC';
+        }
+
+        $('#system-get input').each(function () {
+            var search = $(this).next().text().search($curFilter);
+
+            if(search == -1){
+                $(this).parent().addClass('hidden');
+            } else {
+                $(this).parent().removeClass('hidden');
+            }
+        });
+    });
+
+	function isInt(value) {
+		var x = parseFloat(value);
+		return !isNaN(value) && (x | 0) === x;
+	}
+
+	function isFloat(n){
+		return n == Number(n) && n % 1 !== 0;
+	}
+
+	var cal_sum_load_ajax = false;
+	function calc_sum($val, back, region, $this) {
+		$("#box_you_receive .field_loader_calc, #box_you_send .field_loader_calc").css('display', '');
+		$val = $val.replace(',', '.');
+		$code = $('input[name=code]').val();
+		if ($val[$val.length - 1] == '.') return false;
+		region = region || "";
+		$this = $this || "";
+		if (cal_sum_load_ajax) {
+			cal_sum_load_ajax.abort();
+			cal_sum_load_ajax = false;
+		}
+		
+		$("#box_you_receive .field_loader_calc, #box_you_send .field_loader_calc").css('display', 'block');
+		cal_sum_load_ajax = $.ajax({
+			method: "POST",
+			url: "/ru/local/ajax/get_receive_sum.php",
+			dataType: "json",
+			data: { direction: $code, val: $val, region_code: region, back: back, showErrors: true },
+            beforeSend: function () {
+                $(".summ").addClass('loading');
+            }
+		})
+		.success(function( data ) {
+			if(data.RECEIVE != "N" && !$('.form-group input[name=you_receive]').is(":focus")) $('.form-group input[name=you_receive]').val(data.RECEIVE);
+			if(data.SEND != "N" && !$('.form-group input[name=you_send]').is(":focus")) $('.form-group input[name=you_send]').val(data.SEND);
+
+			if(data.MESSAGE) {
+				$.each(data.MESSAGE, function(field, err) {
+                    var $fieldBlock = $("#box_" + (field == "S" ? "you_send" : "you_receive"));
+                    if(err) {
+						$($fieldBlock).removeClass('has-success');
+						$($fieldBlock).addClass("has-error").find('.js-error').css('display', 'block').addClass('active').html(err);
+                    }
+                    else {
+						$($fieldBlock).addClass('has-success');
+						$($fieldBlock).removeClass("has-error").find('.js-error').css('display', '').removeClass('active').html('');
+                    }
+                });
+				
+			}
+
+			if(data.SEND != "N" || data.RECEIVE != "N") {
+				if (data.REGION_FEE)
+					$("#region_fee_cont").html(data.REGION_FEE);
+				else
+					$("#region_fee_cont").html('-');
+			}
+			cal_sum_load_ajax = false;
+			$("#box_you_receive .field_loader_calc, #box_you_send .field_loader_calc").css('display', '');
+		})
+		.error(function(e) {
+			$("#box_you_receive, #box_you_send").removeClass('has-success');
+			$("#box_you_receive .field_loader_calc, #box_you_send .field_loader_calc").css('display', '');
+			cal_sum_load_ajax = false;
+		})
+		.done(function(data){
+            $(".summ").removeClass('loading');
+		});
+	}
+    //При выборе системы "из" получаем платежные системы у которых есть направления перевода
+    $('input[name=system-give]').on('click', function(){
+        var $paySys = $(this).val(),
+            $img = $(this).parent().find('img').attr('src');
+
+        $('#box_you_send').find('img').attr('src', $img);
+
+        $.ajax({
+            url: "/ru/local/ajax/get_curency_directions.php",
+            data: { ID: $paySys }
+        })
+            .done(function( data ) {
+                $('#system-get').html(data);
+                $(".data").addClass('loading');
+                $('#getFilter').find('label input[name=filter-get]:checked').click();
+            });
+    });
+
+    $('#system-get').on('click', 'input[name=system-get]', function() {
+        var $imgGet = $(this).parent().find('img').attr('src'),
+            $reservGet = $(this).data('reserve'),
+            $curencyGet = $(this).data('curency'),
+            $reserveTxt = $('#reserve').data('name'),
+            $direction = $(this).data('code');
+        	$(".data").removeClass('loading');
+
+        $.ajax({
+            url: "/ru/local/ajax/get_directions.php",
+            data: { direction: $direction },
+            beforeSend: function () {
+                $("#mainLoading").addClass('loading');
+            }
+        })
+            .done(function( data ) {
+                $("#mainLoading").removeClass('loading');
+                $('#box_you_receive').find('.img').html('<img src="'+$imgGet+'" alt="">');
+                $('#reserve').removeClass('hidden').html($reserveTxt+': '+$reservGet+' '+$curencyGet);
+
+                $('#direction_field').html(data);
+                $('#getFilter').find('label input[name=filter-get]:checked').click();
+
+                $(".chosen-select	").chosen('update');
+                calc_sum($("#field_you_send").val(), 0);
+
+//                history.pushState({param: 'Value'}, '', '?'+$('input[name=code]').val()+'');
+                history.pushState({param: 'Value'}, '', '?cur_from='+$('input[name=system-give]:checked').data('codecurency')+'&cur_to='+$('input[name=system-get]:checked').data('codecurency')+'');
+            });
+    });
+	</script>
+<style>
+.autocomplete-suggestions {
+  background: #fafafa;
+  border: 0;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.24), 0 0 4px rgba(0, 0, 0, 0.12);
+  margin: 0 0 0 1px;
+  overflow: auto;
+}
+.autocomplete-suggestions strong {
+  font-weight: normal;
+  color: #3399FF;
+}
+.autocomplete-suggestions .autocomplete-suggestion {
+  background: #fff;
+  color: rgba(0, 0, 0, 0.87);
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 34px;
+  overflow: hidden;
+  padding: 0 15px;
+  white-space: nowrap;
+}
+.autocomplete-suggestions .autocomplete-suggestion:nth-child(even) {
+  background: #f4fae7;
+}
+.autocomplete-suggestions .autocomplete-selected {
+  background: #fcf8e3 !important;
+}
+.autocomplete-suggestions .autocomplete-group {
+  padding: 2px 5px;
+}
+.autocomplete-suggestions .autocomplete-group strong {
+  display: block;
+  border-bottom: 1px solid #000;
+}
+</style>	<section>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-6">
+					<h3></h3>
+				</div>
+				<div class="col-xs-5 col-xs-offset-1">
+					<h3><a href="/ru//reviews">Отзывы</a></h3>
+					
+
+<div class="reviews-slider">
+			<div class="one-item">
+			<p>Очень быстро</p>
+			<div class="review-info">
+									<div class="when">18.03.2019 / 07:45</div>
+									<div class="who">Валентин</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>отличный обменник</p>
+			<div class="review-info">
+									<div class="when">18.03.2019 / 04:39</div>
+									<div class="who">Антон</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>все пришло, спасибо </p>
+			<div class="review-info">
+									<div class="when">18.03.2019 / 01:42</div>
+									<div class="who">Николай</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>3 мин и все ок</p>
+			<div class="review-info">
+									<div class="when">17.03.2019 / 21:10</div>
+									<div class="who">игорь</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>Лучшие курсы, быстрые переводы!</p>
+			<div class="review-info">
+									<div class="when">17.03.2019 / 20:18</div>
+									<div class="who">Артем</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>благодарю!!!</p>
+			<div class="review-info">
+									<div class="when">17.03.2019 / 17:39</div>
+									<div class="who">благодарный</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>Все работает отлично</p>
+			<div class="review-info">
+									<div class="when">17.03.2019 / 16:43</div>
+									<div class="who">Муслим</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>все пришло, спасибо</p>
+			<div class="review-info">
+									<div class="when">17.03.2019 / 00:45</div>
+									<div class="who">Николай</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>Все быстро, супер, сервис огонь, спасибо. РЕКОМЕНДУЮ!</p>
+			<div class="review-info">
+									<div class="when">17.03.2019 / 00:02</div>
+									<div class="who">Александр</div>
+			</div>
+		</div>
+				<div class="one-item">
+			<p>Все оперативно, без проблем. Спасибо.</p>
+			<div class="review-info">
+									<div class="when">16.03.2019 / 23:09</div>
+									<div class="who">Василий</div>
+			</div>
+		</div>
+		</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="bg-white">
+		<div class="container">
+	<h3><a href="/ru/news/">Последние новости</a></h3>
+	<div class="last-news-previews">
+		<div class="row">
+							<div class="col-xs-4">
+					<div class="one-item">
+						<a id="bx_651765591_497407" href="/ru/news/uskorenie_iskhodyashchikh_tranzaktsiy.html" class="h4"><b>Ускорение исходящих транзакций 11.03.2019 / 12:58</b></a>
+						<p>Уважаемые клиенты, мы изменили комиссию сети blockchain в целях ускорения исходящих транзакций. Теперь подтверждения&nbsp;&nbsp;сети поступают быстрее что уже отметили многие наши пользователи. Наши комиссии при этом остались прежними.</p>
+						<div class="when">11.03.2019 / 12:58</div>
+					</div>
+				</div>
+								<div class="col-xs-4">
+					<div class="one-item">
+						<a id="bx_651765591_462388" href="/ru/news/novyy_god_2019_.html" class="h4"><b>Новый год 2019 ! 26.12.2018 / 12:58</b></a>
+						<p>Служба поддержки будет работать все выходные и праздничные дни, но время обработки заявок может быть дольше чем обычно. <br />
+Получение и обработка переводов Золотая корона, Western Union, Moneygram, Contact, Unistream будет возобновлена с 5-6.01 2019 г.</p>
+						<div class="when">26.12.2018 / 12:58</div>
+					</div>
+				</div>
+								<div class="col-xs-4">
+					<div class="one-item">
+						<a id="bx_651765591_291709" href="/ru/news/dobavleny_novye_banki.html" class="h4"><b>Добавлены новые банки 24.04.2018 / 01:11</b></a>
+						<p>На сайте включены в работу банки: Русский стандарт, Газпромбанк и банковская карта Кукуруза.</p>
+						<div class="when">24.04.2018 / 01:11</div>
+					</div>
+				</div>
+						</div>
+	</div>
+</div>	</section>
+	<section>
+		<div class="container">
+			<h3 class="text-center">Смотрите отзывы о нас на форумах</h3>
+<div class="forum-icons">
+	<a href="http://mmgp.ru/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/mmgp.png)"><img src="/local/templates/.default/static/pic/mmgp.png" alt=""></a>
+	<a href="http://rusmmg.ru/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/rusmmg.png)"><img src="/local/templates/.default/static/pic/rusmmg.png" alt=""></a>
+	<a href="http://forum.bits.media/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/bits-media.png)"><img src="/local/templates/.default/static/pic/bits-media.png" alt=""></a>
+	<a href="http://bitcoinforum.com/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/bitcoinforum.png)"><img src="/local/templates/.default/static/pic/bitcoinforum.png" alt=""></a>
+	<a href="http://dreamteammoney.com/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/ptm.png)"><img src="/local/templates/.default/static/pic/ptm.png" alt=""></a>
+	<a href="http://moneymakergroup.com/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/mmg.png)"><img src="/local/templates/.default/static/pic/mmg.png" alt=""></a>
+	<a href="http://talkgold.com/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/talkgold.png)"><img src="/local/templates/.default/static/pic/talkgold.png" alt=""></a>
+	<a href="http://moneytalkvillage.com/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/mtv.png)"><img src="/local/templates/.default/static/pic/mtv.png" alt=""></a>
+	<a href="http://bestchange.com/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/best-change.png)"><img src="/local/templates/.default/static/pic/best-change.png" alt=""></a>
+	<a href="http://bitcointalk.org/" target="_blank" style="background-image:url(/local/templates/.default/static/pic/bitcointalk.png)"><img src="/local/templates/.default/static/pic/bitcointalk.png" alt=""></a>
+</div>		</div>
+	</section>
+						</div>
+			</section>
+				</article>
+						<div class="footer_clear"></div>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="pull-right">
+					<ul class="bottom-menu">
+					<li><a href="/ru/tеrms_of_service/">Пользовательское соглашение</a></li>
+					<li><a href="/ru/privacy_policy/">Политика AML</a></li>
+			</ul>
+
+			</div>
+
+				<ul class="bottom-menu">
+					<li><a href="/ru/news/">Новости</a></li>
+					<li><a href="/ru/reviews/">Отзывы</a></li>
+					<li><a href="/ru/contacts/">Контакты</a></li>
+			</ul>
+		</div>
+		<div class="bg-blue-middle2 text-center">
+	© 2018, Openchange.me, Все права защищены
+</div>
+<br>	</footer>
+		<!--Start of Zopim Live Chat Script-->
+		<script type="text/javascript">
+		window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+		_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+		$.src="https://v2.zopim.com/?5JF0JwJBCxIll1URekG2aGT9yT3w86br";z.t=+new Date;$.
+		type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+
+            $zopim(function() {
+
+                var ua = navigator.userAgent.toLowerCase(),
+                    platform = navigator.platform.toLowerCase();
+                platformName = ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android)/) || platform.match(/mac|win|linux/) || ['other'])[0],
+                    isMobile = /ios|android|webos/.test(platformName);
+                if (isMobile) {
+                    $zopim.livechat.addTags ('Mobile');}
+
+                $zopim.livechat.theme.setTheme('simple')
+//                $zopim.livechat.window.setTitle('chat support');
+                $zopim.livechat.theme.setColors({badge: '#30ae41', primary: '#d8dce6'});
+                $zopim.livechat.window.setColor('#30ae41');
+                $zopim.livechat.concierge.setAvatar('/local/templates/.default/static/img/chat_logo.png');
+                $zopim.livechat.concierge.setName('OpenChange');
+                $zopim.livechat.concierge.setTitle("We are online");
+                $zopim.livechat.theme.reload();
+
+                $('#extm_sh_button').click(function(e) {
+                    e.preventDefault();
+                    $zopim.livechat.window.toggle();
+                });
+
+
+            });
+		</script>
+
+		<!--End of Zopim Live Chat Script-->
+</body>
+
+</html>

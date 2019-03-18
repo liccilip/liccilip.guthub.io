@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Купить Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Exmo коды и другие криптовалюты за рубли, Я.Деньги, Payeer, AdvCash или с помощью банковской карты.">
+    <meta name="keywords" content="купить биткоин за рубли, купить криптовалюты, биткоин за яндекс.деньги, криптовалюта за usd, купить Ripple/XRP, купить Ethereum, купить Doge, ripple за рубли, обменять bitcoin, exmo код пополнения, exmo rub, exmo usd, обменник криптовалюта">
+    <meta name="yandex-verification" content="86c6f61634f46f91">
+    <!-- Icons -->
+	<link rel="icon" href="/favicon.png" type="image/x-icon" />
+	<link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/icons/icon76.png" sizes="76x76">
+	<link rel="apple-touch-icon" href="/icons/icon120.png" sizes="120x120">
+	<link rel="apple-touch-icon" href="/icons/icon152.png" sizes="152x152">
+	<link rel="apple-touch-icon" href="/icons/icon144.png" sizes="144x144">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="application-name" content="BTCSTAFF.ru">
+	<meta name="msapplication-square70x70logo" content="/icons/icon70.png">
+	<meta name="msapplication-square150x150logo" content="/icons/icon150.png">
+	<link rel=”mask-icon” href="/icons/apple_lover.svg" sizes="any" color=”#FFFFFF”>
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="EiWtT-tYocmccVhk6gh7FunuU5P4Gp5Hq33xcPT_bsMlUewQkzaV-vs9Hxzcegwkq6sl9JBwxzbjJcICgIxYgg==">
+    <title>Автоматический обменник 24/7</title>
+    <script>
+        var baseUrl = "";
+    </script>
+    <link href="/assets/8be6973c/css/bootstrap.css" rel="stylesheet">
+<link href="/css/site.css?v=4" rel="stylesheet">
+<link href="/assets/ffaf0adb/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/11e272a1/css/AdminLTE.min.css" rel="stylesheet">
+<link href="/assets/11e272a1/css/skins/_all-skins.min.css" rel="stylesheet"></head>
+<body class="hold-transition skin-black sidebar-mini sidebar-collapse">
+        <div class="alert alert-info alert-dismissible" role="alert">
+            <button type="button" class="close" id="closeWarningNotify" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span></button>
+            Все обмены только через сайт! Не через консультанта и не через telegram.
+        </div>
+<div class="wrapper">
+
+    
+<header class="main-header">
+
+        <span class="logo" style="background: none; height: 54px">
+    <span class="logo-mini"><a href="/"><img src="/images/logo_256.png" height="38px" alt="Обменный пункт электронных валют и криптовалют" /></a></span>
+    <a href="/"><img src="/images/logo_256.png" width="40px" alt="Обменный пункт электронных валют и криптовалют" align="middle" /></a>
+	<a href="/" title="Обмен криптовалют и платежных систем"><span style="font-size: 22px; font-weight: 300; color: white">BTC STAFF</span>
+    </a>
+    </span>
+    <nav class="navbar navbar-static-top" role="navigation">
+
+        <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+            <span class="sr-only">Навигация</span>
+        </a>
+                <div class="navbar-custom-menu">
+            <ul class="nav navbar-nav">
+
+                <!-- Messages: style can be found in dropdown.less-->
+                                <li><a href="/login">Вход</a></li>
+                <li><a href="/register">Регистрация</a></li>
+                            </ul>
+        </div>
+    </nav>
+</header>
+
+    <aside class="main-sidebar">
+
+    <section class="sidebar">
+
+     
+                <ul class="sidebar-menu"><li class="active"><a href="/site/index"><i class="fa fa-exchange"></i>  <span>Обменять</span></a></li>
+<li><a href="/faq/index"><i class="fa fa-info-circle"></i>  <span>FAQ</span></a></li>
+<li><a href="/testimonials/index"><i class="fa fa-comments"></i>  <span>Отзывы</span></a></li>
+<li><a href="/contact"><i class="fa fa-phone"></i>  <span>Обратная связь</span></a></li></ul>        <ul class="sidebar-menu">
+	    <li><a href="/page/about"><i class="fa fa-bank"></i> <span>О нас</span></a></li>
+	    <li><a href="/page/privacy-policy"><i class="fa fa-file-text-o"></i>  <span>Конфиденциальность</span></a></a></li>
+	    <li><a href="/page/terms-of-services"><i class="fa fa-circle-o"></i>  <span>Правила</span></a></a></li>
+	    <li><a href="/map"><i class="fa fa-chain"></i>  <span>Прямые ссылки</span></a></a></li>
+	   	    <li><a href="/site/page?view=affiliate"><i class="fa fa-money"></i> <span>Партнерам</span></a></li>
+        </u>
+    </section>
+</aside>
+
+        
+<div class="content-wrapper">
+    <section class="content-header">
+                    <h1 style="font-size: 22px">
+                Автоматический обменник 24/7            </h1>
+        
+            </section>
+
+    <section class="content">
+                <style>
+.panel-heading {font-weight:400; font-size: 20px}
+</style>
+<div class="body-content">
+
+	<div class="row" style="max-width: 100%">
+		<div class="col-lg-4 col-sm-5">
+		    <div class="panel panel">
+			    <div class="filterCurrency pull-right" id="filter1"><a href="#" name="fc-crypto" style="font-size: 9px; padding: 3px 2px">CRYPTO</a> <a href="#" name="fc-eur">EUR</a> <a href="#" name="fc-usd">USD</a> <a href="#" name="fc-rub">RUB</a> <a href="#" name="fc-all" class="fcactive">ВСЕ</a></div>
+			  <div class="panel-heading" style="font-size: 19px">Отдаете</div>
+			  <div class="panel-body">
+					<div class="list-group" id="gateways_send">
+					  					  	<a href="#" id="1" class="list-group-item active list-group-item-my fc-rub">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/yandex_money.png" width="32px" class="gateway_logo" /> Яндекс Деньги <small>RUB</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="2" class="list-group-item list-group-item-my fc-crypto">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/bitcoin.png" width="32px" class="gateway_logo" /> Bitcoin <small>BTC</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="18" class="list-group-item list-group-item-my fc-rub">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/visa_mastercard.png" width="32px" class="gateway_logo" /> Visa & MasterCard <small>RUB</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="4" class="list-group-item list-group-item-my fc-crypto">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/litecoin.png" width="32px" class="gateway_logo" /> Litecoin <small>LTC</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="6" class="list-group-item list-group-item-my fc-crypto">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/ethereum.png" width="32px" class="gateway_logo" /> Ethereum <small>ETH</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="19" class="list-group-item list-group-item-my fc-usd">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/perfect_money_usd.png" width="32px" class="gateway_logo" /> Perfect Money <small>USD</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="20" class="list-group-item list-group-item-my fc-eur">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/perfect_money_eur.png" width="32px" class="gateway_logo" /> Perfect Money <small>EUR</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="12" class="list-group-item list-group-item-my fc-rub">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/payeer.png" width="32px" class="gateway_logo" /> Payeer <small>RUB</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="13" class="list-group-item list-group-item-my fc-usd">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/payeer.png" width="32px" class="gateway_logo" /> Payeer <small>USD</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="14" class="list-group-item list-group-item-my fc-rub">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/advcash.png" width="32px" class="gateway_logo" /> AdvCash <small>RUB</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="15" class="list-group-item list-group-item-my fc-usd">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/advcash.png" width="32px" class="gateway_logo" /> AdvCash <small>USD</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="16" class="list-group-item list-group-item-my fc-rub">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/exmo.png" width="32px" class="gateway_logo" /> EXMO <small>RUB</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="17" class="list-group-item list-group-item-my fc-usd">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/exmo.png" width="32px" class="gateway_logo" /> EXMO <small>USD</small></div></div>
+						  	</div>
+					  	</a>
+					  					  	<a href="#" id="3" class="list-group-item list-group-item-my fc-crypto">
+						  	<div class="row">
+							  	<div class="col"><div style="font-size: 16px; margin-left: 10px;"><img src="/images/icons/dogecoin.png" width="32px" class="gateway_logo" /> Dogecoin <small>DOGE</small></div></div>
+						  	</div>
+					  	</a>
+					  					</div>
+			  </div>
+			</div>
+		</div>
+		<div class="col-lg-5 col-sm-7">
+			<div class="panel panel">
+			    <div class="filterCurrency pull-right" id="filter2"><a href="#" name="fc-crypto" style="font-size: 9px; padding: 3px 2px">CRYPTO</a> <a href="#" name="fc-eur">EUR</a> <a href="#" name="fc-usd">USD</a> <a href="#" name="fc-rub">RUB</a> <a href="#" name="fc-all" class="fcactive">ВСЕ</a></div>
+			  <div class="panel-heading" style="font-size: 19px">Получаете</div>
+			  	<div class="panel-body" id="gataways_main">
+					<div class="overlay" id="gataways_main_loading" style="display: none">
+					  <i class="fa fa-refresh fa-spin"></i>
+					</div>
+				<div class="list-group" id="gateways_receive">
+				  						<a href="/exchange/yandex_money_RUB/to/bitcoin_BTC" class="list-group-item  list-group-item-my fc-crypto" title="Обменять Яндекс Деньги на Bitcoin">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/bitcoin.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Bitcoin</span> <small>BTC</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	268268.8464 <small>RUB = </small>
+								  	1 <small>BTC</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	268268.8464 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/litecoin_LTC" class="list-group-item  list-group-item-my fc-crypto" title="Обменять Яндекс Деньги на Litecoin">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/litecoin.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Litecoin</span> <small>LTC</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	3986.5942 <small>RUB = </small>
+								  	1 <small>LTC</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	3986.5942 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/ethereum_ETH" class="list-group-item  list-group-item-my fc-crypto" title="Обменять Яндекс Деньги на Ethereum">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/ethereum.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Ethereum</span> <small>ETH</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	9205.187 <small>RUB = </small>
+								  	1 <small>ETH</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	9205.187 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/perfect_money_usd_USD" class="list-group-item  list-group-item-my fc-usd" title="Обменять Яндекс Деньги на Perfect Money">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/perfect_money_usd.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Perfect Money</span> <small>USD</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	65.3127 <small>RUB = </small>
+								  	1 <small>USD</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	65.3127 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/perfect_money_eur_EUR" class="list-group-item  list-group-item-my fc-eur" title="Обменять Яндекс Деньги на Perfect Money">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/perfect_money_eur.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Perfect Money</span> <small>EUR</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	74.5708 <small>RUB = </small>
+								  	1 <small>EUR</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	74.5708 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/payeer_RUB" class="list-group-item  list-group-item-my fc-rub" title="Обменять Яндекс Деньги на Payeer">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/payeer.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Payeer</span> <small>RUB</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	1.0376 <small>RUB = </small>
+								  	1 <small>RUB</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	1.0376 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/payeer_USD" class="list-group-item  list-group-item-my fc-usd" title="Обменять Яндекс Деньги на Payeer">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/payeer.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Payeer</span> <small>USD</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	66.4402 <small>RUB = </small>
+								  	1 <small>USD</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	66.4402 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/advcash_RUB" class="list-group-item  list-group-item-my fc-rub" title="Обменять Яндекс Деньги на AdvCash">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/advcash.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">AdvCash</span> <small>RUB</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	1.0301 <small>RUB = </small>
+								  	1 <small>RUB</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	1.0301 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/advcash_USD" class="list-group-item  list-group-item-my fc-usd" title="Обменять Яндекс Деньги на AdvCash">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/advcash.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">AdvCash</span> <small>USD</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	65.9686 <small>RUB = </small>
+								  	1 <small>USD</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	65.9686 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/exmo_RUB" class="list-group-item  list-group-item-my fc-rub" title="Обменять Яндекс Деньги на EXMO">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/exmo.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">EXMO</span> <small>RUB</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	1.049 <small>RUB = </small>
+								  	1 <small>RUB</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	1.049 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/exmo_USD" class="list-group-item  list-group-item-my fc-usd" title="Обменять Яндекс Деньги на EXMO">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/exmo.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">EXMO</span> <small>USD</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	65.9534 <small>RUB = </small>
+								  	1 <small>USD</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	65.9534 : 1								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+						<a href="/exchange/yandex_money_RUB/to/dogecoin_DOGE" class="list-group-item  list-group-item-my fc-crypto" title="Обменять Яндекс Деньги на Dogecoin">
+						  	<div class="row">
+							  	<div class="col-xs-1 col-sm-1 col-md-1" style="padding-right: 28px"><img src="/images/icons/dogecoin.png" width="32px" class="gateway_logo" /></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-4"><span style="font-size: 16px">Dogecoin</span> <small>DOGE</small></div>
+							  	<div class="col-xs-5 col-sm-5 col-md-6" style="font-size: 14px; padding:5px; color: black">
+								  	
+								  	<span class="hidden-xs hidden-sm pull-right">
+								  	1 <small>RUB = </small>
+								  	7.0943 <small>DOGE</small>
+								  	</span>
+								  	<span class="visible-xs visible-sm pull-right">
+								  	1 : 7.0943								  	</span>
+								</div>
+						  	</div>
+					  	</a>
+				</div>
+			  </div>
+			</div>
+		</div>
+		
+		<div class="col-lg-3 col-sm-12">
+		    <div class="panel panel">
+			  <div class="panel-heading">Резервы</div>
+			  <div class="panel-body" style="padding-top: 5px">
+					<div class="list-group" style="font-size: 14px">
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/yandex_money.png" width="32px" class="gateway_logo" /></div>
+						Яндекс Деньги<BR>
+					  	70658.71 <small>RUB</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/bitcoin.png" width="32px" class="gateway_logo" /></div>
+						Bitcoin<BR>
+					  	1.790352 <small>BTC</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/litecoin.png" width="32px" class="gateway_logo" /></div>
+						Litecoin<BR>
+					  	10.723817 <small>LTC</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/ethereum.png" width="32px" class="gateway_logo" /></div>
+						Ethereum<BR>
+					  	86.1969 <small>ETH</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/perfect_money_usd.png" width="32px" class="gateway_logo" /></div>
+						Perfect Money<BR>
+					  	28.24 <small>USD</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/perfect_money_eur.png" width="32px" class="gateway_logo" /></div>
+						Perfect Money<BR>
+					  	251.96 <small>EUR</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/payeer.png" width="32px" class="gateway_logo" /></div>
+						Payeer<BR>
+					  	94710.35 <small>RUB</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/payeer.png" width="32px" class="gateway_logo" /></div>
+						Payeer<BR>
+					  	810.75 <small>USD</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/advcash.png" width="32px" class="gateway_logo" /></div>
+						AdvCash<BR>
+					  	117733.45 <small>RUB</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/advcash.png" width="32px" class="gateway_logo" /></div>
+						AdvCash<BR>
+					  	4513.73 <small>USD</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/exmo.png" width="32px" class="gateway_logo" /></div>
+						EXMO<BR>
+					  	43691.9 <small>RUB</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/exmo.png" width="32px" class="gateway_logo" /></div>
+						EXMO<BR>
+					  	1739.79 <small>USD</small></div>
+					  					  	<div class="pull-left" style="min-width: 160px; height:45px">
+						<div class="pull-left"><img src="/images/icons/dogecoin.png" width="32px" class="gateway_logo" /></div>
+						Dogecoin<BR>
+					  	127475.49 <small>DOGE</small></div>
+					  					</div>
+								  </div>
+			</div>
+		</div>
+		
+	</div>
+	
+	
+    <div class="body-content">
+
+        <div class="row" style="background-color: white">
+            <div class="col-sm-6 col-md-6 col-lg-4" style="padding: 10px 0 20px 20px">
+                <h2 class="panel-heading">Обмены</h2>
+
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/visa_mastercard.png" width="24px" class="gateway_logo" /><br/><span>1424.29 <small>RUB</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/litecoin.png" width="24px" class="gateway_logo" /><br/><span>0.36019605 <small>LTC</small></span></div>
+</div>
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/yandex_money.png" width="24px" class="gateway_logo" /><br/><span>2500 <small>RUB</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/perfect_money_usd.png" width="24px" class="gateway_logo" /><br/><span>38.27 <small>USD</small></span></div>
+</div>
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/yandex_money.png" width="24px" class="gateway_logo" /><br/><span>3480 <small>RUB</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/advcash.png" width="24px" class="gateway_logo" /><br/><span>52.64 <small>USD</small></span></div>
+</div>
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/bitcoin.png" width="24px" class="gateway_logo" /><br/><span>0.0048 <small>BTC</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/yandex_money.png" width="24px" class="gateway_logo" /><br/><span>1266.79 <small>RUB</small></span></div>
+</div>
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/yandex_money.png" width="24px" class="gateway_logo" /><br/><span>1258.8 <small>RUB</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/exmo.png" width="24px" class="gateway_logo" /><br/><span>1200 <small>RUB</small></span></div>
+</div>
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/exmo.png" width="24px" class="gateway_logo" /><br/><span>2015.34 <small>RUB</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/yandex_money.png" width="24px" class="gateway_logo" /><br/><span>2050.21 <small>RUB</small></span></div>
+</div>
+<div class="row text-center" style="margin-bottom: 5px">
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/yandex_money.png" width="24px" class="gateway_logo" /><br/><span>1406.3 <small>RUB</small></span></div>
+	<div class="col-xs-1 col-sm-2"><i class="fa fa-exchange" style="margin-top: 15px"></i></div>
+	<div class="col-xs-5 col-sm-5"><img src="/images/icons/exmo.png" width="24px" class="gateway_logo" /><br/><span>1350 <small>RUB</small></span></div>
+</div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-4" style="padding: 10px 0 20px 20px">
+                <h2 class="panel-heading">Отзывы</h2>
+
+<p><span style="background-color: rgb(85,85,85); color:white; font-size: 12px; padding: 0 3px">18.03 02:40</span><BR><span> Сколько не использовала разных обменников из платформы биржа обменников bestchange но этот самый удобный и быстрый и и безопасный при обмене</span></p>
+<p><span style="background-color: rgb(85,85,85); color:white; font-size: 12px; padding: 0 3px">18.03 00:19</span><BR><span>Паер на эфир моментально!!!</span></p>
+<p><span style="background-color: rgb(85,85,85); color:white; font-size: 12px; padding: 0 3px">14.03 22:22</span><BR><span>класс! все очень быстро!!!!!!!! молодцы!</span></p>
+<p><span style="background-color: rgb(85,85,85); color:white; font-size: 12px; padding: 0 3px">14.03 15:24</span><BR><span>Благодарю за стремительный обмен с Adv руб. на дол.-ры!</span></p>
+<p><span style="background-color: rgb(85,85,85); color:white; font-size: 12px; padding: 0 3px">13.03 06:26</span><BR><span>За**ок! Оперативно! Менял BTC на ЯД.</span></p>
+                <p><a class="btn btn-default" href="/testimonials/index">Все отзывы</a></p>
+            </div>
+            <div class="col-lg-4 visible-lg">
+	            <p></p>
+	            <h2 class="panel-heading">Новости</h2>
+                <a class="twitter-timeline" data-height="380" data-chrome="nofooter, noheader" data-lang="ru" data-theme="light" href="https://twitter.com/btcstaffru?ref_src=twsrc%5Etfw">Твиты BTCSTAFF.ru</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+            </div>
+        </div>
+
+    </div>
+    <div class="hidden-lg">
+	    <h2 class="panel-heading">Новости</h2>
+	    <a class="twitter-timeline" data-height="250" data-chrome="nofooter, noheader" data-lang="ru" data-theme="light" href="https://twitter.com/btcstaffru?ref_src=twsrc%5Etfw">Твиты BTCSTAFF.ru</a>
+    </div>
+</div>
+    </section>
+</div>
+
+<footer class="main-footer">
+<!-- BestChange.ru -->
+<div style="float:left; margin-right: 15px; padding-top: 5px">
+<a href="https://bestchange.ru/btcstaff-exchanger.html" target="_blank"><img
+src="https://www.bestchange.ru/bestchange.gif"
+title="Обмен Bitcoin, Ethereum, QIWI, Advanced Cash"
+alt="BestChange.ru - агрегатор электронных обменников"
+width="88" height="31" border="0" /></a>
+</div>
+<!-- BestChange.ru -->
+<B>2018 - 2019 © BTCstaff.ru</B><br />
+Обмен Bitcoin, Ethereum, Litecoin, Яндекс.Деньги, Payeer, AdvCash, Perfect Money и другие</footer>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112166182-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112166182-1');
+</script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'mAPxC2kEt4';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+<script src="/assets/2f421011/jquery.js"></script>
+<script src="/assets/e3d032d1/yii.js"></script>
+<script src="/assets/8be6973c/js/bootstrap.js"></script>
+<script src="/js/main.js?v=0.46"></script>
+<script src="/assets/11e272a1/js/app.min.js"></script>
+<script>jQuery(function ($) {
+function checkFilter(){
+	var filter1 = getCookie('filter1');
+	var filter2 = getCookie('filter2');
+	var send_active = getCookie('send_active');
+	
+	if(filter1 && filter1 != 'fc-all')
+	{
+		$("#gateways_send > a").hide();
+		$("#gateways_send > a." + filter1).show();
+		$("#filter1 > a").removeClass('fcactive');
+		$("#filter1 > a[name='"+filter1+"']").addClass("fcactive");
+	}
+	if(filter2 && filter2 != 'fc-all')
+	{
+		$("#gateways_receive > a").hide();
+		$("#gateways_receive > a." + filter2).show();
+		$("#filter2 > a").removeClass('fcactive');
+		$("#filter2 > a[name='"+filter2+"']").addClass("fcactive");
+	}
+}
+
+$(document).ready(function(){
+		checkFilter();
+		
+		$("#gateways_send > a").removeClass('active');
+		var send_active = getCookie('send_active');
+		
+	    if(send_active)
+	    {
+		    $("a[id='"+send_active+"']").addClass('active');
+		    $.ajax({
+	           url: "https://btcstaff.ru/site/ajax-gateways-main",
+	           method: "GET",
+	           data: {'id': send_active},
+	           beforeSend: function() {
+		          $("#gataways_main_loading").show(); 
+		          $("#gataways_main").addClass("box");
+	           },
+	           success: function(data) {
+	               //alert(data);
+	               $("#gateways_receive").html(data);
+	               $("#gataways_main").removeClass("box");
+	               $("#gataways_main_loading").hide();
+	               checkFilter();
+	           }
+	        });
+		}
+	    	else $("#gateways_send > a:visible:first").addClass('active');
+		
+		$("#filter1 > a").click(function(){
+			setCookie('filter1', $(this).attr('name'), 180);
+			$("#filter1 > a").removeClass('fcactive');
+			$(this).addClass("fcactive");
+			
+			if($(this).attr('name') == 'fc-all')
+			{
+				$("#gateways_send > a").show();
+			}
+			else
+			{
+				$("#gateways_send > a").hide();
+				$("#gateways_send > a." + $(this).attr('name')).show();
+			}
+			
+			$("#gateways_send > a").removeClass('active');
+	        $("#gateways_send > a:visible:first").addClass('active');
+	        var id = $("#gateways_send > a:visible:first").attr('id');
+	        setCookie('filter1_id', id, 180);
+	        setCookie('send_active', id);
+	        
+	        $.ajax({
+	           url: "https://btcstaff.ru/site/ajax-gateways-main",
+	           method: "GET",
+	           data: {'id': id},
+	           beforeSend: function() {
+		          $("#gataways_main_loading").show(); 
+		          $("#gataways_main").addClass("box");
+	           },
+	           success: function(data) {
+	               //alert(data);
+	               $("#gateways_receive").html(data);
+	               $("#gataways_main").removeClass("box");
+	               $("#gataways_main_loading").hide();
+	               checkFilter();
+	           }
+	        });
+	        
+			return false;
+		})
+		
+		$("#filter2 > a").click(function(){
+			setCookie('filter2', $(this).attr('name'), 180);
+			$("#filter2 > a").removeClass('fcactive');
+			$(this).addClass("fcactive");
+			
+			if($(this).attr('name') == 'fc-all')
+			{
+				$("#gateways_receive > a").show();
+				return false;
+			}
+			$("#gateways_receive > a").hide();
+			$("#gateways_receive > a." + $(this).attr('name')).show();
+			return false;
+		})
+		
+		$("#gateways_send > a").on("click", function(){
+	        $("#gateways_send > a").removeClass('active');
+	        $(this).addClass('active');
+	        setCookie('send_active', $(this).attr('id'), 180);
+	        
+	        $.ajax({
+	           url: "https://btcstaff.ru/site/ajax-gateways-main",
+	           method: "GET",
+	           data: {'id': $(this).attr('id')},
+	           beforeSend: function() {
+		          $("#gataways_main_loading").show(); 
+		          $("#gataways_main").addClass("box");
+	           },
+	           success: function(data) {
+	               //alert(data);
+	               $("#gateways_receive").html(data);
+	               $("#gataways_main").removeClass("box");
+	               $("#gataways_main_loading").hide();
+	               checkFilter();
+	           }
+	        });
+	        
+	        return false;
+        });
+})
+});</script></body>
+</html>

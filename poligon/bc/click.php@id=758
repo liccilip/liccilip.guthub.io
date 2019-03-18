@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="Syk7X9imB_i3cCoapGvAZpWv1338uXnlTEwbw5qdzy2ZhtWqavl9QD0nfc7HaRNxqP-bwst_fZUU9OldQTpCUA==">
+    <title>CryptoBox - Электронный обмен валют</title>
+    <link rel="shortcut icon" href="https://cryptobox.in.ua/favicon.ico" />
+    <link rel="icon" type="image/png" href="https://cryptobox.in.ua/favicon.png" />
+    <meta name="title" content="CryptoBox - Электронный обмен валют">
+<link href="/assets/4d44faa1/css/bootstrap.css?v=1538998609" rel="stylesheet">
+<link href="/service-icons/icons.css?v=1537872038" rel="stylesheet">
+<link href="/assets/8341000a/css/museo-sans.css?v=1538998609" rel="stylesheet">
+<link href="/assets/8341000a/css/stylesheet.css?v=1538998609" rel="stylesheet">
+<script type="text/javascript">window.exchangeTableData = {"direction":{"1":{"21":{"course":3489.1819191,"url":"\/exchange\/btc-to-adveur","min":0.02,"max":100000},"20":{"course":4014.831744,"url":"\/exchange\/btc-to-advusd","min":0.02,"max":1000},"1":{"course":0.98039215700019,"url":"\/exchange\/btc-to-btc","min":0.1,"max":1000},"13":{"course":42.51093989,"url":"\/exchange\/btc-to-dash","min":0.02,"max":1000000},"2":{"course":28.682053084237,"url":"\/exchange\/btc-to-eth","min":0.03,"max":100},"10":{"course":897.69167803547,"url":"\/exchange\/btc-to-etc","min":0.02,"max":3},"12":{"course":66.56367157,"url":"\/exchange\/btc-to-ltc","min":0.02,"max":100000},"8":{"course":76.3648122465,"url":"\/exchange\/btc-to-xmr","min":0.03,"max":100000},"23":{"course":3495.2692,"url":"\/exchange\/btc-to-pmeur","min":0.02,"max":1000000},"22":{"course":4055.3815446144,"url":"\/exchange\/btc-to-pmusd","min":0.01,"max":100000},"27":{"course":256259.46121776,"url":"\/exchange\/btc-to-qiwi","min":0.05,"max":100},"7":{"course":12465.1946839,"url":"\/exchange\/btc-to-ripple","min":0.02,"max":1000},"17":{"course":99969.084591314,"url":"\/exchange\/btc-to-visauah","min":0.02,"max":100},"9":{"course":73.023654246292,"url":"\/exchange\/btc-to-zec","min":0.02,"max":10},"33":{"course":100928.40912,"url":"\/exchange\/btc-to-monobank","min":0.03,"max":1},"14":{"course":103806.28177765,"url":"\/exchange\/btc-to-privat24","min":0.05023,"max":100}},"2":{"21":{"course":118.23392943337,"url":"\/exchange\/eth-to-adveur","min":0.4,"max":1000},"20":{"course":139.111312896,"url":"\/exchange\/eth-to-advusd","min":0.4,"max":1000},"1":{"course":0.034160650228585,"url":"\/exchange\/eth-to-btc","min":0.7,"max":10000},"13":{"course":1.4569,"url":"\/exchange\/eth-to-dash","min":0.2,"max":100},"10":{"course":30.888217300909,"url":"\/exchange\/eth-to-etc","min":0.2,"max":100},"12":{"course":2.2851,"url":"\/exchange\/eth-to-ltc","min":0.2,"max":100},"8":{"course":2.539075446182,"url":"\/exchange\/eth-to-xmr","min":0.2,"max":100},"23":{"course":122.0544977505,"url":"\/exchange\/eth-to-pmeur","min":0.2,"max":100},"22":{"course":140.188886784,"url":"\/exchange\/eth-to-pmusd","min":0.2,"max":100},"27":{"course":8832.92433504,"url":"\/exchange\/eth-to-qiwi","min":2,"max":100},"7":{"course":428.29866501667,"url":"\/exchange\/eth-to-ripple","min":0.2,"max":100},"17":{"course":3444.6472805088,"url":"\/exchange\/eth-to-visauah","min":0.2,"max":100},"9":{"course":2.518144,"url":"\/exchange\/eth-to-zec","min":0.2,"max":100},"33":{"course":3425.4490368,"url":"\/exchange\/eth-to-monobank","min":1,"max":25},"14":{"course":3535.522076,"url":"\/exchange\/eth-to-privat24","min":1.4878,"max":100}},"7":{"21":{"course":0.26977934863107,"url":"\/exchange\/ripple-to-adveur","min":100,"max":100000},"20":{"course":0.31153807896046,"url":"\/exchange\/ripple-to-advusd","min":500,"max":150000},"1":{"course":7.6329940816e-5,"url":"\/exchange\/ripple-to-btc","min":500,"max":100000},"13":{"course":0.003319276102458,"url":"\/exchange\/ripple-to-dash","min":200,"max":15000},"2":{"course":0.002255241202569,"url":"\/exchange\/ripple-to-eth","min":250,"max":15000},"10":{"course":0.068415256332446,"url":"\/exchange\/ripple-to-etc","min":100,"max":15000},"12":{"course":0.005055606617182,"url":"\/exchange\/ripple-to-ltc","min":150,"max":15000},"8":{"course":0.005797984800289,"url":"\/exchange\/ripple-to-xmr","min":100,"max":15000},"23":{"course":0.26932722100592,"url":"\/exchange\/ripple-to-pmeur","min":100,"max":15000},"22":{"course":0.3196639839839,"url":"\/exchange\/ripple-to-pmusd","min":100,"max":15000},"27":{"course":20.146301,"url":"\/exchange\/ripple-to-qiwi","min":10000,"max":15000},"17":{"course":7.8277215404168,"url":"\/exchange\/ripple-to-visauah","min":100,"max":15000},"33":{"course":7.8068,"url":"\/exchange\/ripple-to-monobank","min":200,"max":1500},"14":{"course":8.050408,"url":"\/exchange\/ripple-to-privat24","min":556.78667,"max":15000}},"8":{"21":{"course":43.9207494,"url":"\/exchange\/xmr-to-adveur","min":0.3,"max":100000},"20":{"course":51.173043178562,"url":"\/exchange\/xmr-to-advusd","min":0.8,"max":100000},"1":{"course":0.01273666507023,"url":"\/exchange\/xmr-to-btc","min":2,"max":100000},"2":{"course":0.37044746378855,"url":"\/exchange\/xmr-to-eth","min":1,"max":100},"10":{"course":11.46028,"url":"\/exchange\/xmr-to-etc","min":1,"max":100},"12":{"course":0.83691939822675,"url":"\/exchange\/xmr-to-ltc","min":1,"max":100},"23":{"course":44.739875216482,"url":"\/exchange\/xmr-to-pmeur","min":1,"max":100},"22":{"course":52.138572295139,"url":"\/exchange\/xmr-to-pmusd","min":1,"max":100},"27":{"course":3294.8681103178,"url":"\/exchange\/xmr-to-qiwi","min":5,"max":100},"7":{"course":156.0476503348,"url":"\/exchange\/xmr-to-ripple","min":1,"max":100},"17":{"course":1284.4916602378,"url":"\/exchange\/xmr-to-visauah","min":1,"max":100},"9":{"course":0.93595907999235,"url":"\/exchange\/xmr-to-zec","min":1,"max":100},"33":{"course":1284.8795,"url":"\/exchange\/xmr-to-monobank","min":2,"max":100},"14":{"course":1311.3909,"url":"\/exchange\/xmr-to-privat24","min":4.09482,"max":100}},"9":{"21":{"course":45.614516962221,"url":"\/exchange\/zec-to-adveur","min":1,"max":100000},"20":{"course":53.172052940836,"url":"\/exchange\/zec-to-advusd","min":1,"max":100000},"1":{"course":0.013144795855834,"url":"\/exchange\/zec-to-btc","min":1,"max":100000},"13":{"course":0.54823208857238,"url":"\/exchange\/zec-to-dash","min":0.5,"max":300},"10":{"course":11.557660755624,"url":"\/exchange\/zec-to-etc","min":0.5,"max":300},"12":{"course":0.85785365016728,"url":"\/exchange\/zec-to-ltc","min":0.5,"max":300},"8":{"course":0.98193140992282,"url":"\/exchange\/zec-to-xmr","min":0.5,"max":300},"23":{"course":47.178308168579,"url":"\/exchange\/zec-to-pmeur","min":0.5,"max":300},"22":{"course":53.836619786711,"url":"\/exchange\/zec-to-pmusd","min":0.5,"max":300},"27":{"course":3407.7322714185,"url":"\/exchange\/zec-to-qiwi","min":5,"max":300},"7":{"course":160.88949377388,"url":"\/exchange\/zec-to-ripple","min":0.5,"max":300},"17":{"course":1332.9885817716,"url":"\/exchange\/zec-to-visauah","min":0.5,"max":300},"33":{"course":1308.0493400247,"url":"\/exchange\/zec-to-monobank","min":2.5,"max":100},"14":{"course":1350.3699,"url":"\/exchange\/zec-to-privat24","min":3.38824,"max":300}},"10":{"21":{"course":3.7110546,"url":"\/exchange\/etc-to-adveur","min":7,"max":10000},"20":{"course":4.3696515327474,"url":"\/exchange\/etc-to-advusd","min":7,"max":10000},"1":{"course":0.00105448452629,"url":"\/exchange\/etc-to-btc","min":50,"max":10000},"13":{"course":0.044886112573921,"url":"\/exchange\/etc-to-dash","min":5,"max":100},"2":{"course":0.031363242643352,"url":"\/exchange\/etc-to-eth","min":5,"max":100},"12":{"course":0.070363464704405,"url":"\/exchange\/etc-to-ltc","min":5,"max":100},"8":{"course":0.080711387810299,"url":"\/exchange\/etc-to-xmr","min":5,"max":100},"23":{"course":3.7665991798477,"url":"\/exchange\/etc-to-pmeur","min":5,"max":100},"22":{"course":4.3631003310492,"url":"\/exchange\/etc-to-pmusd","min":5,"max":100},"27":{"course":277.230401,"url":"\/exchange\/etc-to-qiwi","min":50,"max":100},"7":{"course":13.224563544211,"url":"\/exchange\/etc-to-ripple","min":5,"max":100},"17":{"course":109.21168086671,"url":"\/exchange\/etc-to-visauah","min":5,"max":100},"9":{"course":0.07828244174078,"url":"\/exchange\/etc-to-zec","min":5,"max":100},"33":{"course":105.27842355307,"url":"\/exchange\/etc-to-monobank","min":11,"max":100},"14":{"course":110.769,"url":"\/exchange\/etc-to-privat24","min":42.9971,"max":100}},"12":{"21":{"course":50.927288871315,"url":"\/exchange\/ltc-to-adveur","min":0.5,"max":10000},"20":{"course":59.774976,"url":"\/exchange\/ltc-to-advusd","min":0.5,"max":10000},"1":{"course":0.014703825139853,"url":"\/exchange\/ltc-to-btc","min":2,"max":99999},"13":{"course":0.61770376039518,"url":"\/exchange\/ltc-to-dash","min":0.8,"max":100},"2":{"course":0.42599375194112,"url":"\/exchange\/ltc-to-eth","min":0.8,"max":100},"10":{"course":12.858404692873,"url":"\/exchange\/ltc-to-etc","min":0.8,"max":100},"8":{"course":0.91538059181049,"url":"\/exchange\/ltc-to-xmr","min":0.8,"max":100},"23":{"course":51.807030905561,"url":"\/exchange\/ltc-to-pmeur","min":0.8,"max":100},"22":{"course":60.268119552,"url":"\/exchange\/ltc-to-pmusd","min":0.8,"max":100},"27":{"course":3815.32879104,"url":"\/exchange\/ltc-to-qiwi","min":5,"max":100},"7":{"course":180.73980492,"url":"\/exchange\/ltc-to-ripple","min":0.8,"max":100},"17":{"course":1480.8764009664,"url":"\/exchange\/ltc-to-visauah","min":0.8,"max":100},"33":{"course":1472.6229504,"url":"\/exchange\/ltc-to-monobank","min":7,"max":100},"14":{"course":1520.754461,"url":"\/exchange\/ltc-to-privat24","min":5.84788,"max":100}},"13":{"21":{"course":79.86381195,"url":"\/exchange\/dash-to-adveur","min":0.3,"max":10000},"20":{"course":92.693919399594,"url":"\/exchange\/dash-to-advusd","min":0.3,"max":100000},"1":{"course":0.022902270990837,"url":"\/exchange\/dash-to-btc","min":0.5,"max":1000000},"2":{"course":0.66611535725976,"url":"\/exchange\/dash-to-eth","min":0.2,"max":100},"10":{"course":20.55296445,"url":"\/exchange\/dash-to-etc","min":0.2,"max":100},"12":{"course":1.516302,"url":"\/exchange\/dash-to-ltc","min":0.2,"max":100},"8":{"course":1.708230319423,"url":"\/exchange\/dash-to-xmr","min":0.2,"max":100},"23":{"course":81.2277936,"url":"\/exchange\/dash-to-pmeur","min":0.2,"max":100},"22":{"course":93.419947520268,"url":"\/exchange\/dash-to-pmusd","min":0.2,"max":100},"27":{"course":5912.4859803946,"url":"\/exchange\/dash-to-qiwi","min":3,"max":100},"7":{"course":280.59608166,"url":"\/exchange\/dash-to-ripple","min":0.2,"max":100},"17":{"course":2304.9599191262,"url":"\/exchange\/dash-to-visauah","min":0.2,"max":100},"9":{"course":1.682982819139,"url":"\/exchange\/dash-to-zec","min":0.2,"max":100},"33":{"course":2303.8080151186,"url":"\/exchange\/dash-to-monobank","min":16,"max":100},"14":{"course":2345.0247,"url":"\/exchange\/dash-to-privat24","min":2.58842,"max":100}},"14":{"21":{"course":0.032508748917052,"url":"\/exchange\/privat24-to-adveur","min":2500,"max":300000},"20":{"course":0.037776833356944,"url":"\/exchange\/privat24-to-advusd","min":2500,"max":300000},"1":{"course":9.306057738e-6,"url":"\/exchange\/privat24-to-btc","min":5000,"max":290000},"13":{"course":0.000397929906975,"url":"\/exchange\/privat24-to-dash","min":2500,"max":300000},"2":{"course":0.000267898137119,"url":"\/exchange\/privat24-to-eth","min":2500,"max":300000},"10":{"course":0.008439381190814,"url":"\/exchange\/privat24-to-etc","min":2500,"max":300000},"12":{"course":0.000623154362429,"url":"\/exchange\/privat24-to-ltc","min":2500,"max":300000},"8":{"course":0.000712621554809,"url":"\/exchange\/privat24-to-xmr","min":2500,"max":300000},"23":{"course":0.032837120118235,"url":"\/exchange\/privat24-to-pmeur","min":2500,"max":300000},"22":{"course":0.03860839887109,"url":"\/exchange\/privat24-to-pmusd","min":2000,"max":300000},"27":{"course":2.418047882136,"url":"\/exchange\/privat24-to-qiwi","min":5000,"max":300000},"7":{"course":0.11693778826075,"url":"\/exchange\/privat24-to-ripple","min":2500,"max":300000},"9":{"course":0.000692300559944,"url":"\/exchange\/privat24-to-zec","min":2500,"max":300000}},"15":{"21":{"course":0.008928571429,"url":"\/exchange\/sberbank-to-adveur","min":15000,"max":250000},"20":{"course":0.014751460025756,"url":"\/exchange\/sberbank-to-advusd","min":15000,"max":250000},"1":{"course":3.619374375e-6,"url":"\/exchange\/sberbank-to-btc","min":15000,"max":250000},"13":{"course":0.000155391309284,"url":"\/exchange\/sberbank-to-dash","min":15000,"max":250000},"2":{"course":0.000104509435102,"url":"\/exchange\/sberbank-to-eth","min":15000,"max":250000},"10":{"course":0.003296333675632,"url":"\/exchange\/sberbank-to-etc","min":15000,"max":250000},"12":{"course":0.000240826089584,"url":"\/exchange\/sberbank-to-ltc","min":15000,"max":250000},"8":{"course":0.000276236398081,"url":"\/exchange\/sberbank-to-xmr","min":15000,"max":250000},"23":{"course":0.012344231232139,"url":"\/exchange\/sberbank-to-pmeur","min":15000,"max":250000},"22":{"course":0.013986013986014,"url":"\/exchange\/sberbank-to-pmusd","min":15000,"max":250000},"7":{"course":0.045329071525812,"url":"\/exchange\/sberbank-to-ripple","min":15000,"max":250000},"9":{"course":0.00026835928801,"url":"\/exchange\/sberbank-to-zec","min":15000,"max":250000}},"17":{"21":{"course":0.031419962358885,"url":"\/exchange\/visauah-to-adveur","min":10000,"max":100000},"20":{"course":0.036467735171307,"url":"\/exchange\/visauah-to-advusd","min":10000,"max":100000},"1":{"course":8.738946579e-6,"url":"\/exchange\/visauah-to-btc","min":10000,"max":100000},"13":{"course":0.000375190905848,"url":"\/exchange\/visauah-to-dash","min":10000,"max":100000},"2":{"course":0.000252337082469,"url":"\/exchange\/visauah-to-eth","min":10000,"max":100000},"10":{"course":0.007958967740445,"url":"\/exchange\/visauah-to-etc","min":10000,"max":100000},"12":{"course":0.000586957996178,"url":"\/exchange\/visauah-to-ltc","min":10000,"max":100000},"8":{"course":0.000673262448306,"url":"\/exchange\/visauah-to-xmr","min":10000,"max":100000},"23":{"course":0.03173289087385,"url":"\/exchange\/visauah-to-pmeur","min":10000,"max":100000},"22":{"course":0.036288091155685,"url":"\/exchange\/visauah-to-pmusd","min":10000,"max":100000},"7":{"course":0.10943689105582,"url":"\/exchange\/visauah-to-ripple","min":10000,"max":100000},"9":{"course":0.000654765474793,"url":"\/exchange\/visauah-to-zec","min":10000,"max":100000}},"33":{"21":{"course":0.030960713254336,"url":"\/exchange\/monobank-to-adveur","min":1500,"max":15000},"20":{"course":0.035078488117162,"url":"\/exchange\/monobank-to-advusd","min":1200,"max":15000},"1":{"course":8.738946579e-6,"url":"\/exchange\/monobank-to-btc","min":1700,"max":15000},"13":{"course":0.000375190905848,"url":"\/exchange\/monobank-to-dash","min":1500,"max":15000},"2":{"course":0.000252337082469,"url":"\/exchange\/monobank-to-eth","min":1500,"max":15000},"10":{"course":0.007958967740445,"url":"\/exchange\/monobank-to-etc","min":1500,"max":15000},"12":{"course":0.000586957996178,"url":"\/exchange\/monobank-to-ltc","min":1500,"max":15000},"8":{"course":0.000679736125693,"url":"\/exchange\/monobank-to-xmr","min":1500,"max":15000},"23":{"course":0.030960713254336,"url":"\/exchange\/monobank-to-pmeur","min":1500,"max":15000},"22":{"course":0.035078488117162,"url":"\/exchange\/monobank-to-pmusd","min":1500,"max":15000},"7":{"course":0.11154144665306,"url":"\/exchange\/monobank-to-ripple","min":1500,"max":15000},"9":{"course":0.000660352886124,"url":"\/exchange\/monobank-to-zec","min":1500,"max":15000}},"20":{"21":{"course":0.8738737951465,"url":"\/exchange\/advusd-to-adveur","min":200,"max":100000},"1":{"course":0.000241965775059,"url":"\/exchange\/advusd-to-btc","min":300,"max":5000},"13":{"course":0.010355869085246,"url":"\/exchange\/advusd-to-dash","min":100,"max":10000},"2":{"course":0.006935825372764,"url":"\/exchange\/advusd-to-eth","min":100,"max":10000},"10":{"course":0.21691149564791,"url":"\/exchange\/advusd-to-etc","min":100,"max":10000},"12":{"course":0.016478024864845,"url":"\/exchange\/advusd-to-ltc","min":100,"max":10000},"8":{"course":0.01874024564639,"url":"\/exchange\/advusd-to-xmr","min":100,"max":10000},"23":{"course":0.8738737951465,"url":"\/exchange\/advusd-to-pmeur","min":100,"max":10000},"22":{"course":1.005,"url":"\/exchange\/advusd-to-pmusd","min":100,"max":10000},"27":{"course":61.75,"url":"\/exchange\/advusd-to-qiwi","min":100,"max":10000},"7":{"course":3.0702,"url":"\/exchange\/advusd-to-ripple","min":200,"max":5000},"17":{"course":24.978,"url":"\/exchange\/advusd-to-visauah","min":100,"max":10000},"9":{"course":0.018135260023358,"url":"\/exchange\/advusd-to-zec","min":100,"max":20000},"33":{"course":24.978,"url":"\/exchange\/advusd-to-monobank","min":70,"max":5000},"14":{"course":25.615251225,"url":"\/exchange\/advusd-to-privat24","min":188,"max":10000}},"21":{"20":{"course":1.11034,"url":"\/exchange\/adveur-to-advusd","min":50,"max":10000},"1":{"course":0.000269427503591,"url":"\/exchange\/adveur-to-btc","min":300,"max":20000},"13":{"course":0.011443792972221,"url":"\/exchange\/adveur-to-dash","min":50,"max":20000},"2":{"course":0.007696597348121,"url":"\/exchange\/adveur-to-eth","min":50,"max":20000},"10":{"course":0.24048972257419,"url":"\/exchange\/adveur-to-etc","min":100,"max":10000},"12":{"course":0.017902954701065,"url":"\/exchange\/adveur-to-ltc","min":50,"max":10000},"8":{"course":0.020535348683279,"url":"\/exchange\/adveur-to-xmr","min":70,"max":10000},"23":{"course":0.98001744431051,"url":"\/exchange\/adveur-to-pmeur","min":50,"max":10000},"22":{"course":1.116005,"url":"\/exchange\/adveur-to-pmusd","min":30,"max":10000},"27":{"course":71.067425,"url":"\/exchange\/adveur-to-qiwi","min":70,"max":10000},"7":{"course":3.3630163511901,"url":"\/exchange\/adveur-to-ripple","min":200,"max":50000},"17":{"course":27.684855,"url":"\/exchange\/adveur-to-visauah","min":50,"max":10000},"9":{"course":0.019949766178352,"url":"\/exchange\/adveur-to-zec","min":100,"max":10000},"33":{"course":27.684855,"url":"\/exchange\/adveur-to-monobank","min":60,"max":4000},"14":{"course":28.00646073225,"url":"\/exchange\/adveur-to-privat24","min":163,"max":10000}},"22":{"21":{"course":0.85690537193978,"url":"\/exchange\/pmusd-to-adveur","min":100,"max":5000},"20":{"course":0.97560975609756,"url":"\/exchange\/pmusd-to-advusd","min":100,"max":5000},"1":{"course":0.000232827588412,"url":"\/exchange\/pmusd-to-btc","min":300,"max":5000},"13":{"course":0.010006038513709,"url":"\/exchange\/pmusd-to-dash","min":100,"max":5000},"2":{"course":0.006805688739566,"url":"\/exchange\/pmusd-to-eth","min":100,"max":5000},"10":{"course":0.21426168891603,"url":"\/exchange\/pmusd-to-etc","min":100,"max":5000},"12":{"course":0.016159605188526,"url":"\/exchange\/pmusd-to-ltc","min":100,"max":5000},"8":{"course":0.017937410509417,"url":"\/exchange\/pmusd-to-xmr","min":100,"max":5000},"23":{"course":0.86615557713245,"url":"\/exchange\/pmusd-to-pmeur","min":100,"max":5000},"22":{"course":0.975609756,"url":"\/exchange\/pmusd-to-pmusd","min":100,"max":5000},"27":{"course":62.4,"url":"\/exchange\/pmusd-to-qiwi","min":100,"max":5000},"7":{"course":2.9936034,"url":"\/exchange\/pmusd-to-ripple","min":100,"max":5000},"17":{"course":24.435,"url":"\/exchange\/pmusd-to-visauah","min":100,"max":5000},"9":{"course":0.017425910366907,"url":"\/exchange\/pmusd-to-zec","min":100,"max":5000},"33":{"course":24.435,"url":"\/exchange\/pmusd-to-monobank","min":70,"max":5000},"14":{"course":25.26212475,"url":"\/exchange\/pmusd-to-privat24","min":250,"max":5000}},"23":{"21":{"course":0.96153846153754,"url":"\/exchange\/pmeur-to-adveur","min":70,"max":10000},"20":{"course":1.0501,"url":"\/exchange\/pmeur-to-advusd","min":70,"max":10000},"1":{"course":0.000264057715386,"url":"\/exchange\/pmeur-to-btc","min":300,"max":20000},"8":{"course":0.020097432352043,"url":"\/exchange\/pmeur-to-xmr","min":70,"max":10000},"22":{"course":1.104675,"url":"\/exchange\/pmeur-to-pmusd","min":70,"max":10000},"27":{"course":69.594525,"url":"\/exchange\/pmeur-to-qiwi","min":70,"max":10000},"7":{"course":3.331586291833,"url":"\/exchange\/pmeur-to-ripple","min":70,"max":10000},"17":{"course":27.684855,"url":"\/exchange\/pmeur-to-visauah","min":70,"max":10000},"33":{"course":26.66690379,"url":"\/exchange\/pmeur-to-monobank","min":60,"max":3000},"14":{"course":27.509371,"url":"\/exchange\/pmeur-to-privat24","min":185,"max":10000}},"27":{"21":{"course":0.012494161166133,"url":"\/exchange\/qiwi-to-adveur","min":15000,"max":150000},"20":{"course":0.014021066652646,"url":"\/exchange\/qiwi-to-advusd","min":15000,"max":150000},"1":{"course":3.526592107e-6,"url":"\/exchange\/qiwi-to-btc","min":15000,"max":150000},"13":{"course":0.000151407869942,"url":"\/exchange\/qiwi-to-dash","min":15000,"max":150000},"2":{"course":0.000101830347081,"url":"\/exchange\/qiwi-to-eth","min":15000,"max":150000},"10":{"course":0.003211832519758,"url":"\/exchange\/qiwi-to-etc","min":15000,"max":150000},"12":{"course":0.000236866242123,"url":"\/exchange\/qiwi-to-ltc","min":15000,"max":150000},"8":{"course":0.000271694307141,"url":"\/exchange\/qiwi-to-xmr","min":15000,"max":150000},"23":{"course":0.01273914471841,"url":"\/exchange\/qiwi-to-pmeur","min":15000,"max":150000},"22":{"course":0.014433450965959,"url":"\/exchange\/qiwi-to-pmusd","min":15000,"max":150000},"7":{"course":0.044583736130002,"url":"\/exchange\/qiwi-to-ripple","min":15000,"max":150000},"17":{"course":0.35973500184026,"url":"\/exchange\/qiwi-to-visauah","min":8000,"max":150000},"9":{"course":0.000263946718561,"url":"\/exchange\/qiwi-to-zec","min":15000,"max":150000},"33":{"course":0.36373205741621,"url":"\/exchange\/qiwi-to-monobank","min":15000,"max":150000},"14":{"course":0.36772911299227,"url":"\/exchange\/qiwi-to-privat24","min":15000,"max":150000}}},"order":{"1":["21","20","1","13","2","10","12","8","23","22","27","7","17","9","33","14"],"2":["21","20","1","13","10","12","8","23","22","27","7","17","9","33","14"],"7":["21","20","1","13","2","10","12","8","23","22","27","17","33","14"],"8":["21","20","1","2","10","12","23","22","27","7","17","9","33","14"],"9":["21","20","1","13","10","12","8","23","22","27","7","17","33","14"],"10":["21","20","1","13","2","12","8","23","22","27","7","17","9","33","14"],"12":["21","20","1","13","2","10","8","23","22","27","7","17","33","14"],"13":["21","20","1","2","10","12","8","23","22","27","7","17","9","33","14"],"14":["21","20","1","13","2","10","12","8","23","22","27","7","9"],"15":["21","20","1","13","2","10","12","8","23","22","7","9"],"17":["21","20","1","13","2","10","12","8","23","22","7","9"],"33":["21","20","1","13","2","10","12","8","23","22","7","9"],"20":["21","1","13","2","10","12","8","23","22","27","7","17","9","33","14"],"21":["20","1","13","2","10","12","8","23","22","27","7","17","9","33","14"],"22":["21","20","1","13","2","10","12","8","23","22","27","7","17","9","33","14"],"23":["21","20","1","8","22","27","7","17","33","14"],"27":["21","20","1","13","2","10","12","8","23","22","7","17","9","33","14"]},"from":{"1":{"title":"Bitcoin","currency":"BTC","reserve":49.18971,"icon":"si-bitcoin","decimal":4},"2":{"title":"Ethereum","currency":"ETH","reserve":317.66154,"icon":"si-ethereum","decimal":4},"7":{"title":"Ripple","currency":"XRP","reserve":25231.6295,"icon":"si-ripple","decimal":2},"8":{"title":"Monero","currency":"XMR","reserve":982.28923,"icon":"si-monero","decimal":4},"9":{"title":"Zcash","currency":"ZEC","reserve":226.01513,"icon":"si-z-cash","decimal":4},"10":{"title":"Ethereum Classic","currency":"ETC","reserve":1076.92507,"icon":"si-ethereum-classic","decimal":4},"12":{"title":"Litecoin","currency":"LTC","reserve":332.0734,"icon":"si-litecoin","decimal":4},"13":{"title":"Dash","currency":"DASH","reserve":385.21289,"icon":"si-dash","decimal":4},"14":{"title":"\u041f\u0440\u0438\u0432\u0430\u0442 24 ","currency":"UAH","reserve":402364.40676,"icon":"si-privat-bank","decimal":2},"15":{"title":"\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a RUB","currency":"RUB","reserve":15000,"icon":"si-sber-bank","decimal":2},"17":{"title":"Visa\/MC UAH","currency":"UAH","reserve":749047.37023,"icon":"si-visa-master-card","decimal":2},"33":{"title":"\u041c\u043e\u043d\u043e\u0431\u0430\u043d\u043a","currency":"UAH","reserve":523553.29046,"icon":"si-mono-bank","decimal":2},"20":{"title":"AdvCash USD","currency":"USD","reserve":2942.58,"icon":"si-adv-cash","decimal":2},"21":{"title":"AdvCash EUR","currency":"EUR","reserve":5798.73738,"icon":"si-adv-cash","decimal":2},"22":{"title":"Perfect Money USD","currency":"USD","reserve":15813.45853,"icon":"si-perfect-money","decimal":2},"23":{"title":"Perfect Money EUR","currency":"EUR","reserve":470,"icon":"si-perfect-money","decimal":2},"27":{"title":"Qiwi RUB","currency":"RUB","reserve":693951.82026,"icon":"si-qiwi","decimal":2}},"to":{"21":{"title":"AdvCash EUR","currency":"EUR","reserve":5798.73738,"icon":"si-adv-cash","decimal":2},"20":{"title":"AdvCash USD","currency":"USD","reserve":2942.58,"icon":"si-adv-cash","decimal":2},"1":{"title":"Bitcoin","currency":"BTC","reserve":49.18971,"icon":"si-bitcoin","decimal":4},"13":{"title":"Dash","currency":"DASH","reserve":385.21289,"icon":"si-dash","decimal":4},"2":{"title":"Ethereum","currency":"ETH","reserve":317.66154,"icon":"si-ethereum","decimal":4},"10":{"title":"Ethereum Classic","currency":"ETC","reserve":1076.92507,"icon":"si-ethereum-classic","decimal":4},"12":{"title":"Litecoin","currency":"LTC","reserve":332.0734,"icon":"si-litecoin","decimal":4},"8":{"title":"Monero","currency":"XMR","reserve":982.28923,"icon":"si-monero","decimal":4},"23":{"title":"Perfect Money EUR","currency":"EUR","reserve":470,"icon":"si-perfect-money","decimal":2},"22":{"title":"Perfect Money USD","currency":"USD","reserve":15813.45853,"icon":"si-perfect-money","decimal":2},"27":{"title":"Qiwi RUB","currency":"RUB","reserve":693951.82026,"icon":"si-qiwi","decimal":2},"7":{"title":"Ripple","currency":"XRP","reserve":25231.6295,"icon":"si-ripple","decimal":2},"17":{"title":"Visa\/MC UAH","currency":"UAH","reserve":749047.37023,"icon":"si-visa-master-card","decimal":2},"9":{"title":"Zcash","currency":"ZEC","reserve":226.01513,"icon":"si-z-cash","decimal":4},"33":{"title":"\u041c\u043e\u043d\u043e\u0431\u0430\u043d\u043a","currency":"UAH","reserve":523553.29046,"icon":"si-mono-bank","decimal":2},"14":{"title":"\u041f\u0440\u0438\u0432\u0430\u0442 24 ","currency":"UAH","reserve":402364.40676,"icon":"si-privat-bank","decimal":2}},"active":{"from":"1","to":"21"},"user_discount":null,"max_user_discount":0.0015};</script></head>
+<body>
+<div id="body">
+    <header id="header">
+        <div class="top-header">
+    <div class="container">
+        <div class="flex-columns">
+            <div class="flex-column logo-column">
+                <a class="header-logo" href="/"><img class="ex-logo" src="/image/cryptobox.png" srcset="/image/cryptobox@2x.png 2x" width="172" height="35" alt="CryptoBox - электронный обмен валют"></a>            </div>
+            <div class="flex-column menu-column">
+                <ul id="header-nav-menu" class="horizontal-nav top-nav no-style "><li class="nav-el"><a class="nav-link" href="/article/faq">FAQ</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/contacts">Поддержка</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/security">Безопасность</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/partners">Партнеры</a></li></ul>            </div>
+            <div class="flex-column login-column">
+                <span class="bl-icon bl-user-circle"></span>
+<button type="button" class="login-button" data-toggle="modal" data-target="#login-modal">Войти</button>
+или
+<button type="button" class="btn btn-brand" data-toggle="modal" data-target="#register-modal">Зарегистрируйтесь</button>            </div>
+        </div>
+    </div>
+</div>
+<div class="middle-header mr-top">
+    <div class="container">
+        <div class="flex-columns">
+            <script>var warningList = []</script>
+<div class="flex-column br-box hd-news">
+    <div class="br-title clearfix">
+        <span class="br-icon br-i-news"></span> Новости
+        <a class="btn btn-brand btn-xs pull-right" href="/news">Еще</a>    </div>
+    <div class="br-body">
+                    <div class="hd-news-item">
+                <span class="hd-news-date">26.05.2018</span>
+                <p class="hd-news-text no-style">
+                    Мы не проводим обменные операции через телеграм и чат поддержки! Все обмены исключительно через наш сайт и создание заявки.                    <a class="hd-news-more" href="/news">Читать далее</a>                </p>
+            </div>
+                    </div>
+</div>            <div class="flex-column br-box hd-top">
+    <div class="br-title"><span class="br-icon br-i-star"></span> Top</div>
+    <div class="br-body">
+        <ul class="hd-top-list no-style">
+                            <li class="hd-top-el">
+                    <span class="hd-el-name"><span class="si si-bitcoin"></span> Bitcoin</span> <span class="hd-el-arrow"><span class="bl-icon bl-a-g-right"></span></span> <span
+                        class="hd-el-name"><span class="si si-privat-bank"></span> Приват 24 </span>                            <a class="hd-el-link" href="/exchange/btc-to-privat24"><span class="bl-icon bl-arrow-go"></span></a>                </li>
+                            <li class="hd-top-el">
+                    <span class="hd-el-name"><span class="si si-privat-bank"></span> Приват 24 </span> <span class="hd-el-arrow"><span class="bl-icon bl-a-g-right"></span></span> <span
+                        class="hd-el-name"><span class="si si-ripple"></span> Ripple</span>                            <a class="hd-el-link" href="/exchange/privat24-to-ripple"><span class="bl-icon bl-arrow-go"></span></a>                </li>
+                            <li class="hd-top-el">
+                    <span class="hd-el-name"><span class="si si-ethereum"></span> Ethereum</span> <span class="hd-el-arrow"><span class="bl-icon bl-a-g-right"></span></span> <span
+                        class="hd-el-name"><span class="si si-privat-bank"></span> Приват 24 </span>                            <a class="hd-el-link" href="/exchange/eth-to-privat24"><span class="bl-icon bl-arrow-go"></span></a>                </li>
+                                </ul>
+    </div>
+</div>
+            <div class="flex-column br-box hd-clock">
+    <div class="br-title"><span class="br-icon br-i-clock"></span> График работы</div>
+    <div class="br-body">
+        <p class="no-style">
+            <span class="clock-top">Круглосуточно</span><br>
+<span class="clock-phones">+38(073) 430-41-07</span><br>
+<span class="clock-bottom">Перерыв 3:00-8:00</span>        </p>
+        <div class="no-style operator-online">
+            <span class="op-online"></span>
+            Операторов онлайн: 1
+        </div>
+    </div>
+</div>        </div>
+    </div>
+</div>
+    </header>
+    <div id="content" class="mr-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-push-4"><div id="main"><div class="br-box exchange-table-box" id="exchange-table-box">
+    <div class="br-body">
+        <div class="exchange-header-fake" data-affix-fake style="display: none;"></div>
+        <div class="exchange-header" data-affix>
+            <div class="exchange-name flex-columns">
+                <div class="flex-column text-right" data-direction-from>
+                    <span class="si si-bitcoin"></span>                    <span class="exchange-title">Bitcoin</span>                </div>
+                <div class="flex-column exchange-arrows">
+                    <span class="bl-icon bl-arrows-circle"></span>
+                </div>
+                <div class="flex-column text-left"  data-direction-to>
+                    <span class="si si-adv-cash"></span>                    <span class="exchange-title">AdvCash EUR</span>                </div>
+            </div>
+            <div class="exchange-property"><div class="exchange-rate-wrap">
+                                        Курс обмена: <b data-direction-course>1&nbsp;BTC = 3&nbsp;489,1819&nbsp;EUR</b>
+                                                                <div class="bonus-description">
+                            Максимальный курс <span class="bonus-description-course" data-direction-max-course>3&nbsp;494,4157&nbsp;EUR</span>
+                            <a href="/article/exchange-bonus" target="_blank">как получить?</a>                        </div>
+                                    </div></div>
+            <div class="exchange-property">Резерв направления: <b data-direction-reserve>5&nbsp;798,74&nbsp;EUR</b></div>
+            <div class="buttons exchange-buttons">
+                <a class="btn btn-brand" href="/exchange/btc-to-adveur" data-direction-link>Начать обмен</a>            </div>
+        </div>
+        <div class="exchange-table flex-columns">
+            <div class="exchange-table-left flex-column">
+                <div class="exchange-column-title">Отдаёте</div>
+                <div class="exchange-column">
+                    <button class="exchange-tbl-item active" data-exchange-button="from" data-sid="1"><span class="si si-bitcoin"></span> <span class="exchange-name">Bitcoin</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="2"><span class="si si-ethereum"></span> <span class="exchange-name">Ethereum</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="7"><span class="si si-ripple"></span> <span class="exchange-name">Ripple</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="8"><span class="si si-monero"></span> <span class="exchange-name">Monero</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="9"><span class="si si-z-cash"></span> <span class="exchange-name">Zcash</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="10"><span class="si si-ethereum-classic"></span> <span class="exchange-name">Ethereum Classic</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="12"><span class="si si-litecoin"></span> <span class="exchange-name">Litecoin</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="13"><span class="si si-dash"></span> <span class="exchange-name">Dash</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="14"><span class="si si-privat-bank"></span> <span class="exchange-name">Приват 24 </span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="15"><span class="si si-sber-bank"></span> <span class="exchange-name">Сбербанк RUB</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="17"><span class="si si-visa-master-card"></span> <span class="exchange-name">Visa/MC UAH</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="33"><span class="si si-mono-bank"></span> <span class="exchange-name">Монобанк</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="20"><span class="si si-adv-cash"></span> <span class="exchange-name">AdvCash USD</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="21"><span class="si si-adv-cash"></span> <span class="exchange-name">AdvCash EUR</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="22"><span class="si si-perfect-money"></span> <span class="exchange-name">Perfect Money USD</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="23"><span class="si si-perfect-money"></span> <span class="exchange-name">Perfect Money EUR</span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="from" data-sid="27"><span class="si si-qiwi"></span> <span class="exchange-name">Qiwi RUB</span> <span class="bl-icon bl-checkbox-circle"></span></button>                </div>
+            </div>
+            <div class="exchange-table-right flex-column">
+                <div class="exchange-column-title">Получите <small>Резервы валют</small></div>
+                <div class="exchange-column" data-exchange-right-wrap>
+                    <button class="exchange-tbl-item active" data-exchange-button="to" data-sid="21"><span class="si si-adv-cash"></span> <span class="exchange-name">AdvCash EUR</span> <span class="exchange-reserve">5&nbsp;798,74&nbsp;<i>EUR</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="20"><span class="si si-adv-cash"></span> <span class="exchange-name">AdvCash USD</span> <span class="exchange-reserve">2&nbsp;942,58&nbsp;<i>USD</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="1"><span class="si si-bitcoin"></span> <span class="exchange-name">Bitcoin</span> <span class="exchange-reserve">49,1897&nbsp;<i>BTC</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="13"><span class="si si-dash"></span> <span class="exchange-name">Dash</span> <span class="exchange-reserve">385,2129&nbsp;<i>DASH</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="2"><span class="si si-ethereum"></span> <span class="exchange-name">Ethereum</span> <span class="exchange-reserve">317,6615&nbsp;<i>ETH</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="10"><span class="si si-ethereum-classic"></span> <span class="exchange-name">Ethereum Classic</span> <span class="exchange-reserve">1&nbsp;076,9251&nbsp;<i>ETC</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="12"><span class="si si-litecoin"></span> <span class="exchange-name">Litecoin</span> <span class="exchange-reserve">332,0734&nbsp;<i>LTC</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="8"><span class="si si-monero"></span> <span class="exchange-name">Monero</span> <span class="exchange-reserve">982,2892&nbsp;<i>XMR</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="23"><span class="si si-perfect-money"></span> <span class="exchange-name">Perfect Money EUR</span> <span class="exchange-reserve">470,00&nbsp;<i>EUR</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="22"><span class="si si-perfect-money"></span> <span class="exchange-name">Perfect Money USD</span> <span class="exchange-reserve">15&nbsp;813,46&nbsp;<i>USD</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="27"><span class="si si-qiwi"></span> <span class="exchange-name">Qiwi RUB</span> <span class="exchange-reserve">693&nbsp;951,82&nbsp;<i>RUB</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="7"><span class="si si-ripple"></span> <span class="exchange-name">Ripple</span> <span class="exchange-reserve">25&nbsp;231,63&nbsp;<i>XRP</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="17"><span class="si si-visa-master-card"></span> <span class="exchange-name">Visa/MC UAH</span> <span class="exchange-reserve">749&nbsp;047,37&nbsp;<i>UAH</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="9"><span class="si si-z-cash"></span> <span class="exchange-name">Zcash</span> <span class="exchange-reserve">226,0151&nbsp;<i>ZEC</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="33"><span class="si si-mono-bank"></span> <span class="exchange-name">Монобанк</span> <span class="exchange-reserve">523&nbsp;553,29&nbsp;<i>UAH</i></span> <span class="bl-icon bl-checkbox-circle"></span></button><button class="exchange-tbl-item " data-exchange-button="to" data-sid="14"><span class="si si-privat-bank"></span> <span class="exchange-name">Приват 24 </span> <span class="exchange-reserve">402&nbsp;364,41&nbsp;<i>UAH</i></span> <span class="bl-icon bl-checkbox-circle"></span></button>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div></div><div class="col-lg-4 col-lg-pull-8"><aside id="left"><div class="br-box lf-reviews">
+    <div class="br-title clearfix">
+        <span class="br-icon br-i-review"></span> Отзывы
+        <a class="btn btn-brand btn-xs pull-right" href="/reviews">Еще</a>    </div>
+    <div class="br-body">
+                    <div class="review-item">
+                <div class="review-head">
+                    <span class="review-full-name">Иван Колосов</span>
+                    <span class="review-date">17.03.2019 18:36</span>
+                </div>
+                <p class="review-body no-style">Несколько обменов за день прошли оперативно и без задержек. Продолжайте в том же духе)))</p>
+            </div>
+                    <div class="review-item">
+                <div class="review-head">
+                    <span class="review-full-name">Константин Дудка</span>
+                    <span class="review-date">16.03.2019 17:07</span>
+                </div>
+                <p class="review-body no-style">Респект сервису!  Никогда не было никаких проблем!</p>
+            </div>
+                    <div class="review-item">
+                <div class="review-head">
+                    <span class="review-full-name">Виолетта Сухорукова</span>
+                    <span class="review-date">16.03.2019 10:33</span>
+                </div>
+                <p class="review-body no-style">Обменник довольно таки новый , но работает отлично !<br />
+Обмен занял 15 минут , курс порадовал , вежливая поддержка!<br />
+Спасибо за качественный сервис ) Рекомендую !!!<br />
+</p>
+            </div>
+                    </div>
+</div>
+
+<div class="br-box mr-top lf-status">
+    <div class="br-title"><span class="br-icon br-i-check"></span> Статус заявки</div>
+    <div class="br-body">
+        <form id="check-order-status-form" class="form-check-order-status" action="/exchange/status" method="post">
+<input type="hidden" name="_csrf" value="Syk7X9imB_i3cCoapGvAZpWv1338uXnlTEwbw5qdzy2ZhtWqavl9QD0nfc7HaRNxqP-bwst_fZUU9OldQTpCUA==">        <div class="f-ch-order-status">
+            <div class="form-group no-border field-dynamicmodel-order_number required">
+<label class="control-label" for="dynamicmodel-order_number">Введите номер заявки</label>
+<input type="text" id="dynamicmodel-order_number" class="form-control" name="orderNumber" placeholder="131458" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>            <div class="buttons">
+                <button type="submit" class="btn btn-brand">Проверить</button>            </div>
+        </div>
+        </form>    </div>
+</div></aside></div>            </div>
+            <div id="bottom" class="mr-top">    <div class="br-box about-box">
+        <div class="br-title text-center">О нас</div>
+        <div class="br-body">
+            <div class="about-text text-center text-light">
+                <p>Данный сервис предоставляет услуги по вводу/выводу, покупке/продаже и обмену электронных денежных средств и криптвалют. С помощью нашего сервиса Вы можете быстро, выгодно и безопасно обменять Bitcoin, Ethereum, Litcoin, Dash на Приват24. Любые обмены в системе Perfect Money производятся моментально, Вам нужно всего лишь заполнить форму обмена.</p>
+
+<p>На сайте CryptoBox.in.ua Вы можете удобно, быстро, анонимно и без скрытых комиссий вывести с электронных кошельков, биржи, Вашу криптовалюту и получить их на свою банковскую карту или электронный кошелек.&nbsp;<br />
+Не выходя из дома, провести операцию обмена и получить средства на карту Вашего банка Visa/MasterCard буквально за несколько минут.</p>
+
+<p>Круглосуточная техподдержка на сайте и во всех популярных мессенджерах. Только у нас Вы можете ПРЕДЛОЖИТЬ СВОЙ КУРС ОБМЕНА, написав нам или заполнив форму на сайте, после чего, на взаимовыгодных условиях провести сделку.</p>
+
+<p>Мгновенный вывод Bitcoin на карту Приватбанка. Моментальное пополнение Bitcoin с помощью Приват24. Обмен Bitcoin на карту любого банка Украины, а также любой электронной платежной системы AdvCash, Perfect Money. Все кошельки верифицированы, что дает дополнительную гарантию качественной и безопасной сделки!</p>
+
+<p>&nbsp;</p>
+
+<p>Надежность &bull; Конфиденциальность &bull; Значительный резерв &bull; Оперативный обмен<br />
+Услуги: Обмен Bitcoin, Litecoin, Ethereum, Ripple, Bitcoin Cash, DASH</p>
+
+<p><a href="https://www.bestchange.ru/" style="display: inline-block; min-width: 45%; margin: 14px 15px;" target="_blank"><img alt="Мониторинг обменных пунктов BestChange.ru" src="/image/bestchange.gif" style="height:38px; margin-right:10px; width:108px" title="Мониторинг обменных пунктов BestChange.ru" /></a></p>
+            </div>
+        </div>
+    </div>
+    </div>        </div>
+    </div>
+    <footer id="footer">
+        <div class="container">
+    <div class="clearfix footer-section">
+        <div class="pull-left copyright">
+            &copy; Copyright 2019, CryptoBox        </div>
+        <div class="pull-right foot-nav">
+            <ul id="header-nav-menu" class="horizontal-nav bottom-nav no-style "><li class="nav-el"><a class="nav-link" href="/reviews">Отзывы</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/security">Безопасность</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/contacts">Поддержка</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/rules">Правила обмена</a></li>
+<li class="nav-el"><a class="nav-link" href="/article/partner-rules">Партнерам</a></li></ul>        </div>
+    </div>
+</div>
+    </footer>
+</div>
+
+<div id="login-modal" class="fade login-modal modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+Личный кабинет
+</div>
+<div class="modal-body">
+<form id="login-form" action="/account/login" method="post">
+<input type="hidden" name="_csrf" value="Syk7X9imB_i3cCoapGvAZpWv1338uXnlTEwbw5qdzy2ZhtWqavl9QD0nfc7HaRNxqP-bwst_fZUU9OldQTpCUA=="><div class="form-group field-loginform-username required">
+<label class="control-label" for="loginform-username">Логин</label>
+<input type="text" id="loginform-username" class="form-control" name="LoginForm[username]" placeholder="username" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div><div class="form-group field-loginform-password required">
+<label class="control-label" for="loginform-password">Пароль</label>
+<input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" placeholder="•••••••" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div><div class="form-group field-loginform-rememberme">
+<div class="checkbox">
+<label for="loginform-rememberme">
+<input type="hidden" name="LoginForm[rememberMe]" value="0"><input type="checkbox" id="loginform-rememberme" name="LoginForm[rememberMe]" value="1" checked>
+<span class="checkbox-mark"></span> Запомнить меня
+</label>
+<p class="help-block help-block-error"></p>
+
+</div>
+</div><div class="buttons text-center"><button type="submit" class="btn btn-brand" name="login-button">Войти</button></div><div class="forgot-block"><a href="/account/forgot/index">Забыли пароль?</a></div></form>
+</div>
+
+</div>
+</div>
+</div>
+
+<div id="register-modal" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+Регистрация
+</div>
+<div class="modal-body">
+<form id="register-form" action="/account/register" method="post">
+<input type="hidden" name="_csrf" value="Syk7X9imB_i3cCoapGvAZpWv1338uXnlTEwbw5qdzy2ZhtWqavl9QD0nfc7HaRNxqP-bwst_fZUU9OldQTpCUA==">    <div class="form-group-header">Ваши данные</div>
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-last_name required">
+<label class="control-label" for="signupform-last_name">Фамилия</label>
+<input type="text" id="signupform-last_name" class="form-control" name="SignupForm[last_name]" placeholder="Иванов" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-first_name required">
+<label class="control-label" for="signupform-first_name">Имя</label>
+<input type="text" id="signupform-first_name" class="form-control" name="SignupForm[first_name]" placeholder="Иван" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-middle_name">
+<label class="control-label" for="signupform-middle_name">Отчество</label>
+<input type="text" id="signupform-middle_name" class="form-control" name="SignupForm[middle_name]" placeholder="Иванович">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-phone">
+<label class="control-label" for="signupform-phone">Номер телефона</label>
+<input type="text" id="signupform-phone" class="form-control" name="SignupForm[phone]" placeholder="+380995554433">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-skype">
+<label class="control-label" for="signupform-skype">Telegram</label>
+<input type="text" id="signupform-skype" class="form-control" name="SignupForm[skype]" placeholder="example89">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+    </div>
+    <hr class="form-hr">
+    <div class="form-group-header">Данные аккаунта</div>
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-username required">
+<label class="control-label" for="signupform-username">Логин</label>
+<input type="text" id="signupform-username" class="form-control" name="SignupForm[username]" placeholder="username" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>            <div class="form-group field-signupform-email required">
+<label class="control-label" for="signupform-email">Email</label>
+<input type="text" id="signupform-email" class="form-control" name="SignupForm[email]" placeholder="example@domain.com" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+        <div class="col-sm-4">
+            <div class="form-group field-signupform-password required">
+<label class="control-label" for="signupform-password">Пароль</label>
+<input type="password" id="signupform-password" class="form-control" name="SignupForm[password]" placeholder="•••••••" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>            <div class="form-group field-signupform-repassword required">
+<label class="control-label" for="signupform-repassword">Повторите пароль</label>
+<input type="password" id="signupform-repassword" class="form-control" name="SignupForm[repassword]" placeholder="•••••••" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+        <div class="col-sm-4">
+            <div class="form-group register-form-captcha field-signupform-captcha">
+<div class="captcha-block"><img id="signupform-captcha-image" src="/site/captcha?v=5c8f6c769cdfe" alt=""></div> <label class="control-label" for="signupform-captcha">Подтвердите что вы не робот</label> <input type="text" id="signupform-captcha" class="form-control" name="SignupForm[captcha]">
+
+<p class="help-block help-block-error"></p>
+</div>        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-3 text-center">
+            <div class="form-group field-signupform-subscribe">
+<div class="checkbox">
+<label for="signupform-subscribe">
+<input type="hidden" name="SignupForm[subscribe]" value="0"><input type="checkbox" id="signupform-subscribe" name="SignupForm[subscribe]" value="1">
+<span class="checkbox-mark"></span> Подписаться на рассылку писем?
+</label>
+<p class="help-block help-block-error"></p>
+
+</div>
+</div>            <div class="form-group">
+                <button type="submit" class="btn btn-brand btn-lg" name="signup-button">Зарегистрироваться</button>            </div>
+        </div>
+    </div>
+    </form>
+</div>
+
+</div>
+</div>
+</div>
+
+<div id="modal-status-order" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+Состояние заявки
+</div>
+<div class="modal-body">
+<div class="result-check-order-status"></div>
+</div>
+
+</div>
+</div>
+</div>
+<script src="/assets/a65eae4b/jquery.js?v=1538998609"></script>
+<script src="/assets/ab13ef46/yii.js?v=1538998609"></script>
+<script src="/assets/4d44faa1/js/bootstrap.js?v=1538998609"></script>
+<script src="/assets/8341000a/js/app.js?v=1538998609"></script>
+<script src="/assets/ab13ef46/yii.validation.js?v=1538998609"></script>
+<script src="/assets/ab13ef46/yii.activeForm.js?v=1538998609"></script>
+<script src="/assets/ab13ef46/yii.captcha.js?v=1538998609"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#login-form').yiiActiveForm([{"id":"loginform-username","name":"username","container":".field-loginform-username","input":"#loginform-username","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Логин»."});}},{"id":"loginform-password","name":"password","container":".field-loginform-password","input":"#loginform-password","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Пароль»."});}},{"id":"loginform-rememberme","name":"rememberMe","container":".field-loginform-rememberme","input":"#loginform-rememberme","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.boolean(value, messages, {"trueValue":"1","falseValue":"0","message":"Значение «Запомнить меня» должно быть равно «1» или «0».","skipOnEmpty":1});}}], []);
+jQuery('#login-modal').modal({"show":false});
+jQuery('#signupform-captcha-image').yiiCaptcha({"refreshUrl":"\/site\/captcha?refresh=1","hashKey":"yiiCaptcha\/site\/captcha"});
+jQuery('#register-form').yiiActiveForm([{"id":"signupform-last_name","name":"last_name","container":".field-signupform-last_name","input":"#signupform-last_name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Фамилия»."});yii.validation.string(value, messages, {"message":"Значение «Фамилия» должно быть строкой.","min":3,"tooShort":"Значение «Фамилия» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Фамилия» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-first_name","name":"first_name","container":".field-signupform-first_name","input":"#signupform-first_name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Имя»."});yii.validation.string(value, messages, {"message":"Значение «Имя» должно быть строкой.","min":3,"tooShort":"Значение «Имя» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Имя» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-middle_name","name":"middle_name","container":".field-signupform-middle_name","input":"#signupform-middle_name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.string(value, messages, {"message":"Значение «Отчество» должно быть строкой.","min":3,"tooShort":"Значение «Отчество» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Отчество» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-phone","name":"phone","container":".field-signupform-phone","input":"#signupform-phone","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Номер телефона» должно быть строкой.","min":4,"tooShort":"Значение «Номер телефона» должно содержать минимум 4 символа.","max":20,"tooLong":"Значение «Номер телефона» должно содержать максимум 20 символов.","skipOnEmpty":1});}},{"id":"signupform-skype","name":"skype","container":".field-signupform-skype","input":"#signupform-skype","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Telegram» должно быть строкой.","min":3,"tooShort":"Значение «Telegram» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Telegram» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-username","name":"username","container":".field-signupform-username","input":"#signupform-username","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Логин»."});yii.validation.string(value, messages, {"message":"Значение «Логин» должно быть строкой.","min":2,"tooShort":"Значение «Логин» должно содержать минимум 2 символа.","max":255,"tooLong":"Значение «Логин» должно содержать максимум 255 символов.","skipOnEmpty":1});yii.validation.regularExpression(value, messages, {"pattern":/^[a-z0-9][a-z0-9_-]+$/,"not":false,"message":"Логин может содержать только a-z, 0-9, _ -","skipOnEmpty":1});}},{"id":"signupform-email","name":"email","container":".field-signupform-email","input":"#signupform-email","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Email»."});yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Значение «Email» не является правильным email адресом.","enableIDN":false,"skipOnEmpty":1});yii.validation.string(value, messages, {"message":"Значение «Email» должно быть строкой.","max":255,"tooLong":"Значение «Email» должно содержать максимум 255 символов.","skipOnEmpty":1});}},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Пароль»."});yii.validation.string(value, messages, {"message":"Значение «Пароль» должно быть строкой.","min":5,"tooShort":"Значение «Пароль» должно содержать минимум 5 символов.","skipOnEmpty":1});}},{"id":"signupform-repassword","name":"repassword","container":".field-signupform-repassword","input":"#signupform-repassword","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Повторите пароль»."});yii.validation.compare(value, messages, {"operator":"==","type":"string","compareAttribute":"signupform-password","skipOnEmpty":1,"message":"Значение «Повторите пароль» должно быть равно «Пароль»."});}},{"id":"signupform-captcha","name":"captcha","container":".field-signupform-captcha","input":"#signupform-captcha","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.captcha(value, messages, {"hash":539,"hashKey":"yiiCaptcha/site/captcha","caseSensitive":false,"message":"Неправильный проверочный код."});}},{"id":"signupform-subscribe","name":"subscribe","container":".field-signupform-subscribe","input":"#signupform-subscribe","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.range(value, messages, {"range":["1","0"],"not":false,"message":"Значение «Подписаться на рассылку писем?» неверно.","skipOnEmpty":1});}}], []);
+jQuery('#register-modal').modal({"show":false});
+jQuery('#modal-status-order').modal({"show":false});
+jQuery('#check-order-status-form').yiiActiveForm([{"id":"dynamicmodel-order_number","name":"order_number","container":".field-dynamicmodel-order_number","input":"#dynamicmodel-order_number","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Введите номер заявки"});yii.validation.number(value, messages, {"pattern":/^\s*[+-]?\d+\s*$/,"message":"Номер заявки состоит из чисел","min":1,"tooSmall":"Введите номер заявки \u003E= 1","skipOnEmpty":1});}}], []);
+});</script><!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = '2dJopc3Hl3';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE --></body>
+</html>

@@ -1,0 +1,2411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+ 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<title>Exchanger-EM. Автоматический обмен электронных денег.</title>
+	<meta name="Keywords" content="обмен, электронные деньги, валюта, приват24" />
+	<meta name="Description" content="Обмен приват 24, Yandex,AdvCash, BitCoin." />
+	<meta name="Author" content="exchanger-em.com" />
+	<meta name="Copy Right" content="exchanger-em.com" />
+	<meta name="Language" content="Russian" />
+	<meta name="Distribution" content="Global" />
+	<meta name="Robots" content="All" />
+        
+        
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/css/default_777.css" type="text/css" media="all, handheld"/>
+        <link rel="stylesheet" href="/css/styles_7.css" type="text/css" media="all, handheld"/>
+     
+	<script type="text/javascript" src="/scripts/jquery/jquery-1.3.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery/jquery.simplemodal.pack.js"></script>
+        <script type="text/javascript" src="/scripts/bignumber.js"></script>
+ 	<script type="text/javascript" src="/scripts/form.js"></script>
+	<script type="text/javascript" src="/scripts/calc.js"></script>	
+   	<script type="text/javascript" src="/scripts/calc_add3.js"></script>	
+	<script type="text/javascript" src="/scripts/global.js"></script>
+	<script type="text/javascript" src="/scripts/nbu.php"></script>
+	
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie6.css" media="screen"/>	
+	<style media="all" type="text/css">@import "/styles/modal/basic_ie.css";</style>
+	<style media="all" type="text/css">@import "/styles/loginwindow_ie6.css";</style>
+	<![endif]-->
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/styles/ie6.css" media="screen"/>		
+	<style media="all" type="text/css">@import "/styles/loginwindow_ie.css";</style>
+	<![endif]-->	
+</head>
+<body>
+    
+    <!-- Start SiteHeart code 
+<script>
+(function(){
+var widget_id = 772455;
+_shcp =[{widget_id : widget_id}];
+var lang =(navigator.language || navigator.systemLanguage 
+|| navigator.userLanguage ||"en")
+.substr(0,2).toLowerCase();
+var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+var hcc = document.createElement("script");
+hcc.type ="text/javascript";
+hcc.async =true;
+hcc.src =("https:"== document.location.protocol ?"https":"http")
++"://"+ url;
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>
+ End SiteHeart code -->
+
+<!-- 
+<div  style=" position: absolute;">
+ <a target="_blank" href="https://livecoin.net/?from=Livecoin-WCfkJ9bV"><img style="filter: alpha(Opacity=50);
+        opacity: 0.5;float: left;"
+        src="/img/lc.gif"
+title=" LiveCoin- Криптовалютная биржа"
+alt="Livecoin - удобный способ купить и продать Bitcoin, другие криптовалюты, токены и т.д."
+width="70" height="300" border="0" /></a> 
+ </div> 
+ -->
+
+
+<div id="container" >
+	<div id="header">
+  <table border="0">
+      <tr><td style=" width: 50%; vertical-align: bottom;">
+              <h1><a href="/">Exchanger-EM</a></h1>
+        </td>
+        <td  width="50%" style="text-align: right;">
+          <b>Режим работы тех.поддержки </b> </br>
+   пн — птн : с 09:00 до 20:00 
+        сб — вс : свободный график 
+    
+       </td>
+      
+      </tr>
+  
+     
+      
+      
+  </table>    
+  <!--      <div class="clear"></div>   
+		BEGIN LOGGED_BLOCK	-->
+		<!-- END LOGGED_BLOCK -->	
+                <!-- BEGIN NOT_LOGGED_BLOCK	-->
+		<!-- END NOT_LOGGED_BLOCK -->
+
+       </div>
+    <div id="nav">
+        
+  <ul >
+           
+            <li class="start"><a href="/">Обмен</a></li>
+            <li><a href="/rules/">Правила</a></li>
+            <li><a href="/reviews/">Отзывы</a></li>
+            <li><a href="/faq/">FAQ</a></li>
+            <li class="end1"><a href="/contacts/">Контакты</a></li>
+            <li class="end">
+                
+                 
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+           <li style="text-align: right;"><a href="#" onclick="TurnLoginOn();">Вход</a></li>
+            <li><a href="#" class="" onclick="TurnRegOn();">Регистрация</a></li>
+            			
+            
+            
+</ul>
+
+              
+    </div>
+    <div id="body">
+        <script type="text/javascript" src="/scripts/registration.js"></script>
+
+
+
+<script type="text/javascript">$(document).ready(function() {  onCurrencyFrom(document.getElementById(curr_from_id+'_from'));});
+var currency_id = new Array();
+</script>
+				
+                                
+   
+        		
+                         
+                        
+                        
+                        
+	
+	<div id="login_form"   style="display:none;" class="sidebar1">
+ <div  style="color: red; text-align: center;"  ></div>
+                                        
+  	
+	       <form class="settings" action="/login_771.php" method="POST" >
+                <input type="hidden" id="isLogged" value="0" /> 
+             <input type="hidden" id="hasLoginMsg" value="0" /> 
+             <input type="hidden" id="do_lgnn" name="do_lgnn" value="0" />
+             
+                        <div class="content__message1"  id="hasLoginMsg" style="color: red">
+				
+		</div>
+            <table border="0">
+                    <tr style="text-align:center;  font-size: 12px; ">
+                  <td style="text-align:right;">
+                 Логин:
+                  </td>    
+                      
+                  <td style="text-align:left;">
+    <input type="text" class="input__textfield"   autocomplete='off'  style="width:200px; height: 28px; font-size:16px; padding: 5px 15px;" name="log" id="log" value="" />                
+                 
+                   
+                  </td>    
+
+             
+                  <td style="text-align:right;">
+                    Пароль: 
+                  </td>    
+                      
+                  <td style="text-align:left;">
+    <input type="password" class="input__textfield"   autocomplete='off'  style="width:200px; height: 28px; font-size:16px; padding: 5px 15px;" name="pwd" id="pwd" value="" />                
+                 
+                   
+                  </td>                   
+                           <td style="text-align:right;">
+         <input type="submit" class="searchsubmit formbutton" style="width:100px;" value="ВХОД" />                         
+                  </td>            
+    
+                 
+                      <td colspan="0" style="text-align:center;width:200px;">  
+                          <div class="change-info__value1" style="text-align:center; font-size: 12px;">
+								 <a href="/reminisce/" style="text-align:right;">Восстановить пароль</a>  </div>
+                      
+                   </td>     
+                  </tr>
+                 </tr>
+  <!--              <tr>
+            <td colspan="2" style="text-align:right;">
+                Введите цифры:
+                  </td>  
+                <td style="text-align:left;">
+<img src="/captcha.php?" style="float: left;">
+                </td> 
+                <td colspan="2"> 
+                    <input type="text" class="input__textfield" name="keystring" id="keystring" value="" style="width:200px; height: 28px;text-align:right; margin-right:  11px;"/>
+                </td>           
+               </tr>      -->            
+                
+                
+                
+            </table>
+    </form>        
+ 
+               <fieldset>
+                   <legend></legend> </fieldset>  </br>                                               
+    
+	</div>
+    
+  
+
+		<div class="content">
+			<div id="change_form" class="change" style="display: table-cell;">
+				<div class="change__away" >
+					<div class="block-header">
+						<div class="block-header__title">Отдаете</div>
+					</div>
+					<ul id="from_select" class="points" >
+                                       
+                                        	<li id="27_from" value="27" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_27.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="27_in_name" class="points__title">AdvCash USD</span>
+                                                                        <span style="display:none;" id="27_in_name_short" class="points__title">USD</span>
+								</span>
+							</li>   
+                                        	<li id="16_from" value="16" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_16.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="16_in_name" class="points__title">Яндекс.Деньги</span>
+                                                                        <span style="display:none;" id="16_in_name_short" class="points__title">RUB</span>
+								</span>
+							</li>   
+                                        	<li id="40_from" value="40" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_40.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="40_in_name" class="points__title">Ethereum</span>
+                                                                        <span style="display:none;" id="40_in_name_short" class="points__title">ETH</span>
+								</span>
+							</li>   
+                                        	<li id="23_from" value="23" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_23.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="23_in_name" class="points__title">Bitcoin</span>
+                                                                        <span style="display:none;" id="23_in_name_short" class="points__title">BTC</span>
+								</span>
+							</li>   
+                                        	<li id="30_from" value="30" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_30.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="30_in_name" class="points__title">Payeer USD</span>
+                                                                        <span style="display:none;" id="30_in_name_short" class="points__title">USD</span>
+								</span>
+							</li>   
+                                        	<li id="20_from" value="20" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_20.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="20_in_name" class="points__title">PM USD</span>
+                                                                        <span style="display:none;" id="20_in_name_short" class="points__title">USD</span>
+								</span>
+							</li>   
+                                        	<li id="43_from" value="43" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_43.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="43_in_name" class="points__title">Exmo USD</span>
+                                                                        <span style="display:none;" id="43_in_name_short" class="points__title">USD</span>
+								</span>
+							</li>   
+                                        	<li id="49_from" value="49" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_49.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="49_in_name" class="points__title">Exmo RUB</span>
+                                                                        <span style="display:none;" id="49_in_name_short" class="points__title">RUB</span>
+								</span>
+							</li>   
+                                        	<li id="44_from" value="44" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_44.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="44_in_name" class="points__title">Exmo BTC</span>
+                                                                        <span style="display:none;" id="44_in_name_short" class="points__title">BTC</span>
+								</span>
+							</li>   
+                                        	<li id="45_from" value="45" class="points__item" onclick="selectCurrency(this);" onmouseover="onCurrencyFrom(this);" onmouseout = "outCurrencyFrom(this);">
+								
+								<span class="points__icon-holder">
+									<img class="points__icon" src="/images/uploads/ico_45.png" alt=""/>
+								</span>
+								<span  class="points__title-holder">
+									<span id="45_in_name" class="points__title">LiveCoin USD</span>
+                                                                        <span style="display:none;" id="45_in_name_short" class="points__title">USD</span>
+								</span>
+							</li>  					
+											</ul>
+				</div>
+				<div class="change__receive">
+					<div class="block-header">
+						<div class="block-header__title">Получаете</div>
+						<div class="block-header__title">Резерв</div>
+					</div>
+					<ul id="to_select" class="points" >
+                       
+                                       <script type="text/javascript">currency_id[0]=27;</script>       
+                                            <li id="27_to" value="27" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="27_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_27.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="27_out_name" class="points__title">AdvCash USD</span>
+                                                                        <span style="display:none;" id="27_out_name_short" class="points__title" >USD</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="27_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="27_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="27_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[1]=16;</script>       
+                                            <li id="16_to" value="16" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="16_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_16.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="16_out_name" class="points__title">Яндекс.Деньги</span>
+                                                                        <span style="display:none;" id="16_out_name_short" class="points__title" >RUB</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="16_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="16_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="16_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[2]=40;</script>       
+                                            <li id="40_to" value="40" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="40_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_40.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="40_out_name" class="points__title">Ethereum</span>
+                                                                        <span style="display:none;" id="40_out_name_short" class="points__title" >ETH</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="40_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="40_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="40_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[3]=23;</script>       
+                                            <li id="23_to" value="23" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="23_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_23.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="23_out_name" class="points__title">Bitcoin</span>
+                                                                        <span style="display:none;" id="23_out_name_short" class="points__title" >BTC</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="23_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="23_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="23_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[4]=30;</script>       
+                                            <li id="30_to" value="30" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="30_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_30.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="30_out_name" class="points__title">Payeer USD</span>
+                                                                        <span style="display:none;" id="30_out_name_short" class="points__title" >USD</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="30_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="30_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="30_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[5]=20;</script>       
+                                            <li id="20_to" value="20" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="20_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_20.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="20_out_name" class="points__title">PM USD</span>
+                                                                        <span style="display:none;" id="20_out_name_short" class="points__title" >USD</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="20_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="20_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="20_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[6]=43;</script>       
+                                            <li id="43_to" value="43" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="43_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_43.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="43_out_name" class="points__title">Exmo USD</span>
+                                                                        <span style="display:none;" id="43_out_name_short" class="points__title" >USD</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="43_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="43_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="43_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[7]=49;</script>       
+                                            <li id="49_to" value="49" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="49_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_49.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="49_out_name" class="points__title">Exmo RUB</span>
+                                                                        <span style="display:none;" id="49_out_name_short" class="points__title" >RUB</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="49_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="49_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="49_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[8]=44;</script>       
+                                            <li id="44_to" value="44" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="44_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_44.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="44_out_name" class="points__title">Exmo BTC</span>
+                                                                        <span style="display:none;" id="44_out_name_short" class="points__title" >BTC</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="44_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="44_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="44_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 
+                                       <script type="text/javascript">currency_id[9]=45;</script>       
+                                            <li id="45_to" value="45" class="points__item"  onmouseover="onCurrencyTo(this);" onmouseout = "outCurrencyTo(this);" >
+								<span class="points__quantity-holder" style="cursor:pointer; display:none;" onclick="toOrder();">
+									<span id="45_to_sum" class="points__quantity"  >1.00</span>
+								</span>
+								<span class="points__icon-holder" style="cursor:pointer;" onclick="toOrder();">
+									<img class="points__icon" src="/images/uploads/ico_45.png" alt=""/>
+								</span>
+								<span class="points__title-holder" style="cursor:pointer;" onclick="toOrder();">
+									<span id="45_out_name" class="points__title">LiveCoin USD</span>
+                                                                        <span style="display:none;" id="45_out_name_short" class="points__title" >USD</span>
+								</span>
+								<span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();" >
+                                                                    <center><span class="points__convert" style="font-size:12px; font-weight: 500; text-align: center; " id="45_info1" ></span></center>
+                                                                </span> 
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  class="points__convert">=</span></center>
+								</span>
+                                                                <span class="points__convert-holder" style="cursor:pointer;" onclick="toOrder();">
+                                                                    <center><span style="font-size:12px; font-weight: 500;"  id="45_info2" class="points__convert"></span></center>
+								</span>
+								<span class="points__reserve-holder">
+									<span id="45_r" class="points__reserve">0.99 USD</span>
+									
+								</span>
+								<a href="#" class="points__link"></a>
+							</li> 		
+											</ul>
+				</div>
+			</div>
+		</div>
+                                                                        
+                                                                        
+          
+       
+                                                                        
+                                                                        
+                                                                        
+                                                                     
+ <div id="registration_form" class="content"  style="display: none;">
+  
+     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        function onSubmit(token) {
+            document.getElementById('regForm').submit();
+        }
+    </script>   
+               
+ 
+<h1>Регистрация</h1>
+<div class="content__message" style="color: red"></div>
+							
+<form class="settings" method="post" action="/" id="regForm" onsubmit="return validRegistration()">
+         <input type="hidden" name="do" value="1">
+
+
+           <table border="0">
+                <tr>
+                 <td style="text-align:right; width: 20%;">
+                  Логин:
+                  </td>  
+                 <td style="text-align:left;width: 30%;">
+  <input type="text" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="login" id="login_reg" value="" />                   </td>  
+                <td style="text-align:right;width: 20%;">
+                  Фамилия:	
+                  </td>  
+                <td style="text-align:left;width: 30%;">
+  <input type="text" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="lastname" id="lastname" value="" />                 
+                </td>  
+                </tr>
+                               <tr>
+                 <td style="text-align:right;">
+                  Пароль:
+                  </td>  
+                 <td style="text-align:left;">
+  <input type="password" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="pass" id="pwd1" />                    
+                 </td>  
+                <td style="text-align:right;">
+                  Имя:
+                  </td>  
+                <td style="text-align:left;">
+ <input type="text" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="name" id="name" value="" />  
+                </td>  
+                </tr>
+                                </tr>
+                <tr>
+                 <td style="text-align:right;">
+                  Повторить :
+                  </td>  
+                 <td style="text-align:left;">
+  <input type="password" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="pwd1" id="pwd2" />                    
+                 </td>  
+                <td style="text-align:right;">
+                Отчество:
+                  </td>  
+                <td style="text-align:left;">
+  <input type="text" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="secondname" id="secondname" value="" />                  </td>  
+                </tr>
+               <tr>
+                 <td style="text-align:right;">
+                  телефон:
+                  </td>  
+                 <td style="text-align:left;">
+<input type="text" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px;" name="tel" id="tel" value=""/>
+                 </td>  
+                <td style="text-align:right;">
+                Ваш e-mail:
+                  </td>  
+                <td style="text-align:left;">
+ <input type="text" class="input__textfield"   autocomplete='off'  style="width:250px; height: 28px; font-size:16px; padding: 5px 15px; " name="email" id="email" value="" />
+                </td>  
+                </tr>
+                
+ 
+                <tr>
+                    <td colspan="4" style="text-align:center;">
+ <input type="submit" class="searchsubmit formbutton g-recaptcha" data-sitekey="6LfnvZIUAAAAAD-qWKKNl91z_Dm_YeRUXf0MKXJv" data-callback='onSubmit' style="width:150px;" value="ОТПРАВИТЬ" />                          
+                    </td>  
+                 </tr>   
+                
+                
+                
+                
+                
+            </table>           
+</form>
+
+
+
+							
+							
+						</div>
+                                                                    
+                                                                        
+     <div id="registration_done" class="content"  style="display: none;">
+						<div class="content__header content__header_theme_blue">
+								<div class="content__title">Регистрация успешно завершена.</div>
+						</div>                                                       <div class="content__title">       
+
+                                                    
+       </div> 
+                                                
+                                                
+      </div>                                                                  
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+<div id="rezerv_form"  style="display: table-cell;"></div>     
+<div style="display: none;">
+<ul>
+                             
+       <li>
+    <span  id="27_reserv">2113.74 USD</span>
+      </li> 
+       <li>
+    <span  id="16_reserv">12590.74 RUB</span>
+      </li> 
+       <li>
+    <span  id="40_reserv">0.00 ETH</span>
+      </li> 
+       <li>
+    <span  id="23_reserv">0.50 BTC</span>
+      </li> 
+       <li>
+    <span  id="30_reserv">6.43 USD</span>
+      </li> 
+       <li>
+    <span  id="20_reserv">134.95 USD</span>
+      </li> 
+       <li>
+    <span  id="43_reserv">1431.33 USD</span>
+      </li> 
+       <li>
+    <span  id="49_reserv">7706.68 RUB</span>
+      </li> 
+       <li>
+    <span  id="44_reserv">0.76 BTC</span>
+      </li> 
+       <li>
+    <span  id="45_reserv">1019.00 USD</span>
+      </li>   
+ </ul>
+</div>
+                                                                       
+                                                                        
+	
+
+
+
+
+ 
+
+                                     
+                                        
+                                        
+     
+                <script type="text/javascript">
+                    var curr_from_id  = currency_id[0], curr_to_id  = 0;
+                    var curr_from_last_id  = currency_id[0], curr_to_last_id  = 0;
+                    var site_url='https://exchanger-em.com';
+                    var cnt_curency='10';
+   					var curr_pairs = '20->27.;30->27.;27->16.;16->27.;27->20.;27->30.;16->23.;23->16.;23->27.;27->23.;16->40.;43->16.;16->43.;16->30.;30->16.;16->20.;20->16.;27->43.;16->44.;44->16.;43->27.;45->16.;16->45.;45->27.;27->45.;30->43.;43->30.;30->23.;23->30.;20->43.;43->20.;23->20.;20->23.;27->44.;44->27.;49->16.;49->27.';
+					var currencyPairsInfa = [];					
+					
+					currencyPairsInfa['20_27'] =
+						{
+                                                rate_pair : '0.982',
+                                                rate_type : '0',
+						currency_from_id : '20',
+						currency_to_id : '27',
+						summ_commission_my_1 : '1000000.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '1000000.00',
+						commission_my_2 : '0.0210',
+						summ_commission_my_3 : '1000000.00',
+						commission_my_3 : '0.0210',
+						commission_my_4 : '0.0210',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'PMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['30_27'] =
+						{
+                                                rate_pair : '0.987',
+                                                rate_type : '0',
+						currency_from_id : '30',
+						currency_to_id : '27',
+						summ_commission_my_1 : '1000000.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '1000000.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '1000000.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '2000.00',
+						from: {
+                                                        name_short_admin_from : 'PRUSD',
+                                                        sys_comm_round_from : '2',
+							commision_system : '0.95',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_16'] =
+						{
+                                                rate_pair : '65.5084',
+                                                rate_type : '0',
+						currency_from_id : '27',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '5899.9100',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '5899.9100',
+						commission_my_4 : '5899.9100',
+						commission_my_min : '0.00',
+                                                minsumma : '10.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_27'] =
+						{
+                                                rate_pair : '66.1',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '27',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '1000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_20'] =
+						{
+                                                rate_pair : '1.001',
+                                                rate_type : '0',
+						currency_from_id : '27',
+						currency_to_id : '20',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'PMUSD',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_30'] =
+						{
+                                                rate_pair : '0.996',
+                                                rate_type : '0',
+						currency_from_id : '27',
+						currency_to_id : '30',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '20.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'PRUSD',
+							commision_system : '0.95',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_23'] =
+						{
+                                                rate_pair : '267940',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '23',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '5000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'BTC',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['23_16'] =
+						{
+                                                rate_pair : '263678',
+                                                rate_type : '0',
+						currency_from_id : '23',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '0.010',
+                                                maxsumma : '1.00',
+						from: {
+                                                        name_short_admin_from : 'BTC',
+                                                        sys_comm_round_from : '7',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['23_27'] =
+						{
+                                                rate_pair : '4003.71',
+                                                rate_type : '0',
+						currency_from_id : '23',
+						currency_to_id : '27',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '0.010',
+                                                maxsumma : '1.00',
+						from: {
+                                                        name_short_admin_from : 'BTC',
+                                                        sys_comm_round_from : '7',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_23'] =
+						{
+                                                rate_pair : '4069.93',
+                                                rate_type : '1',
+						currency_from_id : '27',
+						currency_to_id : '23',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '99999.9999',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '99999.9999',
+						commission_my_4 : '99999.9999',
+						commission_my_min : '0.00',
+                                                minsumma : '100.000',
+                                                maxsumma : '5000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'BTC',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_40'] =
+						{
+                                                rate_pair : '9281.32',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '40',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '10000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'ETH',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '140.233005',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.00',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['43_16'] =
+						{
+                                                rate_pair : '64.9021',
+                                                rate_type : '0',
+						currency_from_id : '43',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'EXMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_43'] =
+						{
+                                                rate_pair : '65.9',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '43',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '2000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'EXMUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_30'] =
+						{
+                                                rate_pair : '67',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '30',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '500.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'PRUSD',
+							commision_system : '0.95',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['30_16'] =
+						{
+                                                rate_pair : '64.6866',
+                                                rate_type : '0',
+						currency_from_id : '30',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '20.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'PRUSD',
+                                                        sys_comm_round_from : '2',
+							commision_system : '0.95',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_20'] =
+						{
+                                                rate_pair : '66.5',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '20',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '6303.0200',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '6303.0200',
+						commission_my_4 : '6303.0200',
+						commission_my_min : '0.00',
+                                                minsumma : '1000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'PMUSD',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['20_16'] =
+						{
+                                                rate_pair : '64',
+                                                rate_type : '0',
+						currency_from_id : '20',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '6267.3500',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '6267.3500',
+						commission_my_4 : '6267.3500',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '2000.00',
+						from: {
+                                                        name_short_admin_from : 'PMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_43'] =
+						{
+                                                rate_pair : '0.999',
+                                                rate_type : '0',
+						currency_from_id : '27',
+						currency_to_id : '43',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '-0.5000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '-0.5000',
+						commission_my_4 : '-0.5000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'EXMUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_44'] =
+						{
+                                                rate_pair : '277625',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '44',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '2000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'EXMBTC',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '0.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.76',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['44_16'] =
+						{
+                                                rate_pair : '259905',
+                                                rate_type : '0',
+						currency_from_id : '44',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '0.010',
+                                                maxsumma : '1.00',
+						from: {
+                                                        name_short_admin_from : 'EXMBTC',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '0.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.76',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['43_27'] =
+						{
+                                                rate_pair : '0.99',
+                                                rate_type : '0',
+						currency_from_id : '43',
+						currency_to_id : '27',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '4.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'EXMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['45_16'] =
+						{
+                                                rate_pair : '64.3425',
+                                                rate_type : '0',
+						currency_from_id : '45',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '20.000',
+                                                maxsumma : '5000.00',
+						from: {
+                                                        name_short_admin_from : 'LVCNUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1019.00',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['16_45'] =
+						{
+                                                rate_pair : '68.7962',
+                                                rate_type : '1',
+						currency_from_id : '16',
+						currency_to_id : '45',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '500.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'YAMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'LVCNUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1019.00',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['45_27'] =
+						{
+                                                rate_pair : '1.01',
+                                                rate_type : '1',
+						currency_from_id : '45',
+						currency_to_id : '27',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'LVCNUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1019.00',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_45'] =
+						{
+                                                rate_pair : '0.98232',
+                                                rate_type : '0',
+						currency_from_id : '27',
+						currency_to_id : '45',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'LVCNUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1019.00',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['30_43'] =
+						{
+                                                rate_pair : '0.991',
+                                                rate_type : '0',
+						currency_from_id : '30',
+						currency_to_id : '43',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'PRUSD',
+                                                        sys_comm_round_from : '2',
+							commision_system : '0.95',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'EXMUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['43_30'] =
+						{
+                                                rate_pair : '0.991',
+                                                rate_type : '0',
+						currency_from_id : '43',
+						currency_to_id : '30',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'EXMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'PRUSD',
+							commision_system : '0.95',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['30_23'] =
+						{
+                                                rate_pair : '4112.03',
+                                                rate_type : '1',
+						currency_from_id : '30',
+						currency_to_id : '23',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '200.000',
+                                                maxsumma : '5000.00',
+						from: {
+                                                        name_short_admin_from : 'PRUSD',
+                                                        sys_comm_round_from : '2',
+							commision_system : '0.95',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'BTC',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['23_30'] =
+						{
+                                                rate_pair : '4007.75',
+                                                rate_type : '0',
+						currency_from_id : '23',
+						currency_to_id : '30',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '0.020',
+                                                maxsumma : '0.50',
+						from: {
+                                                        name_short_admin_from : 'BTC',
+                                                        sys_comm_round_from : '7',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'PRUSD',
+							commision_system : '0.95',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '6.43',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['20_43'] =
+						{
+                                                rate_pair : '0.985',
+                                                rate_type : '0',
+						currency_from_id : '20',
+						currency_to_id : '43',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'PMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'EXMUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['43_20'] =
+						{
+                                                rate_pair : '1.001',
+                                                rate_type : '0',
+						currency_from_id : '43',
+						currency_to_id : '20',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'EXMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '1431.33',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'PMUSD',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['23_20'] =
+						{
+                                                rate_pair : '4048.19',
+                                                rate_type : '0',
+						currency_from_id : '23',
+						currency_to_id : '20',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '0.020',
+                                                maxsumma : '1.00',
+						from: {
+                                                        name_short_admin_from : 'BTC',
+                                                        sys_comm_round_from : '7',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'PMUSD',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['20_23'] =
+						{
+                                                rate_pair : '4127.77',
+                                                rate_type : '1',
+						currency_from_id : '20',
+						currency_to_id : '23',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '100.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'PMUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.50',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '134.95',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'BTC',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '4058.713156',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.50',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['27_44'] =
+						{
+                                                rate_pair : '4141.84',
+                                                rate_type : '1',
+						currency_from_id : '27',
+						currency_to_id : '44',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '50.000',
+                                                maxsumma : '3000.00',
+						from: {
+                                                        name_short_admin_from : 'ADVCUSD',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+						},
+						to: {
+                                                        name_short_admin_to : 'EXMBTC',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '0.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.76',
+                                                        after_comma: '8'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['44_27'] =
+						{
+                                                rate_pair : '3984.51',
+                                                rate_type : '0',
+						currency_from_id : '44',
+						currency_to_id : '27',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '0.010',
+                                                maxsumma : '1.00',
+						from: {
+                                                        name_short_admin_from : 'EXMBTC',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '0.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '0.76',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['49_16'] =
+						{
+                                                rate_pair : '1.02145',
+                                                rate_type : '0',
+						currency_from_id : '49',
+						currency_to_id : '16',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '1000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'EXMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '0.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '7706.68',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'YAMRUB',
+							commision_system : '0.50',
+							commision_system_min : '0.00',
+							rate_nbu : '0.014618',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '12590.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					currencyPairsInfa['49_27'] =
+						{
+                                                rate_pair : '65.1',
+                                                rate_type : '1',
+						currency_from_id : '49',
+						currency_to_id : '27',
+						summ_commission_my_1 : '9999999.00',
+						commission_my_1 : '0.0000',
+						summ_commission_my_2 : '9999999.00',
+						commission_my_2 : '0.0000',
+						summ_commission_my_3 : '9999999.00',
+						commission_my_3 : '0.0000',
+						commission_my_4 : '0.0000',
+						commission_my_min : '0.00',
+                                                minsumma : '1000.000',
+                                                maxsumma : '100000.00',
+						from: {
+                                                        name_short_admin_from : 'EXMRUB',
+                                                        sys_comm_round_from : '1',
+							commision_system : '0.00',
+							commision_system_min :'0.00',
+							rate_nbu : '0.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '7706.68',
+                                                        after_comma: '8'
+						},
+						to: {
+                                                        name_short_admin_to : 'ADVCUSD',
+							commision_system : '0.00',
+							commision_system_min : '0.00',
+							rate_nbu : '1.000000',
+							rate_in : '1.0000',
+							rate_out : '1.0000',
+							def: '0.00',
+							available: '2113.74',
+                                                        after_comma: '2'
+
+						},
+						msg_available : 'Такой суммы нет в наличии',
+						operation_type : '1'
+						};
+					var baseCurrencyDollal = {
+						rate_nbu : '',
+						rate_in : '',
+						rate_out : ''
+					};
+                </script>
+    	<div class="clear"></div>
+    </div>
+    <div id="footer">
+        <div class="footer-content">
+           
+<a target="_blank" href="https://www.bestchange.ru/"><img style="filter: alpha(Opacity=0);float: right;
+        opacity: 1; "
+src="https://www.bestchange.ru/bestchange.gif"
+title=" BestChange.ru - Мониторинг обменников"
+alt="Обмен WebMoney, Приват24 и других валют"
+width="88" height="31" border="0" /></a>
+<!--<a target="_blank" href="https://domen.ua/"><img style="float: left; margin-left: 5px;"
+src="https://exchanger-em.com/pick.png"
+title="Мы принимаем ..."
+alt=""
+width="88" height="31" border="0" /></a>-->
+            
+            <div class="clear"></div>
+        </div>
+        <div class="footer-bottom">
+             
+            <p>&copy; Exchanger-em.com 2017-2019 <a href="https://exchanger-em.com/"></a> </p>
+         </div>
+    </div>
+            </div>
+             
+                             
+            
+
+<!-- (C) stat24 / Glavnaya stranitsa -->
+
+
+</body>
+</html>

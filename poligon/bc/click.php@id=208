@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Obmen.CC :: автоматический обмен электронных валют.</title>
+<meta name="keywords" content="обмен, автоматический обмен, yandex money, приват24, Exmo USD, Wex USD, Capitalist" />
+<meta name="description" content="автоматический обмен электронных валют Yandex Money, Приват 24, Exmo USD, Wex USD, OKPay, ADVCash, Capitalist." />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="5 days" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-language" content="ru" />
+<link rel="stylesheet" href="/build/css/app.243c8140.css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="default_locale" content="ru">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119400247" type="d61b04bb27c96936169f2675-text/javascript"></script>
+<script type="d61b04bb27c96936169f2675-text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-119400247');
+        gtag('set', 'anonymizeIp', true);
+    </script>
+</head>
+<body>
+<div class='svg-bg'>
+<header class='wrap'>
+<a href="/" class='logo'>
+<svg xmlns="http://www.w3.org/2000/svg" width="204" height="22">
+<use xlink:href="/build/images/sprite.a194bc56.svg#logo"></use>
+</svg>
+</a>
+<ul>
+<li>
+<a href="/news/">Новости</a>
+</li>
+<li>
+<a href="/rates">Курсы</a>
+</li>
+<li>
+<a href="/discount/">Скидки</a>
+</li>
+<li>
+<a href="/support" class="support-link">Поддержка</a>
+</li>
+<li>
+<a href="/login">
+<button class='btn white'>Вход</button>
+</a>
+</li>
+</ul>
+<script src="/build/js/app.09ca56a9.js" type="d61b04bb27c96936169f2675-text/javascript"></script>
+</header>
+<main class='wrap'>
+<section class='main-content'>
+<div class='left-side'>
+<h2>Моментальный обмен валют, минимальная комиссия</h2>
+<p>Обменивайте электронную валюту в пару коротких шагов. Создавайте аккаунт и мы сохраним всю историю ваших обменов.</p>
+</div>
+<div class='right-side form'>
+<form action="" method="post" id='exchange-form'>
+<div class='form-input input-button-group'>
+<label>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+<use xlink:href="/build/images/sprite.a194bc56.svg#o-out-currency"></use>
+</svg>
+Какую валюту меняете?
+</label>
+<ul class='button-group service-filter-in'>
+<li class='btn transparent' data-currency="USD">USD</li>
+<li class='btn transparent' data-currency="UAH">UAH</li>
+<li class='btn transparent' data-currency="RUB">RUB</li>
+<li class='btn transparent' data-currency="OTHER">Другие</li>
+</ul>
+</div>
+<div class='form-input'>
+<label>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="15">
+<use xlink:href="/build/images/sprite.a194bc56.svg#o-out-wallet"></use>
+</svg>
+Вывод средств из
+</label>
+<div class='form-input input-dropdown wallet-dd'>
+<div class='dropdown' id="dr_serviceIn">
+<select id="base_exchange_form_serviceIn" name="base_exchange_form[serviceIn]" required="required" style="display:none" class="form-control"><option value="" selected="selected">Отдаете</option> <option value="72" data-currency="OTHER" data-icon="advcash">Advcash EUR</option><option value="73" data-currency="RUB" data-icon="advcash">Advcash RUB</option><option value="71" data-currency="USD" data-icon="advcash">Advcash USD</option><option value="76" data-currency="RUB" data-icon="capitalist">Capitalist RUB</option><option value="69" data-currency="USD" data-icon="capitalist">Capitalist USD</option><option value="82" data-currency="USD" data-icon="payeer">Payeer USD</option><option value="78" data-currency="OTHER" data-icon="perfectmoney">PerfectMoney EUR</option><option value="77" data-currency="USD" data-icon="perfectmoney">PerfectMoney USD</option><option value="53" data-currency="RUB" data-icon="qiwi">Qiwi RUR</option><option value="58" data-currency="RUB" data-icon="yandex">Yandex Money RUR</option><option value="80" data-currency="USD" data-icon="exmo">Exmo USD</option><option value="81" data-currency="USD" data-icon="livecoin">Livecoin USD</option></select>
+<button class='dropdown-toggle' type="button">
+<span>Отдаете</span>
+<svg xmlns="http://www.w3.org/2000/svg">
+<use xlink:href="/build/images/sprite.a194bc56.svg#o-dd-opener"></use>
+</svg>
+</button>
+<ul class='dropdown-menu wallets'>
+</ul>
+</div>
+<p class="rate" style="display: none">Курс <span>1 EUR = 67.21906874 RUB</span></p>
+</div>
+</div>
+<div class='form-input input-button-group'>
+<label>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20">
+<use xlink:href="/build/images/sprite.a194bc56.svg#o-in-currency"></use>
+</svg>
+Какую валюту желаете получить?
+</label>
+<ul class='button-group service-filter-out'>
+<li class='btn transparent' data-currency="USD">USD</li>
+<li class='btn transparent' data-currency="UAH">UAH</li>
+<li class='btn transparent' data-currency="RUB">RUB</li>
+<li class='btn transparent' data-currency="OTHER">Другие</li>
+</ul>
+</div>
+<div class='form-input input-dropdown wallet-dd'>
+<label>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16">
+<use xlink:href="/build/images/sprite.a194bc56.svg#o-in-wallet"></use>
+</svg>
+Вывод средств на
+</label>
+<div class='dropdown' id="dr_serviceOut">
+<select id="base_exchange_form_serviceOut" name="base_exchange_form[serviceOut]" required="required" style="display:none" class="form-control"><option value="" selected="selected">Получаете</option> <option value="72" data-currency="OTHER" data-icon="advcash" data-store="26">Advcash EUR</option><option value="73" data-currency="RUB" data-icon="advcash" data-store="0">Advcash RUB</option><option value="71" data-currency="USD" data-icon="advcash" data-store="3536">Advcash USD</option><option value="76" data-currency="RUB" data-icon="capitalist" data-store="266">Capitalist RUB</option><option value="69" data-currency="USD" data-icon="capitalist" data-store="4613">Capitalist USD</option><option value="82" data-currency="USD" data-icon="payeer" data-store="4">Payeer USD</option><option value="78" data-currency="OTHER" data-icon="perfectmoney" data-store="5081">PerfectMoney EUR</option><option value="77" data-currency="USD" data-icon="perfectmoney" data-store="3789">PerfectMoney USD</option><option value="53" data-currency="RUB" data-icon="qiwi" data-store="403698">Qiwi RUR</option><option value="58" data-currency="RUB" data-icon="yandex" data-store="193595">Yandex Money RUR</option><option value="80" data-currency="USD" data-icon="exmo" data-store="8299">Exmo USD</option><option value="81" data-currency="USD" data-icon="livecoin" data-store="2041">Livecoin USD</option><option value="86" data-currency="UAH" data-icon="monobank" data-store="0">Monobank UAH</option><option value="51" data-currency="UAH" data-icon="privat" data-store="0">Privat 24 UAH</option><option value="87" data-currency="UAH" data-icon="pumb" data-store="0">ПУМБ UAH</option></select>
+<button class='dropdown-toggle' type="button">
+<span>Получаете</span>
+<svg xmlns="http://www.w3.org/2000/svg">
+<use xlink:href="/build/images/sprite.a194bc56.svg#o-dd-opener"></use>
+</svg>
+</button>
+<ul class='dropdown-menu wallets'></ul>
+</div>
+</div>
+<input class='btn purple' type='submit' value='Оформить обмен' />
+</form>
+</div>
+</section>
+<section class='reviews'>
+<p>Отзывы
+<a class="btn btn-success transparent" href="/comments">Все отзывы</a>
+</p>
+<div class='review-list'>
+<div class='review'>
+<p>nikk****@gmail.com <span class='date'>2019-03-17</span></p>
+<p class='text'>Отличный обменник! Просто мгновенно обменяли!</p>
+</div>
+<div class='review'>
+<p>luda1****@mail.ru <span class='date'>2019-02-09</span></p>
+<p class='text'>Заявка выполнена за несколько секунд! Отличная работа! Больш
+ое спасибо!</p>
+</div>
+<div class='review'>
+<p>627****@gmail.com <span class='date'>2019-02-01</span></p>
+<p class='text'>все класс!</p>
+</div>
+<div class='review'>
+<p>ve****@mail.ru <span class='date'>2019-01-28</span></p>
+<p class='text'>Спасибо! Все классно! Быстро, без проблем!</p>
+</div>
+<div class='review'>
+<p>ve****@mail.ru <span class='date'>2019-01-26</span></p>
+<p class='text'>Спасибо! Все супер! Пара сек. и деньги переведены!!!</p>
+</div>
+<div class='review'>
+<p>Yaros****@gmail.com <span class='date'>2019-01-25</span></p>
+<p class='text'>Дуже задоволений обміном, робив обмін Perfect Money на карту
+monobanka. Обмін зайняв 1.5 хв. з моменту подання заяви до
+отримання коштів.</p>
+</div>
+<div class="for_review_btn">
+<a class="btn btn-success reviewsAddBtn">Оставить отзыв</a>
+</div>
+</div>
+</section>
+</main>
+</div>
+<footer>
+<ul class="wrap">
+<li>
+<a href='https://obmen.cc/info/rules'>Правила</a>
+</li>
+<li>
+<a href='https://obmen.cc/info/regulations'>Регламент</a>
+</li>
+<li>
+<a href='https://obmen.cc/info/privacy'>Privacy</a>
+</li>
+<li>
+<a href='https://obmen.cc/info/partner_program'>Партнерам</a>
+</li>
+<li>
+<a href="/support" class="support-link">Поддержка</a>
+</li>
+<li>
+<a href="/contacts" data-toggle="ajax-modal">Контакты</a>
+</li>
+<li>
+<div id="language-list-wrapper">
+<select id="language-list-select" style="color: black">
+<option value="ru" selected>Ru</option>
+<option value="en">En</option>
+</select>
+ </div>
+</li>
+<li>&copy; 2013-2019 obmen.cc</li>
+</ul>
+</footer>
+<div class='modal-overlay' id="reviewsAddModal" style="display: none">
+<div class='modal-content'>
+<h4>Отзыв
+<span class="close-overlay" aria-label="close"></span>
+</h4>
+<div class="error-msg">
+Для того что бы оставить отзыв вы должны завершить минимум 1 обмен
+</div>
+<button class="btn btn-big purple reviewsAddBtn">Закрыть</button>
+</div>
+</div>
+</div>
+<script type="d61b04bb27c96936169f2675-text/javascript">
+        $(document).ready(function () {
+            window.spriteFile = '/build/images/sprite.a194bc56.svg';
+            preparePaymentsSelect('base_exchange_form_serviceIn');
+            preparePaymentsSelect('base_exchange_form_serviceOut');
+        });
+    </script>
+<div id="modalbg">
+<div id="support_box" class="modal-box" style="transform: translate3d(0px, 0px, 0px);">
+<div class="info_box">
+<p>Выберите любой удобный способ связи и мы максимально оперативно решим ваш вопрос!</p>
+</div>
+<div class="support_btns">
+<a href="tg://resolve?domain=obmen404">
+<svg xmlns="http://www.w3.org/2000/svg">
+<use xlink:href="/build/images/sprite.a194bc56.svg#sp_tg"></use>
+</svg>
+</a>
+<a href="viber://chat?number=380674217121">
+<svg xmlns="http://www.w3.org/2000/svg">
+<use xlink:href="/build/images/sprite.a194bc56.svg#sp_vb"></use>
+</svg>
+</a>
+<a href="/cdn-cgi/l/email-protection#a2d1d7d2d2cdd0d6e2cdc0cfc7cc8cc1c19dd1d7c0c8c7c1d69ff9f1d7d2d2cdd0d682d6cbc1c9c7d6ff82cdc0cfc7cc8cc1c1">
+<svg xmlns="http://www.w3.org/2000/svg">
+<use xlink:href="/build/images/sprite.a194bc56.svg#sp_ml"></use>
+</svg>
+</a>
+<a href="whatsapp://send?phone=+380674217121">
+<svg xmlns="http://www.w3.org/2000/svg">
+<use xlink:href="/build/images/sprite.a194bc56.svg#sp_wh"></use>
+</svg>
+</a>
+</div>
+<div class="support_close">
+<div class="info_box">
+<p>Тех. поддержка работает с 9:00 до 18:00; сб и вс - свободный график (обращения обрабатываются 2 раза в день)</p>
+</div>
+<a href="#">Закрыть</a>
+</div>
+</div>
+</div>
+<div class="gdpr">
+<div class="wrap">Сервис obmen.cc собирает и обрабатывает персональную информацию посетителей в соответствии с <a href='https://obmen.cc/info/privacy'>политикой конфиденциальности</a>. Если вы продолжаете пользоваться ресурсом, вы соглашаетесь с данной политикой. <button>Прочитал и согласен</button></div>
+</div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="d61b04bb27c96936169f2675-|49" defer=""></script></body>
+</html>

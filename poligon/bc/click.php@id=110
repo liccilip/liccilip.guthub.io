@@ -1,0 +1,3723 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta content="telephone=no" name="format-detection">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+<title>wmt24 Сервис обмена интернет-валют и расчетов в сети Интернет</title>
+<script type="text/javascript" src="/js/jquery.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.5.3/jquery-ui.min.js" ></script>
+<script type="text/javascript" src="/js/tabs.js" charset="utf-8"></script>
+  <script type="text/javascript" src="/wm_soft/scripts/jquery.ac1.js"></script>
+<meta name='yandex-verification' content='5aa98e2472b2aed3' />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="обмен yandex на webmoney. обмен webmoney на яндекс деньги. обмен яндекс денег на webmoney. обмен webmoney на яндекс. обменять яндекс на вебмани. обменять яндекс деньги на вебмани. обмен вебмани на яндекс. обмен денег вебмани на яндекс. обмен вебмани на яндекс деньги. обмен яндекс денег на wmr. обмен wmr на яндекс деньги. обменять wmr на яндекс деньги. обмен wm на яндекс деньги. обмен яндекс денег на wmz. обмен wmz на яндекс деньги. обмен wmz на яндекс. обмен яндекс на wmz" />
+<meta name="description" content="Расчетный сервис WMT24 предлагает услуги по вводу и выводу средств из платежных систем WebMoney и Яндекс.Деньги. Мы осуществляем обмен интернет-валют WM. У нас вы можете обменять WMR, WMZ, WME и Яндекс.Деньги, а также пополнить счета и сделать различные платежи." />
+<link href="/bitrix/cache/css/s1/wmt/kernel_main/kernel_main.css?14501122845560" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/wmt/template_187fcaa20546f9549749fd72733da2ef/template_187fcaa20546f9549749fd72733da2ef.css?146426376654924" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1552902876','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'922df764fbbd80a9e9add02627c8a315'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/wmt/kernel_main/kernel_main.js?1450112284278019"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?143171734097612','/bitrix/js/main/core/core_ajax.js?143171733735278','/bitrix/js/main/json/json2.min.js?13439065773467','/bitrix/js/main/core/core_ls.js?141044477910330','/bitrix/js/main/session.js?14317172343170','/bitrix/js/main/core/core_window.js?141044478496525','/bitrix/js/main/utils.js?141044422430972']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14317173375336','/bitrix/templates/wmt/styles.css?146426376431093','/bitrix/templates/wmt/template_styles.css?144952383223597']); </script>
+
+
+<script type="text/javascript">
+bxSession.Expand(1440, '922df764fbbd80a9e9add02627c8a315', false, 'd92ceab7abcd7e44e373508b3c4b7cc0');
+</script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "2089e46d55464b5409bb8aed33293923"]); _ba.push(["host", "wmt24.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+<!--
+<script type="text/javascript"> _shcp = []; _shcp.push({widget_id : 497932, widget : "Chat"}); (function() { var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true; hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://widget.siteheart.com/apps/js/sh.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hcc, s.nextSibling); })();</script>
+    -->
+</head>
+<body>
+<div id="panel"></div>
+<div id="all">
+
+<div id="header">
+	<div class="c1">
+		<div id="logo">
+			<span class="logo"><a href="http://wmt24.ru"><img src="/images/data/logo.png" alt="Лого"></a></span>
+			<!--<div class="deal">Сервис обмена интернет-валют и расчетов в сети Интернет</div>-->
+		</div>
+	</div>
+	<div class="c2">
+		<div class="business-level">
+			<div class="items">
+				<p>Business Level</p>
+				<p>WMID <a target=_blank rel="nofollow" href="http://passport.webmoney.ru/asp/certview.asp?wmid=117687893439"><span style="text-decoration: underline; color:#fff;">117687893439</span></a></p>
+			</div>
+			<div class="icon">
+<span class=bl>2520</span>			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="email"><script type="text/javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%77%6d%74%32%34%2e%72%75%22%3e%69%6e%66%6f%40%77%6d%74%32%34%2e%72%75%3c%2f%61%3e%27%29%3b'))</script></div>
+	</div>
+	<div class="c3">
+		<div class="support_service"><a href="http://wmt24.ru/contacts/" class="time_work">Без выходных с 10:00 до 21:00 (по МСК)</a>:</div>
+		<div class="telefon">8 917 917-15-15</div>
+		<div class="call">       <!--
+		<button class="mangotele_btn no-livequery" id="zingayaButton03d90b70a92c4341ac66f2ed79d5d89d" onclick="window.open('https://zingaya.com/widget/03d90b70a92c4341ac66f2ed79d5d89d?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false;">Позвонить с сайта</button>
+		--></div>
+	</div>
+
+<script>
+var ZingayaConfig = {"buttonLabel":"Позвонить Онлайн","labelColor":"#13487f","labelFontSize":15,"labelTextDecoration":"none","labelFontWeight":"bold","labelShadowDirection":"bottom","labelShadowColor":"#8fd3ec","labelShadow":0,"buttonBackgroundColor":"#68c3f0","buttonGradientColor1":"#68c3f0","buttonGradientColor2":"#5bbaee","buttonGradientColor3":"#5fbdef","buttonGradientColor4":"#62bfef","buttonShadow":"true","buttonHoverBackgroundColor":"#69ad26","buttonHoverGradientColor1":"#30b3f1","buttonHoverGradientColor2":"#2aa8ef","buttonHoverGradientColor3":"#2cacf0","buttonHoverGradientColor4":"#2daef0","buttonActiveShadowColor1":"#BAE8FF","buttonActiveShadowColor2":"#09608C","buttonCornerRadius":2,"buttonPadding":10,"iconColor":"#fff","iconOpacity":1,"iconDropShadow":0,"iconShadowColor":"#13487f","iconShadowDirection":"bottom","iconShadowOpacity":0.5,"callme_id":"03d90b70a92c4341ac66f2ed79d5d89d","poll_id":null,"analytics_id":null,"zid":"354ceb6cd10471b67b540a1aa09fa7b3","type":"button","widgetPosition":"right","plain_html":false,"save":1};
+(function(d, t) {
+    var g = d.createElement(t),s = d.getElementsByTagName(t)[0];g.src = '//d1bvayotk7lhk7.cloudfront.net/js/zingayabutton.js';g.async = 'true';
+        g.onload = g.onreadystatechange = function() {
+        if (this.readyState && this.readyState != 'complete' && this.readyState != 'loaded') return;
+        try {Zingaya.load(ZingayaConfig, 'zingaya03d90b70a92c4341ac66f2ed79d5d89d'); if (!Zingaya.SVG()) {
+                var p = d.createElement(t);p.src='//d1bvayotk7lhk7.cloudfront.net/PIE.js';p.async='true';s.parentNode.insertBefore(p, s);
+                p.onload = p.onreadystatechange = function() {
+                        if (this.readyState && this.readyState != 'complete' && this.readyState != 'loaded') return;
+                        if (window.PIE) PIE.attach(document.getElementById("zingayaButton"+ZingayaConfig.callme_id));
+        }}} catch (e) {}};
+    s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+
+</script>
+
+	<div class="c4">
+		<div> <!--<a href="#" title="Внимание: В РАЗРАБОТКЕ!">Проверить статус платежа</a>--> </div>
+		<div class="login"><a href="https://wmt24.ru/?wm_mod=auth&action=auth" style="font-weight:bold;">Личный кабинет</a><br>
+        	<a href="https://wmt24.ru/?wm_mod=auth&action=register" style="font-size:80%">Регистрация</a> <a href="https://wmt24.ru/?wm_mod=auth&action=who_register" style="font-size:80%">Зачем нужна регистрация</a></div>
+		<div class="loginreg"> <!--<a href="#" title="Внимание: В РАЗРАБОТКЕ!">Регистрация</a> &nbsp; <a href="#" title="Внимание: В РАЗРАБОТКЕ!">Зачем нужна регистрация?</a>--> </div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="menu">
+	
+<ul>
+
+			<li><a href="http://wmt24.ru">Главная</a></li>
+	
+			<li><a href="http://wmt24.ru/partnership/">Партнерство</a></li>
+	
+			<li><a href="http://wmt24.ru/contacts/">Контакты</a></li>
+	
+<!--<li class="select-city-new"><a href="#" id="select-city-new-st" class="new-select-city-li" style="font-size:14px;color:#CC0000">Ваш город...</a></li> -->
+	</ul>
+<div class="clear"></div>
+</div>
+
+<script type="text/javascript" src="/wm_soft/scripts/cusel-min-2.5.js"></script>
+ <link rel="stylesheet" type="text/css" href="/wm_soft/scripts/cusel.css"></link>
+<script type="text/javascript" src="/bitrix/templates/wmt/js/scripts.js"></script>
+
+<div class="your_city_dialog-new" style="display:none">
+
+<div id="close_city_dialog-new" class="close_new_d1"><a href="" > </a></div>
+<div class="city-d-content">
+<h1>Ваш город</h1>
+<div class="left-line-dc">
+<div class="poisk-po">Поиск города по названию:</div>
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){
+              jQuery('#u245_f').suggest('/wm_soft/modules/table_tarifs/ajax_table_region.php',{
+                resultDiv:'.region_input_f',
+                countryDiv:'.in_region_select [name=country]'
+              });
+            });
+//--><!]]>
+
+
+</script>
+
+<div class="test_scr"><form action="/gorod/city.php" method="GET" class="form_out_imenu">  <input type="hidden" value="out" name="type_i" />
+    <div class="left-fragment">
+<!--Выбор страны-->
+
+<!--Выбор страны-->
+
+      <div class="country_select">
+        <div id="u243" class="u243 vash_gorod">
+          <p>ваш город</p>
+        </div>
+
+        <div class="in_region_select" id="in_region_select">
+
+          <select name="country" class="strana_value" id="strana_value">
+        <option value=Россия >Россия</option><option value=Казахстан >Казахстан</option><option value=Абхазия >Абхазия</option><option value=Азербайджан >Азербайджан</option><option value=Армения >Армения</option><option value=Беларусь >Беларусь</option><option value=Грузия >Грузия</option><option value=Кыргызстан >Кыргызстан</option><option value=Латвия >Латвия</option><option value=Молдова >Молдова</option><option value=Монголия >Монголия</option><option value=Таджикистан >Таджикистан</option><option value=Филлипины >Филлипины</option><option value=Эстония >Эстония</option><option value=Южная Осетия >Южная Осетия</option>        </select> </div>
+
+        <div class="region_div"> <input id="u245_f" name="data_in" type="text" value="" class="u245" />
+          <div class="region_input_f"></div>
+         </div>
+       </div>
+
+<!--Выбор страны-->
+ <input type="submit" name="submit" id="dalee_city"  class="dalee_city" value="Далее" >
+ </div>
+
+  </form></div>
+</div>
+
+<div class="right-line-dc"><a href="" >Поиск города через выбор региона</a></div>
+<!-- Список популярных городов -->
+<div class="cities-list-pop">
+	<div class="cl-pop-column">
+		<table id="city-single-rows">
+			<tr><td class="first">А</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Абакан, Республика Хакасия">Абакан</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Анадырь, Чукотский АО">Анадырь</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Архангельск, Архангельская область">Архангельск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Астрахань, Астраханская область">Астрахань</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ачинск, Красноярский край">Ачинск</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Б</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Барнаул, Алтайский край">Барнаул</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Белгород, Белгородская область">Белгород</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Биробиджан, Еврейская АО">Биробиджан</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Благовещенск, ">Благовещенск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Брянск, Брянская область">Брянск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Батайск, Ростовская область">Батайск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Бийск, Алтайский край">Бийск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Братск, Иркутская область">Братск</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">В</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Великий Новгород, Новгородская область">Великий Новгород</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Вологда, Вологодская область">Вологда</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Волгоград, Волгоградская область">Волгоград</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Воронеж, Воронежская область">Воронеж</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Владивосток, Приморский край">Владивосток</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Владимир, Владимирская область">Владимир</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Владикавказ, ">Владикавказ</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Волжск, Республика Марий Эл">Волжск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Воткинск, Удмуртская Республика">Воткинск</a></td></tr>
+		</table>
+	</div>
+	<div class="cl-pop-column">
+		<table id="city-single-rows">
+			<tr><td class="first">Г</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Горно-Алтайск, Алтайский край">Горно-Алтайск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Грозный, Чеченская Республика">Грозный</a></td></tr>
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Д</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Дзержинск, Нижегородская область">Дзержинск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Дивногорск, Красноярский край">Дивногорск</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Е</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Екатеринбург, Свердловская область">Екатеринбург</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Енисейск, Красноярский край">Енисейск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Елец, Липецкая область">Елец</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Елабуга, Республика Татарстан">Елабуга</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ейск, Краснодарский край">Ейск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ессентуки, Ставропольский край">Ессентуки</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Ж</td></tr>
+						<tr><td><a  target=_blank href="/gorod/city.php?data_in=Железногорск, ">Железногорск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Жуковский, Московская область">Жуковский</a></td></tr>
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">З</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Зеленоград, ">Зеленоград</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Златоуст, Челябинская область">Златоуст</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Зеленогорск, ">Зеленогорск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Заинск, Республика Татарстан">Заинск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Зеленодольск, ">Зеленодольск</a></td></tr>		</table>
+
+	</div>
+	<div class="cl-pop-column">
+		<table id="city-single-rows">
+			<tr><td class="first">И</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Иркутск, Иркутская область">Иркутск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Иваново, Ивановская область">Иваново</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Йошкар-Ола, Республика Марий Эл">Йошкар-Ола</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ижевск, Удмуртская Республика">Ижевск</a></td></tr>
+
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">К</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Казань, Республика Татарстан">Казань</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Калининград, Калининградская область">Калининград</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Кемерово, Кемеровская область">Кемерово</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Киров, ">Киров</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Комсомольск-на-Амуре, Хабаровский край">Комсомольск-на-Амуре</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Краснодар, Краснодарский край">Краснодар</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Красноярск, Красноярский край">Красноярск</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Л</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Липецк, Липецкая область">Липецк</a></td></tr>
+
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">М</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Магадан, Магаданская область">Магадан</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Магас, ">Магас</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Майкоп, Республика Адыгея">Майкоп</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Махачкала, Республика Дагестан">Махачкала</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Москва, г.Москва">Москва</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Мурманск, Мурманская область">Мурманск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Магнитогорск, Челябинская область">Магнитогорск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Минеральные Воды, Ставропольский край">Минеральные Воды</a></td></tr>
+		</table>
+	</div>
+	<div class="cl-pop-column">
+		<table id="city-single-rows">
+			<tr><td class="first">Н</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Набережные Челны, Республика Татарстан">Набережные Челны</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Нальчик, Кабардино-Балкарская Республика">Нальчик</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Нарьян-Мар, Ненецкий АО">Нарьян-Мар</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Находка, Приморский край">Находка</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Нижний Новгород, Нижегородская область">Нижний Новгород</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Нижний Тагил, Свердловская область">Нижний Тагил</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Новокузнецк, Кемеровская область">Новокузнецк</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Новосибирск, Новосибирская область">Новосибирск</a></td></tr>		</table>
+
+		<table id="city-single-rows">
+			<tr><td class="first">О</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Омск, Омская область">Омск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Орел, ">Орел</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Оренбург, Оренбургская область">Оренбург</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Орехово-Зуево, Московская область">Орехово-Зуево</a></td></tr>
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">П</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Пенза, Пензенская область">Пенза</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Пермь, Пермский край">Пермь</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Пятигорск, Ставропольский край">Пятигорск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Петропавловск-Камчатский, Камчатский край">Петропавловск-Камчатский</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Псков, Псковская область">Псков</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Петрозаводск, Республика Карелия">Петрозаводск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Первоуральск, Свердловская область">Первоуральск</a></td></tr>
+		</table>
+	</div>
+	<div class="cl-pop-column">
+		<table id="city-single-rows">
+			<tr><td class="first">Р</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Ревда, ">Ревда</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ростов-на-Дону, Ростовская область">Ростов-на-Дону</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Рязань, Рязанская область">Рязань</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Рыбинск, Ярославская область">Рыбинск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Реутов, Московская область">Реутов</a></td></tr>
+
+
+		</table>
+
+		<table id="city-single-rows">
+			<tr><td class="first">С</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Самара, Самарская область">Самара</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Санкт-Петербург, г.Санкт-Петербург">Санкт-Петербург</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Саратов, Саратовская область">Саратов</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ставрополь, Ставропольский край">Ставрополь</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Стерлитамак, Республика Башкортостан">Стерлитамак</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Старый Оскол, Белгородская область">Старый Оскол</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Смоленск, Смоленская область">Смоленск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Салехард, Ямало-Ненецкий АО">Салехард</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Саранск, Республика Мордовия">Саранск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Сыктывкар, Республика Коми">Сыктывкар</a></td></tr>
+		</table>
+
+		<table id="city-single-rows">
+			<tr><td class="first">Т</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Тамбов, Тамбовская область">Тамбов</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Тверь, Тверская область">Тверь</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Тула, Тульская область">Тула</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Томск, Томская область">Томск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Тюмень, Тюменская область">Тюмень</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Таганрог, Ростовская область">Таганрог</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Тобольск, Тюменская область">Тобольск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Тольятти, Самарская область">Тольятти</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Томск, Томская область">Томск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Тюмень, Тюменская область">Тюмень</a></td></tr>
+		</table>
+	</div>
+	<div class="cl-pop-column">
+		<table id="city-single-rows">
+			<tr><td class="first">У</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Улан-Удэ, Республика Бурятия">Улан-Удэ</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ульяновск, Ульяновская область">Ульяновск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Уфа, Республика Башкортостан">Уфа</a></td></tr>
+
+		</table>
+
+		<table id="city-single-rows">
+			<tr><td class="first">Х</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Хабаровск, Хабаровский край">Хабаровск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ханты-Мансийск, Ханты-Мансийский АО - Югра">Ханты-Мансийск</a></td></tr>		</table>
+
+		<table id="city-single-rows">
+			<tr><td class="first">Ч</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Чебоксары, Чувашская Республика">Чебоксары</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Челябинск, Челябинская область">Челябинск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Черкесск, ">Черкесск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Чита, Забайкальский край">Чита</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Ш</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Шадринск, Курганская область">Шадринск</a></td></tr>		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Щ</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Щелково, Московская область">Щелково</a></td></tr>
+
+
+
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Э</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Энгельс, Саратовская область">Энгельс</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Элиста, Республика Калмыкия">Элиста</a></td></tr>
+
+
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Ю</td></tr>
+			<tr><td><a  target=_blank href="/gorod/city.php?data_in=Южно-Сахалинск, Сахалинская область">Южно-Сахалинск</a></td></tr>
+
+
+
+		</table>
+		<table id="city-single-rows">
+			<tr><td class="first">Я</td></tr>
+					<tr><td><a  target=_blank href="/gorod/city.php?data_in=Якутск, Республика Саха (Якутия)">Якутск</a></td></tr><tr><td><a  target=_blank href="/gorod/city.php?data_in=Ярославль, Ярославская область">Ярославль</a></td></tr>		</table>
+	</div>
+</div>
+<!-- Список популярных городов -->
+<!-- Тайланд - список городов -->
+
+
+
+
+	<div class="city-d-content-tai" style="display:none">
+		<h1 style="clear:both">Тайланд</h1>
+		<div class="cl-pop-column">
+			<table id="city-single-rows">
+				<tr><td class="first">Х</td></tr>
+				<tr><td><a  target=_blank href="/gorod/city.php?data_in=Хуа Хин, ">Хуа Хин</a></td></tr>			</table>
+		</div>
+	</div>
+
+<!-- Тайланд - список городов -->
+
+<!-- Казахстан - список городов -->
+
+
+
+	<div class="city-d-content-kaz" style="display:none">
+		<h1 style="clear:both">Казахстан</h1>
+		<div class="cl-pop-column">
+			<table id="city-single-rows">
+					<tr><td class="first">У</td></tr>
+					<tr><td><a href="/gorod/city.php?data_in=Уральск, Западно-Казахстанская область">Уральск</a></td></tr>
+							</table>
+		</div>
+	</div>
+
+<!-- Казахстан - список городов -->
+
+<div id="line_c_u18"></div>
+<h1 class="our-countrys-new" style="clear:both">Страны нашего присутствия</h1>
+
+<div class="cl-pop-column">
+<table id="city-single-rows"><tr><td><a href="#" id="tai-click"></a></td></tr></table>
+</div>
+<!--
+<div class="cl-pop-column">
+<table id="city-single-rows"><tr><td><a href="#" id="kaz-click">Казахстан</a></td></tr></table>
+</div> -->
+<div class="cl-pop-column">
+<table id="city-single-rows"><tr><td><a href="#" id="rus-click">Россия</a></td></tr></table>
+</div>
+<div class="cl-pop-column">
+
+</div>
+<div class="cl-pop-column">
+
+</div>
+<div class="cl-pop-column">
+	<script type="text/javascript">
+jQuery(document).ready(function(){
+var params = {
+    changedEl: "#strana_value_new ",
+    visRows: 5,
+    scrollArrows: false
+  }
+  /*cuSel(params); */
+}); </script>
+	<table id="city-single-rows"><tr><td> <select name="country" class="others-country" id="strana_value_new"><option value="" selected="selected">Другие страны</option> <option value=Россия >Россия</option><option value=Казахстан >Казахстан</option><option value=Абхазия >Абхазия</option><option value=Азербайджан >Азербайджан</option><option value=Армения >Армения</option><option value=Беларусь >Беларусь</option><option value=Грузия >Грузия</option><option value=Кыргызстан >Кыргызстан</option><option value=Латвия >Латвия</option><option value=Молдова >Молдова</option><option value=Монголия >Монголия</option><option value=Таджикистан >Таджикистан</option><option value=Филлипины >Филлипины</option><option value=Эстония >Эстония</option><option value=Южная Осетия >Южная Осетия</option></select></td></tr></table>
+</div>
+</div>
+
+</div>
+<div class="your_city_dialog-new2" style="display:none">
+
+<div id="close_city_dialog-new" class="close_new2"><a href="" > </a></div>
+<div class="city-d-content">
+<h1>Ваш регион</h1>
+<div class="left-line-dc"></div><div class="right-line-dc search-by-name"><a href="" >Поиск города по названию</a></div>
+<!-- ajax - comeback -->
+<div class="cities-ajax" style="display:none;clear: both"></div>
+<!-- колонки -->
+<div class="cities-list-pop">
+<style type="text/css">
+.row-ajax-sk-2 {
+float: left;
+width: 210px;
+padding: 5px;
+}
+</style>
+<div class="regions-label">Области и автономные округа:</div><div class="respubliki">Республики:</div><div class="kraya-div">Края:</div>
+<div class="column-regions-tree" style="width:466px">
+  	 	 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="0">Воронежская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="1">Белгородская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="2">Липецкая область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="3">Тамбовская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="4">Орловская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="5">Курская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="6">Свердловская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="7">Челябинская область</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="9">Курганская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="10">Иркутская область</a></div>
+		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="16">Магаданская область</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="19">Чукотский АО</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="21">Московская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="22">Тульская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="23">Брянская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="24">Рязанская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="25">Тверская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="26">Калужская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="27">Смоленская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="28">Нижегородская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="29">Кировская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="30">Владимирская область</a></div>
+		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="34">Новосибирская область</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="36">Западно-Казахстанская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="37">Кемеровская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="38">Томская область</a></div>
+		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="43">Ростовская область</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="46">Самарская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="47">Ульяновская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="48">Волгоградская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="49">Саратовская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="50">Оренбургская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="51">Пензенская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="52">Астраханская область</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="54">Калининградская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="55">Мурманская область</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="57">Новгородская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="58">Псковская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="59">Ленинградская область</a></div>
+		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="68">Тюменская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="69">Ямало-Ненецкий АО</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="70">Ханты-Мансийский АО - Югра</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="71">Омская область</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="73">Еврейская АО</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="74">Сахалинская область</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="76">Амурская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="77">Ярославская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="78">Ненецкий АО</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="79">Архангельская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="80">Вологодская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="81">Ивановская область</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="82">Костромская область</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="85">Читинская область</a></div>
+		</div>
+<div class="column-regions-tree" style="width:183px">
+
+ 	 	 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="8">Республика Башкортостан</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="11">Республика Бурятия</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="14">Республика Тыва</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="15">Республика Хакасия</a></div>
+		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="17">Республика Саха (Якутия)</a></div>
+		 		 		 		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="31">Республика Мордовия</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="32">Республика Марий Эл</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="33">Республика Татарстан</a></div>
+		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="41">Республика Коми</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="42">Удмуртская Республика</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="45">Республика Адыгея</a></div>
+		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="56">Республика Карелия</a></div>
+		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="61">Республика Калмыкия</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="62">Карачаево-Черкесская Республика</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="63">Республика Дагестан</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="64">Кабардино-Балкарская Республика</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="65">Республика Северная Осетия - Алания</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="66">Республика Ингушетия</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="67">Чеченская Республика</a></div>
+		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="83">Чувашская Республика</a></div>
+		 		 		</div>
+
+<div class="column-regions-tree" style="width:100px">
+
+ 	 	 		 		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="12">Забайкальский край</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="13">Красноярский край</a></div>
+		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="18">Камчатский край</a></div>
+		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="39">Алтайский край</a></div>
+		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="40">Пермский край</a></div>
+		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="44">Краснодарский край</a></div>
+		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="60">Ставропольский край</a></div>
+		 		 		 		 		 		 		 		 		 		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="72">Хабаровский край</a></div>
+		 		 		 			<div class="row-ajax-sk-2"><a href="" class="show_next_dialog_resp" rel="75">Приморский край</a></div>
+		 		 		 		 		 		 		 		 		 		 		</div>
+
+</div>
+<!-- колонки end -->
+
+<!-- переход по республике -->
+<div class="cities-list-pop-resp" style="display:none">
+<div class="white-hr"></div>
+<div class="comebackline"><a href="" class="back-to-region">Вернуться к выбору региона</a></div>
+<div class="column-regions-tree" style="width:1000px">
+	<div class="loading-ajax" style="display:none"> </div>
+<div id="city-single-rows" class="in-ajax-results"></div>
+</div>
+
+</div>
+<!-- переход по республике -->
+</div>
+
+</div>
+
+<div id="page" class="default" >
+
+<script type="text/javascript" src="/js/table3.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+var params = {
+    changedEl: ".in_region_select select , .in_region_select2 select",
+    visRows: 5,
+    scrollArrows: true
+  }
+  /*cuSel(params); */
+});
+
+$(document).ready(function(){
+$('.out_country_select').hide();
+     //juridical lica in
+  $("#fragment-2 .person-type").change(function()
+  {
+      if($("#fragment-2 input:radio[name=person-type]:checked").val()=="ur"
+      || $("#fragment-2 input:radio[name=person-type]:checked").val()=="ip")
+      {
+      $(".country_select").hide();
+      $(".in_variants").hide();
+      $(".in_selelctOtdaete").hide();
+      $(".in_title_otdaete").hide();
+      $("#vvod-submit").removeAttr("disabled");
+
+      }
+      else
+      {
+        $(".in_selelctOtdaete").show();
+        $(".in_title_otdaete").show();
+        $(".in_selelctOtdaete :first").attr("selected", "selected");
+        $("#vvod-submit").attr("disabled", "true");
+      }
+    });
+
+
+  $(".in_selelctOtdaete :first").attr("selected", "selected");
+  $("#vvod-submit").attr("disabled", "true");
+
+  $(".in_kak_eto").click(function()
+  {
+    $("#kak_eto_block").show();
+    return false;
+  });
+
+  $("#kak_eto_block_hide").click(function()
+  {
+    $("#kak_eto_block").hide();
+    return false;
+  });
+
+  $(".in_selelctOtdaete").change(function()
+  {
+    if($(".in_selelctOtdaete option:selected").val()=="nal")
+    {
+      $(".country_select").show();
+
+      $("#vvod-submit").attr("disabled", "true");
+    }
+    else
+    {
+      $(".country_select").hide();
+      $(".in_variants").hide();
+      $("#vvod-submit").removeAttr("disabled");
+    }
+  });
+
+
+
+        jQuery("#u245").focusout
+        (
+
+
+            function(){
+                    setTimeout(function() {
+          var options = {
+                url: '/wm_soft/modules/table_tarifs/ajax_table_punkts.php?RND='+Math.random(),
+                type: "POST",
+                data: jQuery(".form_in_imenu").serializeArray(),
+                beforeSend: function()
+                {
+              //jQuery('#divCheckLoad').css('display','block');
+
+            },
+                  error: function()
+                {
+              jQuery("#select_region").html('Сервис временно не доступен');
+            },
+
+              success:
+                  function(msg) {
+
+
+                  //jQuery('#divCheckLoad').css('display','none');
+                  jQuery(".in_variants_div").html(msg);
+
+
+                          }
+                };
+                        // alert($('#u245').val());
+                        jQuery.ajax(options);
+                              },500);
+
+                              if($('#u245').val()!="")
+                              {
+                                $(".in_variants").show();
+                              }
+
+                          return false;
+              }
+
+              );
+
+});
+
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){
+              jQuery('#u245').suggest('/wm_soft/modules/table_tarifs/ajax_table_region.php',{
+                resultDiv:'.region_input',
+                countryDiv:'.in_region_select [name=country]'
+              });
+
+            });
+//--><!]]>
+$(document).ready(function(){
+ 	$('.switchplashka2').click(function(){
+
+ 		     $(".ui-tabs-nav-item").removeClass("ui-tabs-selected");
+ 	         $("#nav-fragment-1a").addClass("ui-tabs-selected");
+ 	});
+ 	$('.switchplashka1').click(function(){
+
+ 		     $(".ui-tabs-nav-item").removeClass("ui-tabs-selected");
+ 		     $("#nav-fragment-1").addClass("ui-tabs-selected");
+
+ 	});
+ 	$('.switchplashkaIP').click(function(){
+
+ 		     $(".ui-tabs-nav-item").removeClass("ui-tabs-selected");
+ 		     $("#nav-fragment-2a").addClass("ui-tabs-selected");
+
+ 	});
+ 	$('.switchplashkaUR').click(function(){
+
+ 		     $(".ui-tabs-nav-item").removeClass("ui-tabs-selected");
+ 		     $("#nav-fragment-3a").addClass("ui-tabs-selected");
+
+ 	});
+
+ });
+ 	function allCityRF()
+ 	{
+    				$(".ui-tabs-nav-item").removeClass("ui-tabs-selected");
+ 	         		$("#nav-fragment-6").addClass("ui-tabs-selected");
+ 	         		$(".ui-tabs-panel").hide();
+ 	         		$("#fragment-6").show();
+ 	}
+</script>
+
+<div id="featured">
+  <ul class="ui-tabs-nav">
+    <li class="ui-tabs-nav-item resetcustom" id="nav-fragment-1"> <a href="#fragment-1" onclick="SwitchOption('fiz');" class=switchplashka1>Обменные операции</a> </li>
+
+    <!-- <li class="ui-tabs-nav-item" id="nav-fragment-6"> <a href="#fragment-6" id="pinkts_displayQ" >В любом городе России</a> </li>   -->
+   <!--   <li class="ui-tabs-nav-item" id="nav-fragment-1a"><a  href="#fragment-1" onclick="SwitchOption('econom');" class=switchplashka2>Экономичный вывод</a></li> -->
+    <li class="ui-tabs-nav-item" id="nav-fragment-8"> <a href="#fragment-8" >Условия и сроки обмена</a> </li>
+	 <!--<li class="ui-tabs-nav-item" id="nav-fragment-2a"><a id="bxid_71876" href="#fragment-1" onclick="SwitchOption('ip');"  class=switchplashkaIP style="font-size:13px">Индивидуальным предпринимателям</a></li>
+     -->
+
+
+
+    <li class="ui-tabs-nav-item" id="nav-fragment-4"><a  href="#fragment-4" style="" >Оплата Мобильной связи</a></li>
+     <li class="ui-tabs-nav-item" id="nav-fragment-5"><a  href="#fragment-5" style="" >Оплата Игр</a></li>
+  <!--    <li class="ui-tabs-nav-item" id="nav-fragment-3a"><a onclick="SwitchOption('ur');" href="#fragment-1" class=switchplashkaUR style="font-size:13px">Юридическим лицам</a></li>  -->
+    <li onclick="return false;" class="ui-tabs-nav-item" id="nav-fragment-3a"> <a onclick="return false;" style="background: #EEE;color: #B9B9B9;" >...</a> </li>
+    <li onclick="return false;" class="ui-tabs-nav-item" id="nav-fragment-2"> <a onclick="return false;" style="background: #EEE;color: #B9B9B9;" >...</a> </li>
+    <li onclick="return false;" class="ui-tabs-nav-item" id="nav-fragment-3"> <a onclick="return false;" style="background: #EEE;color: #B9B9B9;" >...</a> </li>
+    <li onclick="return false;" class="ui-tabs-nav-item" id="nav-fragment-3"> <a onclick="return false;" style="background: #EEE;color: #B9B9B9;" >...</a> </li>
+    <!--   <li onclick="return false;" class="ui-tabs-nav-item" id="nav-fragment-3"> <a onclick="return false;" style="background: #EEE;color: #B9B9B9;" >...</a> </li>-->
+   </ul>
+
+<!-- First Content -->
+
+  <div id="fragment-1" class="ui-tabs-panel">  						<script type="text/javascript" src="/wm_soft/scripts/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+						<link rel="stylesheet" type="text/css" href="/wm_soft/scripts/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<script type="text/javascript">
+
+var curses={
+'rur-wmr': {curse:1, ComissionType:0}, 
+'wmr-rur': {curse:1, ComissionType:0}, 
+'rur-wmz': {curse:0.015337423312883, ComissionType:0}, 
+'wmz-rur': {curse:65.99, ComissionType:0}, 
+'rur-wme': {curse:0.013631351016831, ComissionType:0}, 
+'wme-rur': {curse:73.3603, ComissionType:0}, 
+'rur-yad': {curse:1, ComissionType:2}, 
+'yad-rur': {curse:1, ComissionType:2}, 
+'usd-wmr': {curse:65.420108309531, ComissionType:0}, 
+'wmr-usd': {curse:0.01528582, ComissionType:0}, 
+'usd-wmz': {curse:1, ComissionType:0}, 
+'wmz-usd': {curse:1, ComissionType:0}, 
+'usd-wme': {curse:0.88323662201455, ComissionType:0}, 
+'wme-usd': {curse:1.13219943, ComissionType:0}, 
+'eur-wmr': {curse:74.068587512036, ComissionType:0}, 
+'wmr-eur': {curse:0.013501, ComissionType:0}, 
+'eur-wmz': {curse:1.1321994325824, ComissionType:0}, 
+'wmz-eur': {curse:0.88323662, ComissionType:0}, 
+'eur-wme': {curse:1, ComissionType:0}, 
+'wme-eur': {curse:1, ComissionType:0}, 
+'usd-yad': {curse:65.420108309531, ComissionType:2}, 
+'yad-usd': {curse:0.01528582, ComissionType:2}, 
+'eur-yad': {curse:74.068587512036, ComissionType:2}, 
+'yad-eur': {curse:0.013501, ComissionType:2}, 
+'thb-wmz': {curse:0.028320589068253, ComissionType:0}, 
+'wmz-thb': {curse:34.59, ComissionType:0}, 
+'thb-wmr': {curse:1.6716817118021, ComissionType:0}, 
+'wmr-thb': {curse:0.586, ComissionType:0}, 
+'thb-wme': {curse:0.026524002896421, ComissionType:0}, 
+'wme-thb': {curse:36.9328, ComissionType:0}, 
+'thb-yad': {curse:1.6716817118021, ComissionType:2}, 
+'yad-thb': {curse:0.586, ComissionType:2}, 
+'kzt-wmz': {curse:0.0054171180931744, ComissionType:0}, 
+'wmz-kzt': {curse:182.6, ComissionType:0}, 
+'kzt-wmr': {curse:0.17249999997844, ComissionType:0}, 
+'wmr-kzt': {curse:5.79710145, ComissionType:0}, 
+'kzt-wme': {curse:0.004546487838145, ComissionType:0}, 
+'wme-kzt': {curse:213.92, ComissionType:0}, 
+'kzt-yad': {curse:0.17249999997844, ComissionType:2}, 
+'yad-kzt': {curse:5.79710145, ComissionType:2}, 
+'RUB-BTC': {curse:3.8735943888041E-6, ComissionType:1}, 
+'BTC-RUB': {curse:258158.16, ComissionType:1}, 
+'USD-BTC': {curse:0.00025037180212616, ComissionType:1}, 
+'BTC-USD': {curse:3994.06, ComissionType:1}, 
+'EUR-BTC': {curse:0.00028498147620405, ComissionType:1}, 
+'BTC-EUR': {curse:3509, ComissionType:1}, 
+			}
+
+var curses_service=
+{"wmr":{"curse":1,"ComissionType":0},"wmz":{"curse":61.8219945,"ComissionType":0},"wme":{"curse":71.105856,"ComissionType":0},"yad":{"curse":0.98039216,"ComissionType":2}}
+			 var tarifs_change = {
+			 'wmr-wmz': {'listid':1, 'curse': 61.8219945, 'leftcurse': 61.8219945, 'UseLeftCurse': 0,  'reserv': '2.96', 'reserv_val':'WMR', 'out_val':'WMZ', 'comisType':'0', 'maxsumm':10000000}, 
+  'wmz-wmr': {'listid':2, 'curse': 0.014789, 'leftcurse': 0.014789, 'UseLeftCurse': 0,  'reserv': '0', 'reserv_val':'WMZ', 'out_val':'WMR', 'comisType':'0', 'maxsumm':10000000}, 
+  'wmr-wme': {'listid':3, 'curse': 71.105856, 'leftcurse': 71.105856, 'UseLeftCurse': 0,  'reserv': '2.96', 'reserv_val':'WMR', 'out_val':'WME', 'comisType':'0', 'maxsumm':10000000}, 
+  'wme-wmr': {'listid':4, 'curse': 0.0130959, 'leftcurse': 0.0130959, 'UseLeftCurse': 0,  'reserv': '0', 'reserv_val':'WME', 'out_val':'WMR', 'comisType':'0', 'maxsumm':1000000}, 
+  'wmz-wme': {'listid':5, 'curse': 1.02040816, 'leftcurse': 1.02040816, 'UseLeftCurse': 0,  'reserv': '0', 'reserv_val':'WMZ', 'out_val':'WME', 'comisType':'0', 'maxsumm':10000000}, 
+  'wme-wmz': {'listid':6, 'curse': 0.8761707, 'leftcurse': 0.8761707, 'UseLeftCurse': 0,  'reserv': '0', 'reserv_val':'WME', 'out_val':'WMZ', 'comisType':'0', 'maxsumm':10000}, 
+  'wmr-yad': {'listid':7, 'curse': 0.98039216, 'leftcurse': 0.98039216, 'UseLeftCurse': 0,  'reserv': '2.96', 'reserv_val':'WMR', 'out_val':'Я.Деньги', 'comisType':'2', 'maxsumm':10000000}, 
+ 			}
+var valutes ={
+		"usd":{"name":"USA", "name_o":"USD"},"rur":{"name":"Россия", "name_o":"Рублей"},"thb":{"name":"Таиланд", "name_o":"БАТ"},             }
+
+var e_valutes ={
+		"wmr":{"name_o":"WMR"},"wmz":{"name_o":"WMZ"},"wme":{"name_o":"WME"},"wmu":{"name_o":"WMU"},"yad":{"name_o":"Я.Деньги"},"BTC":{"name_o":"BTC"},             }
+
+var tarifs =
+	{"rur-wmr-176":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":1523000,"komission":0,"procent":1.5,"onoff":"1","purse":"14","type":"in","minSummItog":507500,"maxSummItog":1545844.98},"id_tarif":"289","reserv":1523000,"reserv_val":"wmr","reserv_visible":1,"minimalSum":500000,"minimalSum_valute":"rur","type_calc":"0"},"wmr-rur-155":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":20000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":19600000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":294000,"maxSummItog":489999.99},"id_tarif":"267","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":300000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-170":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":500000,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":98000,"maxSummItog":489999.99},"id_tarif":"275","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-172":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"277","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-173":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"278","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-174":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"279","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-175":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"280","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-176":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"281","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-177":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"id_tarif":"282","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":300000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-183":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"292","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-178":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"283","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-179":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"3":{"val_e":"wmr","tarifsother":"1","ot":25000,"do":100000,"komission":0,"procent":-4,"onoff":"1","purse":"14","type":"out","minSummItog":24000,"maxSummItog":95999.99},"id_tarif":"284","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":25000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-184":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"293","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-180":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":491000,"maxSummItog":9820000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":500000,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":98000,"maxSummItog":489999.99},"id_tarif":"285","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-185":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"294","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"rur-wmr-173":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":1523000,"komission":0,"procent":1.5,"onoff":"1","purse":"14","type":"in","minSummItog":507500,"maxSummItog":1545844.98},"id_tarif":"291","reserv":1523000,"reserv_val":"wmr","reserv_visible":1,"minimalSum":500000,"minimalSum_valute":"rur","type_calc":"0"},"rur-wmr-175":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":1523000,"komission":0,"procent":1.5,"onoff":"1","purse":"14","type":"in","minSummItog":507500,"maxSummItog":1545844.98},"id_tarif":"290","reserv":1523000,"reserv_val":"wmr","reserv_visible":1,"minimalSum":500000,"minimalSum_valute":"rur","type_calc":"0"},"wmr-rur-186":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"295","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-187":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"296","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-188":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":9800000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"2":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"id_tarif":"298","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-189":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"299","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-190":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"300","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-191":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"301","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-192":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"302","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-28":{"0":{"val_e":"wmr","tarifsother":"1","ot":50000,"do":500001,"komission":0,"procent":-1.3,"onoff":"1","purse":"14","type":"out","minSummItog":49350,"maxSummItog":493500.97},"id_tarif":"76","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":50000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-10":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":10000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":491000,"maxSummItog":9820000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":500000,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":98000,"maxSummItog":489999.99},"id_tarif":"11","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-128":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":10000001,"komission":0,"procent":-1.9,"onoff":"1","purse":"14","type":"out","minSummItog":98100,"maxSummItog":9810000.97},"id_tarif":"238","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-47":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":10000001,"komission":0,"procent":-2.2,"onoff":"1","purse":"14","type":"out","minSummItog":97800,"maxSummItog":9780000.96},"id_tarif":"133","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-11":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":10000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":9820000.97},"id_tarif":"28","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-32":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":10000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":98200,"maxSummItog":9820000.97},"id_tarif":"100","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-34":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":5000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":98200,"maxSummItog":4910000.97},"id_tarif":"99","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-48":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":5000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":98200,"maxSummItog":4910000.97},"id_tarif":"135","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-169":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":5000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":98200,"maxSummItog":4910000.97},"id_tarif":"288","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-50":{"0":{"val_e":"wmr","tarifsother":"1","ot":20000,"do":5000001,"komission":0,"procent":-1.9,"onoff":"1","purse":"14","type":"out","minSummItog":19620,"maxSummItog":4905000.97},"id_tarif":"140","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":20000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-49":{"0":{"val_e":"wmr","tarifsother":"1","ot":50000,"do":5000001,"komission":0,"procent":-1.3,"onoff":"1","purse":"14","type":"out","minSummItog":49350,"maxSummItog":4935000.97},"id_tarif":"138","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":50000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-181":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":5000001,"komission":0,"procent":-1.3,"onoff":"1","purse":"14","type":"out","minSummItog":98700,"maxSummItog":4935000.97},"id_tarif":"286","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-57":{"0":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":5000001,"komission":0,"procent":-1.3,"onoff":"1","purse":"14","type":"out","minSummItog":98700,"maxSummItog":4935000.97},"id_tarif":"153","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":100000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-44":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":245500,"maxSummItog":491000.97},"id_tarif":"128","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"},"wmr-rur-12":{"0":{"val_e":"wmr","tarifsother":"1","ot":1000000,"do":10000001,"komission":0,"procent":-1.8,"onoff":"1","purse":"14","type":"out","minSummItog":982000,"maxSummItog":9820000.97},"1":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":1000000,"komission":0,"procent":-2,"onoff":"1","purse":"14","type":"out","minSummItog":490000,"maxSummItog":979999.99},"2":{"val_e":"wmr","tarifsother":"1","ot":300000,"do":500000,"komission":0,"procent":-2.5,"onoff":"1","purse":"14","type":"out","minSummItog":292500,"maxSummItog":487499.99},"3":{"val_e":"wmr","tarifsother":"1","ot":100000,"do":300000,"komission":0,"procent":-3,"onoff":"1","purse":"14","type":"out","minSummItog":97000,"maxSummItog":290999.99},"4":{"val_e":"wmr","tarifsother":"1","ot":25000,"do":100000,"komission":0,"procent":-4,"onoff":"1","purse":"14","type":"out","minSummItog":24000,"maxSummItog":95999.99},"id_tarif":"9","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":25000,"minimalSum_valute":"wmr","type_calc":"0"},"rur-wmr-170":{"0":{"val_e":"wmr","tarifsother":"1","ot":500000,"do":1523000,"komission":0,"procent":1.5,"onoff":"1","purse":"58","type":"in","minSummItog":507500,"maxSummItog":1545844.98},"id_tarif":"1","reserv":1523000,"reserv_val":"wmr","reserv_visible":1,"minimalSum":500000,"minimalSum_valute":"rur","type_calc":"0"},"wmr-rur-163":{"0":{"val_e":"wmr","tarifsother":"1","ot":250000,"do":500001,"komission":0,"procent":-1.3,"onoff":"1","purse":"14","type":"out","minSummItog":246750,"maxSummItog":493500.97},"id_tarif":"3","reserv":0,"reserv_val":"rur","reserv_visible":1,"minimalSum":250000,"minimalSum_valute":"wmr","type_calc":"0"}}
+var tarifs_service =
+	null
+var global_type;
+
+	function SwitchOption( type )
+	{
+			$("#sw_fiz").removeClass("sw_active");
+			$("#sw_ur").removeClass("sw_active");
+			$("#sw_fiz").removeClass("sw_active_no");
+			$("#sw_ur").removeClass("sw_active_no");
+			$("#text_popular").show();
+			$("#valute_poluchite option[value='ip']").remove(); 
+			$("#valute_otdaete option[value='ip']").remove(); 
+			$("#valute_poluchite option[value='ur']").remove(); 
+			$("#valute_otdaete option[value='ur']").remove(); 
+			$("#valute_poluchite option[value='banks']").remove(); 
+$("#valute_poluchite option[value='28']").remove(); 
+$("#valute_poluchite option[value='10']").remove(); 
+$("#valute_poluchite option[value='128']").remove(); 
+$("#valute_poluchite option[value='47']").remove(); 
+$("#valute_poluchite option[value='11']").remove(); 
+$("#valute_poluchite option[value='32']").remove(); 
+$("#valute_poluchite option[value='34']").remove(); 
+$("#valute_poluchite option[value='48']").remove(); 
+$("#valute_poluchite option[value='169']").remove(); 
+$("#valute_poluchite option[value='50']").remove(); 
+$("#valute_poluchite option[value='49']").remove(); 
+$("#valute_poluchite option[value='181']").remove(); 
+$("#valute_poluchite option[value='57']").remove(); 
+$("#valute_poluchite option[value='12']").remove(); 
+$("#valute_poluchite option[value='cash']").remove(); 
+$("#valute_poluchite option[value='nal']").remove(); 
+$("#valute_poluchite option[value='44']").remove(); 
+			$("#valute_otdaete option[value='banks']").remove(); 
+$("#valute_otdaete option[value='cash']").remove(); 
+$("#valute_otdaete option[value='nal']").remove(); 
+			$("#valute_poluchite option[value='12']").remove(); 
+			
+			$("#valute_poluchite option[value='eval']").remove(); 
+$("#valute_poluchite option[value='wmr']").remove(); 
+
+            $(".popular-block-description").html('Выберите варианты обмена для совершения операций по Автообмену, Вводу (пополнения кошелька) и Выводу (выводу с кошелька).');
+			$(".title_fragment1").html('Обменные операции<span id=type_napr_select></span>');
+
+		if( type == 'fiz' )
+		{
+         	global_type = 'fiz';
+         	$("#sw_fiz").addClass("sw_active");
+         	$("#sw_ur").addClass("sw_active_no");
+         	$("#valute_poluchite").append( $('<option>', { value: "eval",text : "ИНТЕРНЕТ ВАЛЮТА" }) );
+$("#valute_poluchite option[value='eval']").attr("disabled","disabled"); 
+ $("#valute_poluchite").append( $('<option>', { value: "wmr",text : "WMR" }) );
+         	$("#valute_poluchite").append( $('<option>', { value: "banks",text : "ИНТЕРНЕТ-БАНКИНГ" }) );
+$("#valute_poluchite option[value='banks']").attr("disabled","disabled"); 
+ $("#valute_poluchite").append( $('<option>', { value: "28",text : "Сбербанк РФ" }) );
+$("#valute_poluchite").append( $('<option>', { value: "10",text : "Альфабанк" }) );
+$("#valute_poluchite").append( $('<option>', { value: "128",text : "Сash-in Альфа-Банк RUB" }) );
+$("#valute_poluchite").append( $('<option>', { value: "47",text : "Тинькофф" }) );
+$("#valute_poluchite").append( $('<option>', { value: "11",text : "ВТБ24" }) );
+$("#valute_poluchite").append( $('<option>', { value: "32",text : "Русский Стандарт" }) );
+$("#valute_poluchite").append( $('<option>', { value: "34",text : "Авангард" }) );
+$("#valute_poluchite").append( $('<option>', { value: "48",text : "ПромСвязьБанк" }) );
+$("#valute_poluchite").append( $('<option>', { value: "169",text : "Райффайзен" }) );
+$("#valute_poluchite").append( $('<option>', { value: "50",text : "РНКБ" }) );
+$("#valute_poluchite").append( $('<option>', { value: "49",text : "Открытие" }) );
+$("#valute_poluchite").append( $('<option>', { value: "181",text : "Хоум Кредит" }) );
+$("#valute_poluchite").append( $('<option>', { value: "57",text : "УралСиб" }) );
+$("#valute_poluchite").append( $('<option>', { value: "12",text : "Любой банк RUB (РФ)" }) );
+$("#valute_poluchite").append( $('<option>', { value: "cash",text : "НАЛИЧНЫЕ ДЕНЬГИ" }) );
+$("#valute_poluchite option[value='cash']").attr("disabled","disabled"); 
+ $("#valute_poluchite").append( $('<option>', { value: "nal",text : "Наличные RUB" }) );
+$("#valute_poluchite").append( $('<option>', { value: "nal",text : "Наличные в г. Москва" }) );
+$("#valute_poluchite").append( $('<option>', { value: "nal",text : "Наличные в г. Казань" }) );
+$("#valute_poluchite").append( $('<option>', { value: "nal",text : "Наличные в г. Самара" }) );
+$("#valute_poluchite").append( $('<option>', { value: "nal",text : "Наличные в Вашем городе" }) );
+$("#valute_poluchite").append( $('<option>', { value: "44",text : "Наличные в Сбербанке RUB" }) );
+         	$("#valute_otdaete").append( $('<option>', { value: "banks",text : "ИНТЕРНЕТ-БАНКИНГ" }) );
+$("#valute_otdaete option[value='banks']").attr("disabled","disabled"); 
+ $("#valute_otdaete").append( $('<option>', { value: "cash",text : "НАЛИЧНЫЕ ДЕНЬГИ" }) );
+$("#valute_otdaete option[value='cash']").attr("disabled","disabled"); 
+ $("#valute_otdaete").append( $('<option>', { value: "nal",text : "Наличные RUB" }) );
+$("#valute_otdaete").append( $('<option>', { value: "nal",text : "Наличные в г. Москва" }) );
+$("#valute_otdaete").append( $('<option>', { value: "nal",text : "Наличные в г. Казань" }) );
+$("#valute_otdaete").append( $('<option>', { value: "nal",text : "Наличные в г. Самара" }) );
+$("#valute_otdaete").append( $('<option>', { value: "nal",text : "Наличные в Вашем городе" }) );
+            $("#popular_ur").hide();
+            $("#popular_fiz").show();
+            $("#text_popular").html('Популярные операции');
+            $("#link_econom_out").show();
+            $("#link_econom_out2").show();
+            $("#link_econom_in").show();
+            $("#link_econom_in2").show();
+            if( $("#valute_poluchite").val() == 12 )
+            {
+            	$("#link_econom_out").hide();
+            	$("#link_econom_out2").hide();
+            }
+		}
+		else if( type == 'econom' )
+		{
+			global_type = 'econom';
+         	$("#valute_poluchite").append( $('<option>', { value: "12",text : "Любой банк RUB (РФ)" }) );
+         	         	$(".title_fragment1").html('Экономичный вывод');
+         	$("#text_popular").hide();
+         	$("#popular_ur").hide();
+         	$("#popular_fiz").hide();
+         	$(".sw_type").hide();
+            if( $("#valute_poluchite").val() == 12 )
+            {
+            	$("#link_econom_out").hide();
+            	$("#link_econom_out2").hide();
+            }
+            $(".popular-block-description").html('Экономичный вывод - это обмен с минимальной комиссией в нашем обменном пункте, осуществляется путем межбанковского перевода на банковский счет получателя. <br>Данный обмен возможен на пополняемые банковские счета и на счета начинающиеся на 40817...или 42301... как правило только для Граждан РФ.');
+
+
+		}
+		else if( type == 'ip' )
+		{
+			global_type = 'ip';
+			$("#valute_poluchite").append( $('<option>', { value: "eval",text : "ИНТЕРНЕТ ВАЛЮТА" }) );
+$("#valute_poluchite option[value='eval']").attr("disabled","disabled"); 
+ $("#valute_poluchite").append( $('<option>', { value: "wmr",text : "WMR" }) );
+         	$("#valute_poluchite").append( $('<option>', { value: "ip",text : "ПРЕДПРИНИМАТЕЛИ" }) ); 
+$("#valute_poluchite option[value='ip']").attr("disabled","disabled"); 
+          	$("#valute_otdaete").append( $('<option>', { value: "ip",text : "ПРЕДПРИНИМАТЕЛИ" }) ); 
+$("#valute_otdaete option[value='ip']").attr("disabled","disabled"); 
+ 			$(".title_fragment1").html('<span style="font-size:20px">Индивидуальным предпринимателям</span>');
+         	$("#text_popular").hide();
+         	$("#popular_ur").hide();
+         	$("#popular_fiz").hide();
+         	$(".sw_type").hide();
+         	$("#link_econom_out").hide();
+            $("#link_econom_out2").hide();
+		}
+		else if( type == 'ur' )
+		{
+        	global_type = 'ur';
+        	$("#sw_ur").addClass("sw_active");
+        	$("#sw_fiz").addClass("sw_active_no");
+        	$("#valute_poluchite").append( $('<option>', { value: "eval",text : "ИНТЕРНЕТ ВАЛЮТА" }) );
+$("#valute_poluchite option[value='eval']").attr("disabled","disabled"); 
+ $("#valute_poluchite").append( $('<option>', { value: "wmr",text : "WMR" }) );
+        	$("#valute_poluchite").append( $('<option>', { value: "ur",text : "ЮРИДИЧЕСКИЕ ЛИЦА" }) ); 
+$("#valute_poluchite option[value='ur']").attr("disabled","disabled"); 
+         	$("#valute_otdaete").append( $('<option>', { value: "ur",text : "ЮРИДИЧЕСКИЕ ЛИЦА" }) ); 
+$("#valute_otdaete option[value='ur']").attr("disabled","disabled"); 
+             $("#popular_ur").show();
+            $("#popular_fiz").hide();
+            $("#text_popular").html('Популярные операции');
+            $(".title_fragment1").html('<span style="font-size:20px">Юридическим лицам</span>');
+         	$("#text_popular").hide();
+         	$("#popular_ur").hide();
+         	$("#popular_fiz").hide();
+         	$(".sw_type").hide();
+            $("#link_econom_out").hide();
+            $("#link_econom_out2").hide();
+		}
+		else
+		{
+        	global_type = 'ur';
+        	$("#sw_ur").addClass("sw_active");
+        	$("#sw_fiz").addClass("sw_active_no");
+        	$("#valute_poluchite").append( $('<option>', { value: "eval",text : "ИНТЕРНЕТ ВАЛЮТА" }) );
+$("#valute_poluchite option[value='eval']").attr("disabled","disabled"); 
+ $("#valute_poluchite").append( $('<option>', { value: "wmr",text : "WMR" }) );
+        	$("#valute_poluchite").append( $('<option>', { value: "ur",text : "ЮРИДИЧЕСКИЕ ЛИЦА" }) ); 
+$("#valute_poluchite option[value='ur']").attr("disabled","disabled"); 
+         	$("#valute_otdaete").append( $('<option>', { value: "ur",text : "ЮРИДИЧЕСКИЕ ЛИЦА" }) ); 
+$("#valute_otdaete option[value='ur']").attr("disabled","disabled"); 
+             $("#popular_ur").show();
+            $("#popular_fiz").hide();
+            $("#text_popular").html('Популярные операции');
+            $("#link_econom_out").hide();
+            $("#link_econom_in").hide();
+            $("#link_econom_out2").hide();
+            $("#link_econom_in2").hide();
+		}
+		resetForm();
+	}
+
+function all_reserv()
+{
+	$("#poluchite").val($("#reserv_value").val())
+
+ 	var TypeOperation = DetectTypeOperation('reverse', '4');
+
+
+}
+jQuery(document).ready(function(){
+var params = {
+    changedEl: ".in_region_select select",
+    visRows: 5,
+    scrollArrows: true
+  }
+  /*cuSel(params); */
+});
+      
+                    function sberbank_out(type)
+                    {
+
+                    	if($('#resident0:checked').length)
+                    	{
+                    		var SBprocent = 1;
+                    		var SBcomMax = 1000;
+                        }
+                        else
+                        {                        	var SBprocent = 1;
+                        	var SBcomMax = 1000;                        }
+
+                    	if(type=='reverse')
+                    	{
+                        	var val_in = parseFloat($('#poluchite').val().replace(',','.'));
+                        	var SBcomis = (1+SBprocent/100)*val_in-val_in;
+                        	if( SBcomis > SBcomMax )
+                        	{
+                        		SBcomis = SBcomMax;
+                        	}
+                            SBcomis = Math.round(SBcomis * 100)/100;
+                        	if( SBcomis > 0 )
+                        	{
+                        		if( SBcomis < 0)
+                        			SBcomis = 0
+                        		$('.sberhtml').html('комиссия банка '+SBcomis+' руб.');
+                        	}
+                        	else
+                        	{                        		$('.sberhtml').html('');                        	}
+                        	s_out = val_in*1 + SBcomis;
+
+                        	return s_out;
+                    	}
+                    	else
+                    	{
+                        	var val_out = parseFloat($('#poluchite').val().replace(',','.'));
+                        	var SBcomis = val_out - val_out/(1+( SBprocent / 100 ) );
+                    		if(SBcomis> SBcomMax )
+                    		{
+                    			SBcomis = SBcomMax;
+                    		}
+                    		SBcomis = Math.round(SBcomis * 100)/100;
+                        		if( SBcomis < 0)
+                        			SBcomis = 0
+                    		var SBreturn = Math.round((val_out - SBcomis)*100)/100;
+                            if( SBreturn > 0 )
+                            {
+                    			$('#poluchite').val(SBreturn);
+                    			$('.sberhtml').html('комиссия банка '+SBcomis+' руб.');
+                            }
+                            else
+                            {                            	$('.sberhtml').html('');                            }
+                    	}
+
+                    }      
+                    function sberbank_out_nal(type)
+                    {
+
+                    	if($('#resident0:checked').length)
+                    	{
+                    		var SBprocent = 1;
+                    		var SBcomMax = 1000;
+                        }
+                        else
+                        {                        	var SBprocent = 1;
+                        	var SBcomMax = 1000;                        }
+
+                    	if(type=='reverse')
+                    	{
+                        	var val_in = parseFloat($('#poluchite').val().replace(',','.'));
+                        	var SBcomis = (1+SBprocent/100)*val_in-val_in;
+                        	if( SBcomis > SBcomMax )
+                        	{
+                        		SBcomis = SBcomMax;
+                        	}
+                            SBcomis = Math.round(SBcomis * 100)/100;
+                        	if( SBcomis > 0 )
+                        	{
+                        		if( SBcomis < 150)
+                        			SBcomis = 150
+                        		$('.sberhtml').html('комиссия банка '+SBcomis+' руб.');
+                        	}
+                        	else
+                        	{                        		$('.sberhtml').html('');                        	}
+                        	s_out = val_in*1 + SBcomis;
+
+                        	return s_out;
+                    	}
+                    	else
+                    	{
+                        	var val_out = parseFloat($('#poluchite').val().replace(',','.'));
+                        	var SBcomis = val_out - val_out/(1+( SBprocent / 100 ) );
+                    		if(SBcomis> SBcomMax )
+                    		{
+                    			SBcomis = SBcomMax;
+                    		}
+                    		SBcomis = Math.round(SBcomis * 100)/100;
+                        		if( SBcomis < 150)
+                        			SBcomis = 150
+                    		var SBreturn = Math.round((val_out - SBcomis)*100)/100;
+                            if( SBreturn > 0 )
+                            {
+                    			$('#poluchite').val(SBreturn);
+                    			$('.sberhtml').html('комиссия банка '+SBcomis+' руб.');
+                            }
+                            else
+                            {                            	$('.sberhtml').html('');                            }
+                    	}
+
+                    }
+			function DopFunctionCalc(type, wm_out, valute_poluchite)
+			{
+				var r_out = wm_out;
+
+                if( valute_poluchite == 28 )
+				{
+					if($("#CheckEconom1:checked").length == 0 || !$("#CheckEconom1"))
+					{
+						r_out = sberbank_out(type);                    }
+                    else
+                    {
+    					$(".sberhtml").html("");
+                    }
+                }
+                else if( valute_poluchite == 44 )
+                {
+                	if($("#CheckEconom1:checked").length == 0 || !$("#CheckEconom1"))
+                	{
+                		r_out = sberbank_out_nal(type);                	}
+                    else
+                    {
+    					$(".sberhtml").html("");
+                    }
+                }
+    			return r_out;
+			}
+		function strtolower( str )
+{
+	return str.toLowerCase();
+}
+
+function comission(type_c, val_e, wm_in)
+{
+	var wm_out;
+	type_c=(type_c).toString();
+
+	switch (type_c)
+	{
+
+		case '0':
+
+var wm_com=wm_in*0.008;   //РїРѕРґСЃС‡РµС‚ РєРѕРјРёСЃРёРё
+if(wm_com<0.01){wm_com=0.01;}
+ var val_es=strtolower(val_e);
+// РѕРїСЂРµРґРµР»РµРЅРёРµ РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ РІР°Р»СЋС‚С‹ РјР°РєСЃРёРјР°Р»СЊРЅР°СЏ РєРѕРјРёСЃСЃРёСЏ
+
+if(val_es=="wmr"){var max_lim=1500;}
+else if(val_es=="wmz"){var max_lim=50;}
+else if(val_es=="wme"){var max_lim=50;}
+else if(val_es=="wmu"){var max_lim=250;}
+else if(val_es=="wmb"){var max_lim=100000;}
+else if(val_es=="wmy"){var max_lim=55000;}
+else if(val_es=="wmg"){var max_lim=2;}
+else{var max_lim=50;}
+if(wm_com>=max_lim){wm_out=max_lim;}else{wm_out=Okruglb(wm_com*100)/100;}
+break;case '1': 
+ wm_out=0; 
+ break; 
+case '2': 
+ wm_out=Okrugl((wm_in*1.005-wm_in)*100)/100; 
+ break; 
+case '3': 
+ wm_out=wm_in*0.001; 
+ break; 
+default: 
+ wm_out=0;  
+ break; 
+
+	}
+
+
+	return (wm_out);
+}		function strtolowers( str ) {	// Make a string lowercase
+
+	return str.toLowerCase();
+}
+function comission_obr(type_c, val_e, wm_in)
+{
+	var wm_out;
+    type_c=(type_c).toString();
+		switch (type_c)
+		{
+
+				case '0':
+			var wm_com=wm_in-wm_in/1.008;   //РїРѕРґСЃС‡РµС‚ РєРѕРјРёСЃРёРё
+
+              var val_es=strtolowers(val_e);
+			// РѕРїСЂРµРґРµР»РµРЅРёРµ РІ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё РѕС‚ РІР°Р»СЋС‚С‹ РјР°РєСЃРёРјР°Р»СЊРЅРѕР№ РєРѕРјРёСЃСЃРёРё
+			if(val_es=="wmr"){var max_lim=1500;}
+			else if(val_es=="wmz"){var max_lim=50;}
+			else if(val_es=="wme"){var max_lim=50;}
+			else if(val_es=="wmu"){var max_lim=250;}
+			else if(val_es=="wmb"){var max_lim=100000;}
+			else if(val_es=="wmy"){var max_lim=55000;}
+			else if(val_es=="wmg"){var max_lim=2;}
+			else{var max_lim=50;}
+			if(wm_com>=max_lim){wm_out=max_lim;}else{wm_out=Okrugl(wm_com*100)/100;}
+
+			if(wm_out<0.01){wm_out=0.01;}
+		break;
+case '1': 
+ wm_out=0; 
+ break; 
+case '2': 
+ wm_out=Okrugl((wm_in*0.005)*100)/100; 
+ break; 
+case '3': 
+ wm_out=wm_in*0.001; 
+ break; 
+default: 
+ wm_out=0;  
+ break; 
+
+		}
+
+
+	return (wm_out);
+}
+		 function Okrugl(vved)
+		{
+  			if(vved < 0) vved=0;
+
+  			return (Math.round(vved) );
+ 		}
+
+ function Okruglb(vved)
+		{
+  			if(vved < 0) vved=0;
+  			return (Math.ceil(vved) );
+ 		}
+ function Okruglm(vved)
+		{
+  			if(vved < 0) vved=0;
+  			return (Math.floor(vved) );
+ 		}
+ function RoundMoney(vved)
+		{
+  			if(vved < 0) vved=0;
+
+  			vved = Math.round(vved*10000)/10000;
+
+  			vved = Math.round(vved*1000)/1000;
+
+  			return (Math.round(vved*100)/100 );
+ 		}
+ function RoundMoneyCeil(vved)
+		{
+  			if(vved < 0) vved=0;
+  			//vved = Math.round(vved*10000)/10000;
+
+  			//vved = Math.round(vved*1000)/1000;
+
+  			return (Math.ceil(vved*100)/100 );
+ 		}
+ function RoundMoneyFloor(vved)
+		{
+  			if(vved < 0) vved=0;
+  			//vved = Math.round(vved*10000)/10000;
+
+  			//vved = Math.round(vved*1000)/1000;
+
+  			return (Math.floor(vved*100)/100 );
+ 		}
+ function RoundCurse(vved)
+		{
+  			if(vved < 0) vved=0;
+  			return (Math.round(vved*10000)/10000 );
+ 		}
+ function RoundCurseCeil(vved)
+		{
+  			if(vved < 0) vved=0;
+  			return (Math.ceil(vved*10000)/10000 );
+ 		}
+			function notice_country()
+			{
+            	if( $('#strana_value_in').val() == 'Таиланд' )
+            		$("#notice_error_form").html( 'В Тайланде мы находимся в городе Хуа Хин' );
+  				else
+            		$("#notice_error_form").html( 'Подсказка: Укажите в поле Ваш город' );
+
+			}
+			function ChangeStranaValue()
+			{
+
+				$('#otdaete_city_in').val('');
+				$("#variants_select :first").attr("selected", "selected");
+       			$('#out_variants').css('display','none');
+            	$("#notice_error_form").css('display','');
+                notice_country();
+
+			}
+
+			function updatelink(types_print, types, id_tarif)
+			{
+
+           		var options = {
+                url: '/wm_soft/modules/table_tarifs/ajax_fancy_link.php?RND='+Math.random(),
+                type: "POST",
+                dataType:"TEXT",
+                data: "type="+types+"&id_tarif="+id_tarif,
+                beforeSend: function()
+                {
+              		//$('#divCheckLoad').css('display','block');
+
+            	},
+                  error: function()
+                {
+              		$("#error_link").html('Сервис временно не доступен');
+            	},
+
+              	success:
+                  function(msg) {
+
+
+                  $(".print_link_rights_"+types_print).html(msg);
+
+                          }
+                };
+
+
+                $.ajax(options);
+                if( types_print == 'in' )
+                {
+                	$("#link_econom_in").html('<a href="http://wmt24.ru/news_company/index.php?ID=589" class="fancy_econom" target=_blank >Доплата за Ввод</a>');
+                }
+
+			}
+
+
+			function commission_input(wm_otdaete, val_otdaete, arCurse)
+			{
+             	wm_otdaete = parseFloat(wm_otdaete);
+                var wm_com_purs ='';
+                if ( arCurse.ComissionType.length==0 )
+                {
+                	ComissionType = arCurse.comisType;
+                }
+                else
+                {
+                	var ComissionType = arCurse.ComissionType;
+                }
+
+                if ( ComissionType.length==0 )
+                {
+                	return wm_com_purs;
+                }
+
+				wm_com_purs = comission( ComissionType, val_otdaete, wm_otdaete );
+
+
+			    wm_com_purs = wm_com_purs + wm_otdaete;
+
+  				return(wm_com_purs);
+			}
+
+			function commission_input_reverse(wm_comission, val_otdaete, arCurse)
+			{
+             	wm_comission = parseFloat(wm_comission);
+                if ( arCurse.ComissionType.length==0 )
+                {
+                	ComissionType = arCurse.comisType;
+                }
+                else
+                {
+                	var ComissionType = arCurse.ComissionType;
+                }
+
+                if ( ComissionType.length==0 )
+                {
+                	return wm_com_purs;
+                }
+				var wm_comis = comission_obr( ComissionType, val_otdaete, wm_comission );
+
+  				return(wm_comis);
+			}
+
+     function CheckCountry()
+     {
+            var result = 'rur';
+     		$.each(valutes, function(country, val)
+     		{
+     			if(val.name == 	$("#strana_value_in").val() )
+     			{
+
+     				result = country;
+     				return false;
+     			}
+     		});
+     		//возвращаем по умолчанию rur
+     		return result;
+
+     }
+
+	//Проверки для направления ввод/вывод наличные рубли
+	var CitiesCustom = {
+	'Москва':{'full_name': 'Москва, г.Москва'},
+'Казань':{'full_name': 'Казань, Республика Татарстан'},
+'Самара':{'full_name': 'Самара, Самарская область'},
+
+	}
+
+    function CheckCash(type)
+    {
+
+    	$("#notice_error_form").css('display','none');
+    	if((type == 'in' && $("#valute_otdaete").val() != 'nal') || (type == 'out' && $("#valute_poluchite").val() != 'nal'))
+    	{
+
+            	$("#poluchite").removeAttr("disabled","disabled");
+            	$("#otdaete").removeAttr("disabled","disabled");
+            	$("#otdaete_komission").removeAttr("disabled","disabled");
+    		return false;
+    	}
+
+    	if( type == 'in'  )
+    	{
+    		var nameStr = $("#valute_otdaete option:selected").text().substr(14);
+    		nameStr = CitiesCustom[nameStr];
+    		if( nameStr )
+    		{
+    			if( $("#otdaete_city_in").val() != nameStr.full_name)
+    			{
+    				$("#otdaete_city_in").val(nameStr.full_name);
+    				ajax_table_punkts();
+    			}
+
+            }
+
+
+        }
+        else
+        {
+     		var nameStr = $("#valute_poluchite option:selected").text().substr(14);
+    		nameStr = CitiesCustom[nameStr];
+    		if( nameStr )
+    		{
+    			if( $("#otdaete_city_in").val() != nameStr.full_name)
+    			{
+    				$("#otdaete_city_in").val(nameStr.full_name);
+    				ajax_table_punkts();
+    			}
+
+            }
+        }
+
+        if ( type == "in" )
+        {
+        	var text_err="ввода";
+        }
+        else
+        {
+        	var text_err="вывода";
+        }
+
+            if( $("#otdaete_city_in").val() == "" )
+            {
+            	$("#notice_error_form").css('display','');
+
+            	notice_country();
+            	$("#poluchite").attr("disabled","disabled");
+            	$("#otdaete").attr("disabled","disabled");
+            	$('#otdaete_komission').attr("disabled","disabled");
+            }
+            else if(!$("#variants_select").val() || $("#variants_select").val() == "0" || $("#variants_select").val().length == 0)
+            {
+
+            	$("#notice_error_form").css('display','');
+            	$("#notice_error_form").html( 'Подсказка: Выберите вариант '+text_err );
+            	$("#poluchite").attr("disabled","disabled");
+            	$("#otdaete").attr("disabled","disabled");
+            	$('#otdaete_komission').attr("disabled","disabled");
+            }
+            else
+            {
+            	$("#notice_error_form").css('display','none');
+            	$("#poluchite").removeAttr("disabled","disabled");
+            	$("#otdaete").removeAttr("disabled","disabled");
+            	$("#otdaete_komission").removeAttr("disabled","disabled");
+            	$("#notice_error_form").html( '');
+            	return true;
+            }
+            return false;
+    }
+
+	function BlockUnblockJs(t_otdaete, t_poluchite, detect_select)
+	{
+        if( detect_select == 3 || detect_select == 4 || detect_select == 5)
+        	return true;
+
+        if( detect_select == 1 && t_otdaete == 'el' )
+        {
+        	$("#valute_poluchite option[value='28']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='10']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='128']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='47']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='11']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='32']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='34']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='48']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='169']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='50']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='49']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='181']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='57']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='12']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='nal']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='44']").removeAttr("disabled"); 
+
+        	return true;
+        }
+
+        if(  detect_select == 2 && (t_poluchite == 'el' || t_poluchite == 'service') )
+        {
+        	$("#valute_otdaete option[value='nal']").removeAttr("disabled"); 
+        	if( t_poluchite == 'service' )
+        	{
+            	$("#valute_otdaete option[value='45']").attr("disabled","disabled");
+            	$("#valute_otdaete option[value='2']").attr("disabled","disabled");
+        	}
+        	return true;
+        }
+
+
+    	if( detect_select == 1 && t_otdaete != 'el'  )
+    	{
+        	$("#valute_poluchite option[value='28']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='10']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='128']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='47']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='11']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='32']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='34']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='48']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='169']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='50']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='49']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='181']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='57']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='12']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='nal']").attr("disabled","disabled"); 
+$("#valute_poluchite option[value='44']").attr("disabled","disabled"); 
+        	if( $("#valute_otdaete").val() == 2 ||  $("#valute_otdaete").val() == 45 )
+        	{
+             	        	}
+        	else
+        	{
+        		        	}
+        	return true;
+    	}
+
+
+    	if( detect_select == 2 && t_poluchite != 'el' && t_poluchite != 'service')
+    	{
+    		$("#valute_otdaete option[value='nal']").attr("disabled","disabled"); 
+    		return true;
+    	}
+
+
+	}
+
+	function DetectTypeOperation(napr_calc, detect_select)
+	{
+		var result = 0;
+		var type_otdaete = "";
+		var type_poluchite = "";
+        var text_no_obmen = "Обмен в выбранном направлении недоступен";
+        $('#error_form').html('');
+        $("#minimalSum").html('');
+        $("#minimalSum").css('display','none');
+        $(".change-block").css('display','none');
+        $("#buy_all_change").hide();
+        $("#buy_all_inout").hide();
+        $("#notice_error_form").html( '' );
+        $("#div_reserves").html('');
+        $("#div_reserves_econom").html('');
+        $("#div_reserves_owner").html('');
+        $("#poluchite_alert").html('');
+        $("#poluchite_alert_inout").html('');
+        $("#reserv_value").val(0);
+        $('.submit_order').attr('disabled', 'disabled');
+        $('#div_reserves').attr('class', '');
+        $('#div_reserves_econom').attr('class', '');
+        $('#div_reserves_owner').attr('class', '');
+        $("#curses_field").html('');
+        $("#curses_field").css('display','none');
+        $(".service_display_inout").css('display','');
+        $('#econom_out').css('display','none');
+        $('#nonres_out').css('display','none');
+        $('#owner_in').css('display','none');
+        $(".economNal").html('Экономичный обмен (от ИП)');
+        $(".sberhtml").html("");
+        //Блок вопросы
+        $(".autoshow-info").css('display','none');
+        $(".entermoney-info").css('display','none');
+        $(".entermoney-out-info").css('display','none');
+        $(".entermoney-service-info").css('display','none');
+
+        document.getElementById('otdaete').value=document.getElementById('otdaete').value.replace(",",".");
+        document.getElementById('poluchite').value=document.getElementById('poluchite').value.replace(",",".");
+
+		var valute_otdaete = $("#valute_otdaete").val();
+		var valute_poluchite = $("#valute_poluchite").val();
+		var poluchite = parseFloat($('#poluchite').val().replace(',','.'));
+		var otdaete = parseFloat($('#otdaete').val().replace(',','.'));
+		var otdaete_komission = parseFloat($('#otdaete_komission').val().replace(',','.'));
+        //$("#testjs").html(poluchite+'|'+otdaete+'|'+otdaete_komission);
+		$("#type_i").val('');
+
+            if( $("#valute_poluchite").val() == 12 )
+            {
+            	$("#link_econom_out").hide();
+            	$("#link_econom_out2").hide();
+            }
+            else if( global_type == 'fiz')
+            {
+            	$("#link_econom_out").show();
+            	$("#link_econom_out2").show();
+            }
+
+		if( valute_otdaete=="wmr"
+		|| valute_otdaete=="wmz"
+		|| valute_otdaete=="wme"
+		|| valute_otdaete=="yad")
+	    {
+	    	var type_otdaete = "el";
+	    }
+
+		if(valute_poluchite=="wmr"
+		|| valute_poluchite=="wmz"
+		|| valute_poluchite=="wme"
+		|| valute_poluchite=="yad")
+	    {
+        	var type_poluchite = "el";
+	    }
+
+        if( valute_poluchite=="nal" )
+        {
+        	var type_poluchite = "nal";
+
+
+            $("#type_i").val('out');
+            var valute_def = CheckCountry();
+
+        }
+        else if( valute_otdaete=="nal" )
+        {
+        	var type_otdaete = "nal";
+            $("#type_i").val('in');
+        	var valute_def = CheckCountry();
+
+        }
+        else
+        {
+
+        	$('#out_variants').css('display','none');
+            var valute_def = 'rur';
+        }
+
+
+	    
+
+		BlockUnblockJs(type_otdaete, type_poluchite, detect_select);
+
+        if( valute_otdaete =='' || valute_poluchite=='' || valute_poluchite == valute_otdaete)
+        {
+        	$(".right-block").css('display','none');
+        	$(".mainhead-right").css('display','none');
+        	$(".input_sum").css('display','none');
+        	$('.inout_visible_submit').css('display','none');
+        	$(".popular-block").css('display','');
+        	$('#otdaete_city_in').val('');
+        	return false;
+        }
+        else
+        {
+        	$("#sw_type").hide();
+        	$(".input_sum").css('display','');
+        	$(".right-block").css('display','');
+        	$(".mainhead-right").css('display','');
+        	if( valute_otdaete=="nal" || valute_poluchite=="nal" )
+        	{
+        		$('.inout_visible').css('display','');
+        		$('.inout_visible_37').hide();
+        	}
+        	else if( valute_otdaete == "37" )
+        	{
+        		$('.inout_visible_37').css('display','');
+        		$('.inout_visible').css('display','none');
+        	}
+        	else
+        	{
+        		$('#otdaete_city_in').val('');
+        		$('.inout_visible').css('display','none');
+        		$('.inout_visible_37').hide();
+        	}
+        	$(".popular-block").css('display','none');
+        	$('.inout_visible_submit').css('display','');
+
+        }
+
+		if( type_otdaete == "el" && type_poluchite == "el" )
+		{
+			$('.inout_visible').css('display','none');
+			$('.inout_visible_37').css('display','none');
+			$('.inout_visible_submit').css('display','none');
+			$(".autoshow-info").css('display','');
+			$(".btn_oneclick").css('display','none');
+			$("#buy_all_change").show();
+
+            $("#type_napr_select").html(': Автообмен');
+			var name_tarif =valute_poluchite+'-'+valute_otdaete;
+			var select_tarif = tarifs_change[name_tarif];
+         		if(!select_tarif){
+
+        			$('#error_form').html(text_no_obmen);
+
+        			return false;
+        		}
+            $('#listid').val( select_tarif.listid );
+            $('#wm_act_form').val( 'submitform' );
+            updatelink('change', 'change', $('#listid').val());
+
+            if( napr_calc == 'line' )
+            {
+            	var wm_out=RoundMoneyFloor(otdaete*select_tarif.curse);
+            	if(isNaN(wm_out)) wm_out = "";
+            	$('#poluchite').val( wm_out );
+            }
+            else if( napr_calc == 'comission' )
+            {
+                var comiss = commission_input_reverse(otdaete_komission,valute_otdaete, select_tarif);
+                $('#otdaete').val(RoundMoney(otdaete_komission-comiss));
+                var wm_out=RoundMoneyFloor($('#otdaete').val()*select_tarif.curse);
+                if(isNaN(wm_out)) wm_out = "";
+                $('#poluchite').val( wm_out );
+            }
+            else
+            {
+            	var wm_out=RoundMoneyCeil(poluchite/select_tarif.curse);
+            	if(isNaN(wm_out)) wm_out = "";
+            	$('#otdaete').val( wm_out );
+            }
+
+
+                if ( napr_calc != 'comission' )
+                {
+                	select_tarif.ComissionType=select_tarif.comisType;
+                	var comission = RoundMoney(commission_input($('#otdaete').val(),valute_otdaete, select_tarif));
+                	if(isNaN(comission)) comission = "";
+                	$('#otdaete_komission').val( comission );
+                }
+
+
+            	$("#type_otdaete_purse").html(select_tarif.out_val);
+            	$("#type_poluchite_purse").html(select_tarif.reserv_val);
+
+            	$(".change-block").css('display','');
+
+            	if( valute_otdaete == 'yad' || valute_poluchite == 'yad' )
+            	{
+            		$(".type_otdaete_purse").css('display','');
+            	}
+            	else
+            	{
+            		$(".type_otdaete_purse").css('display','none');
+            	}
+
+			    if($('#otdaete').val()!='' && $('#poluchite').val()!='')
+			    {
+			    	$('.submit_order').removeAttr('disabled');
+			    }
+            $("#div_reserves").show();
+            $("#div_reserves").html(''+select_tarif.reserv+' '+select_tarif.reserv_val);
+            $("#div_reserves").addClass(valute_poluchite);
+            $("#reserv_value").val(select_tarif.reserv);
+            	if(select_tarif.out_val=="WMR")
+            	{
+            		var leftcurse=Okrugl(1/select_tarif.curse*10000)/10000;
+            		var rightcurse=1;
+            	}
+				else
+				{
+					var leftcurse=1;
+					var rightcurse=Okrugl(select_tarif.curse*10000)/10000;
+				}
+			$("#curses_field").css('display','');
+            $("#curses_field").html(leftcurse+' '+select_tarif.out_val+' = '+rightcurse+' '+select_tarif.reserv_val);
+
+                    if( parseFloat($('#poluchite').val()) >  parseFloat(select_tarif.reserv))
+                    {
+                    	$("#poluchite_alert").html('Резерва недостаточно ');
+                    	$('.submit_order').attr('disabled', 'disabled');
+                    }
+
+			result = 'wm_change';
+		}
+		else if( type_poluchite=="service" )
+		{
+        	var valute_def='rur';
+
+            $(".service_display_inout").css('display','none');
+            $(".entermoney-service-info").css('display','');
+            $('#wm_act_form').val( 'form' );
+         	if( type_otdaete == "el" )
+         	{
+                var type_i = 'out';
+                var name_tarif = valute_otdaete+'-'+valute_poluchite;
+        		var select_tarif = tarifs_service[name_tarif];
+                var select_curses = curses_service[valute_otdaete];
+
+          		if(!select_tarif || !select_curses){
+
+        			$('#error_form').html(text_no_obmen);
+
+        			return false;
+        		}
+
+
+                if( napr_calc == 'line' )
+        		{
+                    var comiss_minus = commission_input_reverse(otdaete,valute_otdaete, select_curses);
+
+                	//var wm_out = parseInt ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete-comiss_minus)*100 )/100;
+                	var wm_out = parseInt ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete)*100 )/100;
+
+                	if(isNaN(wm_out)) wm_out = "";
+                	$('#poluchite').val( wm_out );
+                }
+                else if ( napr_calc == 'comission' )
+                {
+                	//otdaete_komission
+                	var comiss = commission_input_reverse(otdaete_komission,valute_otdaete, select_curses);
+                	otdaete =RoundMoney(otdaete_komission-comiss);
+                	if(isNaN(otdaete)) otdaete = "";
+                	$('#otdaete').val(otdaete);
+                	var comiss_minus = commission_input_reverse(otdaete,valute_otdaete, select_curses);
+
+                	//wm_out = RoundMoney ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete-comiss_minus) );
+                	wm_out = RoundMoney ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete) );
+
+                	if(isNaN(wm_out)) wm_out = "";
+                	$('#poluchite').val( wm_out );
+                }
+                else
+                {
+
+                 	wm_out = OrderCalcReverse(select_tarif, select_curses, type_i, poluchite) ;
+                 	//wm_out = parseInt(commission_input(wm_out,valute_otdaete, select_curses)*100)/100;
+                 	wm_out = parseInt(wm_out*100)/100;
+                 	if(isNaN(wm_out)) wm_out = "";
+                 	$('#otdaete').val( wm_out );
+                }
+
+                if ( napr_calc != 'comission' )
+                {
+                	var comission = RoundMoney( commission_input($('#otdaete').val(),valute_otdaete, select_curses) );
+                	if(isNaN(comission)) comission = "";
+                	$('#otdaete_komission').val( comission );
+                }
+                $("#minimalSum").css('display','');
+                $("#minimalSum").html('от '+select_tarif.minimalSum+' '+e_valutes[valute_otdaete].name_o);
+          	}
+           	else
+            {
+            	var type_i = 'in';
+            	//Проверим на операции за наличные
+                if( CheckCash(type_i) == true )
+                {
+
+                	valute_otdaete = $('#variants_select').val();
+                }
+                else if( valute_otdaete == 'nal' || valute_poluchite == 'nal')
+                {
+
+                	return false;
+                }
+
+            	var name_tarif =valute_otdaete+'-'+valute_poluchite;
+        		var select_tarif = tarifs_service[name_tarif];
+            	var select_curses = curses['wmr-rur'];
+
+         		if(!select_tarif || !select_curses){
+
+        			$('#error_form').html(text_no_obmen);
+
+        			return false;
+        		}
+
+
+            	if( napr_calc == 'line' )
+            	{
+                	wm_out = RoundMoney ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete) );
+                	if(isNaN(wm_out)) wm_out = "";
+                	$('#poluchite').val( wm_out );
+                }
+                else
+                {
+                 	wm_out = OrderCalcReverse(select_tarif, select_curses, type_i, poluchite) ;
+					wm_out = parseInt(wm_out*100)/100;
+					if(isNaN(wm_out)) wm_out = "";
+                 	$('#otdaete').val( wm_out );
+                }
+
+				$("#minimalSum").css('display','');
+            	$("#minimalSum").html('от '+select_tarif.minimalSum+' '+valutes[select_tarif.minimalSum_valute].name_o);
+
+            }
+
+			    if($('#otdaete').val()!='' && $('#poluchite').val()!='')
+			    {
+
+			    	$('.submit_order').removeAttr('disabled');
+			    }
+        	$("#div_reserves").html(''+select_tarif.reserv+' '+valutes[select_tarif.reserv_val].name_o);
+        	result = 'wm_service';
+
+		}
+		else
+		{
+
+            $(".btn_oneclick").css('display','none');
+            $("#buy_all_inout").show();
+			if( type_otdaete == "el" )
+			{
+                $(".entermoney-out-info").css('display','');
+                var type_i = 'out';
+                $("#type_i").val(type_i);
+                $("#type_napr_select").html(': Вывод');
+                //Проверим на операции за наличные
+                if( CheckCash(type_i) == true )
+                {   $(".economNal").html('Экономичный вывод');
+                	$(".btn_oneclick").css('display','none');
+                	valute_poluchite = $('#variants_select').val();
+                }
+                else if( valute_otdaete == 'nal' || valute_poluchite == 'nal')
+                {
+        			$(".input_sum").css('display','none');
+        			$(".right-block").css('display','none');
+        			$(".mainhead-right").css('display','none');
+        			$(".btn_oneclick").css('display','');
+                	return false;
+                }
+
+				var name_tarif =valute_otdaete+'-'+valute_def+'-'+valute_poluchite;
+                var name_tarif_econom = 'econom-'+valute_otdaete+'-'+valute_def+'-'+valute_poluchite;
+                var name_tarif_nonres = 'nonResident-'+valute_otdaete+'-'+valute_def+'-'+valute_poluchite;
+                  // alert(name_tarif);
+                if( tarifs[name_tarif_econom] )
+                {
+                	$('#econom_out').css('display','');
+                }
+                if( tarifs[name_tarif_nonres] )
+                {
+                	$('#nonres_out').css('display','');
+
+                }
+
+
+				if(  $('#CheckEconom1:checked').length && !tarifs[name_tarif_econom]  )
+				{
+					$("#CheckEconom0").attr('checked',true);
+	            	$("#link_econom_out").hide();
+	            	$("#link_econom_out2").hide();
+					$("#CheckEconom1").removeAttr('checked');
+				}
+				if(  $('#CheckEconom0:checked').length && tarifs[name_tarif_econom]  )
+				{
+					$("#CheckEconom1").attr('checked',true);
+
+	            	$("#link_econom_out").hide();
+	            	$("#link_econom_out2").hide();
+					$("#CheckEconom0").removeAttr('checked');
+				}
+
+
+				//$("#testjs").html(name_tarif);
+				var select_tarif = tarifs[name_tarif];
+				if( $('#CheckEconom1:checked').length && tarifs[name_tarif_econom] )
+				{
+					var select_tarif = tarifs[name_tarif_econom];
+					$('.print_link_rights_out').hide();
+				}
+				else
+				{
+					$('.print_link_rights_out').show();
+					$("#link_econom_out").hide();
+	            	$("#link_econom_out2").hide();
+				}
+
+				if( $('#Checknonres1:checked').length && tarifs[name_tarif_nonres] )
+				{
+					var select_tarif = tarifs[name_tarif_nonres];
+					$('#econom_out').css('display','none');
+				}
+				else if( $('#Checknonres0:checked').length && tarifs[name_tarif_econom]  )
+				{
+					$('#econom_out').css('display','');
+				}
+
+				var select_curses = curses[valute_otdaete+'-'+valute_def];
+
+         		if(!select_tarif || !select_curses){
+
+        			$('#error_form').html(text_no_obmen);
+
+        			return false;
+        		}
+
+                updatelink('out', 'inout', select_tarif.id_tarif);
+                $('.typicalChange').attr('href','http://wmt24.ru/?wm_mod=wm_notice&type=inout&return=rules&id_tarif='+select_tarif.id_tarif);
+			    if( napr_calc == 'line' )
+			    {
+                	wm_out = RoundMoney ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete) );
+                	if(isNaN(wm_out)) wm_out = "";
+                	$('#poluchite').val( wm_out );
+                	DopFunctionCalc('line', $('#poluchite').val(), valute_poluchite);
+                }
+                else if ( napr_calc == 'comission' )
+                {
+                	//otdaete_komission
+                	var comiss = commission_input_reverse(otdaete_komission,valute_otdaete, select_curses);
+                	var otdaete=RoundMoney(otdaete_komission-comiss);
+                	if(isNaN(otdaete)) otdaete = "";
+                	$('#otdaete').val(otdaete);
+                	wm_out = RoundMoney ( OrderCalcLine(select_tarif, select_curses, type_i, otdaete) );
+                	if(isNaN(wm_out)) wm_out = "";
+                	$('#poluchite').val( wm_out );
+                	DopFunctionCalc('line', $('#poluchite').val(), valute_poluchite);
+                }
+                else
+                {
+                 	poluchite = DopFunctionCalc('reverse', poluchite, valute_poluchite);
+                 	wm_out = RoundMoney ( OrderCalcReverse(select_tarif, select_curses, type_i, poluchite) );
+                 	if(isNaN(wm_out)) wm_out = "";
+                 	$('#otdaete').val( wm_out );
+                }
+
+                if ( napr_calc != 'comission' )
+                {
+                	var comission = RoundMoney( commission_input($('#otdaete').val(),valute_otdaete, select_curses) );
+                	if(isNaN(comission)) comission = "";
+                	$('#otdaete_komission').val( comission );
+                }
+
+                var flag_noorder = 0;
+
+                if( select_tarif.reserv_visible == 1 )
+                {
+                	$("#div_reserves").show(); //изначально включаем
+                	$("#div_reserves").html(''+select_tarif.reserv+' '+valutes[select_tarif.reserv_val].name_o);
+                	//вывод эконом резерва
+                    if( tarifs[name_tarif_econom] )
+                    {
+                    	var select_tarif_econom =  tarifs[name_tarif_econom];
+                    	var select_tarif_main = tarifs[name_tarif];
+                    	//$("#div_reserves").html('Обычн: '+select_tarif_main.reserv+' '+valutes[select_tarif_main.reserv_val].name_o);
+                    	$("#div_reserves").hide(); //чтоб не отображался если есть эконом
+                    	$("#div_reserves_econom").html('<br>'+select_tarif_econom.reserv+' '+valutes[select_tarif_econom.reserv_val].name_o);
+                    }
+
+                    $("#reserv_value").val(select_tarif.reserv);
+                    if( parseFloat($('#poluchite').val()) >  parseFloat(select_tarif.reserv) )
+                    {
+                    	$("#poluchite_alert_inout").html('Резерва недостаточно');
+                    	flag_noorder = 1;
+                    }
+                }
+                $("#minimalSum").css('display','');
+                $("#minimalSum").html('от '+select_tarif.minimalSum+' '+e_valutes[select_tarif.minimalSum_valute].name_o);
+
+
+				result = 'ordern';
+
+			    if($('#otdaete').val()!='' && $('#poluchite').val()!='' && flag_noorder == 0 )
+			    {
+			    	$('.submit_order').removeAttr('disabled');
+			    }
+			}
+			else if( type_poluchite == "el" )
+			{
+				//фикс банкомат альфабанка за доллары
+				if( valute_otdaete == 67 )
+				{
+					valute_def = 'usd';
+				}
+
+				$(".entermoney-info").css('display','');
+				$("#type_napr_select").html(': Ввод');
+				var type_i = 'in';
+				$("#type_i").val(type_i);
+                //Проверим на операции за наличные
+                if( CheckCash(type_i) == true )
+                {
+                	$(".btn_oneclick").css('display','none');
+                	valute_otdaete = $('#variants_select').val();
+                }
+                else if( valute_otdaete == 'nal' || valute_poluchite == 'nal')
+                {
+        			$(".input_sum").css('display','none');
+        			$(".right-block").css('display','none');
+        			$(".mainhead-right").css('display','none');
+        			$(".btn_oneclick").css('display','');
+                	return false;
+                }
+
+                //var arPunkts=$("#type_i").val('out');
+			    var name_tarif = valute_def+'-'+valute_poluchite+'-'+valute_otdaete;
+			    var name_tarif_owner = 'nonResident-'+valute_def+'-'+valute_poluchite+'-'+valute_otdaete;
+
+                if( tarifs[name_tarif_owner] )
+                {
+                	$('#owner_in').css('display','');
+
+                	if( valute_otdaete == '45')
+                	{
+                		$('.ownerTextCheckbox').html( 'Если кошелек не принадлежит ИП' );
+                	}
+                	else
+                	{
+                		$('.ownerTextCheckbox').html( 'Если кошелек не принадлежит Юр. лицу' );
+                	}
+                }
+
+			    var select_tarif = tarifs[name_tarif];
+				if( $('#CheckOwner1:checked').length && tarifs[name_tarif_owner] )
+				{
+					var select_tarif = tarifs[name_tarif_owner];
+				}
+
+			    var select_curses = curses[valute_def+'-'+valute_poluchite];
+
+         		if(!select_tarif || !select_curses){
+
+        			$('#error_form').html(text_no_obmen);
+
+        			return false;
+        		}
+
+                updatelink('in', 'inout', select_tarif.id_tarif);
+                $('.typicalChange').attr('href','http://wmt24.ru/?wm_mod=wm_notice&type=inout&return=rules&id_tarif='+select_tarif.id_tarif);
+			    if ( napr_calc == 'line' )
+			    {
+                	wm_out = RoundMoney( OrderCalcLine(select_tarif, select_curses, type_i, otdaete) );
+                	if(isNaN(wm_out)) wm_out = "";
+                	$('#poluchite').val( wm_out );
+                }
+                else
+                {
+                 	wm_out = RoundMoney( OrderCalcReverse(select_tarif, select_curses, type_i, poluchite) );
+                 	if(isNaN(wm_out)) wm_out = "";
+                 	$('#otdaete').val( wm_out );
+                }
+                 var flag_noorder = 0;
+                if( select_tarif.reserv_visible == 1 )
+                {
+                	$("#div_reserves").show();
+                	$("#div_reserves").html(''+select_tarif.reserv+' '+e_valutes[select_tarif.reserv_val].name_o);
+                    $("#reserv_value").val(select_tarif.reserv);
+                    $("#div_reserves").addClass(valute_poluchite);
+
+                    if(parseFloat($('#poluchite').val()) >  parseFloat(select_tarif.reserv))
+                    {
+                    	$("#poluchite_alert_inout").html('Резерва недостаточно');
+                    	flag_noorder = 1;
+                    }
+                }
+                $("#minimalSum").css('display','');
+
+                if( valute_otdaete == 46 )
+                {
+                	$("#minimalSum").html('от '+select_tarif.minimalSum+' '+valutes[select_tarif.minimalSum_valute].name_o+' и не более 15 т.р. за одну операцию');
+                }
+                else
+                {
+                	$("#minimalSum").html('от '+select_tarif.minimalSum+' '+valutes[select_tarif.minimalSum_valute].name_o);
+                }
+
+			    result = 'ordern';
+
+			    if($('#otdaete').val()!='' && $('#poluchite').val()!='' && flag_noorder == 0 )
+			    {
+			    	$('.submit_order').removeAttr('disabled');
+			    }
+			}
+			else
+			{
+				return false;
+			}
+            //alert(name_tarif);
+
+		}
+
+        if(result!='')
+        {
+        	$("#wm_mod").val(result);
+        }
+
+
+	    return result;
+	}
+
+
+	//Прямой калькулятор на ввод
+	function OrderCalcLine(select_tarif, select_curses, type, wm_in)
+	{
+
+
+    	var wm_out;
+        var wm_in_schet;
+
+        	if(!select_tarif || !select_curses){
+
+        		$('#error_form').html('В этом направлении данный пункт обмена обмен не производит!');
+
+        		return wm_out;
+        	}
+
+        if(type=="out")
+        {
+        	wm_in_schet=wm_in*select_curses.curse;
+
+        }
+        else
+        {
+        	wm_in_schet = wm_in;
+        }
+
+
+      //   alert(select_tarif.type_calc);
+    	jQuery.each(select_tarif, function(i, val) {
+
+        	if (wm_in>= val.ot && wm_in < val.do)
+        	{
+
+        		if( select_tarif.type_calc == 1 )
+        		{
+        			var comissionTest = wm_in_schet*(1+(val.procent/100)) - wm_in_schet;
+        			if( Math.abs( comissionTest ) > Math.abs( val.komission ) )
+        				wm_out = wm_in_schet*(1+(val.procent/100));
+        			else
+        				wm_out = wm_in_schet+val.komission;
+        		}
+        		else
+        		{
+        			wm_out = wm_in_schet*(1+(val.procent/100))+val.komission;
+        		}
+
+        	}
+
+    	});
+
+
+       // alert(select_curses.curse);
+        if(type=="in")
+        {
+        	wm_out=wm_out*select_curses.curse;
+        	//alert(wm_in);
+        }
+
+		return wm_out;
+
+	}
+
+	function OrderCalcReverse(select_tarif, select_curses, type, wm_in)
+    {
+
+    	var wm_out;
+        var wm_in_schet;
+
+        if(!select_tarif || !select_curses)
+        {
+        	$('#error_form').val('В этом направлении данный пункт обмена обмен не производит!');
+        	return wm_out;
+        }
+
+        if(type=="in")
+        {
+        	wm_in_schet=wm_in/select_curses.curse;
+        	//alert(wm_in);
+        }
+        else
+        {
+        	wm_in_schet=wm_in;
+        }
+
+					var LeftMinSum=0; // левое минимальное
+                    var RightMinSum=0; // правое минимальное
+                    var LeftNumTarif; // левый тариф
+                    var RightNumTarif; // правый тариф
+                    var flag=0; //флаг того что тариф нашелся
+
+
+        jQuery.each(select_tarif, function(i, val) {
+
+        	if (wm_in>= val.minSummItog && wm_in < val.maxSummItog)
+        	{
+              // $('#testjs').html(val.do);
+                 if( select_tarif.type_calc == 1 )
+                 {
+                 	var TestComission = wm_in_schet / ( 1+( val.procent / 100 ) ) - wm_in_schet;
+
+                 	if( Math.abs( TestComission ) > Math.abs( val.komission ) )
+                 	{
+                 		wm_out = ( wm_in_schet ) / ( 1 + ( val.procent / 100 ) );
+                 	}
+                 	else
+                 	{
+                 		wm_out=(wm_in_schet-val.komission);
+                 	}
+
+
+                 }
+                 else
+                 {
+        		 	wm_out=(wm_in_schet-val.komission)/(1+(val.procent/100));
+        		 }
+        	}
+			else
+			{
+
+				if( wm_in >= val.minSummItog )
+				{
+					LeftMinSum=Math.max(LeftMinSum, val.minSummItog);
+
+					if(LeftMinSum==val.minSummItog)
+					{
+							LeftNumTarif=val.do;
+					}
+				}
+
+				if( wm_in < val.maxSummItog )
+				{
+						if(RightMinSum==0)
+						{
+								RightMinSum = val.maxSummItog;
+						}
+
+						RightMinSum=Math.min(RightMinSum, val.maxSummItog);
+
+						if(RightMinSum==val.maxSummItog)
+						{
+								RightNumTarif=val.ot;
+						}
+				}
+
+
+			}
+
+
+
+
+    	});
+
+    			if(!wm_out)
+       			{
+
+          				if(LeftNumTarif && RightNumTarif)
+                        {
+                        	wm_out = LeftNumTarif;
+                        }
+          		}
+        if(type=="out")
+        {
+        	wm_out = wm_out/select_curses.curse;
+        	//alert(wm_in);
+        }
+
+    	return wm_out;
+
+    }
+
+
+    function calcLine()
+    {
+    	var TypeOperation = DetectTypeOperation('line', '4');
+    }
+
+    function calcComission()
+    {
+    	var TypeOperation = DetectTypeOperation('comission', '4');
+    }
+
+    function calcReverse()
+    {
+    	var TypeOperation = DetectTypeOperation('reverse', '4');
+    }
+
+	function ChangeSelect(detect_select)
+	{
+		if($("#valute_otdaete").val()=="wmr" || $("#valute_otdaete").val()=="wmz" || $("#valute_otdaete").val()=="wme")
+		{
+			$('.tr_comission').css('display','');
+			$('#text_for_comission').html('отдаете +0,8%');
+		}
+		else if($("#valute_otdaete").val()=="yad")
+		{
+			$('.tr_comission').css('display','');
+			$('#text_for_comission').html('отдаете +0,5%');
+		}
+		else
+		{
+			$('.tr_comission').css('display','none');
+			$('#text_for_comission').html('');
+		}
+
+     if ( detect_select == 3 )
+     {
+     	ChangeStranaValue();
+
+     }
+
+
+     //Определение типа операции
+     var TypeOperation = DetectTypeOperation('line', detect_select);
+	}
+
+  	function select_curses(valute_otdaete, valute_poluchite)
+	{
+
+    	r = curses[valute_otdaete + "-" + valute_poluchite];
+       	return r;
+	}
+
+
+	function select_tarif(valute_otdaete, valute_poluchite, punkt)
+	{
+
+		var r;
+		//$('#testjs').html(valute_otdaete + "-" + valute_poluchite + "-" +punkt);
+		if(punkt!=0)
+		{
+        	r = tarifs[valute_otdaete + "-" + valute_poluchite + "-" +punkt];
+
+            var r_tes=  tarifs[valute_otdaete + "-" + valute_poluchite + "-" +punkt];
+		}
+
+
+		return r;
+	}
+
+	function select_op(from,to, checke)
+	{
+
+  		$('#valute_otdaete option[value="' + from + '"]').prop('selected',true);
+  		$('#valute_poluchite option[value="'+to+'"]').prop('selected',true);
+
+  		if( checke == 1 )
+  		{
+  			$("#CheckEconom1").attr("checked", "checked");
+  			$("#CheckEconom0").removeAttr("checked");
+  		}
+  		else
+  		{
+  			$("#CheckEconom0").attr("checked", "checked");
+  			$("#CheckEconom1").removeAttr("checked");
+  		}
+
+  		ChangeSelect(4);
+  		return false;
+	}
+	function select_op_text(from,to)
+	{
+
+
+  		var sel_otdaete = $('#valute_otdaete :contains('+from+')');
+  		$.each(sel_otdaete, function(){
+  			if( $(this).text() == from )
+  			{
+  				$(this).prop('selected',true);
+  			}
+  		});
+
+
+  		$('#valute_poluchite :contains('+to+')').prop('selected',true);
+  		ChangeSelect(4);
+  		return false;
+	}
+
+	function sub_select_punkt( punkt )
+	{
+
+		$('#variants_select option[value="' + punkt + '"]').prop('selected',true);
+  		ChangeSelect(4);
+  		return false;
+	}
+
+    function comebackMenu()
+    {
+    	resetForm();
+    }
+	function resetForm()
+	{
+		//Сбросс данных кеширования
+		$("#valute_otdaete :first").attr("selected", "selected");
+		$("#valute_poluchite :first").attr("selected", "selected");
+		$("#valute_poluchite option[value='28']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='10']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='128']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='47']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='11']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='32']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='34']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='48']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='169']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='50']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='49']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='181']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='57']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='12']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='nal']").removeAttr("disabled"); 
+$("#valute_poluchite option[value='44']").removeAttr("disabled"); 
+		$("#valute_otdaete option[value='nal']").removeAttr("disabled"); 
+		$("#otdaete").removeAttr("disabled");
+		$("#poluchite").removeAttr("disabled");
+		$("#otdaete_komission").removeAttr("disabled");
+		$("#otdaete").val('');
+		$("#poluchite").val('');
+		$("#otdaete_komission").val('');
+		$("#otdaete_city_in").val('');
+		$('#out_variants').css('display','none');
+		$('.inout_visible').css('display','none');
+		$('.inout_visible_37').css('display','none');
+        $('.tr_comission').css('display','none');
+        $('#div_reserves').html('');
+        $('#div_reserves_econom').html('');
+        $('#div_reserves_owner').html('');
+        $('#error_form').html('');
+        $('#type_napr_select').html('');
+        $(".entermoney-service-info").css('display','none');
+        $("#notice_error_form").html('');
+        $('#minimalSum').html('');
+        $("#poluchite_alert").html('');
+        $("#poluchite_alert_inout").html('');
+        $('.change-block').css('display','none');
+        $('.input_sum').css('display','none');
+        $('.inout_visible_submit').css('display','none');
+        $('.popular-block').css('display','');
+        $('.right-block').css('display','none');
+        $('.btn_oneclick').css('display','none');
+        $('#econom_out').css('display','none');
+        $('#nonres_out').css('display','none');
+        $('#owner_in').css('display','none');
+        $(".sberhtml").html("");
+        $("#sw_type").hide();
+        $("#buy_all_change").hide();
+        $("#buy_all_inout").hide();
+        $(".economNal").html('Экономичный обмен (от ИП)');
+ 		return false;
+	}
+
+     function ajax_table_punkts()
+     {
+             	setTimeout(function() {
+
+          		var options = {
+                url: '/wm_soft/modules/ajax_table_punkts_tarifs.php?RND='+Math.random(),
+                type: "POST",
+                data: $(".private_calc").serializeArray(),
+                beforeSend: function()
+                {
+              		//$('#divCheckLoad').css('display','block');
+
+            	},
+                  error: function()
+                {
+              		$("#out_select_region").html('Сервис временно не доступен');
+            	},
+
+              	success:
+                  function(msg) {
+
+
+                  $(".out_variants_div").html(msg);
+                                                       }
+                };
+
+
+                $.ajax(options);
+
+                },500);
+
+                              if($('#otdaete_city_in').val()!="")
+                              {
+                                $("#notice_error_form").html( '' );
+                                $('#out_variants').css('display','');
+                              }
+                              else
+                              {
+                              	$('#out_variants').css('display','none');
+                              }
+
+                          return false;
+
+
+     }
+
+$(document).ready(function() {
+
+             resetForm();
+                                              		$("#strana_value_in").change( function(){
+       			$('#otdaete_city_in').val('');
+       			$("#variants_select :first").attr("selected", "selected");
+       			$('#out_variants').css('display','none');
+            	$("#notice_error_form").css('display','');
+            	notice_country();
+
+
+       		});
+
+    $('.backlisthref').click(function(){
+      resetForm();
+      return false;
+    });
+
+
+	$("#otdaete_city_in").focusout(function(){ ajax_table_punkts(); });
+
+
+
+
+////Проверка перед отправкой формы
+	 $("#private_calc").submit(function(){
+
+     	if($("#wm_mod").val()=="wm_change")
+     	{
+      		if($("#poluchite").val() < 1.25)
+      		{
+      			$("#error_form").html('Минимальная сумма к получению 1.25 wm');
+      			return false;
+        	}
+      		if($("#e-mail").val() =="")
+      		{
+      			$("#error_form").html('Не заполнено поле e-mail');
+      			return false;
+        	}
+       		if($("#cash-num").val() =="")
+      		{
+      			$("#error_form").html('Не заполнено поле номер кошелька');
+      			return false;
+        	}
+        	if($("#listid").val() =="")
+      		{
+      			$("#error_form").html('Извините, данное направление обмена сейчас недоступно');
+      			return false;
+        	}
+        }
+        else if($("#wm_mod").val()=="ordern")
+        {
+        	if(parseFloat($("#poluchite").val()) > parseFloat($("#reserv_value").val()))
+        	{
+      			$("#error_form").html('Извините, резерва не достаточно');
+      			return false;
+        	}
+        }
+
+	 });
+
+});
+
+</script>
+ <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){
+
+              jQuery('#otdaete_city_in').suggest('/wm_soft/modules/table_tarifs/ajax_table_region.php',{
+                resultDiv:'.in_region_input',
+                countryDiv:'#in_region_select_form [name=country]'
+
+              });
+            });
+//--><!]]>
+</script>
+
+
+
+<form class="private_calc form_change_imenu" id=private_calc action="/" method=POST>
+<input type=hidden name=wm_mod id=wm_mod value="">
+<input type=hidden name=reserv_value id=reserv_value value="">
+<input type=hidden name=type_i id=type_i value="">
+<input type=hidden name=wm_form[listid] id=listid value="">
+<input type=hidden value="submitform" name="wm_act_form" id="wm_act_form">
+<input type=hidden value="init" name="submit_form" id="submit_form">
+
+
+<div class="fragment-title mainhead-activemenu">
+  <p class=title_fragment1>Обменные операции<span id=type_napr_select></span></p>
+  <div style="position:absolute; top:30px; left:302px; display:none;" class=sw_type id=sw_type><a href="#" onclick="SwitchOption('fiz'); return false;" id=sw_fiz class="sw_active">для физлиц</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#" id=sw_ur  class=sw_active_no onclick="SwitchOption('ur'); return false;">для ИП</a></div>
+</div>
+
+
+
+<!-- block labesl give and take up on selectors -->
+<div class="give-titles labels" style="margin-left:0px;width: 400px;">
+  <div class="give-title label">Отдадите </div>
+  <div class="give-title label" style="width:100px;margin-left: 158px;">Получите </div>
+  <div class="give-purse-source-title ltitle"></div>
+</div>
+<!-- block labesl give and take up on selectors end -->
+
+
+<!-- exhange selects-->
+<div class="exchange-selects-block">
+  <!-- onchange="ChangeSelect(2)" -->
+  <select  class="exchange-from" onchange="ChangeSelect(1)" name="cur_from" id="valute_otdaete"  style="width:210px">
+  	<option value="" DISABLED selected> Выбрать</option><option value="eval" DISABLED > ИНТЕРНЕТ ВАЛЮТА </option><option value="wmr">WMR</option><option value="banks" DISABLED > ИНТЕРНЕТ-БАНКИНГ </option><option value="cash" DISABLED > НАЛИЧНЫЕ ДЕНЬГИ </option><option value="nal">Наличные RUB</option><option value="nal">Наличные в г. Москва</option><option value="nal">Наличные в г. Казань</option><option value="nal">Наличные в г. Самара</option><option value="nal">Наличные в Вашем городе</option><option value="ur" DISABLED > ЮРИДИЧЕСКИЕ ЛИЦА </option><option value="ip" DISABLED > ПРЕДПРИНИМАТЕЛИ </option>  </select>
+  <!-- onchange="ChangeSelect(2)" -->
+  <select class="exchange-to" name="cur_to" onchange="ChangeSelect(2)" id="valute_poluchite"  style="margin-left:10px;width:210px">
+  	<option value="" DISABLED selected> Выбрать</option><option value="eval" DISABLED > ИНТЕРНЕТ ВАЛЮТА </option><option value="wmr">WMR</option><option value="banks" DISABLED > ИНТЕРНЕТ-БАНКИНГ </option><option value="28">Сбербанк РФ</option><option value="10">Альфабанк</option><option value="128">Сash-in Альфа-Банк RUB</option><option value="47">Тинькофф</option><option value="11">ВТБ24</option><option value="32">Русский Стандарт</option><option value="34">Авангард</option><option value="48">ПромСвязьБанк</option><option value="169">Райффайзен</option><option value="50">РНКБ</option><option value="49">Открытие</option><option value="181">Хоум Кредит</option><option value="57">УралСиб</option><option value="12">Любой банк RUB (РФ)</option><option value="cash" DISABLED > НАЛИЧНЫЕ ДЕНЬГИ </option><option value="nal">Наличные RUB</option><option value="nal">Наличные в г. Москва</option><option value="nal">Наличные в г. Казань</option><option value="nal">Наличные в г. Самара</option><option value="nal">Наличные в Вашем городе</option><option value="44">Наличные в Сбербанке RUB</option><option value="ur" DISABLED > ЮРИДИЧЕСКИЕ ЛИЦА </option><option value="ip" DISABLED > ПРЕДПРИНИМАТЕЛИ </option>  </select>
+</div>
+<!-- selects end-->
+
+<!-- popular block -->
+<div class="popular-block">
+ 	<!-- desc -->
+	<div class="popular-block-description" style="display:block;float:left;margin-top:10px;color:#333333;height: 40px;">
+
+Выберите варианты обмена для совершения операций по Автообмену, Вводу (пополнения кошелька) и Выводу (выводу с кошелька).
+	</div><!-- desc end -->
+
+
+   <!-- popular operations -->
+   <div class="fragment-title popular-block-operations-title" style="display:none;">
+   	<p style="font-size:20px" id=text_popular>Популярные операции</p>
+   </div>
+
+   <div class="popular-operations-block" style="display:none;">
+   <div class=hide_div id=popular_ur>
+    <ul class="list-operations" id="column-1">
+            <li><a href="" onclick="return select_op('wmr','wmz');return false" >WMR на WMZ</a></li>
+        <li><a href="" onclick="return select_op('wmz','wmr');return false">WMZ на WMR</a></li>
+
+    </ul>
+     <ul class="list-operations" id="column-2">
+         <li><a href="" onclick="return select_op('wmr','yad');return false" >WMR на Яндекс.Деньги</a></li>
+        <li><a href="" onclick="SwitchOption('fiz'); select_op('wmr','28');return false">WMR на Сбербанк</a></li>
+     </ul>
+         <ul class="list-operations" id="column-3">
+       <li><a href="" onclick="return select_op('wmr','45');return false">WMR на ИП</a></li>
+    <li><a href="" onclick="return select_op('45','wmr');return false">ИП на WMR </a></li>
+
+    </ul>
+   </div>
+   <div class=visible_div id=popular_fiz>
+
+      <ul class="list-operations" id="column-1">
+            <li><a href="" onclick="return select_op('wmr','wmz');return false" >WMR на WMZ</a></li>
+        <li><a href="" onclick="return select_op('wmz','wmr');return false">WMZ на WMR</a></li>
+
+    </ul>
+     <ul class="list-operations" id="column-2">
+         <li><a href="" onclick="return select_op('wmr','yad');return false" >WMR на Яндекс.Деньги</a></li>
+        <li><a href="" onclick="SwitchOption('fiz'); select_op('wmr','28');return false">WMR на Сбербанк</a></li>
+     </ul>
+         <ul class="list-operations" id="column-3">
+       <li><a href="" onclick="return select_op('wmr','45');return false">WMR на ИП</a></li>
+    <li><a href="" onclick="return select_op('45','wmr');return false">ИП на WMR </a></li>
+
+    </ul>
+
+  <!-- columan 1 -->
+   <!-- <ul class="list-operations" id="column-1">
+        <li><a target=_blank href="/gorod/city.php?data_in=%CC%EE%F1%EA%E2%E0,%20%E3.%CC%EE%F1%EA%E2%E0">Москва</a></li>
+        <li><a target=_blank href="/gorod/city.php?data_in=%C2%EE%EB%E3%EE%E3%F0%E0%E4,%20%C2%EE%EB%E3%EE%E3%F0%E0%E4%F1%EA%E0%FF%20%EE%E1%EB%E0%F1%F2%FC">Волгоград</a></li>
+
+    </ul> -->
+
+    <!-- column 2 -->
+    <!-- <ul class="list-operations" id="column-2">
+
+        <li><a target=_blank href="/gorod/city.php?data_in=%CA%E0%E7%E0%ED%FC,%20%D0%E5%F1%EF%F3%E1%EB%E8%EA%E0%20%D2%E0%F2%E0%F0%F1%F2%E0%ED">Казань</a></li>
+        <li><a target=_blank href="/gorod/city.php?data_in=%CA%F0%E0%F1%ED%EE%FF%F0%F1%EA,%20%CA%F0%E0%F1%ED%EE%FF%F0%F1%EA%E8%E9%20%EA%F0%E0%E9">Красноярск</a></li>
+    </ul> -->
+    <!-- colument 3 -->
+    <!-- <ul class="list-operations" id="column-3">
+        <li><a target=_blank href="gorod/city.php?data_in=%D1%E0%EC%E0%F0%E0,%20%D1%E0%EC%E0%F0%F1%EA%E0%FF%20%EE%E1%EB%E0%F1%F2%FC">Самара</a></li>
+        <li><a target=_blank href="" class="search-by-name-a">Ваш город…</a></li>
+
+    </ul>-->
+
+
+
+   </div>
+   </div>
+
+</div>
+<!-- pupuladr block end -->
+
+
+
+
+
+<div class="left-block">
+<div class=nonres_out id=nonres_out style="display:none;">
+	<div class=radio_left1>
+		<input type=radio value=0 id=Checknonres0 name=wm_form[CheckNonRes] onclick='calcLine()' checked=checked>Гражданин РФ
+	</div>
+	<div class=radio_right1>
+		<input type=radio value=1 id=Checknonres1 name=wm_form[CheckNonRes] onclick='calcLine()'>Не гражданин РФ
+	</div>
+</div>
+<div class=econom_out id=econom_out style="display:none;">
+  <div style="display:none;">
+<input type=radio value=1 id=CheckEconom1 name=wm_form[CheckEconom] checked=checked onclick='calcLine()'>
+<input type=radio value=0 id=CheckEconom0 name=wm_form[CheckEconom] onclick='calcLine()' >
+</div>
+   <!-- <div class=radio_left>
+		<input type=radio value=1 id=CheckEconom1 name=wm_form[CheckEconom] checked=checked onclick='calcLine()'><a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2"  class="fancy_econom economNal" >Экономичный обмен (от ИП)</a>
+	</div>  -->
+	<!--<div class=radio_right>
+    	<input type=radio value=0 id=CheckEconom0 name=wm_form[CheckEconom] onclick='calcLine()' ><a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2"  class="fancy_econom typicalChange" >Обычный обмен (P2P)</a>
+    </div>-->
+</div>
+
+<div class=owner_in id=owner_in style="display:none;">
+<input type=checkbox value=1 id=CheckOwner1 name=wm_form[CheckOwner] onclick='calcLine()'><span class=ownerTextCheckbox>Если кошелек не принадлежит Юр. лицу</span>
+</div>
+    <div class="inout-city-block inout_visible_37" style="display:none">
+        	  <div class="labels" style="padding-top: 9px;">
+    		<div class="purse-label" style="width:210px; font-size:11px;">Варинт пополнения</div>
+    		</div>
+  <div class="purses">
+    <div class="purse">
+
+       <select class="variants_select_37" id="variants_select_37" onchange="ChangeSelect(4)" >
+       <option value=37>Перевод Колибри</option>
+       <option value='' DISABLED>Пополнение по номеру карты</option>
+       </select>
+    </div>
+
+  </div>
+
+
+
+
+    </div>
+	<div class="inout-city-block inout_visible" style="display:none">
+
+
+  	<!-- labels text block for purses -->
+	  <div class="labels" style="padding-top: 9px;">
+    		<div class="purse-label" style="width:210px;">Ваш город</div>
+     		 <!-- choose country -->
+        		<div class="tarifs_city purse-label" style="width:0px;">
+              		<div class="in_region_select" id="in_region_select_form" style="float:right">
+              			<select name="country" class="strana_value_in" id="strana_value_in" onchange="ChangeSelect(3)">
+               				<option value=Россия >Россия</option><option value=Казахстан >Казахстан</option><option value=Абхазия >Абхазия</option><option value=Азербайджан >Азербайджан</option><option value=Армения >Армения</option><option value=Беларусь >Беларусь</option><option value=Грузия >Грузия</option><option value=Кыргызстан >Кыргызстан</option><option value=Латвия >Латвия</option><option value=Молдова >Молдова</option><option value=Монголия >Монголия</option><option value=Таджикистан >Таджикистан</option><option value=Филлипины >Филлипины</option><option value=Эстония >Эстония</option><option value=Южная Осетия >Южная Осетия</option>            			</select>
+            		</div>
+       			 </div><!-- chose country end -->
+
+    			<div class="purse-label punkt" style="margin-left:15px;display:none">Пункт обмена</div>
+
+  		</div><!-- / labels text block end -->
+
+  <!-- purses block -->
+  <div class="purses">
+    <div class="purse">
+
+       <input type="text" name="region" id="otdaete_city_in" placeholder="--впишите свой город/населенный пункт--" class="city-region-input" />
+       <div class="in_region_input" style="position:relative;"></div>
+    </div>
+    <div class="purse out_variants_div" id="out_variants" style="display:none">
+ 		<select class="variants_select" id="variants_select" onchange="ChangeSelect(4)" ></select>
+    </div>
+  </div>
+
+
+
+</div>
+
+
+<div class=input_sum style="display:none; margin-top:5px;">
+<!-- labels text block -->
+
+  <div class="labels">
+    <div class="label">отдаете</div>
+    <div class="label commis-dyn visunvis">&nbsp;<span id=text_for_comission class="tr_comission"></span></div>
+    <div  class="label" id="sber_com" style="display:none"></div>
+    <div class="label">получите</div>
+  </div><!-- / labels text block end -->
+
+   <div class="inputs">
+
+    <div class="input"><input type="text" onKeyUp="calcLine()" onchange="calcLine()" class="giving-input" autocomplete="off" id="otdaete" value="" name="wm_form[wm_otdaete]" />
+      <div id="minimalSum" class="minimum-pay-sum" style="position:relative; width:300px;"></div>
+    </div>
+    <div class="input visunvis"><input type="text" class="tr_comission" onkeyup="calcComission()" onchange="calcComission()" autocomplete="off" id="otdaete_komission" value="" name="wm_form[wm_com_purs]" />&nbsp;</div>
+   <div class="input inputlarge"><input type="text" onkeyup="calcReverse()" onchange="calcReverse()" autocomplete="off" id="poluchite" value="" class="take-val_not"  style="width:100px" name="wm_form[wm_poluchaete]" />
+          <div class="sberhtml dopcom"></div>   </div>
+
+  </div>
+ </div>
+
+ 	<!-- submit part -->
+  <div class="purses inout_visible_submit" style="display:none;">
+    <div class="purse email-submit"><input type="submit" id="submit_order" disabled="disabled" class="exchange-submit-punk submit_order"  value="Далее" /> </div>
+  </div>
+
+
+<div class="change-block" style="display:none">
+
+
+  <!-- labels text block for purses -->
+  <div class="labels pursesfield">
+    <div class="purse-label source">Ваш <span class="upper-valute"><span id=type_otdaete_purse></span></span> кошелек</div>
+    <div class="purse-label dest">Ваш <span class="upper-valute"><span id=type_poluchite_purse></span></span> кошелек</div>
+  </div><!-- / labels text block end -->
+
+  <!-- purses block -->
+  <div class="purses">
+    <div class="purse"><input type="text" id="purse_source" autocomplete="off"  value="" name="wm_form[purse_source]" size="14" /></div>
+    <div class="purse"><input type="text" id="cash-num" autocomplete="off"  value="" name="wm_form[purse]" size="14" /></div>
+  </div>
+
+   <!-- labels text block for email -->
+  <div class="labels emailfield">
+    <div class="purse-label">e-mail</div>
+  </div><!-- / labels text block end -->
+
+
+<!-- email and submit  block -->
+  <div class="purses">
+    <div class="purse email-submit"><input type="text" id="e-mail" value="" name="wm_form[email]"  /></div>
+    <div class="purse email-submit"><input type="submit" id=submit_order disabled="disabled" class="exchange-submit submit_order"  value="Обменять" /> </div>
+  </div>
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<!-- reservs right block -->
+<div class="right-block" style="display:none;">
+  	<div class="fragment-title mainhead-right" style="display:none;">
+    	<div>Резервы и курсы</div>
+	</div>
+  	<div class="info-block-reservs" >
+       <div id="div_reserves" class=div_reserves style="text-align:right; width:100%; font-size:90%"></div>
+        <div id="div_reserves_econom" class=div_reserves style="text-align:right; width:100%; font-size:90%"></div>
+
+        <div id="buy_all_change" class="buy_all" style="display:none;">
+          <a onclick="all_reserv()" href="javascript:void(0);" id="buy_all" class="buy-all-link">Скупить всё</a>
+        </div>
+        <div id="buy_all_inout" class="buy_all" style="display:none;">
+          <a id="buy_all" class="buy-all-link fancy_econom" href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=6" style="font-size:80%">Не хватает резерва?</a>
+        </div>
+
+        <div  id="curses_field" class=wmr1></div>
+  	</div><!-- end reservs block -->
+
+  <div class="href-and-more-info-block service_display_inout">
+      <div class="questions-title-new" style="text-align: right;margin-top: 20px;">
+          <div>Внимание!</div>
+                </div>
+      <!-- при Автообменах -->
+      <div class="autoshow-info" style="display:none">
+        <div class=print_link_rights_change>
+        <a href="/documents/rules/#rules_auto" style="font-size:13px" Условия обмена</a></br>
+
+
+        </div>
+         <a href="https://wmt24.ru/index.php?wm_mod=wm_referral&wm_act_form=partners&wm_action=profile" >Мониторингам</a></br>
+        <div class=div_backlisthref><a href="" id="back-to-list" class="backlisthref"><b>На Главную</b></a></div>
+      </div>
+       <!-- при Вводе -->
+      <div class="entermoney-info" style="display:none">
+         <div class=print_link_rights_in>
+         <a href="/documents/rules/#rules_in" style="font-size:13px" >Правила и условия Ввода.</a></br>
+  		</div>
+        <div id=link_econom_in>      <a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2"  class=fancy_econom >Условия обмена</a></br> </div>
+        <!--<div id=link_econom_in2>      <a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2#sroki"  class=fancy_econom >Сроки исполнения</a></br> </div> -->
+        <a href="https://wmt24.ru/index.php?wm_mod=wm_referral&wm_act_form=partners&wm_action=profile" target=_blank>Мониторингам</a></br>
+        <div class=div_backlisthref><a href="" id="back-to-list" class="backlisthref"><b>На Главную</b></a></div>
+      </div>
+
+       <!-- при Выводе -->
+      <div class="entermoney-out-info" style="display:none">
+        <div class=print_link_rights_out><a href="/documents/rules/#rules_out" style="font-size:13px" >Правила и условия Вывода.</a></br>
+		 </div>
+		     <div id=link_econom_out>     <a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2" class=fancy_econom >Условия обмена</a></br></div>
+		     <div id=link_econom_out2>      <a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2#sroki"  class=fancy_econom >Сроки исполнения</a></br> </div>
+        <a href="https://wmt24.ru/index.php?wm_mod=wm_referral&wm_act_form=partners&wm_action=profile"  target=_blank>Мониторингам</a></br>
+        <div class=div_backlisthref><a href="" id="back-to-list" class="backlisthref"><b>На Главную</b></a></div>
+      </div>
+
+  </div><!-- end more info block -->
+            <!-- при Forex -->
+      <div class="entermoney-service-info" style="display:none; text-align: right; font-size:90%">
+      <div class=div_backlisthref><a href="" id="back-to-list" class="backlisthref"><b>На Главную</b></a></div>
+      </div>
+</div><!-- reservs right block end -->
+
+
+
+
+ <div style="clear:both;"></div>       <a href="#" id="back-to-list" class="backlisthref btn_oneclick" style="display:none; font-size:120%; margin-left:400px;"><b>На Главную</b></a>
+   <div id=poluchite_alert style="color:red;"></div>
+    <div id=poluchite_alert_inout style="color:red; position:absolute; left:190px; bottom:6px;"></div>
+
+   <br><br>
+
+<div id="notice_error_form" class="" style="display:none; color:red; text-align:center;"></div>
+<div id=tarif_ajax_res></div>
+ <div class=error_form id=error_form  style="color:red; text-align:center; margin-top:-20px;"></div>
+</form>
+
+<script>
+SwitchOption('fiz');
+</script>
+<script type="text/javascript">
+
+	$(document).ready(function() {
+
+				$(".fancy_econom").fancybox({
+							"width"				: "50%",
+							"height"			: "65%",
+							"autoScale"			: false,
+							"transitionIn"		: "none",
+							"transitionOut"		: "none",
+
+							"type"				: "iframe"
+			});
+
+	});
+</script>
+
+
+
+  </div>
+
+<!-- Second Content -->
+
+  <div id="fragment-2" class="ui-tabs-panel ui-tabs-hide"> </div>
+
+  <div id="fragment-3" class="ui-tabs-panel ui-tabs-hide"> </div>
+
+<!-- Fourth Content -->
+
+  <div id="fragment-4" class="ui-tabs-panel ui-tabs-hide">
+    <div class="left-fragment">
+      <div class="fragment-title">
+        <p>Оплата мобильной связи</p>
+       </div>
+
+      <div class="pay-items">
+        <div class="pay-item item1">
+          <p><a class="service_pay" href="/telepay/phone/" >Мобильная связь</a></p>
+         </div>
+        <!--
+        <div class="pay-item item2">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=3" >Телефония</a></p>
+         </div>
+
+        <div class="pay-item item3">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=4" >Телевидение</a></p>
+         </div>
+
+        <div class="pay-item item4">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=5" >Коммунальные платежи</a></p>
+         </div>
+
+        <div class="pay-item item5">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=9" >Интернет</a></p>
+         </div>
+
+        <div class="pay-item item9">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=26" >Онлайн-игры</a></p>
+         </div>
+
+        <div class="pay-item item7">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=16" >Другое</a></p>
+         </div>
+
+        <div class="pay-item item8">
+          <p> <a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=15" >Штрафы ГИБДД</a></p>
+         </div>   -->
+       </div>
+
+     </div>
+   </div>
+ <div id="fragment-5" class="ui-tabs-panel ui-tabs-hide">
+    <div class="left-fragment">
+      <div class="fragment-title">
+        <p>Оплата игр</p>
+       </div>
+
+      <div class="pay-items">
+        <div class="pay-item item9">
+          <p><a class="service_pay" href="/telepay/Games/" >Игры</a></p>
+         </div>
+        <!--
+        <div class="pay-item item2">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=3" >Телефония</a></p>
+         </div>
+
+        <div class="pay-item item3">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=4" >Телевидение</a></p>
+         </div>
+
+        <div class="pay-item item4">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=5" >Коммунальные платежи</a></p>
+         </div>
+
+        <div class="pay-item item5">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=9" >Интернет</a></p>
+         </div>
+
+        <div class="pay-item item9">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=26" >Онлайн-игры</a></p>
+         </div>
+
+        <div class="pay-item item7">
+          <p><a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=16" >Другое</a></p>
+         </div>
+
+        <div class="pay-item item8">
+          <p> <a class="service_pay" href="/service_pay/index.php?wm_telepay_act=service&wm_telepay_pay=15" >Штрафы ГИБДД</a></p>
+         </div>   -->
+       </div>
+
+     </div>
+   </div>
+<!-- Fifth Content -->
+
+  <div id="fragment-5" class="ui-tabs-panel ui-tabs-hide">
+<style>
+    .right-block{
+    float: right;
+
+
+    }
+    </style>
+
+    <div class="left-fragment" style="width: 432px;">  </div>
+
+<!--
+      <div class="right-fragment">
+        <div class="replenish-items">
+
+          <div class=Service_right_block style="display:none; margin-bottom:5px;">
+             <div class="fragment-title Service_mainhead-right" >
+    			<div>Резервы</div>
+			</div>
+           <div class="Service_div_reserves" id=Service_div_reserves></div>
+          </div>
+          <div style="clear:both;"> </div>
+
+          <div align=right>
+          <div class="replenish-item item1"><a id="bxid_347970" href="/pay/forex/alpari/" ></a></div>
+          <div class=Service_div_backlisthref><a id="bxid_446486" href="" class="Service_backlisthref" ><b>Обнулить</b></a></div>
+
+          </div>
+
+              </div>
+          </div>  -->
+
+<!--
+		 <a id="bxid_482946" target="_blank" href="http://wmt24.ru/news_company/index.php?ID=589" ><img id="bxid_617856" style="display:block;float:right;margin-top:-35px;" src="/gifs/alpari_490x33.gif" border="0" class="banner-alpari"  /></a>
+              -->
+ </div>
+
+<!-- Sixth Content -->
+
+  <div id="fragment-6" class="ui-tabs-panel ui-tabs-hide">
+<script>
+(function($) {
+$(function() {
+
+  $('.exchange-punkts-items').delegate('.exchange-punkt-item:not(.current)', 'click', function() {
+    var num=$(this).index()+1;
+    console.log(num);
+    $(this).addClass('current').siblings().removeClass('current')
+
+      .parents('div#fragment-6').find('div.left-fragment').hide().eq(num).fadeIn(150);
+  })
+
+})
+})(jQuery)
+</script>
+
+    <div class="left-fragment base_punkts">
+      <div class="fragment-title">
+        <p>Обменные операции в любом городе России</p>
+       </div>
+
+<!--Выбор страны-->
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('#next_out_country_show').show();
+$('.cusel .cusel-scroll-wrap').css('visibility','visible');
+$('.cusel .cusel-scroll-wrap').css('display','none');
+$('#out_u245_next').keyup(function(){
+if( $(this).val() != '') {
+  $('#mycity-button').removeAttr('disabled');
+}
+else {
+  $('#mycity-button').attr('disabled','disabled');
+}
+});
+
+});
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(document).ready(function(){
+              jQuery('#out_u245_next').suggest('/wm_soft/modules/table_tarifs/ajax_table_region.php',{
+                resultDiv:'#result_new_next',
+                countryDiv:'#out_region_select_next [name=country]'
+
+              });
+            });
+//--><!]]>
+</script>
+
+      <div class="out_country_select" id="next_out_country_show">
+        <div id="out_u243" class="out_u243 vash_gorod" style="margin-top: 29px;">
+          <p>Укажите ваш город</p>
+         </div>
+       <form action="/test6.php" method="GET">
+          <div class="out_region_select" id="out_region_select_next" style="width: 99px; margin-top: 25px;"> <select name="country" class="out_strana_value" id="out_strana_value"><option value=Россия >Россия</option><option value=Казахстан >Казахстан</option><option value=Абхазия >Абхазия</option><option value=Азербайджан >Азербайджан</option><option value=Армения >Армения</option><option value=Беларусь >Беларусь</option><option value=Грузия >Грузия</option><option value=Кыргызстан >Кыргызстан</option><option value=Латвия >Латвия</option><option value=Молдова >Молдова</option><option value=Монголия >Монголия</option><option value=Таджикистан >Таджикистан</option><option value=Филлипины >Филлипины</option><option value=Эстония >Эстония</option><option value=Южная Осетия >Южная Осетия</option> </select> </div>
+
+          <div class="out_region_div"> <input id="out_u245_next" name="data_in" type="text" value="" class="out_u245" />
+            <div class="out_region_input" id="result_new_next"></div>
+           </div>
+        </div>
+
+      <div class="u666u"> <input id="mycity-button" type="submit" disabled="" value="Это мой город"> <a class="search-by-name-a" style="color:#035EA8" >Поиск города по названию</a> <a class="search-by-name-a2" style="color:#035EA8" >Поиск города через выбор региона</a> </div>
+           </form>
+<!--Выбор страны-->
+ </div>
+   </div>
+
+<!-- Seventh Content -->
+
+  <div id="fragment-7" class="ui-tabs-panel ui-tabs-hide">
+    <div class="left-fragment base_card">
+      <div class="fragment-title" style="display: none;">
+        <p>Платежные карты</p>
+       </div>
+
+      <div class="pay-cards" style="display: none;">
+        <div class="pay-card item1">
+          <p><a href="/payment_systems/payment_cards_webmoney/" >Webmoney</a></p>
+         </div>
+
+<!-- <div class="pay-card item2">
+          <p><a id="bxid_110028" href="/payment_systems/payment_cards_yandex_money/" >Яндекс.Деньги</a></p>
+                  </div>    -->
+
+<!--
+        <div class="pay-card item3">
+          <p><a id="bxid_509411" href="#" >RBK Money</a></p>
+                  </div>  -->
+ </div>
+
+      <div class="pay-cards-desc" style="display: none;">
+        <p>Пополните электронный кошелек c помощью скрэтч-карты платежной системы! Приобретите карту у нас и введите номер и PIN-код карты в интерфейсе вашего кошелька. Комиссия за пополнение не взимается. Карты всегда в наличии. Оптом и в розницу.</p>
+       </div>
+
+      <div class="buy-pay-card" style="display: none;">
+        <div class="buy_cardpin">
+          <p class="buycard-punkt-item select_card_item">Пункты продаж карт</p>
+
+          <p class="buycard-punkt-item select_pin_item">Пункты продаж PIN-кодов</p>
+         </div>
+
+        <p><a href="/payment_systems/buycard/" >ONLine заказ карт и PIN-кодов</a></p>
+       </div>
+     </div>
+
+<script>
+(function($) {
+$(function() {
+        $(".select_card_item").bind("click", function(){
+          show_card();
+
+      });
+        $(".select_pin_item").bind("click", function(){
+          show_pin();
+      });
+
+  $('.buy_cardpin').delegate('.buycard-punkt-item:not(.current)', 'click', function() {
+    var num=1;
+
+
+
+    $(this).addClass('current').siblings().removeClass('current')
+
+      .parents('div#fragment-7').find('div.left-fragment').hide().eq(num).fadeIn(150);
+  })
+
+
+
+  $('.exchange-punkts-items_card').delegate('.exchange-punkt-item:not(.current)', 'click', function() {
+    var num=$(this).index()+2;
+
+    $(this).addClass('current').siblings().removeClass('current')
+
+      .parents('div#fragment-7').find('div.left-fragment').hide().eq(num).fadeIn(150);
+  })
+
+
+
+})
+
+})(jQuery)
+</script>
+
+<!-- BUY CARD AND PIN -->
+
+    <div class="left-fragment hide_elem">
+      <div class="fragment-title">
+        <p><span class="punkt_card_change"></span></p>
+       </div>
+
+      <div class="exchange-punkts-items_card">
+        <div class="exchange-punkt-item">Казань </div>
+
+        <div class="exchange-punkt-item ex_krasnoyarsk"> Красноярск</div>
+
+        <div class="exchange-punkt-item ex_volgograd"> Волгоград</div>
+       </div>
+
+      <div class="bot_link_punkt">
+        <div class="any-other-exchange-punkt">
+          <p><a href="/information/you_city_card/" >Ваш город/населенный пункт</a></p>
+         </div>
+
+        <div class="other-exchange-punkts">
+          <div class="open-exchange-punkt">
+            <p><a href="/partnership/" >Стать партнером</a></p>
+           </div>
+         </div>
+       </div>
+     </div>
+
+<!-- BUY CARD -->
+
+<!-- Kazan -->
+
+    <div class="left-fragment hide_elem">
+      <div class="fragment-title">
+        <p><span class="punkt_card_change">Пункты обмена</span> Казань</p>
+       </div>
+
+      <div class="exchange-punkts-items-list">
+        <ul>
+          <li class="ex_tatarstan"><a href="/contacts/punkts/kazan/tatarstan/#punkt_card" >Ул. Татарстан, дом 20</a></li>
+
+          <li class="ex_chernishevskogo"><a href="/contacts/punkts/kazan/yamasheva97//#punkt_card" >пр. Ямашева, дом 97</a></li>
+
+          <li class="ex_yamasheva"><a href="/contacts/punkts/kazan/yamasheva/#punkt_card" >пр. Ямашева, дом 93</a></li>
+         </ul>
+       </div>
+
+      <div class="other-exchange-punkts">
+        <div class="open-exchange-punkt">
+          <p><a href="/partnership/" >Стать партнером</a></p>
+         </div>
+       </div>
+     </div>
+
+<!-- /Kazan -->
+
+<!-- Krasnoyarsk -->
+
+    <div class="left-fragment hide_elem">
+      <div class="fragment-title">
+        <p><span class="punkt_card_change">Пункты обмена</span> Красноярск</p>
+       </div>
+
+      <div class="exchange-punkts-items-list">
+        <ul>
+          <li><a href="/contacts/punkts/krasnoyarsk/vzletnaya/#punkt_card" >ул. Взлётная д.5А, офис 212</a></li>
+         </ul>
+       </div>
+
+      <div class="other-exchange-punkts">
+        <div class="open-exchange-punkt">
+          <p><a href="/partnership/" >Стать партнером</a></p>
+         </div>
+       </div>
+     </div>
+
+<!-- /Krasnoyarsk -->
+
+<!-- Volgograd -->
+
+    <div class="left-fragment hide_elem">
+      <div class="fragment-title">
+        <p><span class="punkt_card_change">Пункты обмена</span> Волгоград</p>
+       </div>
+
+      <div class="exchange-punkts-items-list">
+        <ul>
+          <li><a href="/contacts/punkts/volgograd/rabochekrestyanskaya/#punkt_card" >ул. Рабоче-Крестьянская, 9 офис 540</a></li>
+         </ul>
+       </div>
+
+      <div class="other-exchange-punkts">
+        <div class="open-exchange-punkt">
+          <p><a href="/partnership/" >Стать партнером</a></p>
+         </div>
+       </div>
+     </div>
+
+<!-- /Volgograd -->
+ </div>
+
+<!-- Eighth Content -->
+<div id="fragment-8" class="ui-tabs-panel ui-tabs-hide">
+      <div class="fragment-title">
+        <p>Условия и сроки обмена</p>
+       </div>     <br><br>
+  <ul>
+ <li><a href="/?wm_mod=wm_notice&type=change&return=rules&id_tarif=4"  class=fancy_econom>Автоматический обмен WM/Яндекс на WM/Яндекс</a>
+</li><li><a href="/?wm_mod=wm_notice&action=print&id=2"  class=fancy_econom>Снятие с кошелька на счет/карту</a>
+</li><li><a href="/?wm_mod=wm_notice&type=inout&return=rules&id_tarif=3,267,128"  class=fancy_econom>Снятия с кошелька наличными</a>
+</li><li><a href="/?wm_mod=wm_notice&type=inout&return=rules&id_tarif=131,7"  class=fancy_econom>Пополнение кошелька со счета/карты </a>
+</li><li><a href="/?wm_mod=wm_notice&type=inout&return=rules&id_tarif=1,269,112"  class=fancy_econom>Пополнение кошелька наличными</a></li>
+
+  </ul>
+</div>
+ </div>
+
+<div class="c1">
+<div class="breadcrumbs">
+  					
+</div>
+			
+<div class=content> 
+<p class="title">Новости</p>
+<div class="company-news">
+<div class="news">
+
+
+		<div class="newsitem" id="bx_1263857167_2943">
+
+					<div class="publish_time" style="height:30px;">
+			<!--<span class="hot_date">05.02.18</span>
+			<span class="time">13:00 </span> -->
+			</div>
+											<a href="/news_company/index.php?ID=2943">Купим WMR за безнал от ИП (УСН).</a>
+											
+	</div>
+
+</div>
+</div><br>
+<p class="title2">
+<!--Новости-->
+ </p>
+
+<div class="main-news"></div>
+
+<div align="justify"> </div>
+
+<div align="justify" class="seo_text"><font color="#707070">
+    <br />
+
+    <div align="justify" class="seo_text">
+      <ul> </ul>
+     </div>
+   </font></div>
+
+<div align="justify" class="seo_text">
+  <h2><font color="#898989">Внимание!</font> </h2>
+ <font color="#707070">
+    <div align="justify" class="seo_text">
+      <ul>
+        <li>Мы принимаем все платежи от Вас только через составление заявки на нашем сайте и только посредством него.</li>
+
+        <li>Мы не производим прямых переводов с кошелька на кошелек и не предоставляем номера своих кошельков через он-лайн чат, почту и т.д.</li>
+
+        <li>Мы общаемся с Вами только посредством контактов указанных в разделе <a href="http://wmt24.ru/contacts/" target="_blank" >Контакты</a> и не по каким другим.</li>
+
+        <li>Мы не предоставляем поддержки по: ICQ, QIP, Skype, Viber, Whats up всем другим чат программам. Все каналы связи с нами указаны в разделе <a href="/contacts/index.php" >Контакты</a>.</li>
+
+        <li>Если вдруг Вы получаете сообщение якобы от нас с просьбой общения по электронному адресу или контактам отличным от указанных в разделе <a href="http://wmt24.ru/contacts/" target="_blank" >Контакты</a> или предложение совершить прямой перевод с кошелька на кошелек &ndash; знайте это мошенничество.</li>
+
+        <li>Наш WMID только этот: 117687893439 и никакой другой, если Вы получаете сообщение о переводе средств на кошелек стороннего WMID – знайте это мошенничество так как при невозможности приема платежа Мы его просто не принимаем, а не переадресовываем на другой WMID.</li>
+
+        <li>Все операции по обменам WebMoney производятся только через составление заявки на сайте и больше никак.</li>
+
+        <li>Все операции по обменам Яндекс Деньги производятся только через составление заявки на сайте и больше никак.</li>
+
+        <li>Поддержка предоставляется только с 10:00 до 21:00 по Московскому времени, без выходных и праздничных дней.</li>
+       </ul>
+     </div>
+   </font></div>
+ </div>
+
+ 
+<div class="icons"> 			 
+  <div class="addicons"> 					 
+    <p> <a rel="nofollow" href="https://passport.webmoney.ru/asp/certView.asp?wmid=117687893439" target="_blank" ><img style="vertical-align: top;" src="http://www.webmoney.ru/img/icons/88x31_wm_v_blue_on_white_ru.png" height="31" width="82"  /></a> 					&nbsp;&nbsp; <a rel="nofollow" href="http://www.megastock.ru/searchres.aspx?search=wmt24.ru&lang=ru" target="_blank" > 					<img src="/images/MSblue.jpg" alt="Мы в каталоге Megastock" height="31" width="82"  /></a>&nbsp;&nbsp; 									<a rel="nofollow" href="http://www.megastock.ru/" target="_blank" ><img src="http://webmoney.ru/img/banner/m_88x31_11.gif" alt="Ваш торговый агент Megastock" height="31" width="82"  /></a> 					&nbsp;&nbsp; 					<a rel="nofollow" href="https://passport.webmoney.ru/asp/CertView.asp?wmid=165543043125" target="_blank" ><img style="vertical-align: top;" src="http://www.capitaller.ru/logo/logo.gif?cfid=1111&amp;it=3" height="31" width="82"  /></a></p>
+   			</div>
+ 		</div>
+ </div>
+
+
+
+<div class="c2 right_column">
+
+
+
+             <div class="block_right">
+				<p class="title">Резервы</p>
+             <div class=reserve_title><div class=d_ot><a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=7" class="fancy_econom">Автообмен WM/Янд на Wm/Янд</a></div></div>
+             <ul class="reserv_right_block"><li><a class=reserve_wmr href="#private_calc" onclick="select_op_text('WMZ','WMR');">Обмен WMR</a><span>2.96</span></li><li class="even"><a class="reserve_yad" href="#private_calc" onclick="select_op_text('WMR','Яндекс Рубли');">Обмен Яндекс</a><span>619523.22</span></li>
+             </ul>
+              <div class=reserve_title><div class=d_ot><a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=8" class="fancy_econom">Пополнение кошелька</a></div></div>
+             <ul class="reserv_right_block"><li><a href="/news_company/index.php?ID=589" class="reserve_link">Доплаты за ввод</a></li><li class="even"><a href="http://wmt24.ru/?wm_mod=wm_notice&amp;action=print&amp;id=6" class="fancy_econom reserve_link">Не хватает  резерва?</a></li>
+             </ul>
+
+             <div class=reserve_title><div class=d_ot><a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=2" class="fancy_econom">Снятие с кошелька</a></div></div>
+             <ul class="reserv_right_block">
+             <!--<li class="even"><a href="http://wmt24.ru/?wm_mod=wm_notice&amp;action=print&amp;id=6" class="fancy_econom reserve_link">Не хватает  резерва?</a></li>
+             </ul>
+
+             <div class=reserve_title><div class=d_ot><a href="http://wmt24.ru/?wm_mod=wm_notice&type=inout&return=rules&id_tarif=135" class="fancy_econom">Обычный вывод</a></div></div>
+             <ul class="reserv_right_block">
+             <li><a  class=reserve_wire href="#private_calc" onclick="select_op_text('Выбрать','Любой банк RUB (РФ)');">Любой Банк RUB (РФ)</a><span>0</span></li>
+             <li  class="even"><a href="http://wmt24.ru/?wm_mod=wm_notice&amp;action=print&amp;id=6" class="fancy_econom reserve_link">Не хватает  резерва?</a></li>
+             </ul>
+
+             <div class=reserve_title><div class=d_ot><a href="http://wmt24.ru/?wm_mod=wm_notice&action=print&id=9" class="fancy_econom">Вывод в Вашем городе</a></div></div>
+             <ul class="reserv_right_block"> -->
+
+             <li  class="even"><a href="http://wmt24.ru/?wm_mod=wm_notice&amp;action=print&amp;id=6" class="fancy_econom reserve_link">Не хватает  резерва?</a></li>
+             </ul>
+             </div>
+             
+
+<div class=separator_line></div>
+
+
+<div class="block_right">
+  <p class="title">Присоединяйтесь</p>
+
+  <div class="socialize">
+    <p><a target="_blank" rel="nofollow" href="http://vk.com/wmt24ru" ><img src="/images/icons/vk-icon.png"  /></a>
+	<a target="_blank" rel="nofollow" href="http://www.facebook.com/groups/565682036790722/" ><img src="/images/fb.png"  /></a>
+
+<!--		<a id="bxid_337165" rel="nofollow" target="_blank" href="https://twitter.com/#%21/search/realtime/wmt24.ru" ><img id="bxid_610361" src="/images/icons/twitter-icon.png"  /></a> 			<a id="bxid_91286" target="_blank" href="http://www.odnoklassniki.ru/#/group/51055279472721" ><img id="bxid_343811" src="/images/icons/odnoklassniki-icon.png"  /></a>
+-->
+ 		 			<a target="_blank" rel="nofollow" href="http://www.twitter.com/wmt24_ru" ><img src="/images/icons/twitter-icon.png"  /></a>
+
+ 		 			<!--<a target="_blank" rel="nofollow" href="http://www.wmt24ru.livejournal.com/" ><img  src="/images/icons/jj.png" width="32" height="32"  /></a>
+ 		 			-->
+ 		 			</p>
+   		</div>
+ </div>
+	
+
+<div class="block_right"> 
+  <div class="icons"> 			 
+  <!--  <p class="title">Мы пополняем</p>-->
+   			 
+    <div> 			
+	 
+
+      <p> 				
+<!--<a href="/pay/forex/alpari/" ><img src="/images/replenish-item1.png" height="64" width="64"  /></a> -->
+		 		 
+<!--<a id="bxid_967337" href="/pay/forex/instaforex/" ><img id="bxid_758427" src="/images/replenish-item2.png" height="64" width="64"  /></a> 	-->
+ 			
+<!--<a id="bxid_500132" href="https://wmt24.ru/?wm_mod=wm_service&type=injapan&action=form" ><img id="bxid_718513" src="/images/replenish-item3.png" height="64" width="64"  /></a> 	-->
+			 
+<!--<a id="bxid_980160" href="https://wmt24.ru/?wm_mod=wm_service&type=ebaytoday&action=form" >
+<img id="bxid_916344" src="/images/replenish-item4.png" height="64" width="64"  />
+</a>	-->
+ </p>
+     		 			</div>
+   		</div>
+ </div>
+
+<div class="block_right">
+  <div class="icons">
+  <!--
+    <p class="title">Мы принимаем</p>
+
+    <div class="we_payment">
+      <p><a href="/payment_systems/yandex_money/" target="_blank" ><img style="vertical-align: top;" src="/images/icons/icon13.gif" height="31" width="88"  /></a> 				<img style="vertical-align: top;" src="/images/icons/icon2.gif" height="31" width="88"  /> 				<img style="vertical-align: top;" src="/images/icons/icon4.gif" height="31" width="88"  /> 				<img style="vertical-align: top;" src="/images/icons/icon5.gif" height="31" width="88"  /> 				<img style="vertical-align: top;" src="/images/icons/icon6.gif" height="31" width="88"  /> 	 	<a rel="nofollow" href="http://sberbank.ru" target="_blank" ><img style="vertical-align: top;" src="/images/icons/icon9.gif" height="31" width="88"  /></a> 			 <a href="http://homecredit.ru" rel="nofollow" target="_blank" ><img style="vertical-align: top;" src="/images/icons/home.png" height="31" width="88"  /></a> 		 			<a href="http://webmoney.ru" rel="nofollow" target="_blank" ><img style="vertical-align: top;" src="/images/icons/icon7.png" height="31" width="88"  /></a> 			</p>
+     			</div>
+              -->
+       <!--
+
+   		 <a href="http://feedback.wmt24.ru" onclick="Reformal.widgetOpen();return false;" onmouseover="Reformal.widgetPreload();">
+
+   		 <div class=btn_review_right style=""><img style="position:relative; top:-5px;" src="http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/9c1f751cd883e990123aab292c606f93/bottom-left/1/tab.png"></div>
+
+   		 </a>
+
+   		 <script type="text/javascript">
+    var reformalOptions = {
+        project_id: 775670,
+        show_tab: false,
+        project_host: "feedback.wmt24.ru"
+    };
+
+    (function() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript'; script.async = true;
+        script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+</script><noscript><a href="http://reformal.ru"><img src="http://media.reformal.ru/reformal.png" /></a><a href="http://feedback.wmt24.ru">Oтзывы и предложения для WMT24</a></noscript>
+         -->
+   		</div>
+ </div>
+
+
+
+
+
+
+
+
+<div class=separator_line></div>
+ <div class="block_right">
+
+  		<div class="ya-site-form ya-site-form_inited_no" onclick="return {'bg': 'transparent', 'publicname': 'Yandex Site Search #2084793', 'target': '_blank', 'language': 'ru', 'suggest': true, 'tld': 'ru', 'site_suggest': true, 'action': 'http://yandex.ru/sitesearch', 'webopt': false, 'fontsize': 12, 'arrow': false, 'fg': '#000000', 'searchid': '2084793', 'logo': 'rb', 'websearch': false, 'type': 3}"><form action="http://yandex.ru/sitesearch" method="get" target="_blank"><input type="hidden" name="searchid" value="2084793" /><input type="hidden" name="l10n" value="ru" /><input type="hidden" name="reqenc" value="" /><input type="text" name="text" value="" /><input type="submit" value="Найти" /></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;(' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1&&(e.className+=' ya-page_js_yes');s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+ </div></div>
+<div class="clear"></div>
+</div>
+
+
+ <div id="footer">
+
+<p class="footer-per">
+<a href="/exchange_yandex/">Обмен яндекс денег</a> |
+<a href="/exchange_webmoney/">Обмен webmoney</a> |
+<a href="/conclusion_webmoney/">Webmoney</a>
+
+</p>
+
+ 	<div class="c1">
+		<div id="copyright">
+			<span class="copy">© </span><div class="copyright">2006-2016 Расчетный сервис WMT24</div>
+			<div style="width:300px">Воспроизводимая на данном сайте торговая марка WMT24 используется держателями сайта с разрешения правообладателя</div>
+		</div>
+
+		<div class="contacts">
+			<p><a href="/contacts/">Контактная информация</a></p>
+			<p><a href="/error_report/"><b>Заметили ошибку на сайте?</b></a></p>
+			<p><a href="/documents/user_agreement/">Пользовательское соглашение</p>
+		</div>
+	</div>
+
+	<div class="c2">
+
+ 		<div class="counters">
+
+
+ 	<p>
+<!--WebMoney TOP-->
+<script language="JavaScript">document.write('<a rel="nofollow" href="http://top.owebmoney.ru" target="_blank">'+'<img src="http://top.owebmoney.ru/counter.php?site_id=1655&from='+escape(document.referrer)+'&host='+location.hostname+'&rand='+Math.random()+'" alt="WebMoney TOP" '+'border=0 width=88 height=31></a>')</script>
+<noscript><a rel="nofollow" href="http://top.owebmoney.ru" target="_blank"> <img src="http://top.owebmoney.ru/counter.php?site_id=1655"
+width=88 height=31 alt="WebMoney TOP" border=0></a></noscript> <!--/WebMoney TOP-->
+       <a rel="nofollow" target="_blank" href="http://www.bestchange.ru/?p=22000"><img src="http://www.bestchange.ru/images/banners/88x31-3.gif" alt="Electronic currency exchanger" title="Мониторинг обменников BestChange.ru" width="88" height="31" border="0" /></a>
+
+        <A href="http://club.owebmoney.ru/710/" rel="nofollow" target="blank"><img src="http://serv1.owebmoney.ru/images/club/club18.gif" width="88" height="31" border="0" title="WM-Клуб"></A>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+
+document.write("<a rel=\"nofollow\" href='http://www.liveinternet.ru/click' "+"target=_blank><img src='http://counter.yadro.ru/hit?t16.1;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random()+"' alt='' title='LiveInternet: показано число просмотров за 24"+" часа, посетителей за 24 часа и за сегодня' "+"border='0' width='88' height='31'><\/a>")
+
+//--></script><!--/LiveInternet-->
+
+
+
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=7313437&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/7313437/3_1_FFFFFFFF_FFFFFFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:7313437,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+
+
+<div style="display:none;">
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-23761118-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</div>
+
+</p>
+<!--
+   <script type="text/javascript">
+    var reformalOptions = {
+        project_id: 775670,
+        project_host: "feedback.wmt24.ru",
+        tab_orientation: "bottom-left",
+        tab_indent: "10px",
+        tab_bg_color: "#2f92de",
+        tab_border_color: "#FFFFFF",
+        tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/9c1f751cd883e990123aab292c606f93/bottom-left/1/tab.png",
+        tab_border_width: 2
+    };
+
+    (function() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript'; script.async = true;
+        script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+</script><noscript><a href="http://reformal.ru"><img src="http://media.reformal.ru/reformal.png" /></a><a href="http://feedback.wmt24.ru">Oтзывы и предложения для WMT24</a></noscript>
+
+  -->
+
+
+		</div>
+	</div>
+
+		<div class="clear"></div>
+	</div>
+
+
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+var yaParams = {/*Здесь параметры визита*/};
+</script>
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7313437 = new Ya.Metrika({id:7313437,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,params:window.yaParams||{ }});
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+<div><img src="//mc.yandex.ru/watch/7313437" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html>
+ <head lang="ru" style="height: 100%;">
+  
+  <title>GetExchange.ru - автоматический обмен валют Qiwi Яндекс.Деньги Perfect Money СберБанк ВТБ24 Тинькофф Advanced Cash EXMO </title> 
+  
+<meta name="description" content="Быстрый обмен электронных денег, обмен электронных денег Qiwi Яндекс.Деньги Perfect Money СберБанк ВТБ24 Тинькофф Advanced Cash EXMO " />
+<meta name="keywords" content="Обмен киви на сбер, сбер на PM, Advcash на Сберанк, киви на тинькоф" />
+<meta property="og:title" content="Обмен электронных валют - GetExchange.ru" />
+<meta property="og:description" content="Быстрый обмен электронных денег, обмен электронных денег  Qiwi Яндекс.Деньги Perfect Money СберБанк ВТБ24 Тинькофф Advanced Cash EXMO " />
+<meta property="og:image" content="https://getexchange.ru/public/template/resources/design/img/logo.png" />
+<meta property="og:url" content="https://getexchange.ru/" />
+<meta property="og:type" content="website">
+ 
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=no" />
+  
+
+
+  
+  <link rel="stylesheet" type="text/css" href="public/template/resources/styles/jquery.jgrowl.css" />
+  <link rel="stylesheet" type="text/css" href="public/template/resources/styles/jquery.tipsy.css" />
+  <link rel="stylesheet" type="text/css" href="public/resources/styles/jquery.datatables.css" />
+  <link rel="stylesheet" type="text/css" href="public/resources/styles/jquery-ui-1.9.1.custom.css" />
+  <script type="text/javascript" src="public/template/resources/javascripts/jquery.min.js"></script>
+  <script type="text/javascript" src="public/resources/scripts/jquery.datatables.min.js"></script>
+  <script type="text/javascript" src="public/template/resources/javascripts/jquery.jgrowl_minimized.js"></script>
+  <script type="text/javascript" src="public/template/resources/javascripts/jquery.tipsy.js"></script>
+  <script type="text/javascript" src="public/template/resources/javascripts/jquery.form.js"></script>
+  <script type="text/javascript" src="public/template/resources/javascripts/jquery.numberMask.js"></script>
+  
+  <script type="text/javascript" src="public/template/resources/javascripts/jquery.mmenu.min.js"></script>
+  <script type="text/javascript" src="public/template/resources/javascripts/script.main.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="public/template/resources/design/css/menu.css" />
+    <link rel="stylesheet" type="text/css" href="public/template/resources/design/css/jquery.mmenu.all.css" />
+    <link rel="stylesheet" type="text/css" href="public/template/resources/design/css/main2.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+
+
+
+
+	<script type="text/javascript">
+			$(function() {
+				$('nav#menu').mmenu();
+			});
+			</script>
+			
+			
+ </head>
+ 
+ 
+ 
+<body >
+
+<div data-container="header">
+    <div class="header_section">
+        <div class="header_up">
+            <div class="header_logo">
+                <a href="/" class="header_sep">
+                    <img class="img-responsive"  src="public\template\resources\design\img\logo.png" alt="GetExchange.ru" width="132" height="60" style="margin-top:-10px;"></a>
+                
+            </div>
+            <div class="navigation_block">
+    <a href="index.html" target="_self" class="navigation_item" title="Главная">Главная</a>
+	 	     <a href="affiliate.html" target="_self" class="navigation_item" title="Партнёрская программа">Заработок</a>
+		
+    <a href="agree.html" target="_self" class="navigation_item" title="Соглашение об использовании сервиса">Соглашение</a>
+    <a href="faq.html" target="_self" class="navigation_item" title="FAQ">FAQ</a>
+      <a href="contacts.html" target="_self" class="navigation_item" title="Контакты">Контакты</a>
+
+	
+	
+	 
+                </div>
+     	<div class="userpanel_block">
+                    <div class="userpanel_mod">
+                            <span class="userpanel_lk2">
+                            <span class="userpanel_ite"></span>
+                            </span><a href="#modal-window" class="open-window">Войти</a>
+                    </div>
+                    <span class="userpanel_enter">или</span>
+                    <a href="clients-signup.html">
+                        <button class="but_yellow_size2">Зарегистрируйтесь</button>
+                    </a>
+                </div>                    </div>
+    </div>
+	
+<!-- mobile menu content GETEXCHANGE.RU -->
+    <div class="header_sm_mob">
+        <div class="header_sm_conten">
+			<div class="mob_menu">
+            <a href="#menu">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+			</div>
+            <div class="header_sm_logo">
+                <a href="/">
+                    <img src="public\template\resources\design\img\logo_sm.jpg" alt="GetExchange.ru" width="132" height="60" class="header_sm_logo_im">
+                </a>
+            </div>
+           
+                    </div>
+
+                
+<nav  id="menu">
+				<ul>
+					<li><a href="index.html">Главная</a></li>
+																	 					<li><a href="affiliate.html">Партнерская программа</a></li>
+										
+					<li><a href="/agree.html">Соглашение</a></li>
+					<li><a href="/faq.html">FAQ</a></li>
+					<li><a href="/contacts.html">Контакты</a></li>
+										<li><a href="/clients-login.html">Войти в ЛК</a></li>
+					<li><a href="/clients-signup.html">Регистрация</a></li>
+			
+									</ul>
+			</nav>
+
+		
+					
+		
+		<!-- end mobile menu -->
+    </div>
+	
+	
+     
+   
+   
+     <div data-container="module" class="getme_man">
+	 
+	  
+        
+	
+	 
+       	 
+                
+				 <div class="page_content">	
+              <div class="page_content_block">
+          
+				<h3>Автоматический <span>обмен валют</span></h3>
+<table id="ExchangeTable" class="responsive-stacked-table" >
+ <thead>
+  <tr>
+   <th>Отдаете</th>
+   <th>Получаете</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td class="FromCurrencies" valign="top">
+    <ul>
+          <li data-currency="QWRUB">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 р</td>
+         <td width="30"><img src="public/resources/icons/currencies/QWRUB.png" height="25" alt="" /></td>
+         <td>Qiwi RUB</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="YAMRUB">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 р</td>
+         <td width="30"><img src="public/resources/icons/currencies/YAMRUB.png" height="25" alt="" /></td>
+         <td>Яндекс.Деньги RUB</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="PMUSD">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 $</td>
+         <td width="30"><img src="public/resources/icons/currencies/PMUSD.png" height="25" alt="" /></td>
+         <td>Perfect Money USD</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="ADVCUSD">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 $</td>
+         <td width="30"><img src="public/resources/icons/currencies/ADVCUSD.png" height="25" alt="" /></td>
+         <td>Advanced Cash USD</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="ADVCEUR">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 &euro;</td>
+         <td width="30"><img src="public/resources/icons/currencies/ADVCEUR.png" height="25" alt="" /></td>
+         <td>Advanced Cash EUR</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="EXMRUB">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 р</td>
+         <td width="30"><img src="public/resources/icons/currencies/EXMRUB.png" height="25" alt="" /></td>
+         <td>EXMO RUB</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="SBERRUB">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 р</td>
+         <td width="30"><img src="public/resources/icons/currencies/SBERRUB.png" height="25" alt="" /></td>
+         <td>СберБанк RUB</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="TBRUB">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 р</td>
+         <td width="30"><img src="public/resources/icons/currencies/TBRUB.png" height="25" alt="" /></td>
+         <td>ВТБ24 RUB</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li data-currency="TCSBRUB">
+      <table>
+       <tbody >
+        <tr >
+         <td width="60">1.00 р</td>
+         <td width="30"><img src="public/resources/icons/currencies/TCSBRUB.png" height="25" alt="" /></td>
+         <td>Тинькофф RUB</td>
+        </tr>
+       </tbody>
+      </table>
+     </li>
+         </ul>
+   </td>
+   <td class="ToCurrencies " valign="top">
+    <ul>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/QWRUB.png" height="25" alt="" /></td>
+         <td>Qiwi </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/YAMRUB.png" height="25" alt="" /></td>
+         <td>Яндекс.Деньги </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/PMUSD.png" height="25" alt="" /></td>
+         <td>Perfect Money </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/ADVCUSD.png" height="25" alt="" /></td>
+         <td>Advanced Cash </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/ADVCEUR.png" height="25" alt="" /></td>
+         <td>Advanced Cash </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/EXMRUB.png" height="25" alt="" /></td>
+         <td>EXMO </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/SBERRUB.png" height="25" alt="" /></td>
+         <td>СберБанк </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/TBRUB.png" height="25" alt="" /></td>
+         <td>ВТБ24 </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+          <li>
+      <table>
+       <tbody>
+        <tr >
+         <td width="30"><img src="public/resources/icons/currencies/TCSBRUB.png" height="25" alt="" /></td>
+         <td>Тинькофф </td>
+
+        </tr>
+       </tbody>
+      </table>
+     </li>
+         </ul>
+   </td>
+  </tr>
+ </tbody>
+</table>
+<script type="text/javascript">
+function ArrayLength( aArray ) {
+    var iCount = 0;
+    for( var sKey in aArray )
+        iCount -= -1;
+    return iCount;
+}
+$( function() {
+    var oExchangeTable = $( 'table#ExchangeTable' ),
+        oFromCurrencies = oExchangeTable.find( 'td.FromCurrencies' ),
+        oToCurrencies = oExchangeTable.find( 'td.ToCurrencies' ),
+        aCurrencies = {},
+        aRates = {};
+
+        aCurrencies['QWRUB'] = { 
+        'sName' : 'QWRUB',
+        'sBilling' : 'QIWI',
+        'sBillingTitle' : 'Qiwi',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 30000
+    };
+    aRates['QWRUB'] = {};
+        aCurrencies['YAMRUB'] = { 
+        'sName' : 'YAMRUB',
+        'sBilling' : 'YANDEXMONEY',
+        'sBillingTitle' : 'Яндекс.Деньги',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 215289.03
+    };
+    aRates['YAMRUB'] = {};
+        aCurrencies['PMUSD'] = { 
+        'sName' : 'PMUSD',
+        'sBilling' : 'PERFECTMONEY',
+        'sBillingTitle' : 'Perfect Money',
+        'sEquivalent' : 'USD',
+        'dReserve' : 4080.2
+    };
+    aRates['PMUSD'] = {};
+        aCurrencies['ADVCUSD'] = { 
+        'sName' : 'ADVCUSD',
+        'sBilling' : 'ADVCASH',
+        'sBillingTitle' : 'Advanced Cash',
+        'sEquivalent' : 'USD',
+        'dReserve' : 4140.17
+    };
+    aRates['ADVCUSD'] = {};
+        aCurrencies['ADVCEUR'] = { 
+        'sName' : 'ADVCEUR',
+        'sBilling' : 'ADVCASH',
+        'sBillingTitle' : 'Advanced Cash',
+        'sEquivalent' : 'EUR',
+        'dReserve' : 5307.64
+    };
+    aRates['ADVCEUR'] = {};
+        aCurrencies['EXMRUB'] = { 
+        'sName' : 'EXMRUB',
+        'sBilling' : 'EXMO',
+        'sBillingTitle' : 'EXMO',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 345.15
+    };
+    aRates['EXMRUB'] = {};
+        aCurrencies['SBERRUB'] = { 
+        'sName' : 'SBERRUB',
+        'sBilling' : 'SBER',
+        'sBillingTitle' : 'СберБанк',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 69600
+    };
+    aRates['SBERRUB'] = {};
+        aCurrencies['TBRUB'] = { 
+        'sName' : 'TBRUB',
+        'sBilling' : 'TB',
+        'sBillingTitle' : 'ВТБ24',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 55700
+    };
+    aRates['TBRUB'] = {};
+        aCurrencies['TCSBRUB'] = { 
+        'sName' : 'TCSBRUB',
+        'sBilling' : 'TCS',
+        'sBillingTitle' : 'Тинькофф',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 241500
+    };
+    aRates['TCSBRUB'] = {};
+         
+        aRates['QWRUB']['YAMRUB'] = 1 / 1;
+        aRates['QWRUB']['PMUSD'] = 65.1221 / 1;
+        aRates['QWRUB']['ADVCUSD'] = 65.4454 / 1;
+        aRates['QWRUB']['ADVCEUR'] = 77.0291 / 1;
+        aRates['QWRUB']['EXMRUB'] = 1.03 / 1;
+        aRates['QWRUB']['SBERRUB'] = 1.05 / 1;
+        aRates['QWRUB']['TBRUB'] = 1.05 / 1;
+        aRates['QWRUB']['TCSBRUB'] = 1.05 / 1;
+        aRates['YAMRUB']['QWRUB'] = 1.022 / 1;
+        aRates['YAMRUB']['PMUSD'] = 65.3161 / 1;
+        aRates['YAMRUB']['ADVCUSD'] = 65.5101 / 1;
+        aRates['YAMRUB']['ADVCEUR'] = 78.1295 / 1;
+        aRates['YAMRUB']['EXMRUB'] = 1.048 / 1;
+        aRates['YAMRUB']['SBERRUB'] = 1.0445 / 1;
+        aRates['YAMRUB']['TBRUB'] = 1.0445 / 1;
+        aRates['YAMRUB']['TCSBRUB'] = 1.0445 / 1;
+        aRates['PMUSD']['QWRUB'] = 1 / 62.7293;
+        aRates['PMUSD']['YAMRUB'] = 1 / 64.2167;
+        aRates['PMUSD']['ADVCUSD'] = 1.0168 / 1;
+        aRates['PMUSD']['ADVCEUR'] = 1.1662 / 1;
+        aRates['PMUSD']['EXMRUB'] = 1 / 61.5653;
+        aRates['PMUSD']['SBERRUB'] = 1 / 62.406;
+        aRates['PMUSD']['TBRUB'] = 1 / 62.6;
+        aRates['PMUSD']['TCSBRUB'] = 1 / 62.6;
+        aRates['ADVCUSD']['QWRUB'] = 1 / 62.8587;
+        aRates['ADVCUSD']['YAMRUB'] = 1 / 64.3461;
+        aRates['ADVCUSD']['PMUSD'] = 0.998 / 1;
+        aRates['ADVCUSD']['ADVCEUR'] = 1.1616 / 1;
+        aRates['ADVCUSD']['EXMRUB'] = 1 / 61.7916;
+        aRates['ADVCUSD']['SBERRUB'] = 1 / 62.9557;
+        aRates['ADVCUSD']['TBRUB'] = 1 / 63.0527;
+        aRates['ADVCUSD']['TCSBRUB'] = 1 / 63.085;
+        aRates['ADVCEUR']['QWRUB'] = 1 / 70.7934;
+        aRates['ADVCEUR']['YAMRUB'] = 1 / 72.4807;
+        aRates['ADVCEUR']['PMUSD'] = 1 / 1.1151;
+        aRates['ADVCEUR']['ADVCUSD'] = 1 / 1.1004;
+        aRates['ADVCEUR']['EXMRUB'] = 1 / 70.7934;
+        aRates['ADVCEUR']['SBERRUB'] = 1 / 70.4632;
+        aRates['ADVCEUR']['TBRUB'] = 1 / 70.5733;
+        aRates['ADVCEUR']['TCSBRUB'] = 1 / 70.4632;
+        aRates['EXMRUB']['QWRUB'] = 1 / 1;
+        aRates['EXMRUB']['YAMRUB'] = 1.02 / 1;
+        aRates['EXMRUB']['PMUSD'] = 64.6694 / 1;
+        aRates['EXMRUB']['ADVCUSD'] = 66.9652 / 1;
+        aRates['EXMRUB']['ADVCEUR'] = 74.7549 / 1;
+        aRates['EXMRUB']['SBERRUB'] = 1.015 / 1;
+        aRates['EXMRUB']['TBRUB'] = 1.013 / 1;
+        aRates['EXMRUB']['TCSBRUB'] = 1.0132 / 1;
+        aRates['SBERRUB']['QWRUB'] = 1.013 / 1;
+        aRates['SBERRUB']['YAMRUB'] = 1 / 1;
+        aRates['SBERRUB']['PMUSD'] = 64.6047 / 1;
+        aRates['SBERRUB']['ADVCUSD'] = 65.3161 / 1;
+        aRates['SBERRUB']['ADVCEUR'] = 74.0946 / 1;
+        aRates['SBERRUB']['EXMRUB'] = 1.0295 / 1;
+        aRates['TBRUB']['QWRUB'] = 1.017 / 1;
+        aRates['TBRUB']['YAMRUB'] = 0.999 / 1;
+        aRates['TBRUB']['PMUSD'] = 64.9928 / 1;
+        aRates['TBRUB']['ADVCUSD'] = 65.1544 / 1;
+        aRates['TBRUB']['ADVCEUR'] = 74.2853 / 1;
+        aRates['TBRUB']['EXMRUB'] = 1.0285 / 1;
+        aRates['TCSBRUB']['QWRUB'] = 1.017 / 1;
+        aRates['TCSBRUB']['YAMRUB'] = 0.999 / 1;
+        aRates['TCSBRUB']['PMUSD'] = 64.9281 / 1;
+        aRates['TCSBRUB']['ADVCUSD'] = 65.1221 / 1;
+        aRates['TCSBRUB']['ADVCEUR'] = 75.0017 / 1;
+        aRates['TCSBRUB']['EXMRUB'] = 1.0275 / 1;
+         
+        if( ArrayLength( aRates['QWRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="QWRUB"]' ).hide();
+        if( ArrayLength( aRates['YAMRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="YAMRUB"]' ).hide();
+        if( ArrayLength( aRates['PMUSD'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="PMUSD"]' ).hide();
+        if( ArrayLength( aRates['ADVCUSD'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="ADVCUSD"]' ).hide();
+        if( ArrayLength( aRates['ADVCEUR'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="ADVCEUR"]' ).hide();
+        if( ArrayLength( aRates['EXMRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="EXMRUB"]' ).hide();
+        if( ArrayLength( aRates['SBERRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="SBERRUB"]' ).hide();
+        if( ArrayLength( aRates['TBRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="TBRUB"]' ).hide();
+        if( ArrayLength( aRates['TCSBRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="TCSBRUB"]' ).hide();
+    
+    oFromCurrencies.find( 'li' ).bind( 'click', function() {
+        oFromCurrencies.find( 'li' ).removeClass( 'active' );
+        $( this ).addClass( 'active' );
+        var sFromCurrency = $( this ).attr( 'data-currency' ), sHTML = '';
+        for( var sToCurrency in aRates[sFromCurrency] )
+            sHTML += '<li onclick="window.location = \'?sFromCurrency='+sFromCurrency+'&sToCurrency='+sToCurrency+'\'"><table><tbody><tr><td width="80"><b>'+(parseInt( 1 / aRates[sFromCurrency][sToCurrency] * 10000 ) / 10000)+'</b> '+aCurrencies[sToCurrency].sEquivalent.replace( 'USD', '$' ).replace( 'RUB', '₽' ).replace( 'EUR', '&euro;' ).replace( 'UAH', 'грн.' )+'</td><td width="30"><img src="public/resources/icons/currencies/'+sToCurrency+'.png" height="25" alt="" /></td><td>'+aCurrencies[sToCurrency].sBillingTitle+' '+aCurrencies[sToCurrency].sEquivalent+'</td></tr></tbody></table></li>';
+        oToCurrencies.find( 'ul' ).html( sHTML );
+    } );
+    
+    oFromCurrencies.find( 'li:first-child' ).click();
+} );
+</script>
+<h3>Последние новости</h3>
+
+  <p>
+  <span style="float: left; font-weight: bolder">О нас</span>
+  <span style="float: right; font-size: 11px; color: grey">05.11.2016</span>
+  <div style="clear: both">Наш сервис предназначен для тех, кто хочет быстро, безопасно и по выгодному курсу обменять такие виды электронных валют:  Яндекс.Деньги, Киви, AdvCash, PerfectMoney, Тинькофф, Сбербанк и ВТБ.
+Этим возможности нашего сервиса не ограничиваются. В рамках проекта действуют программа лояльности, накопительная скидка и партнерская программа, воспользовавшись преимуществами которых, вы сможете совершать обмен электронных валют на более выгодных условиях. Для этого нужно просто зарегистрироваться на сайте.</div>
+ </p>
+ <br />
+ 
+ 
+
+
+
+              </div>
+              </div>
+
+	 <div class="sidebar_left  " data-exchange-column="input">
+		 
+		<div ><h3>Резервы валюты</h3>		<p> <img src="public/resources/icons/currencies/QWRUB.png" alt="" height="25" />
+		Qiwi RUB <span style="float:right;">30 000.00</span>		<p> <img src="public/resources/icons/currencies/YAMRUB.png" alt="" height="25" />
+		Яндекс.Деньги RUB <span style="float:right;">215 289.03</span>		<p> <img src="public/resources/icons/currencies/PMUSD.png" alt="" height="25" />
+		Perfect Money USD <span style="float:right;">4 080.20</span>		<p> <img src="public/resources/icons/currencies/ADVCUSD.png" alt="" height="25" />
+		Advanced Cash USD <span style="float:right;">4 140.17</span>		<p> <img src="public/resources/icons/currencies/ADVCEUR.png" alt="" height="25" />
+		Advanced Cash EUR <span style="float:right;">5 307.64</span>		<p> <img src="public/resources/icons/currencies/EXMRUB.png" alt="" height="25" />
+		EXMO RUB <span style="float:right;">345.15</span>		<p> <img src="public/resources/icons/currencies/SBERRUB.png" alt="" height="25" />
+		СберБанк RUB <span style="float:right;">69 600.00</span>		<p> <img src="public/resources/icons/currencies/TBRUB.png" alt="" height="25" />
+		ВТБ24 RUB <span style="float:right;">55 700.00</span>		<p> <img src="public/resources/icons/currencies/TCSBRUB.png" alt="" height="25" />
+		Тинькофф RUB <span style="float:right;">241 500.00</span></div>
+		<div style="border-top: 1px solid #e7e7e7;border-bottom: 1px solid #e7e7e7;">
+    <p style="text-align: right">
+     <a href="rates.html"> <button class="but_yellow_size3">Экспорт курсов</button></a>
+    </p>
+    <h3>Курсы <span>ЦБ</span></h3>
+	<img src="public/template/resources/design/img/USD.png" alt="" />
+       USD   64.6694
+    <p>  <img src="public/template/resources/design/img/EUR.png" alt="" /></td>
+       EUR       73.361
+		</div>
+	<p style="text-align: center; margin-top: 15px; font-size:13px">Последний обмен <b class="sLastExchangeDate StopWatch">00:00:00</b> назад<br /><b class="sLastExchange"></b></p>
+		</div> 
+			
+      </div>
+	  
+	  <div id="modal-pravila" class="modal-pravila">
+<div class="window-container animation"> <h1>Правила обмена</h1>
+	   <li>Процесс обмена валюты проходит <b>в полуавтоматическом режиме</b></li>
+ <li>Сроки обработки платежа как правило от 5 минут до 4 часов в рабочие время, но не более 24 часов. Часы работы сервиса с 10 по 22 часа (время Московское)</b></li>
+ <li>Обмен в пользу третьих лиц недопустим. </li>
+ <li>После создания заявки у Вас есть 240 минут для её оплаты, иначе она будет анулированна.</li>
+ <li>Вы так же можете добровольно отменить заявку на обмен написав об этом оператору, обращаем внимание, что в этом случае мы удержим комиссию в 5% от суммы платежа. </li>
+ <li>Для получения накопительного бонуса необходимо проводить обмен предварительно авторизовавшись в личном кабинете.</li>
+<div class="close">X</div>
+</div>
+</div>
+
+
+	  
+
+
+	  
+	  
+	  <div id="modal-window" class="modal-window">
+<div class="window-container animation">
+<h2>Войти в Личный кабинет</h2>
+      <form id="ClientsAuthorize" action="?p=clients-login&bAjax&sMod=LOGIN" method="post" name="ClientsAuthorize">
+             
+                    <div class="email_block">
+            
+                        <div class="input_form_type1">
+                            <div class="input_form_type2">
+                                <input id="inputEmail" tabindex="1" name="sEmail" placeholder="Введите Ваш e-mail" class="input_form_style_5"></div>
+                            <div class="form_qzZ">
+                                <span class="icon_email"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="email_block">
+					
+                        
+                  
+                        <div class="input_form_type1">
+                            <div class="input_form_type2">
+                                <input type="password"  id="inputPassword" name="sPassword" placeholder="Пароль" class="input_form_style_5"></div>
+								
+                        </div>
+						<a href="clients-forgot.html" class="recoverypass">Забыли пароль?</a>
+                    </div>
+                    <div class="email_block"></div>
+                    <div class="signin_2zO">
+                        <button type="submit" class="but_size_med" tabindex="3"> Войти в Личный кабинет</button>
+                    </div>
+                </form>
+     
+               
+<div class="close">X</div>
+</div>
+</div>
+
+
+
+<p>
+    <div  class="footer">
+      <div class="footer_copyright">
+        <span>
+          © 2016, GetExchange.ru 
+        </span>
+    
+      </div>
+
+      <div class="footer_url">
+        <a href="/index.html">Главная</a>
+        <a href="/affiliate.html">Заработок</a>
+        <a href="/agree.html">Соглашение</a>
+        <a href="/contacts.html">Контакты</a>
+     
+      </div>
+ <div class="footer_button">
+       
+<p><noindex>
+
+<!-- Yandex.Metrika informer --> <a href="https://metrika.yandex.ru/stat/?id=42649844&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/42649844/3_0_FFFFFFFF_FFFFFFFF_0_visits" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="42649844" data-lang="ru" /></a> <!-- /Yandex.Metrika informer --> <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter42649844 = new Ya.Metrika({ id:42649844, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/42649844" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+            	        <a href="http://perfectmoney.is" title="Perfect Money - новое поколение платежных систем Интернета" onclick="target='_blank'">
+     <img src="public/template/resources/img/perfectmoney-accept.jpg" width="88" height="31" alt="" />
+    </a>
+        
+        
+    <!-- BestChange.ru -->
+<a href="https://www.bestchange.ru/"><img
+src="https://www.bestchange.ru/bestchange.gif"
+title="Обмен ЯД, QIWI, Вебмани и другие ПС"
+alt="Мониторинг обменных пунктов BestChange.ru"
+width="88" height="31" border="0" /></a>
+<!-- BestChange.ru -->
+
+</noindex>
+	  
+    </div>
+      </div>
+     
+
+<!-- BEGIN JIVOSITE CODE -->
+ 
+<script type='text/javascript'>
+(function(){ var widget_id = 'WiBgUT5CzI';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+ 
+<!-- END JIVOSITE CODE -->
+    
+	<script>
+$(document).ready(function() {
+$('.open-window').click(function() {
+$('.modal-window').fadeIn(function() {
+$('.window-container').addClass('visible');
+});
+});
+$('.close, .modal-window').click(function() {
+$('.modal-window').fadeOut().end().find('.window-container').removeClass('visible');
+});
+$('.window-container').click(function(event) {
+event.stopPropagation()
+});
+});
+</script>
+
+	<script>
+$(document).ready(function() {
+$('.open-pravila').click(function() {
+$('.modal-pravila').fadeIn(function() {
+$('.window-container').addClass('visible');
+});
+});
+$('.close, .modal-pravila').click(function() {
+$('.modal-pravila').fadeOut().end().find('.window-container').removeClass('visible');
+});
+$('.window-container').click(function(event) {
+event.stopPropagation()
+});
+});
+</script>
+</body></html>
+	
+	

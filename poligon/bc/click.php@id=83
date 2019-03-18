@@ -1,0 +1,261 @@
+<!DOCTYPE HTML><html lang="en"><head><title>Обменник.ВС - онлайн обмен электронных валют. Вывод и пополнение Webmoney, Яндекс.Деньги, Приват 24, оплата и вывод на карту Приватбанка</title><meta name="keywords" content="Обменник webmoney, Обмен Webmoney, обменник webmoney в Украине, Webmoney в Украине, обмен yandex.деньги, вывод webmoney, вывод yandex.деньги, пополнение webmoney, вебмани, вывод webmoney на карту, вывод webmoney на карту приватбанка, visa на webmoney, пополнение webmoney privat24, пополнение webmoney приват24"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="interkassa-verification" content="b86e9f283e2aef748c1758bd79e9f44d" /><meta name="webmoney.attestation.label" content="webmoney attestation label#48C1D3EC-C496-476D-BAC8-61126C7CEB2C"/><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"><link rel="stylesheet" type="text/css" media="screen" href="/compiled/css/e479854.css"/><!--[if IE 7]><link rel="stylesheet" href="/css/ie7.css" media="screen"/><![endif]--><script type="text/javascript" src="/compiled/js/d10eabf.js"></script><script type="text/javascript">
+                $(window).load(function () {
+
+    $('#login-modal').on('shown.bs.modal', function (event) {
+
+        $.ajax({
+            url: '/ru/login',
+            type: 'GET',
+            dataType: 'html',
+            success: function (data) {
+
+                $('#login-modal .modal-body').html(data);
+                $('#login-modal a').on('click', function () {
+                    $('#login-modal').modal('hide');
+                });
+            }
+        });
+    });
+
+});            </script><script type="text/javascript">
+                var userLoggedIn =  'true' ;
+                var lang = 'ru';
+            </script></head><body><div class="container"><div class="bg-theme"><div id="page" class="page"><div class="box"><header class="header"><div class="header-top"><div class="top-menu-1"></div><div class="top-menu-2 language"></div><div class="top-menu-3"><ul id="header_top_menu_3" class="nav-menu"><li id="signup"><a href="/ru/signup">
+                                                    Регистрация                                                </a></li><li id="login"><a href="/ru/login" class="static">
+                                                    Вход                                                    <span class="entry"></span></a></li></ul></div></div><div class="header-bottom"><div class="row"><div class="col-xs-12 col-lg-6"><div class="header-logo"><div class="header-container pull-left"><a id="link_main_logo" href="/ru/" class="logo"></a></div><nav class="pull-right"><div class="header-container"><ul id="header_bottom_logo_menu" class="nav-menu"><li id="ticket"><span class="marker-map"></span><a href="/ru/ticket">
+                                                                    Контакты                                                                </a></li></ul></div></nav></div></div><div class="hidden-xs col-sm-12 col-lg-6"><div class="header-main"><nav><ul id="header_bottom_menu" class="nav-menu"><li id="3e11b6881d458705f85d6a1f5d0143ae"
+                                                class="active"
+                                    ><a href="/ru/">
+                Обмен
+                            </a></li><li id="ac33647d48bff350f675c46695442826"
+                                                ><a href="/ru/loyalty">
+                Скидки
+                            </a></li><li id="570eccee4b9dba96b39e997316d18690"
+                                                ><a href="/ru/partner-program">
+                Партнёрам
+                            </a></li></ul></nav></div></div><div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xg"><nav class="navbar" role="navigation"><div class="container-fluid"><!-- Brand and toggle get grouped for better mobile display --><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"><ul id="header_bottom_menu_collapse" class="nav navbar-nav"><li id="3e11b6881d458705f85d6a1f5d0143ae"
+                                                class="active"
+                                    ><a href="/ru/">
+                Обмен
+                            </a></li><li id="ac33647d48bff350f675c46695442826"
+                                                ><a href="/ru/loyalty">
+                Скидки
+                            </a></li><li id="570eccee4b9dba96b39e997316d18690"
+                                                ><a href="/ru/partner-program">
+                Партнёрам
+                            </a></li></ul></div></div></nav></div></div></div></header><main class="main"><div id="content" class="content"><div class="row"><div class="col-xs-12 col-md-4 col-lg-5 col-xg-6"><div class="row"><div class="col-xs-12"><div class="aero"><div class="row"><div class="col-xs-12"><div class="panel"><div class="panel-attention"><div class="attention"></div></div><div class="panel-heading no-margin"><div class="panel-title no-padding">
+                            Обновление паролей!!!                        </div></div><div class="panel-body"><div class="">
+    В связи с переездом сервиса на новый движок, пользователи
+    старой версии сайта столкнутся с проблемой входа в свой аккаунт.
+</div><br><br><div class="">
+    Для продолжения Вашей работы с сервисом, пожалуйста, пройдите
+    процедуру восстановления пароля на странице авторизации, перейдя
+    по ссылке "Забыли пароль?".
+    Данные с ссылкой на вход придут на Ваш e-mail, после чего Вы сможете
+    в личном кабинете поменять пароль на свой.
+</div></div></div></div></div><div class="row"><div class="hidden-xs hidden-sm col-md-12"><div class="row"><div class="col-xs-12"><h4>Резервы</h4></div><div class="col-xs-12"><div class="reserves"><div class="row"><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-qiwi"></i></div><div class="reserves-amount">
+                                                                            нет средств                                                                    </div><div class="reserves-name"><div class="reserves-title" title="QIWI RUB">
+                                        QIWI RUB
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-privat24"></i></div><div class="reserves-amount"><nobr>109 205.78</nobr></div><div class="reserves-name"><div class="reserves-title" title="P24 UAH auto">
+                                        P24 UAH auto
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>3.32</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMB">
+                                        WebMoney WMB
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount">
+                                                                            нет средств                                                                    </div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMK">
+                                        WebMoney WMK
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>281 508.50</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMR">
+                                        WebMoney WMR
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>67 687.02</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMU">
+                                        WebMoney WMU
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>11 573.26</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMZ">
+                                        WebMoney WMZ
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-ym"></i></div><div class="reserves-amount"><nobr>2 830.99</nobr></div><div class="reserves-name"><div class="reserves-title" title="Yandex Money">
+                                        Yandex Money
+                                    </div></div></div></div></div></div></div></div></div></div><div class="row"><div class="hidden-xs hidden-sm hidden-md hidden-lg col-xg-12"><link rel="stylesheet" href="/compiled/css/dbc7966.css"/><div class="row"><div class="col-xs-12"><div class="panel small"><div class="panel-attention"><div class="attention"></div></div><div class="panel-body"><div class="text-justify"><div class="text-justify">
+    Автоматический обменник Webmoney WMZ, WMR, WMU, WME, WMG, WMB,
+    ввод/вывод Приват24, Visa, MasterCard без комиссии!
+    Высокое качество и скорость обслуживания гарантируем.
+    Крупным клиентам - индивидуальный подход. Партнерская программа,
+    скидки в автоматическом режиме постоянным клиентам, акции и
+    бонусы, а главное - отличные курсы обмена.
+</div></div></div></div></div></div></div></div><div class="row"><div class="hidden-xs hidden-sm hidden-md hidden-lg col-xg-12"><div class="row"><div class="col-xs-12"><div class="panel small"><div class="panel-body"><div class="row"><div class="col-xs-12 col-sm-6 col-lg-6 col-xg-6"><ul class="nav-menu text-center"><li><a id="link_homepage" href="/ru/">
+                                    Моментальный автоматический обмен
+                                </a></li><li><a id="link_rates" href="/ru/rates">
+                                    Выгодные курсы обмена
+                                </a></li><li><a id="link_about" href="/ru/about">
+                                    Надежное партнерство
+                                </a></li></ul></div><div class="col-xs-12 col-sm-6 col-lg-6 col-xg-6"><ul class="nav-menu text-center"><li><a id="link_loyalty" href="/ru/loyalty">
+                                    Автоматическая система скидок
+                                </a></li><li><a id="link_contacts" href="/ru/ticket">
+                                    Заказ на сумму, превышающую резерв
+                                </a></li><li><a id="link_pp" href="/ru/partner-program">
+                                    Партнерская программа
+                                </a></li></ul></div></div></div></div></div></div></div></div></div></div></div></div><div class="col-xs-12 col-md-8 col-lg-7 col-xg-6"><link rel="stylesheet" href="/compiled/css/4ddd202.css"/><script type="text/javascript" src="/compiled/js/510ca73.js"></script><div class="row"><div class="col-xs-12"><div class="panel panel-box panel-primary panel-main panel-top"><div class="panel-heading"><div class="row"><div class="hidden-xs col-sm-6"><div class="panel-title">
+                            Отдаю                        </div></div><div class="hidden-xs col-sm-6"><div class="panel-title">
+                            Получаю                        </div></div></div></div><div class="panel-body"><form action="/ru/"
+                      method="post"
+                      id="calc_form"
+                      class="dynamic not_asterisk padding-none hide"><div class="row"><div class="col-xs-12 col-sm-6"><div class="form-group"><div class="row"><div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xg"><label for="order_currency_from" class=" required">Валюта к обмену</label></div></div><select id="order_currency_from" name="order[currency_from]" required="required"    style="width: 100%"><option value="4">P24 UAH auto</option><option value="53">P24 (без комиссии 2%)</option><option value="10">WebMoney WMB</option><option value="9">WebMoney WME</option><option value="90">WebMoney WMK</option><option value="7">WebMoney WMR</option><option value="6">WebMoney WMZ</option></select></div></div><div class="col-xs-12 col-sm-6"><div class="form-group"><div class="row"><div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-xg"><label for="order_currency_to" class=" required">Валюта к получению</label></div></div><select id="order_currency_to" name="order[currency_to]" required="required"    style="width: 100%"><option value="101">QIWI RUB</option><option value="4" selected="selected">P24 UAH auto</option><option value="10">WebMoney WMB</option><option value="90">WebMoney WMK</option><option value="7">WebMoney WMR</option><option value="8">WebMoney WMU</option><option value="6">WebMoney WMZ</option><option value="15">Yandex Money</option></select></div></div></div><div class="row"><div class="col-xs-12 col-sm-6"><div class="row"><div class="col-xs-12"><div class="form-group"><label for="order_amount" class=" required">Отдаете</label><input type="text" id="order_amount" name="order[amount]" required="required"    class="form-control input-lg input-dark input-bold" value="10" /><span id="feedback_amount" class="form-control-feedback"></span></div></div><div class="col-xs-12"><div class="form-group"><label for="order_sum_client_f">с учетом комиссии</label><input type="text" id="order_sum_client_f" name="order[sum_client_f]"    class="form-control input-lg input-dark input-bold" /><span id="feedback_sum_client_f" class="form-control-feedback"></span></div></div></div></div><div class="col-xs-12 col-sm-6"><div class="row"><div class="col-xs-12"><div class="form-group"><label for="order_sum_t" class=" required">Получаете</label><input type="text" id="order_sum_t" name="order[sum_t]" required="required"    class="form-control input-lg input-dark input-bold" /><span id="feedback_sum_t" class="form-control-feedback"></span></div></div><div class="col-xs-12"><div id="order-descriptions"><div id="order-discount" class="currency course"><div class="order-data-item"></div><div id="currency_item_1" class="currency-item"><div class="currency-rate"></div><div class="currency-name currency-bold"></div></div></div><div id="rate" class="currency course"></div></div></div></div></div></div><div class="row"><div class="col-xs-12 col-sm-offset-6 col-sm-6"><div class="row"><div class="col-xs-12"><div class="form-group"><div id="account_to"><label class=" required">Карта Privat (16 цифр)</label><input type="text" id="order_account_to_name" name="order[account_to][name]" required="required" pattern="^[ ]{0,}[\d]{16,16}[ ]{0,}$"    class="form-control input-lg" /></div></div></div></div></div></div><div class="row"><div class="col-xs-12"><div class="form-group"><a id="link_signup" href="/ru/signup" class="pull-right">
+                                    Зарегистрируйтесь                                    </a><label title="Укажите корректный e-mail" for="order_user_email" class=" required">Ваш E-mail</label><input type="text" id="order_user_email" name="order[user][email]" required="required" pattern="^[\ ]{0,}[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}[\ ]{0,}$"    title="Укажите корректный e-mail" class="form-control input-lg" /></div></div></div><div class="row"><div class="col-xs-12"><div id="calc-errors" class="alert alert-danger fade"></div></div><div class="col-xs-12 col-sm-6"><label class="subscribe"><input type="checkbox" id="order_agreement" name="order[agreement]" required="required" value="1" checked="checked" />
+                                     Ознакомлен с                                     <a id="link_regulation" href="/ru/regulation">регламентом работы</a> и                                     <a id="link_agreement" href="/ru/agreement">соглашения пользователя</a> принимаю                                </label></div><div style="display: none;"><input type="hidden" id="order__token" name="order[_token]" value="e147dd7d85fae5d2fc2b85fc9a65dba9169ba2ea" /></div><div class="col-xs-12 col-sm-6"><button type="submit" class="btn btn-lg btn-default">
+                                Обменять
+                            </button></div></div></form></div></div></div></div><script type="text/javascript">
+    Application.checkAndLoad('/ru/jquery/calc', function () {
+        $('#calc_form').calc();
+    });
+</script><script type="text/javascript">
+    Application.checkAndLoad('/compiled/js/acf9ca2.js', function () {
+        $('#account_from').inputselect();
+        $('#account_to').inputselect();
+    });
+</script><div class="row"><div class="hidden-xs hidden-sm col-md-12 col-lg-12 hidden-xg"><link rel="stylesheet" href="/compiled/css/dbc7966.css"/><div class="row"><div class="col-xs-12"><div class="panel small"><div class="panel-attention"><div class="attention"></div></div><div class="panel-body"><div class="text-justify"><div class="text-justify">
+    Автоматический обменник Webmoney WMZ, WMR, WMU, WME, WMG, WMB,
+    ввод/вывод Приват24, Visa, MasterCard без комиссии!
+    Высокое качество и скорость обслуживания гарантируем.
+    Крупным клиентам - индивидуальный подход. Партнерская программа,
+    скидки в автоматическом режиме постоянным клиентам, акции и
+    бонусы, а главное - отличные курсы обмена.
+</div></div></div></div></div></div></div></div><div class="row"><div class="hidden-xs hidden-sm col-md-12 col-lg-12 hidden-xg"><div class="row"><div class="col-xs-12"><div class="panel small"><div class="panel-body"><div class="row"><div class="col-xs-12 col-sm-6 col-lg-6 col-xg-6"><ul class="nav-menu text-center"><li><a id="link_homepage" href="/ru/">
+                                    Моментальный автоматический обмен
+                                </a></li><li><a id="link_rates" href="/ru/rates">
+                                    Выгодные курсы обмена
+                                </a></li><li><a id="link_about" href="/ru/about">
+                                    Надежное партнерство
+                                </a></li></ul></div><div class="col-xs-12 col-sm-6 col-lg-6 col-xg-6"><ul class="nav-menu text-center"><li><a id="link_loyalty" href="/ru/loyalty">
+                                    Автоматическая система скидок
+                                </a></li><li><a id="link_contacts" href="/ru/ticket">
+                                    Заказ на сумму, превышающую резерв
+                                </a></li><li><a id="link_pp" href="/ru/partner-program">
+                                    Партнерская программа
+                                </a></li></ul></div></div></div></div></div></div></div></div></div></div><div class="row"><div class="col-xs-12 hidden-md hidden-lg hidden-xg"><div class="row"><div class="col-xs-12"><h4>Резервы</h4></div><div class="col-xs-12"><div class="reserves"><div class="row"><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-qiwi"></i></div><div class="reserves-amount">
+                                                                            нет средств                                                                    </div><div class="reserves-name"><div class="reserves-title" title="QIWI RUB">
+                                        QIWI RUB
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-privat24"></i></div><div class="reserves-amount"><nobr>109 205.78</nobr></div><div class="reserves-name"><div class="reserves-title" title="P24 UAH auto">
+                                        P24 UAH auto
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>3.32</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMB">
+                                        WebMoney WMB
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount">
+                                                                            нет средств                                                                    </div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMK">
+                                        WebMoney WMK
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>281 508.50</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMR">
+                                        WebMoney WMR
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>67 687.02</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMU">
+                                        WebMoney WMU
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-webmoney"></i></div><div class="reserves-amount"><nobr>11 573.26</nobr></div><div class="reserves-name"><div class="reserves-title" title="WebMoney WMZ">
+                                        WebMoney WMZ
+                                    </div></div></div></div><div class="col-xs-12 col-xg-6"><div class="reserves-item"><div class="reserves-logo"><i class="icon icon-money reserves-icon icon-ym"></i></div><div class="reserves-amount"><nobr>2 830.99</nobr></div><div class="reserves-name"><div class="reserves-title" title="Yandex Money">
+                                        Yandex Money
+                                    </div></div></div></div></div></div></div></div></div><div class="col-xs-12 hidden-md hidden-lg hidden-xg"><link rel="stylesheet" href="/compiled/css/dbc7966.css"/><div class="row"><div class="col-xs-12"><div class="panel small"><div class="panel-attention"><div class="attention"></div></div><div class="panel-body"><div class="text-justify"><div class="text-justify">
+    Автоматический обменник Webmoney WMZ, WMR, WMU, WME, WMG, WMB,
+    ввод/вывод Приват24, Visa, MasterCard без комиссии!
+    Высокое качество и скорость обслуживания гарантируем.
+    Крупным клиентам - индивидуальный подход. Партнерская программа,
+    скидки в автоматическом режиме постоянным клиентам, акции и
+    бонусы, а главное - отличные курсы обмена.
+</div></div></div></div></div></div></div><div class="col-xs-12 hidden-md hidden-lg hidden-xg"><div class="row"><div class="col-xs-12"><div class="panel small"><div class="panel-body"><div class="row"><div class="col-xs-12 col-sm-6 col-lg-6 col-xg-6"><ul class="nav-menu text-center"><li><a id="link_homepage" href="/ru/">
+                                    Моментальный автоматический обмен
+                                </a></li><li><a id="link_rates" href="/ru/rates">
+                                    Выгодные курсы обмена
+                                </a></li><li><a id="link_about" href="/ru/about">
+                                    Надежное партнерство
+                                </a></li></ul></div><div class="col-xs-12 col-sm-6 col-lg-6 col-xg-6"><ul class="nav-menu text-center"><li><a id="link_loyalty" href="/ru/loyalty">
+                                    Автоматическая система скидок
+                                </a></li><li><a id="link_contacts" href="/ru/ticket">
+                                    Заказ на сумму, превышающую резерв
+                                </a></li><li><a id="link_pp" href="/ru/partner-program">
+                                    Партнерская программа
+                                </a></li></ul></div></div></div></div></div></div></div></div><div class="clearfix"></div></div></main><footer class="footer"><div class="footer-top"><div class="row"><div class="col-xs-12 col-sm-12 hidden-md hidden-lg hidden-xg"><div class="footer-container"><ul id="footer_menu_1" class="nav-menu"><li id="3e11b6881d458705f85d6a1f5d0143ae"
+                                                class="active"
+                                    ><a
+                href="/ru/">
+                Обмен
+            </a></li><li id="fda4a7a9607a2ef4896fec260412b49c"
+                                                ><a
+                href="/ru/rates">
+                Курсы обмена
+            </a></li><li id="ac33647d48bff350f675c46695442826"
+                                                ><a
+                href="/ru/loyalty">
+                Скидки
+            </a></li><li id="570eccee4b9dba96b39e997316d18690"
+                                                ><a
+                href="/ru/partner-program">
+                Партнёрам
+            </a></li><li id="48d00df13cbdd6a4dcce634415c0eff5"
+                                                ><a
+                href="/ru/questions-and-answers">
+                Вопросы и ответы
+            </a></li><li id="a5e443c0026d40319f65c7c55af0159d"
+                                                ><a
+                href="/ru/regulation">
+                Регламент работы
+            </a></li><li id="3f084aeacdc7785b9e9dcff4279e015c"
+                                                ><a
+                href="/ru/agreement">
+                Соглашение пользователя
+            </a></li><li id="51cc3253ee15768334d96ccd0f1b76c6"
+                                                ><a
+                href="/ru/ticket">
+                Контакты
+            </a></li><li id="c295403a023b5c00d5dd6435d67ba4cb"
+                                                ><a
+                href="/ru/about">
+                О сервисе
+            </a></li></ul></div></div><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xg-4"><ul class="resource"><li class="">Мгновенный вывод Webmoney на карту Приватбанка;</li><li class="">Моментальное пополнение Webmoney с помощью Приват24;</li><li class="">Обмен WMZ, WMR, WMU, WME, WMG в автоматческом режиме;</li><li class="">Ввод и вывод Webmoney с/на карту Visa/MC;</li><li class="">Обмен других электронных валют: Yandex Money, Qiwi;</li><li class="">Онлайн поддержка клиентов: пн–пт, с 9:00 до 19:00</li></ul></div><div class="hidden-xs hidden-sm hidden-md hidden-lg col-xg-2"><div class="footer-container"><div class="footer-content"><ul class="footer-box-payment"><li><a href="http://webmoney.ru" class="static webmoney-accept" target="_blank"></a></li><li><a href="https://passport.webmoney.ru/asp/certview.asp?wmid=249714880659" class="static webmoney-attestat"  target="_blank"></a></li><li><a href="http://privat24.ua" class="static visa-verified" target="_blank"></a></li><li><a href="http://top.owebmoney.ru" class="static wm-top" target="_blank"></a></li></ul></div></div></div><div class="hidden-xs hidden-sm col-md-6 col-lg-6 col-xg-6"><div class="footer-container"><ul id="footer_menu_2" class="nav-menu"><li id="3e11b6881d458705f85d6a1f5d0143ae"
+                                                class="active"
+                                    ><a
+                href="/ru/">
+                Обмен
+            </a></li><li id="fda4a7a9607a2ef4896fec260412b49c"
+                                                ><a
+                href="/ru/rates">
+                Курсы обмена
+            </a></li><li id="ac33647d48bff350f675c46695442826"
+                                                ><a
+                href="/ru/loyalty">
+                Скидки
+            </a></li><li id="570eccee4b9dba96b39e997316d18690"
+                                                ><a
+                href="/ru/partner-program">
+                Партнёрам
+            </a></li><li id="48d00df13cbdd6a4dcce634415c0eff5"
+                                                ><a
+                href="/ru/questions-and-answers">
+                Вопросы и ответы
+            </a></li><li id="a5e443c0026d40319f65c7c55af0159d"
+                                                ><a
+                href="/ru/regulation">
+                Регламент работы
+            </a></li><li id="3f084aeacdc7785b9e9dcff4279e015c"
+                                                ><a
+                href="/ru/agreement">
+                Соглашение пользователя
+            </a></li><li id="51cc3253ee15768334d96ccd0f1b76c6"
+                                                ><a
+                href="/ru/ticket">
+                Контакты
+            </a></li><li id="c295403a023b5c00d5dd6435d67ba4cb"
+                                                ><a
+                href="/ru/about">
+                О сервисе
+            </a></li></ul></div></div><div class="col-xs-12 hidden-xg"><div class="footer-box"><ul class="footer-box-payment"><li><a href="http://webmoney.ru" class="static webmoney-accept" target="_blank"></a></li><li><a href="https://passport.webmoney.ru/asp/certview.asp?wmid=249714880659" class="static webmoney-attestat"  target="_blank"></a></li><li><a href="http://privat24.ua" class="visa-verified" target="_blank"></a></li><li><a href="http://top.owebmoney.ru" class="wm-top" target="_blank"></a></li></ul></div></div></div></div><div class="footer-bottom"><div class="row"><div class="col-xs-12"><div class="row"><div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 col-xg-6"><div class="text-center">
+                                                        Автоматический обменник Webmoney WMZ, WMR, WMU, WME, WMG, WMB, Приват24, Visa/MasterCard
+                                                    </div></div><div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 col-xg-2"><div class="text-center white">
+                                                        © Obmennik.ws 2007 - 2019
+                                                    </div></div><div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xg-4"><div class="text-center white"></div></div></div></div></div></div></footer></div></div></div></div><script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-41564226-1', 'obmennik.ws');
+                ga('send', 'pageview');
+
+            </script><!-- /.wrapper --></body></html>

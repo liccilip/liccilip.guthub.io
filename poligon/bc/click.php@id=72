@@ -1,0 +1,250 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<title>Обменник.ру | Ну очень удобный и выгодный обмен электронных валют WebMoney</title>
+	<meta name="keywords" content="обмен WebMoney, обменник WebMoney, обмен WM, обмен WMR на WMZ, обмен Вебмани, обмен электронных денег, обмен wmz, обменник" />
+	<meta name="description" content="Google рекомендует!!! Реактивный обмен WebMoney за 15-20 секунд! Поменяй WMR, WMZ, WMU и WME по выгодному курсу." />
+	<base href="http://obmennik.ru/" />
+	<link rel="shortcut icon" href="http://obmennik.ru/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="http://obmennik.ru/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="http://obmennik.ru/inc/main.css" type="text/css" media="screen,handheld" />
+	<script type="text/javascript" src="http://obmennik.ru/functionsjs.php"></script>
+	<script type="text/javascript" src="http://obmennik.ru/inc/common.js"></script>		
+</head>
+<body><div class="container main-page">	
+		<div class="header">
+			
+				<strong class="logo"><a href="http://obmennik.ru"><img src="images/logo.png" width="307" height="80" border="0" alt="Обменник"/></a><br/><a class="favorite" href="javascript:void(0)" onclick="return addToFavorite(this)"><img src="images/favourite.gif" width="15" height="15" border="0" alt=""/></a>
+<a class="favorite" href="javascript:void(0)" onclick="return addToFavorite(this)">Добавить в избранное</a></strong><ul class="menu">
+		<li><a href="about/">О нас</a></li>
+		<li><a href="contacts/">Связаться</a></li>
+		<li><a href="faq/">ЧаВо</a></li>
+		<li><a href="partnerka/info/" class="partner">Партнерка</a></li>
+	</ul>
+		</div>
+		
+	<div class="content">
+<div class="bigstand">
+		<h1>Ну очень удобный обменный пункт!</h1>
+			
+	<div class="login-error-area"></div><ul class="tabs">
+			<li class="exchange current"><a href="http://obmennik.ru" rel="exch-tab"><span style="position:relative; left: 0px">Обмен валюты</span></a><b></b></li>
+			<li class="rates"><a href="http://obmennik.ru/rates/" rel="rates-tab"><span style="position:relative; left: 0px">Обменные курсы</span></a><b></b></li>
+		</ul><div class="tab-content exch-tab">
+<form action="http://obmennik.ru/checkxml.php" method="post" id="mainform" name="mainform" class="exchange-form">
+	<div>
+		<table class="form-layout">
+			<tr>
+			<td class="fields">
+				<div id="step1">
+<table border="0" cellspacing="2" cellpadding="0">					
+<tr>
+	<td style="width:50%"></td>
+	<td style="width:5%"></td>
+	<td style="width:40%"></td>
+	<td style="width:5%"></td>
+</tr>
+<tr>
+	<td colspan="4"><h2>Я хочу обменять</h2></td>
+</tr>
+<tr>
+	<td>
+						<label>валюта</label><select name="data[id_source_in]" id="id_source_in" onchange="user_selected_id_source_in()"><option value="1" selected="selected">Webmoney WMZ</option><option value="2">Webmoney WME</option><option value="3">Webmoney WMR</option><option value="4">Webmoney WMU</option></select><input type="hidden" id="type" name="data[type]" value="0" />
+	</td>
+	<td  style="vertical-align:bottom;padding-bottom:5px"><img src="img/minisources/1.png" width="16" height="16" alt="" id="img_id_source_in"/></td>
+	<td>
+			<label>отдаете <span id="help_prefix_in">CUR</span></label>
+			<input type="text" name="data[summin]" value="" id="summin" onchange="getCustomerInfo('summin');" size="10" style="width:95%" />
+    </td>
+	<td></td>
+</tr>
+<tr>
+	<td><span style="font-weight: normal;	font-size: 23px; padding: 10px 0 10px; 	margin: 0;	clear: left;">на</span></td>
+	<td></td>
+	<td>
+					<label>отдаете <span id="help_prefixcomis_in">CUR</span>(+0.8%)</label>
+					<input type="text" name="data[summincomis]" value="" id="summincomis" onchange="getCustomerInfo('summincomis');" size="10" style="width:95%"/>					
+	</td>
+	<td></td>
+</tr>
+<tr>
+	<td>
+		<label>валюта</label><select name="data[id_source_out]" id="id_source_out" onchange="user_selected_id_source_out()"><option value="1">Webmoney WMZ</option><option value="2">Webmoney WME</option><option value="3" selected="selected">Webmoney WMR</option><option value="4">Webmoney WMU</option></select></td>
+	<td  style="vertical-align:bottom;padding-bottom:5px"><img src="img/minisources/3.png" width="16" height="16" alt="" id="img_id_source_out" /></td>
+	<td>
+		<label>получите <span id="help_prefix_out">CUR</span></label>
+		<input type="text" name="data[summout]" value="" id="summout" onchange="getCustomerInfo('summout');" size="10" style="width:95%"/>
+	</td>
+	<td style="vertical-align:bottom;padding-bottom:5px"><img src="img/spacer.gif" alt="" id="spinner" onclick="getCustomerInfo('summout');" style="cursor:pointer" /></td>
+</tr>
+<tr>
+	<td>
+		<label>номер кошелька (куда получать)</label>
+		<input type="text" name="data[koshelek]" value="" id="koshelek" onblur="checkvalue('koshelek');" size="10" style="width:95%" />
+		<input type="hidden" name="checked[]" id="koshelek_check" value="0" />	
+	</td>
+	<td  style="vertical-align:bottom;padding-bottom:3px"><img src="img/error.gif" id="koshelek_statusimg" alt="" onclick="checkvalue('koshelek');" style="cursor:pointer" /></td>
+	<td>
+		<label>мой e-mail</label>
+		<input type="text" name="data[email]" value="" id="email" onblur="checkvalue('email');" size="10" style="width:95%" />
+		<input type="hidden" name="checked[]" id="email_check" value="0" />		
+	</td>
+	<td  style="vertical-align:bottom;padding-bottom:3px"><img src="img/error.gif" id="email_statusimg" alt="" onclick="checkvalue('email');" style="cursor:pointer"  />
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+	</td>
+	<td colspan="2">
+		<div class="button c">
+			<a href="javascript:void(0)" class="btn bc" onclick="checkmainform();" id="mainformsubmitbutton"><span><span>Обменять</span></span></a>
+		</div>
+	</td>
+</tr>
+</table>
+					
+				</div>
+			</td>
+			<td class="exchange-type">
+
+				<div style="text-align:right"><img src="images/exch_type_modif.png" width="164" height="33" alt="Обмен происходит мгновенно" /></div>					
+					<div style="width:160px;float:right">
+<div style="font-weight: normal;	font-size: 23px; padding-top:15px;text-align:right">Резервы&nbsp;валют</div>
+<ul class="right_money_list">
+<li class="right_money_wmz">18670 WMZ</li>
+<li class="right_money_wme">2649 WME</li>
+<li class="right_money_wmr">788197 WMR</li>
+<li class="right_money_wmu">5611 WMU</li>
+</ul>					
+					
+					
+					</div>
+					
+					
+					<!-- <p class="discount"><strong>Ваша скидка:</strong> 0% <br><a href="user/why/">хотите больше?</a></p> !-->
+			</td>
+		</tr>
+		</table>
+<script language="javascript" type="text/javascript">
+getCustomerInfo('summin');
+function checkmainform()
+{
+
+var error='';
+if(document.getElementById('email_check').value=='0') error='Неверно введено поле: E-mail';if(document.getElementById('koshelek_check').value=='0') error='Неверно введено поле: Номер кошелька';
+	if(error)
+	{
+	alert('Вы не заполнили все обязательные поля, либо заполнили их неверно.');
+	//alert(error);
+	}
+	else
+	{
+	
+	
+	document.getElementById('mainformsubmitbutton').disabled=true;
+	document.getElementById('mainform').submit();
+	}
+}
+</script>	
+		<input type="hidden" name="data[typeform]" value="autochange" /><input type="hidden" name="data[surname]" value="Неизвестно" /><input type="hidden" name="data[name]" value="Неизвестно" /><input type="hidden" name="data[lastname]" value="Неизвестно" /><input type="hidden" name="remember" value="1" /><input type="hidden" name="data[voucher]" value="WMCOBMENNIKRU" id="voucher"/>
+</div>
+</form>
+</div><!-- tab-content exch-tab --></div><!-- bigstand -->
+
+	
+	
+	
+	<div class="sol-n-news float-fix">
+		<div class="solutions">
+			<h2>Обменник.ру</h2>
+			<ul>
+				<li><a href="about/">О нас</a></li>
+				<li><a href="contacts/">Связаться</a></li>
+				<li><a href="faq/">ЧаВо</a></li>
+				<li><a href="partnerka/info/">Партнерка</a></li>
+				<li><a href="security/">Безопасность</a></li>
+				<li><a href="regulations/">Правила</a></li>
+			</ul>
+		</div><!--solutions-->
+		
+		
+    
+	<div class="news">
+	    <h2><a style="text-decoration:none; color:#000;cursor: pointer;" href="">Новости системы</a></h2>
+		<ul>
+			
+			<li><span class="date">01.10.2011</span> <a href="news/277/">Обновление сервиса Obmennik.ru</a></li>
+		
+			
+		</ul>
+		<a href="news/" class="all-news">Все новости</a>
+	</div><!--news-->
+	</div><!--sol-n-news float-fix-->
+	
+	
+	<div class="wmcbanner" style="text-align:center"><!-- wmcasher.ru --><script type="text/javascript" src="https://wmcasher.ru/img/partner/swfobject.js"></script>
+<script type="text/javascript">swfobject.registerObject("wmc091105", "9.0.0");</script>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="468" height="60" id="wmc091105">
+<param name="movie" value="https://wmcasher.ru/img/partner/091105.swf?link1=http://wmcasher.ru/?pid=9980" />
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="https://wmcasher.ru/img/partner/091105.swf?link1=http://wmcasher.ru/?pid=9980" width="468" height="60">
+<!--<![endif]-->
+<a href="http://www.adobe.com/go/getflashplayer">
+<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+</a>
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object><!-- wmcasher.ru --></div>	
+	</div> <!--content-->
+	<div class="footer">
+		<div class="copy" style="float: left; padding-left: 5px;" >
+			&copy; 2011 Obmennik.ru Все права защищены.<br />
+			Проект компании <a href="http://wmcasher.ru/" target="_blank">WMCasher.ru</a><br/>
+			Наши кошельки: Z314736080538,<br/>
+			E284433767488, R145484036874, U959628534989
+
+		</div>
+	   	<div style="float: left; width: 100px;margin-left: 20px; margin-right: 10px; ">
+	    <!-- begin WebMoney Transfer : accept label -->
+            <a href="out.php?url=http://www.webmoney.ru/" target="_blank"><img src="img/88x31_wm_blue_on_white_ru.png" width="88" height="31" alt="www.webmoney.ru" border="0" /></a>
+        <!-- end WebMoney Transfer : accept label -->
+		<!-- begin WebMoney Transfer : attestation label --> 
+    	<a href="out.php?url=https://passport.webmoney.ru/asp/certview.asp?wmid=113848432416" target="_blank"><img src="img/88x31_wm_v_blue_on_white_ru.png" width="88" height="31" alt="Здесь находится аттестат нашего WM идентификатора" title="Здесь находится аттестат нашего WM идентификатора" border="0" /></a>
+		<!-- end WebMoney Transfer : attestation label --><!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+   (w[c] = w[c] || []).push(function() {
+       try {
+           w.yaCounter10048342 = new Ya.Metrika({id:10048342, enableAll: true});
+        }
+       catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/10048342" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+			</div>
+            
+            <div style="width:280px; padding-left: 10px;float: left">
+			<span style="position:relative; top:-5px;">WMID: 113848432416   BL (Бизнес уровень): &nbsp;</span><img src="http://stats.wmtransfer.com/Levels/pWMIDLevel.aspx?wmid=113848432416&amp;w=35&amp;h=18&amp;bg=0XDBE2E9" title="Бизнес уровень [BL]" border="0" width="35" height="18" alt="" />
+			<br />			
+			<span style="position:relative; top:-5px;">WMID: 106880779815   BL (Бизнес уровень): &nbsp;</span><img src="http://stats.wmtransfer.com/Levels/pWMIDLevel.aspx?wmid=106880779815&amp;w=35&amp;h=18&amp;bg=0XDBE2E9" title="Бизнес уровень [BL]" border="0" width="35" height="18" alt="" />
+			
+            <div style="clear:both;"><a href="http://passport.webmoney.ru/asp/certview.asp?wmid=113848432416&amp;viewall=1" target="_blank">Проверить аттестаты и отзывы</a></div> 
+             </div>
+        
+            <div id="cmd" style="position: absolute; top: 5px; right: 0px;">
+
+			</div>
+		
+		<div class="counters">
+			
+		</div>
+	</div><!--footer-->
+	</div><!--container main-page-->
+</body>
+</html>

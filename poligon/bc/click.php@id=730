@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8">
+<title>WM.money - обменник вебмани, яндекс на приват24, вывод webmoney в Украине</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='theme style-css' href='https://wm.money/wp-content/themes/exchanger/style.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-content/themes/exchanger/js/site.js?ver=1.3'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-content/themes/exchanger/js/jquery-select.js?ver=1.3'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/premiumjs.js?lang=ru&#038;ver=1.6'></script>
+<link rel="shortcut icon" href="https://wm.money/wp-content/uploads/logo-bugs.png" type="image/png" />
+<link rel="icon" href="https://wm.money/wp-content/uploads/logo-bugs.png" type="image/png" />
+<link rel='canonical' href='https://wm.money/' />
+<meta name="keywords" content="обмен вебмани, вывод вебмани, вывести webmoney, вывод на приват, webmoney на приват24, как вывести вебмани, wmz на приват, wmr на приват, wmu на приват, wmx на приват, яндекс на приват, вывести яндекс деньги на приват" />
+<meta name="description" content="Обмен вебмани на приват в автоматическом режиме. Обменка wmz, wmr, wmu, wme, wmx, yandex на Приват. Вывод вебмани украина 2018. Обмен вебмани Украина - самый выгодный курс. Как перевести деньги с вебмани на карту приватбанка Украина. Вывод Яндекс Денег в Украине." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://wm.money/?rid=92" />
+<meta property="og:site_name" content="WM.money - обменник вебмани на приват24, вывод webmoney в Украине" />
+<meta property="og:description" content="Обмен вебмани на приват в автоматическом режиме. Обменка wmz, wmr, wmu, wme, wmx, yandex на Приват. Вывод вебмани украина 2018. Обмен вебмани Украина - самый выгодный курс. Как перевести деньги с вебмани на карту приватбанка Украина. Вывод Яндекс Денег в Украине." />
+<meta property="og:title" content="Обмен вебмани на приват в автоматическом режиме. Обменка wmz, wmr, wmu, wme, wmx, yandex на Приват. Вывод вебмани украина 2018. Обмен вебмани Украина - самый выгодный курс. Как перевести деньги с вебмани на карту приватбанка Украина. Вывод Яндекс Денег в Украине." />
+<meta property="og:image" content="https://wm.money/wp-content/uploads/logo-bugs.png" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://wm.money/wp-content/themes/exchanger/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+</head>
+<body class="custom-background">
+<div id="container">
+
+<div class="topbar_wrap" id="fix_div">
+<div class="topbar_ins" id="fix_elem">
+<div class="topbar">
+<div class="tolbar_lang">
+<div class="langlist_div">
+<div class="langlist_title"><span>ru</span></div>
+<div class="langlist_ul">
+<a href="https://wm.money/?rid=92" class="langlist_li ">
+<div class="langlist_liimg">
+<img src="https://wm.money/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+</div>
+Русский
+</a>
+<a href="https://wm.money/en/?rid=92" class="langlist_li ">
+<div class="langlist_liimg">
+<img src="https://wm.money/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+</div>
+English
+</a>
+</div>
+</div></div>
+<div class="topbar_icon telegram">
+<a href="https://t.me/wmmoney_bot">wmmoney_bot</a>
+</div>
+<div class="topbar_icon email">
+<a href="/cdn-cgi/l/email-protection#7b5d584a4a4e405d584a4a4c400b0b5d584a4a4a40095d584a4a4d405d584d4f400c165d584f4d401614151e02">&#115;u&#112;por&#116;&#64;wm.&#109;&#111;ney</a>
+</div>
+<a href="https://wm.money/register/" class="toplink">Регистрация</a>
+<a href="https://wm.money/login/" class="toplink">Войти</a>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+
+<div class="tophead_wrap">
+<div class="tophead_ins">
+<div class="tophead">
+<div class="logoblock">
+<div class="logoblock_ins">
+<a href="https://wm.money">
+<img src="https://wm.money/wp-content/uploads/logowm-2.svg" alt="" />
+</a>
+</div>
+</div>
+<div class="topmenu">
+<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://wm.money/"><span>Обмен</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://wm.money/tarifs/"><span>Курсы</span></a></li>
+<li id="menu-item-328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328"><a href="https://wm.money/garantii/"><span>Гарантии</span></a></li>
+<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="https://wm.money/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://wm.money/terms/"><span>Партнерам</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://wm.money/feedback/"><span>Контакты</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-32"><a href="https://wm.money/news/"><span>Новости</span></a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="homepage_wrap">
+<div class="xchange_table_wrap">
+<div class="xchange_type_list">
+<div class="xchange_type_list_ins">
+<div class="xtl_table_wrap">
+<div class="xtl_table_wrap_ins">
+<div class="xtl_table_top">
+<div class="xtl_left_col">
+<div class="xtl_table_title">
+<div class="xtl_table_title_ins">
+Вы отдаете
+</div>
+</div>
+ <div class="clear"></div>
+</div>
+<div class="xtl_right_col">
+<div class="xtl_table_title">
+<div class="xtl_table_title_ins">
+Вы получаете
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="xtp_html_wrap">
+<div class="xtp_html_abs js_loader"></div>
+<div id="js_html">
+<div class="xtl_table_body_wrap">
+<div class="xtl_left_col">
+<div class="xtl_ico_wrap">
+<div class="xtl_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+</div>
+<div class="xtl_select_wrap">
+<select name="" id="js_left_sel" class="js_my_sel" autocomplete="off"><option value="3" selected='selected' data-img="/wp-content/uploads/WebMoney.png">Webmoney USD</option><option value="5" data-img="/wp-content/uploads/Privatbank.png">Приват24 UAH</option><option value="4" data-img="/wp-content/uploads/WebMoney.png">Webmoney RUB</option><option value="12" data-img="https://wm.money/wp-content/uploads/Visa-MasterCard.png">Visa/MC UAH</option><option value="6" data-img="/wp-content/uploads/Yandex.png">Яндекс.Деньги RUB</option><option value="9" data-img="https://wm.money/wp-content/uploads/WebMoney.png">Webmoney UAH</option><option value="10" data-img="https://wm.money/wp-content/uploads/WebMoney.png">Webmoney EUR</option>
+</select>
+</div>
+</div>
+<div class="xtl_center_col">
+<a href="#" class="xtl_change" id="js_reload_table"></a>
+</div>
+<div class="xtl_right_col">
+<div class="xtl_ico_wrap">
+<div class="xtl_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+</div>
+<div class="xtl_select_wrap">
+<select name="" id="js_right_sel" class="js_my_sel" autocomplete="off"><option value="4" selected='selected' data-img="/wp-content/uploads/WebMoney.png">Webmoney RUB</option><option value="9" data-img="https://wm.money/wp-content/uploads/WebMoney.png">Webmoney UAH</option><option value="5" data-img="/wp-content/uploads/Privatbank.png">Приват24 UAH</option>
+</select>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<input type="hidden" name="" class="js_napr_id" value="21" />
+<div class="xtl_table_body">
+<div class="xtl_left_col">
+<div class="xtl_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name="sum1" cash-id="sum1" class="js_summ1 cache_data" value="1" />
+<div class="js_error js_summ1_error"></div>
+</div>
+<div class="xtl_commis_wrap js_wrap_error js_wrap_error_br "><input type="text" name="" disabled="disabled" class="js_summ1c" value="1.008" />
+<div class="xtl_commis_text">С комиссией</div>
+<div class="js_error js_summ1c_error"></div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="xtl_center_col">
+</div>
+<div class="xtl_right_col">
+<div class="xtl_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name="" disabled="disabled" class="js_summ2" value="65.2002" />
+<div class="js_error js_summ2_error"></div>
+</div>
+<div class="xtl_commis_wrap js_wrap_error js_wrap_error_br "><input type="text" name="" disabled="disabled" class="js_summ2c" value="65.2002" />
+<div class="xtl_commis_text">С комиссией</div>
+<div class="js_error js_summ2c_error"></div>
+<div class="clear"></div>
+</div>
+<div class="xtl_line xtl_exchange_rate">
+Курс обмена: <span class="js_curs_html">1 USD = 65.2002 RUB</span>
+</div>
+<div class="xtl_line xtl_exchange_reserve">
+Резерв: <span class="js_reserv_html">1023485.5281 RUB</span> <a href="#" class="xtp_link js_reserv" data-id="21" data-title="Webmoney USD-Webmoney RUB">Не хватает?</a>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="xtl_submit_wrap">
+<a href="https://wm.money/exchange_wmz_to_wmr/" class="xtl_submit js_exchange_link " id="js_submit_button" data-naps="21">Обменять</a>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home_text_wrap">
+
+<div class="home_text_ins">
+<div class="home_text_block">
+<div class="home_text_title">Добро пожаловать на сервис автоматического обмена валют - wm.moneу</div>
+<div class="home_text_div">
+<div class="text">
+<h1>Выгодный обменник вебмани на Приват24, вывод webmoney на приват.</h1>
+<p><strong>Услуги сервиса:</strong></p>
+<ul>
+<li><strong>мгновенный вывод Webmoney</strong> на карту Приватбанка;</li>
+<li>моментальное пополнение Webmoney с помощью Приват24;</li>
+<li>обмен WMU, WMZ, WMR, WME, WMX в автоматическом режиме;</li>
+<li>обмен Яндекс Денег в автоматическом режиме.</li>
+</ul>
+<p>Работает партнёрская программа. Порекомендуйте наш сервис вашим знакомым и пассивно зарабатывайте за каждый обмен привлеченных клиентов.</p>
+<h2>Вебмани Украина 2018</h2>
+<p>24 мая 2018 года был опубликован санкционный список – приложение к решению Совета Национальной Безопасности и Обороны Украины № 449 от 2 мая 2018 года (утвержденному Президентом Украины 14 мая 2018 года) о санкциях против российских и некоторых других компаний.</p>
+<p>Среди известных компаний в этом списке оказался, например, провайдер электронного документооборота E-com (Exite), система переводов Яндекс.Деньги, издание «Экономические известия». Но, безусловно, ни эти факты, ни попадание в список еще почти тысячи компаний и СМИ не вызвало особенного ажиотажа – за исключением одного пункта перечня.</p>
+<h3>Что с вебмани в Украине?</h3>
+<p>Решение СНБОУ сразу запретило на три года в Украине работу и украинского франчайзинг, более известного как WebMoney.ua, и росcийской компании (которая создала WebMoney и развивает систему), и зарегистрированной в Великобритании компании, которая в последние годы официально является франчайзером этой системы онлайн-расчетов.</p>
+<p>Уже на следующий день после публикации санкционного списка Национальный Банк Украины отменил (решением №136 от 25 мая 2018 года) регистрацию платежной системы WebMoney.ua; аннулировал лицензии на перевод средств у связанных с этой системой компаний; отменил их регистрацию в качестве участника платежных систем и оператора услуг платежной инфраструктуры.</p>
+<h3>Webmoney Украина запрет</h3>
+<p>Возникли серьезные проблемы с выводом денег на банковские карты. Раньше <a href="https://wm.money/exchange_wmu_to_p24uah">вывести WMU</a> можно было на WebMoney.Ua, сейчас сайт под блокировкой, а выводы на банковские карты недоступны.</p>
+<p>У украинцев возникли серьезные проблемы и с пополнением кошельков Webmoney. Внести деньги на счет ни одним из еще позавчера работающих сервисов невозможно. Всему виной санкции, говорят операторы услуг – в обновленный список санкций против физических и юридических лиц, в который угодила и компания Webmoney.</p>
+<p>Таким образом, вывод любых «титульных знаков» (расчетных единиц) WebMoney с любых электронных кошельков этой системы на карты и счета украинских банков на данный момент стал затруднителен  и возможен только в <a href="https://wm.money">обменных пунктах</a>.</p>
+<h3>Webmoney Украина отзывы</h3>
+<p>Интернет заполонили отзывы о Webmoney Украина. Люди писали просьбы о выводе своих денег в WMU. Общее недовольство достигло пика. Ведь помимо вывода на сайте Вебмани Украина было очень много полезной информации.  В разделе &#171;помощь&#187; можно было найти нужную категорию, если у вас возникли те или иные трудности в работе на сайте. А так же задать любой вопрос, если нужной категории вы не нашли.</p>
+<p>Отпали и другие сервисы:</p>
+<ul>
+<li>Сейчас невозможно из системы WebMoney Украина вывести деньги на карту Приватбанка</li>
+<li>Заблокирована также возможность оплаты мобильной связи, коммунальных услуг и любых других услуг</li>
+</ul>
+<h2>Обменник вебмани</h2>
+<p>Несмотря на блокировку, вывести деньги из системы WebMoney Украина можно. Наш интернет-обменник WM.Money делает <a href="https://wm.money/exchange_wmu_to_p24uah">вывод WMU на карту Приватбанка</a> по самому выгодному курсу. Также клиентам нашего сервиса доступен вывод на карту Привата остальных валют WebMoney &#8212; wmz, wmr, wme, wmx.</p>
+<p>Отдельно стоит упомянуть о системе Яндекс Деньги. <strong>Обменник вебмани wm.money</strong> мгновенно и автоматически выведет <a href="https://wm.money/exchange_yamrub_to_p24uah">яндекс деньги на карту приватбанка</a>.</p>
+<h3>Обмен вебмани Украина</h3>
+<p><b>Обмен вебмани Украина у нас это:</b></p>
+<ul>
+<li>работа в автоматическом режиме;</li>
+<li>выгодный курс по всем направлениям (всегда самый лучший курс wmz на приват в автоматическом режиме <a href="https://wm.money/exchange_wmz_to_p24uah/" target="_blank" rel="external nofollow noopener">проверить</a>, <a href="https://www.bestchange.ru/wmz-to-privat24-uah.html" target="_blank" rel="external nofollow noopener">сравнить</a>);</li>
+<li>онлайн поддержка;</li>
+<li>наличие резерва и своевременное пополнение;</li>
+<li>WMID с высоким БЛ;</li>
+<li><a href="https://www.megastock.com/searchres.aspx?search=wm.money&amp;lang=ru" target="_blank" rel="external nofollow noopener">регистрация в мегастоке</a></li>
+</ul>
+<p><strong>Быстро, просто и выгодно. </strong></p>
+<h3>Обменник вебмани на приват24</h3>
+<p>В нашем обменнике вебмани на приват24 <strong>все операции происходят автоматически</strong>, без участия оператора.</p>
+<p><a href="https://wm.money/exchange_yamrub_to_p24uah">Вывод Яндекс Денег на Приват24</a> также производится автоматически.</p>
+<p>Обмен вебмани на Приват24, яндекс денег на Приват24 происходит мгновенно.</p>
+<p>Клиенты WM.money могут всегда рассчитывать на грамотную квалифицированную поддержку сервиса.</p>
+<p>Автоматический моментальный вывод WebMoney WMR на гривневые карты Приватбанка занимает 1 &#8212; 2 минуты. После оплаты заявки деньги почти моментально поступают на карту клиента. Автообмен WebMoney WMR (так же как и обмен WMZ, WMU, WME, WMX) работает без перерывов и выходных в режиме 24/7.</p>
+<p>Вывод WebMoney на ПриватБанк UAH в крупных размерах, производится также в автоматическом режиме. Деньги зачисляются на карту в Приватбанке мгновенно, после оплаты заявки.</p>
+<h2>Вывод вебмани украина 2018</h2>
+<p>На текущий момент, после всевозможных блокировок системы WebMoney в Украине остался лишь один надежный способ вывести деньги из системы &#8212; <a href="https://wm.money">онлайн обменка</a>. Наш ресурс всегда предлагает лучшие курсы и автоматические обмены для своих клиентов. И это не пустые слова.</p>
+<p>К примеру, можно сравнить курсы обмена всех обменников на самом популярном мониторинге Bestchange.ru по направлению <a href="https://www.bestchange.ru/wmz-to-privat24-uah.html">WMZ &#8212; Приват</a>. Сделав это, можно убедиться, что курс обменника WM.Money лучший на текущий момент. Аналогичные действия можно сделать и по другим направлениям.</p>
+<p>Мы каждый день анализируем рынок курсов в Украине поэтому готовы предоставить своим клиентам лучшие курсы на вывод вебмани в Украине 2018.</p>
+<h3>Вывод электронных денег в Украине</h3>
+<p>Для вывода электронных денег в Украине через обменку wm.money необходимо, чтобы были соблюдены несколько условий:</p>
+<ol>
+<li>WMID имел, как минимум, формальный аттестат (заполненные паспортные данные на сайте <a href="https://passport.webmoney.ru/asp/WMCertify.asp">passport.webmoney.ru</a>);</li>
+<li>Банковская карта для вывода была привязана в WMID. Подробнее, как сделать привязку банковской карты к вебмани описано в статье &#171;<a href="https://wm.money/kak-privyazat-kartu-k-webmoney-ukraina" target="_blank" rel="external nofollow noopener">Как привязать карту к вебмани в Украине 2018</a>&#171;. Здесь также будет полезна статья &#171;<a href="https://wm.money/kak-izmenit-limit-dlya-oplatyi-v-internete">Как изменить лимит для оплаты в интернете</a>&#171;, т.к. для привязки карты сейчас требуется списание онлайн с банковской карты клиенты.</li>
+<li>Использование прокси для оплаты заявки. После запрета Вебмани в Украине, оплату заявки можно сделать только с использованием VPN. Подробнее в статье &#171;<a href="https://wm.money/zapret-webmoney-v-ukraine-kak-vyivesti-dengi">Запрет webmoney в Украине: как вывести деньги</a>&#171;</li>
+</ol>
+<h3>Как вывести деньги с вебмани на карту приватбанка 2017-2018</h3>
+<p>Предположим, что все три выше описанных шага были сделаны. Остается выбрать направление для вывода на <a href="https://wm.money">главной странице wm.money</a>. На текущий момент доступны такие направления обмена (ссылки кликабельны и ведут на конкретное направление)</p>
+<ul>
+<li><a href="https://wm.money/exchange_wmz_to_p24uah/" target="_blank" rel="external nofollow noopener">wmz &#8212; приват</a></li>
+<li><a href="https://wm.money/exchange_wmr_to_p24uah/" target="_blank" rel="external nofollow noopener">wmr &#8212; приват</a></li>
+<li><a href="https://wm.money/exchange_wmu_to_p24uah/" target="_blank" rel="external nofollow noopener">wmu &#8212; приват</a></li>
+<li><a href="https://wm.money/exchange_wme_to_p24uah/" target="_blank" rel="external nofollow noopener">wme &#8212; приват</a></li>
+<li><a href="https://wm.money/exchange_wmx_to_p24uah/" target="_blank" rel="external nofollow noopener">wmx &#8212; приват</a></li>
+<li><a href="https://wm.money/exchange_yamrub_to_p24uah/" target="_blank" rel="external nofollow noopener">яндекс &#8212; приват</a></li>
+</ul>
+<p>После выбора необходимо оформить заявку &#8212; заполнить все поля в ней. Тут есть особенность, <strong>название кошелька необходимо писать с Большой буквы, например Z111111111111</strong>.</p>
+<p>Далее согласиться с условиями сервиса WM.Money и оплатить заявку, используя VPN.</p>
+<p>После оплаты в течение 1-3 минут деньги поступят на банковскую карту, указанную в заявке для вывода.</p>
+<h3>Как вывести рубли с вебмани на карту приватбанка</h3>
+<p><a href="https://wm.money/exchange_wmr_to_p24uah">Вывод рублей с вебмани на карту приватбанка</a>  в обменнике WM.Money осуществляется по лучшему курсу среди всех обменных пунктов.</p>
+<p>Как мы и описывали выше, это можно проверить, используя мониторинг &#8212; <a href="https://www.bestchange.ru/wmr-to-privat24-uah.html">проверить курс wmr на приват</a>. Убедились? Тогда смело оформляйте заявку. Вывод рублей с вебмани на карту приватбанка автоматический и мгновенный.</p>
+<h3>Как снять деньги с вебмани украина</h3>
+<p style="text-align: left;">Исходя из всех советов по выводу денег с вебмани Украина можно сделать очень простой вывод. Самый простой и удобный способ как снять деньги с вебмани Украина &#8212; <a href="https://wm.money">онлайн обменник WM.Money</a>.</p>
+<p><strong>Нужны гарантии?</strong></p>
+<p style="text-align: left;">WM.Money &#8212; это прежде всего официальный обменный пункт <a href="https://www.megastock.com/searchres.aspx?search=wm.money&amp;lang=ru">с регистрацией в Мегастоке</a>,</p>
+<p style="text-align: left;">WMID обменника имеет <a href="https://wiki.webmoney.ru/projects/webmoney/wiki/attestat_prodavtsa">аттестат продавца</a> и <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=445709135419">высокий бизнес уровень, BL</a>.</p>
+<p><strong>Официальные темы wm.money на ресурсах:</strong></p>
+<p><a href="https://kurs.com.ua/forums/topic/3998-wmmoney-vivod-webmoney-jandeks-na-kartu-privat-banka-bistro-i-vigodno/">Kurs.com.ua</a> + тема с <a href="https://kurs.com.ua/forums/topic/4007-wmmoney/">отзывами о WM.Money</a></p>
+<p>Форум об интернет маркетинге <a href="https://searchengines.guru/showthread.php?t=995502">Searchengines.guru</a></p>
+<p>Еще ищете, как перевести деньги с вебмани на карту приватбанка Украина? Остались вопросы по выводу? Напишите нам в чат либо на почту. Ответ не заставит себя долго ждать.</p>
+<ul class="breadcrums">
+<li><a href="https://wm.money">Автоматический обменник WM.Money</a></li>
+<li>Лучший курс вывода WebMoney на Приват</li>
+</ul>
+<div class="rattte">Обменник WM.Money на сегодня рейтинг обменника составляет 5 из 5, полагаясь на более 58 оценок и более 83 различных отзывов.</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home_news_wrap">
+<div class="home_white_blick"></div>
+<div class="home_news_ins">
+<div class="home_news_block">
+<div class="home_news_title">Новости</div>
+<div class="home_news_div">
+<div class="home_news_one">
+<div class="home_news_date">18.03.2019</div>
+<div class="clear"></div>
+<div class="home_news_content"><a href="https://wm.money/blokirovka-bestchange/">Блокировка bestchange на территории РФ | Зеркало bestchange для обхода блокировки</a></div>
+</div>
+<div class="home_news_one">
+<div class="home_news_date">12.07.2018</div>
+<div class="clear"></div>
+<div class="home_news_content"><a href="https://wm.money/zapret-webmoney-v-ukraine-kak-vyivesti-dengi/">Запрет WebMoney в Украине: как вывести деньги</a></div>
+</div>
+<div class="home_news_one">
+<div class="home_news_date">12.07.2018</div>
+<div class="clear"></div>
+<div class="home_news_content"><a href="https://wm.money/kak-izmenit-limit-dlya-oplatyi-v-internete/">Как изменить лимит для оплаты в интернете</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="home_news_more"><a href="https://wm.money/news/">Все новости</a></div>
+</div>
+</div>
+</div>
+<div class="home_reserv_wrap">
+<div class="home_gray_blick"></div>
+<div class="home_reserv_block_ins">
+<div class="home_reserv_block">
+<div class="home_reserv_title">Резерв валюты</div>
+<div class="home_reserv_many">
+<div class="home_reserv_many_ins">
+
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Webmoney USD </div>
+<div class="one_home_reserv_sum">
+2139.8139 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Webmoney RUB </div>
+<div class="one_home_reserv_sum">
+1024985.5281 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Приват24 UAH </div>
+<div class="one_home_reserv_sum">
+59886.1426 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Яндекс.Деньги RUB </div>
+<div class="one_home_reserv_sum">
+36404.9884 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(https://wm.money/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Webmoney UAH </div>
+<div class="one_home_reserv_sum">
+49033.2081 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(https://wm.money/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Webmoney EUR </div>
+<div class="one_home_reserv_sum">
+1564.96 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="one_home_reserv">
+<div class="one_home_reserv_ico" style="background: url(https://wm.money/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+<div class="one_home_reserv_block">
+<div class="one_home_reserv_title">
+Webmoney WMX </div>
+<div class="one_home_reserv_sum">
+63.8 </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home_reviews_wrap">
+<div class="home_reviews_ins">
+<div class="home_reviews_block">
+<div class="home_reviews_title">Отзывы</div>
+<div class="home_reviews_div">
+<div class="home_reviews_div_ins">
+<div class="home_reviews_one">
+<div class="home_reviews_abs"></div>
+<div class="home_reviews_date">Андрей, 17.03.2019, 20:34</div>
+<div class="clear"></div>
+<div class="home_reviews_content">Обмен шик - wmr перевели в гривны пб-24 меньше минуты.</div>
+</div>
+<div class="home_reviews_one">
+<div class="home_reviews_abs"></div>
+<div class="home_reviews_date">Евгений, 17.03.2019, 14:55</div>
+<div class="clear"></div>
+<div class="home_reviews_content">Быстро перевели. Спасибо!</div>
+</div>
+<div class="home_reviews_one">
+<div class="home_reviews_abs"></div>
+<div class="home_reviews_date">Roman, 15.03.2019, 08:47</div>
+<div class="clear"></div>
+<div class="home_reviews_content">Всё супер, СПАСИБО!!!</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="home_reviews_more"><a href="">Все отзывы</a></div>
+</div>
+</div>
+</div>
+<div class="home_partner_wrap">
+<div class="home_gray_blick"></div>
+<div class="home_partner_wrap_ins">
+<div class="home_partner_block">
+<div class="home_lchange_div">
+<div class="home_lchange_title">Последний обмен</div>
+<div class="home_lchange_date">18.03.2019, 11:30</div>
+<div class="home_lchange_body">
+<div class="home_lchange_why">
+<div class="home_lchange_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+<div class="home_lchange_txt">
+<div class="home_lchange_sum">7000</div>
+<div class="home_lchange_name">RUB</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="home_lchange_arr"></div>
+<div class="home_lchange_why">
+<div class="home_lchange_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+<div class="home_lchange_txt">
+<div class="home_lchange_sum">6963.103</div>
+<div class="home_lchange_name">RUB</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="home_partner_div">
+<div class="home_partner_title">Партнеры</div>
+<div class="home_partner_one">
+<a href="#" target="_blank"> <img src="/wp-content/uploads/ya-bottom.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://www.megastock.com/searchres.aspx?search=wm.money&#038;lang=ru" target="_blank"> <img src="/wp-content/uploads/wm-botton.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=445709135419" target="_blank"> <img src="https://wm.money/wp-content/uploads/v-blue-on-white-ru.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="http://kurs.com.ua/webmoney" target="_blank"> <img src="https://wm.money/wp-content/uploads/88x311.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://kurs.expert/ru/obmennik/wm-money/feedbacks.html#reputation" target="_blank"> <img src="https://wm.money/wp-content/uploads/buttonY1.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="http://monitoring-obmennikov-24.ru/monitoring-obmennikov/?details=233" target="_blank"> <img src="https://wm.money/wp-content/uploads/banner34-351.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://www.secretovobmena.net/monitoring-obmennikov?details=403" target="_blank"> <img src="https://wm.money/wp-content/uploads/secretovobmena-88-311.gif" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://glazok.org/exchange/?details=593" target="_blank"> <img src="https://wm.money/wp-content/uploads/88x311.gif" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://pro-obmen.ru/wmmoney" target="_blank"> <img src="https://wm.money/wp-content/uploads/88x31-11.gif" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://udifo.com/exchanger/WM.Money" target="_blank"> <img src="https://wm.money/wp-content/uploads/udifo-logo.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://cryptobrokers.ru/wm-money-info/" target="_blank"> <img src="https://wm.money/wp-content/uploads/88x311-1.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://bestcurs.org/monitoring-obmennikov/?details=518" target="_blank"> <img src="https://wm.money/wp-content/uploads/bestkurs-88x31k1.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://www.bestchange.ru/wmmoney-exchanger.html" target="_blank"> <img src="https://wm.money/wp-content/uploads/bestchange1.gif" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://okku.ru/?details=323" target="_blank"> <img src="https://wm.money/wp-content/uploads/88-31-okku-31.gif" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://fincompas.ru" target="_blank"> <img src="https://wm.money/wp-content/uploads/inf-fincompas31.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="http://kurses.com.ua/exchangers/wm.money" target="_blank"> <img src="https://wm.money/wp-content/uploads/kurses-logo.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<a href="https://www.okchanger.ru/exchangers/wm-money" target="_blank"> <img src="https://wm.money/wp-content/uploads/okchanger-logo1.png" alt="" />
+</a> </div>
+<div class="home_partner_one">
+<img src="https://wm.money/wp-content/uploads/payment-1.png" alt="" />
+</div>
+<div class="home_partner_one">
+<a href="https://exchangesumo.com/exchanger/770/WmMoney/" target="_blank"> <img src="https://exchangesumo.com/i/1.svg" alt="" />
+</a> </div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="footer_wrap">
+<div class="footer">
+<div class="footer_left">
+<div class="copyright">
+<p>wm.money &#8212; simple way to change money</p>
+</div>
+<div class="footer_menu">
+<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://wm.money/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://wm.money/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://wm.money/tos/"><span>Правила сайта</span></a></li>
+</ul> <div class="clear"></div>
+</div>
+</div>
+<div class="footer_center">
+<div class="footer_soc">
+<a href="http://vk.com/share.php?url=https%3A%2F%2Fwm.money%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://wm.money/wp-content/themes/exchanger/images/vk-ico.png" alt="" /></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwm.money%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://wm.money/wp-content/themes/exchanger/images/fb-ico.png" alt="" /></a>
+<a href="https://plus.google.com/share?url=https%3A%2F%2Fwm.money%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://wm.money/wp-content/themes/exchanger/images/gp-ico.png" alt="" /></a>
+<a href="http://twitter.com/share?url=https%3A%2F%2Fwm.money%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://wm.money/wp-content/themes/exchanger/images/tw-ico.png" alt="" /></a>
+<div class="clear"></div>
+</div>
+<div class="mobile_link"><a href="https://wm.money/ajax-set_site_vers.html?meth=get&yid=1f89fc437965&lang=ru&set=mobile&return_url=%2F%3Frid%3D92">Мобильная версия</a></div>
+</div>
+<div class="footer_right">
+<div class="footer_timetable">
+<p>Пн. — Пт. с 10:00 до 23:00 по Киеву.<br />
+Сб. — Вск. свободный график.</p>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+</div>
+<div id="topped"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="57ccef8dd257e856036f388c-text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D92&ltime=1552909435';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://wm.money/ajax-globalajax_wp_check.html?meth=post&yid=1f89fc437965&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+<div class="reserv_box js_techwindow">
+<div class="reserv_box_ins">
+<div class="reserv_box_title">Запрос резерва "<span id="reserv_box_title"></span>"</div>
+<div class="reserv_box_close"></div>
+<form method="post" class="ajax_post_form" action="https://wm.money/ajax-reservform.html?meth=post&yid=1f89fc437965&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+<div class="resultgo"></div>
+<div class="form_field_line rb_line type_input ">
+<div class="form_field_ins rb_line_ins">
+<input type="text" id="rb_id-sum" class="rb_input " placeholder="Необходимая сумма" name="sum" value="" />
+</div>
+<div class="form_field_clear rb_line_clear"></div>
+</div>
+<div class="form_field_line rb_line type_input ">
+<div class="form_field_ins rb_line_ins">
+<input type="text" id="rb_id-email" class="rb_input " placeholder="E-mail" name="email" value="" />
+</div>
+<div class="form_field_clear rb_line_clear"></div>
+</div>
+<div class="form_field_line rb_line type_text ">
+<div class="form_field_ins rb_line_ins">
+<textarea id="rb_id-comment" class="rb_textarea " placeholder="Комментарий" name="comment"></textarea>
+</div>
+<div class="form_field_clear rb_line_clear"></div>
+</div>
+<div class="captcha_div">
+<div class="captcha_title">
+Введите ответ
+</div>
+<div class="captcha_body">
+<div class="captcha_divimg">
+<img src="https://wm.money/wp-content/uploads/captcha/1552902235102038.png" class="captcha1" alt="" />
+</div>
+<div class="captcha_divznak">
+<span class="captcha_sym">+</span>
+</div>
+<div class="captcha_divimg">
+<img src="https://wm.money/wp-content/uploads/captcha/1552902235110251.png" class="captcha2" alt="" />
+</div>
+<div class="captcha_divznak">
+=
+</div>
+<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+<div class="clear"></div>
+</div>
+<div class="captcha_div_change">
+<a href="#" class="captcha_reload">заменить задачу</a>
+</div>
+</div>
+<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+</form>
+</div>
+</div>
+<script type="57ccef8dd257e856036f388c-text/javascript" src='https://wm.money/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+<script type="57ccef8dd257e856036f388c-text/javascript">
+    (function(){ var widget_id = 'TVYRVC9rZm';
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id+'?plugin=wp'; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121429431-1" type="57ccef8dd257e856036f388c-text/javascript"></script>
+<script type="57ccef8dd257e856036f388c-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121429431-1');
+</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="57ccef8dd257e856036f388c-|49" defer=""></script></body>
+</html>

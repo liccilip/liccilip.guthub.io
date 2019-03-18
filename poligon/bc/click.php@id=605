@@ -1,0 +1,2094 @@
+
+<!DOCTYPE html>
+<!---e67a007ed19aba21ad47f6e3c476b630--->
+<html lang="ru-RU">
+<head>
+<title>Обменник биткоинов – покупка и продажа биткоинов онлайн</title>
+<meta name="yandex-verification" content="dc083def6158beee" />
+<meta name="google-site-verification" content="TXZ3ejPwYvL18bndEiucMWfrbKgFxb_BeG2ky0gHQwE" />
+<meta name="wot-verification" content="69cd6f29424cae20a7db" />
+<meta name="wot-verification" content="mywote313bb4d04cd25b9Deu74koo926a2658163" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="user-scalable=yes, width=960">
+<link rel="alternate" type="application/rss+xml" title="" href="https://buy-bitcoin.pro/feed/" />
+<link rel="pingback" href="https://buy-bitcoin.pro/xmlrpc.php" />
+<link href="/wp-content/plugins/bb-advanced/assets/a10e5126/css/bootstrap.css" rel="stylesheet">
+<link href="/wp-content/plugins/bb-advanced/web/css/site-bb.css" rel="stylesheet"><script src="/wp-content/plugins/bb-advanced/assets/2d40fe8f/jquery.js"></script>
+<script src="/wp-content/plugins/bb-advanced/assets/c0cb1c9a/yii.js"></script><link rel='stylesheet' id='buybitcoins-css-style-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/style.css?v=07092018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-index-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/index.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-modal-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/modal.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-modal_callme-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/modal_callme.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-modal_from_to-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/modal_from_to.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-modal_info-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/modal_info.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-modal_loader-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/modal_loader.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='buybitcoins-css-modal_reserv-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/modal_reserv.css?v=18082018' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://buy-bitcoin.pro/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/plugins/premiumbox/premium/js/jquery.min.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/jquery.tinycarousel.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/jquery.scrollTo.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/viewportSize-min.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/jquery.inputmask.bundle.min.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/jquery.downCount.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/script.js?v=18082018&#038;lang'></script>
+<script type='text/javascript' src='//vk.com/js/api/openapi.js?152'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/plugins/premiumbox/premium/js/jquery.form.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/plugins/premiumbox/premium/js/jcook.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/site.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-content/themes/buybitcoins/js/jquery-select.js'></script>
+<script type='text/javascript' src='https://buy-bitcoin.pro/premiumjs.php?lang=ru'></script>
+<link rel="shortcut icon" href="https://buy-bitcoins.pro/wp-content/uploads/cropped-refresh.png" type="image/png" />
+<link rel="icon" href="https://buy-bitcoins.pro/wp-content/uploads/cropped-refresh.png" type="image/png" />
+<link rel='canonical' href='https://buy-bitcoin.pro/' />
+<meta name="keywords" content="обменник биткоин купить обмен bitcoin обменять на рубли покупка btc надежный вывод онлайн валюта продать мгновенно москва купля продажа перевести" />
+<meta name="description" content="buy-bitcoins.pro  - онлайн обменник электронных валют без регистрации и верификации. На сайте можно купить и продать биткоины по выгодному курсу круглосуточно. Мгновенный и автоматический обмен." />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://buy-bitcoin.pro/?rid=80" />
+<meta property="og:site_name" content="buybitcoinscontrol" />
+<meta property="og:description" content="Обменный пункт электронных валют" />
+<meta property="og:title" content="buybitcoinscontrol" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://buy-bitcoin.pro/wp-content/themes/buybitcoins/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="icon" href="https://buy-bitcoin.pro/wp-content/uploads/cropped-refresh-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://buy-bitcoin.pro/wp-content/uploads/cropped-refresh-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://buy-bitcoin.pro/wp-content/uploads/cropped-refresh-180x180.png" />
+<meta name="msapplication-TileImage" content="https://buy-bitcoin.pro/wp-content/uploads/cropped-refresh-270x270.png" />
+ <!-- Facebook Pixel Code -->
+ <script> 
+            !function(f,b,e,v,n,t,s) 
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod? 
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)}; 
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; 
+            n.queue=[];t=b.createElement(e);t.async=!0; 
+            t.src=v;s=b.getElementsByTagName(e)[0]; 
+            s.parentNode.insertBefore(t,s)}(window,document,'script', 
+            'https://connect.facebook.net/en_US/fbevents.js'); 
+            fbq('init', '417004568716880'); 
+            fbq('track', 'PageView'); 
+ </script>
+ <noscript>
+	  <img height="1" width="1"  src="https://www.facebook.com/tr?id=417004568716880&ev=PageView &noscript=1" /> 
+</noscript>
+ <!-- End Facebook Pixel Code -->
+<script>
+			var $ = jQuery.noConflict();
+		</script>
+</head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96858346-1', 'auto');
+  ga('send', 'pageview');
+
+</script><!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+			(function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+					try {
+						w.yaCounter43071474 = new Ya.Metrika({
+							id:43071474,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true,
+							webvisor:true,
+							ut:"noindex"
+						});
+					} catch(e) { }
+				});
+
+				var n = d.getElementsByTagName("script")[0],
+					s = d.createElement("script"),
+					f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+				if (w.opera == "[object Opera]") {
+					d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");
+		</script>
+	<noscript>
+		<div>
+			<img src="https://mc.yandex.ru/watch/43071474?ut=noindex" style="position: absolute; left: -9999px;" alt="" />
+		</div>
+	</noscript>
+	<!-- /Yandex.Metrika counter -->
+	<div class="table">
+		<div class="row">
+			<div class="sides"></div>
+			<div class="body">
+				<!-- Шапка -->
+				<div class="header">
+					<!-- Телефон -->
+					<div class="phone">
+						<div class="numbers">
+							<div class="number moscow active">
+								<a href="tel:+74993228302">+7 (499) <b>322-83-02</a></b><br/>
+								<a href="tg://resolve?domain=@buybitpro"><img src="/wp-content/themes/buybitcoins/img/icon_telegram.gif" alt="" /></a>
+							</div>
+							<div class="number kiev">
+								+38 (094) <b>710-48-98</b>
+							</div>
+							<div class="number minsk">
+								+375 (17) <b>256-12-67</b>
+							</div>
+						</div>
+						<div class="btn callme">Перезвоните мне</div>
+						<div class="clear"></div>
+					</div>
+					<!-- /Телефон -->
+					<!-- Моб. приложения -->
+						<div class="mobileApp">
+							<div class="icon"><a href="https://play.google.com/store/apps/details?id=buy_bitcoin.pro" target="_blank"><img src="/wp-content/themes/buybitcoins/img/google-play-badge.png" alt="" /></a></div>
+							<div class="clear"></div>
+						</div>
+					<!-- /Моб. приложения -->
+					<!-- Мессенджеры -->
+					<!-- /Мессенджеры -->
+					<!-- Время -->
+					<div class="time">
+						<div class="icon">
+							<img src="/wp-content/themes/buybitcoins/img/icon_clock.gif" alt="" />
+						</div>
+						<div class="text">Ежедневно c 9:00 до 23:00</div>
+						<div class="clear"></div>
+					</div>
+					<!-- /Время -->
+					<!-- Личный кабинет -->
+<!-- /Личный кабинет -->
+<!-- Выбор языка -->
+					<div class="lang">
+						<div class="text">Язык:</div>
+						<div class="langs">
+									<div class="current active">
+								<img src="/wp-content/themes/buybitcoins/img/icon_ru.png" alt="Русский" />
+							</div>
+									<div class="current">
+								<img src="/wp-content/themes/buybitcoins/img/icon_en.png" alt="English" />
+							</div>
+									<div class="other">
+										<p>
+									<a href="https://buy-bitcoin.pro/?rid=80"><img src="/wp-content/themes/buybitcoins/img/icon_ru.png" alt="Русский" />&nbsp;Русский</a>
+								</p>
+										<p>
+									<a href="https://buy-bitcoin.pro/en/?rid=80"><img src="/wp-content/themes/buybitcoins/img/icon_en.png" alt="English" />&nbsp;English</a>
+								</p>
+								</div>
+						</div>
+						<div class="clear"></div>
+					</div>
+					<!-- /Выбор языка -->
+<!-- Меню -->
+					<div class="menu">
+						<div class="row">
+							<div class="logo">
+								<a href="https://buy-bitcoin.pro/">Обменник биткоинов</a>
+							</div>
+							<div class="items">
+									<div class="area">
+										<span data-link="https://buy-bitcoin.pro/company/" class="item ru_ru"><div>Компания</div></span>
+											<div class="serparator"></div>
+										<span data-link="https://buy-bitcoin.pro/blog/" class="item ru_ru"><div>Блог</div></span>
+											<div class="serparator"></div>
+										<span data-link="https://buy-bitcoin.pro/press/" class="item ru_ru"><div>Пресса о нас</div></span>
+											<div class="serparator"></div>
+										<span data-link="https://buy-bitcoin.pro/voprosy/" class="item ru_ru"><div>Наличные</div></span>
+											<div class="serparator"></div>
+										<span data-link="https://buy-bitcoin.pro/contact/" class="item ru_ru"><div>Контакты</div></span>
+										</div>
+							</div>
+							<div class="right"></div>
+						</div>
+					</div>
+					<!-- /Меню -->
+				</div>
+				<!-- /Шапка -->
+			</div>
+			<div class="sides"></div>
+		</div>
+	</div>
+<!-- Под-шапка -->
+		<div class="subheader">
+			<div class="centered">
+				<div class="inner">
+					<p class="text1">Автоматический обмен 24/7</p>
+					<p class="text2">Выберите направление обмена</p>
+					<div class="area">
+						<div class="left button">
+							<img src="/wp-content/themes/buybitcoins/img/subheader_left_btn.png?v=1" width="316" height="69" alt="" />
+							<div class="default">Что отдаем?</div>
+<!-- Выбранная валюта -->
+							<div class="current">
+								<div class="icon"><img src="" width="48" height="48" alt="" /></div>
+								<p></p>
+								<div class="clear"></div>
+							</div>
+<!-- /Выбранная валюта -->
+						</div>
+						<div class="right button">
+							<img src="/wp-content/themes/buybitcoins/img/subheader_right_btn.png?v=1" width="316" height="69" alt="" />
+							<div class="default">Что получаем?</div>
+<!-- Выбранная валюта -->
+							<div class="current">
+								<div class="icon"><img src="" width="48" height="48" alt="" /></div>
+								<p></p>
+								<div class="clear"></div>
+							</div>
+<!-- /Выбранная валюта -->
+						</div>
+					</div>
+					<div class="btn red big submit">
+						<div class="left"></div>
+						<div class="body">Создать заявку</div>
+						<div class="right"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- /Под-шапка -->
+		<div class="table">
+			<div class="row">
+				<div class="sides"></div>
+				<div class="body">
+<!-- Текстовые блоки -->
+					<div class="text block">
+						<div class="block">
+							<div class="image"><img src="/wp-content/themes/buybitcoins/img/icon_rocket.png" alt="" /></div>
+							<h3>Скорость</h3>
+							<p class="text">Наш сервис позволяет обменять биткоины на рубли мгновенно. Многие обмены совершаются автоматически.</p>
+						</div>
+						<div class="block">
+							<div class="image"><img src="/wp-content/themes/buybitcoins/img/icon_diamond.png" alt="" /></div>
+							<h3>Надежность</h3>
+							<p class="text">Buy-bitcoin.pro состоит в списках крупнейших мониторингов обменных пунктов электронных валют.</p>
+						</div>
+						<div class="block">
+							<div class="image"><img src="/wp-content/themes/buybitcoins/img/icon_secury.png" alt="" /></div>
+							<h3>Безопасность</h3>
+							<p class="text">Отсутствие регистрации и верификации, а также передача данных по https сохраняют вашу анонимность.</p>
+						</div>
+					</div>
+					<div class="clear"></div>
+<!-- /Текстовые блоки -->
+<!-- Резерв валюты -->
+					<div class="reserve">
+						<div class="inner">
+							<div class="title">
+								<span>РЕЗЕРВЫ</span>
+							</div>
+<!-- Блоки валют -->
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" /></div>
+								<div class="descr">
+									<p><span>Сбербанк</span></p>
+									<p>4 968 325 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_adv_cach.png" alt="Adv Cash USD" /></div>
+								<div class="descr">
+									<p><span>Adv Cash</span></p>
+									<p>1 USD</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" /></div>
+								<div class="descr">
+									<p><span>Alfa-bank</span></p>
+									<p>620 006 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" /></div>
+								<div class="descr">
+									<p><span>Alfa-bank cash-in</span></p>
+									<p>669 998 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_bitcoin.png" alt="Bitcoin BTC" /></div>
+								<div class="descr">
+									<p><span>Bitcoin</span></p>
+									<p>224 BTC</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_payeer.png" alt="Payeer USD" /></div>
+								<div class="descr">
+									<p><span>Payeer</span></p>
+									<p>50 988 USD</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" /></div>
+								<div class="descr">
+									<p><span>Tinkoff</span></p>
+									<p>1 425 994 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" /></div>
+								<div class="descr">
+									<p><span>Наличные Мск</span></p>
+									<p>16 593 821 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" /></div>
+								<div class="descr">
+									<p><span>Наличные Мск</span></p>
+									<p>312 091 USD</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in USD" /></div>
+								<div class="descr">
+									<p><span>Alfa-bank cash-in</span></p>
+									<p>10 000 USD</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_ethereum.png" alt="Ethereum ETH" /></div>
+								<div class="descr">
+									<p><span>Ethereum</span></p>
+									<p>2 325 ETH</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_litecoin.png" alt="Litecoin LTC" /></div>
+								<div class="descr">
+									<p><span>Litecoin</span></p>
+									<p>1 987 LTC</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" /></div>
+								<div class="descr">
+									<p><span>Visa/MasterCard</span></p>
+									<p>3 109 914 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/2rQWx8wp-e1494921277512.jpg" alt="Exmo RUB" /></div>
+								<div class="descr">
+									<p><span>Exmo</span></p>
+									<p>0 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/3573291-bank-building.jpg" alt="Банки РФ RUB" /></div>
+								<div class="descr">
+									<p><span>Банки РФ</span></p>
+									<p>670 000 RUB</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Bez-nazvaniya.jpg" alt="Zcash ZEC" /></div>
+								<div class="descr">
+									<p><span>Zcash</span></p>
+									<p>248 ZEC</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/1255251256678sftdfdy.png" alt="Monero XMR" /></div>
+								<div class="descr">
+									<p><span>Monero</span></p>
+									<p>3 831 XMR</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/flat800x800075f.u1.jpg" alt="Bitcoin Cash BCH" /></div>
+								<div class="descr">
+									<p><span>Bitcoin Cash</span></p>
+									<p>0 BCH</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/pic5.png" alt="Dash DASH" /></div>
+								<div class="descr">
+									<p><span>Dash</span></p>
+									<p>546 DASH</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/tether1.png" alt="Tether USD" /></div>
+								<div class="descr">
+									<p><span>Tether</span></p>
+									<p>206 889 USD</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Ripple-logo-300x300.png" alt="Ripple XRP" /></div>
+								<div class="descr">
+									<p><span>Ripple</span></p>
+									<p>155 954 XRP</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Snimok-e-krana-2018-01-15-v-10.24.26.png" alt="EOS EOS" /></div>
+								<div class="descr">
+									<p><span>EOS</span></p>
+									<p>0 EOS</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Snimok-e-krana-2018-01-15-v-10.13.56.png" alt="IOTA IOTA" /></div>
+								<div class="descr">
+									<p><span>IOTA</span></p>
+									<p>0 IOTA</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Snimok-e-krana-2018-01-15-v-10.25.32.png" alt="NEO NEO" /></div>
+								<div class="descr">
+									<p><span>NEO</span></p>
+									<p>0 NEO</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Snimok-e-krana-2018-01-15-v-10.26.16.png" alt="OmiseGO OMG" /></div>
+								<div class="descr">
+									<p><span>OmiseGO</span></p>
+									<p>0 OMG</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Screenshot-15.jpg" alt="NEM NEM" /></div>
+								<div class="descr">
+									<p><span>NEM</span></p>
+									<p>34 448 NEM</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Emote-dogecoin-e1516559503417.png" alt="Doge DOGE" /></div>
+								<div class="descr">
+									<p><span>Doge</span></p>
+									<p>8 230 633 DOGE</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="https://buy-bitcoin.pro/wp-content/uploads/cardano-cryptocurrency-blockchain-coin-128.png" alt="Cardano ADA" /></div>
+								<div class="descr">
+									<p><span>Cardano</span></p>
+									<p>422 037 ADA</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/Skrinshot-2018-06-01-17.40.07.png" alt="Stellar XLM" /></div>
+								<div class="descr">
+									<p><span>Stellar</span></p>
+									<p>69 683 XLM</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="/wp-content/uploads/how-to-buy-tron-trx.jpg" alt="Tron TRX" /></div>
+								<div class="descr">
+									<p><span>Tron</span></p>
+									<p>110 954 TRX</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="https://buy-bitcoin.pro/wp-content/uploads/DTrQcUDXcAAP0lT.jpg" alt="Verge XVG" /></div>
+								<div class="descr">
+									<p><span>Verge</span></p>
+									<p>0 XVG</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="https://buy-bitcoin.pro/wp-content/uploads/066---euro-coins-512.png" alt="Наличные Мск EUR" /></div>
+								<div class="descr">
+									<p><span>Наличные Мск</span></p>
+									<p>135 873 EUR</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="https://buy-bitcoin.pro/wp-content/uploads/246x0w.jpg" alt="Payeer EUR" /></div>
+								<div class="descr">
+									<p><span>Payeer</span></p>
+									<p>50 000 EUR</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+									<div class="block">
+								<div class="icon"><img src="https://buy-bitcoin.pro/wp-content/uploads/Bez-nazvaniya.png" alt="Perfect Money USD" /></div>
+								<div class="descr">
+									<p><span>Perfect Money</span></p>
+									<p>0 USD</p>
+								</div>
+								<div class="clear"></div>
+							</div>
+				<!-- /Блоки валют -->
+							<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>
+<!-- /Резерв валюты -->
+
+<!-- Отзывы -->
+					<div class="reviews">
+						<h2>Отзывы клиентов</h2>
+<!-- Слайдер -->
+						<div class="slider">
+							<div class="left prev"><img src="/wp-content/themes/buybitcoins/img/feedback_left_arrow.png" alt=""/></div>
+							<div class="right next"><img src="/wp-content/themes/buybitcoins/img/feedback_right_arrow.png" alt=""/></div>
+							<div class="slides viewport">
+								<div class="inner overview">
+									<div class="slide">
+										<div class="text">Сегодня менял миллион рублей на Биткоины , сделали все быстро ! огромное спасибо ! Страница&hellip;</div>
+										<div class="author">
+											hezm1z6											<p>18.10.2018, 19:37</p>
+										</div>
+									</div>
+										<div class="slide">
+										<div class="text">Отличный обменник! Работают быстро и чётко, поддержка в чате быстро ответила на вопросы и обменял&hellip;</div>
+										<div class="author">
+											antonsmirnov											<p>23.09.2018, 17:24</p>
+										</div>
+									</div>
+										<div class="slide">
+										<div class="text">Хороший обменник. Нашёл по хорошим отзывам. Всё понравилось, буду пользоваться ещё. Страница с отзывом: https:&hellip;</div>
+										<div class="author">
+											profittraded											<p>03.09.2018, 12:48</p>
+										</div>
+									</div>
+										<div class="slide">
+										<div class="text">Провёл сегодня обмен на 200 тысяч с Тинькофф на эфир, всё прошло идеально, остался мега&hellip;</div>
+										<div class="author">
+											coloss											<p>15.06.2018, 10:35</p>
+										</div>
+									</div>
+										<div class="slide">
+										<div class="text">Очень рад, что наткнулся именно на этот обменник, сделал ошибку в номере карты и через&hellip;</div>
+										<div class="author">
+											wild_ape323											<p>15.06.2018, 09:40</p>
+										</div>
+									</div>
+										<div class="slide">
+										<div class="text">периодически обращаюсь за услугами в этот обменник, уже провёл через них крупную сумму, всегда без&hellip;</div>
+										<div class="author">
+											chehshirskiy_kot											<p>15.06.2018, 08:47</p>
+										</div>
+									</div>
+									</div>
+							</div>
+						</div>
+<!-- /Слайдер -->
+						<p class="all"><a class="btn blue bordered" href="https://buy-bitcoin.pro/?page_id=495">Все отзывы</a></p>
+					</div>
+					<div class="clear"></div>
+<!-- /Отзывы -->
+<!-- Разделитель -->
+					<div class="serparator">
+						<div class="line"></div>
+					</div>
+					<div class="clear"></div>
+<!-- /Разделитель -->
+<!-- Статья -->
+					<div class="article">
+						<div class="inner">
+							<h1>Обмен биткоин: покупка и продажа</h1>
+							<div class="text">
+								<p><strong>Биткоин обменник buy-bitcoins.pro</strong> — это надежный сервис, который предлагает профессиональный и современный подход для совершения обменов.</p>
+<p>Купить биткоины за рубли можно онлайн благодаря алгоритму, который обрабатывает ваши заявки автоматически. При совершении обмена BTC↔RUB пользователю требуется лишь указать реквизиты получателя. Дальше система переведет клиента непосредственно на страницу оплаты. Сразу после завершения оплаты средства будут перечислены на указанный счет.</p>
+<h2>Обмен bitcoin — это просто с buy-bitcoins.pro</h2>
+<p>Обмен биткоинов с онлайн сервисом buy-bitcoins.pro — это просто, потому что мы изучили потребности клиентов и сделали наш сайт максимально удобным и понятным. Но если у вас все-таки останутся вопросы, то к вашим услугам быстрая и профессиональная поддержка специалистов, которые всегда готовы ответить на ваши вопросы в онлайн консультанте, по телефонам в Москве и Киеве, а также в самых популярных мессенджерах.</p>
+<h3>Скорость</h3>
+<p>Наш сервис позволяет обменять биткоины на рубли мгновенно, благодаря тому, что многие обмены совершаются автоматически. Мы тщательно контролируем этот процесс и регулярно совершенствуем автоматические системы, поэтому обмены по данным направлениям совершаются за минимальное время. Покупка BTC займет менее 10 секунд — проверьте сами. Это возможно благодаря отсутствию регистрации, верификации и прочих нудных процедур. Автоматические операции осуществляются в нашем обменнике BTC 24 часа в сутки.ю</p>
+<p>Ручные направления в режиме реального времени отслеживают наши операторы, которые сделают все возможное, чтобы сократить время вашего ожидания. Благодаря ряду систем оперативного оповещения оператор принимает в работу вашу заявку в течение нескольких минут с момента ее создания. Кроме того, мы всегда отправляем биткоины с максимальной комиссией сети, что гарантирует получение подтверждений сетью в первом же найденном блоке. В результате большинство обменов осуществляются менее чем за 8 минут. Мы действительно хорошо работаем — проверьте сами.</p>
+<h3>Надежность</h3>
+<p>Buy-bitcoins.pro состоит в списках крупнейших мониторингов обменных пунктов электронных валют. Имеет верифицированные счета в AdvCash и Perfect Money. Но главное — это отзывы наших реальных клиентов, которые уже совершили выгодные обмены и уверенно советуют нас на различных популярных форумах:</p>
+<ul>
+<li><span data-link="http://mmgp.ru/showthread.php?t=497580&amp;page=1#post12230354">mmgp.com;</span></li>
+<li><span data-link="https://bitcointalk.org/index.php?topic=1781574.0">bitcointalk.org;</span></li>
+<li><span data-link="http://earnforum.com/showthread.php?p=1499669#post1499669">earnforum.com;</span></li>
+<li><span data-link="https://forum.bits.media/index.php?/topic/34378-buy-bitcoinspro-obmen-bitcoin-btc-e-western-uniоn-moneygram-nalichnye/">forum.bits.media.</span></li>
+</ul>
+<h3>Безопасность</h3>
+<p>Отсутствие регистрации и верификации сохраняет вашу анонимность. Соединение устанавливается по https протоколу, что гарантирует сохранность данных наших клиентов. Все данные передаются и хранятся в зашифрованном виде на сервере, надежно защищенном от DDoS и прочих видов атак. Для защиты данных мы выбираем партнеров, являющихся лидерами в области информационной безопасности.</p>
+<h2>Биткоины за наличные</h2>
+<p>Чтобы приобрести биткоины за наличный расчет в Москве или Киеве, просто свяжитесь с оператором. Договоритесь о встрече и купите bitcoin за рубли или доллары по выгодному курсу. Также доступна услуга доставки денежных средств в аэропорты России и Украины.</p>
+<h2>Быстрый вывод биткоинов</h2>
+<p>Наш обменник позволяет перевести биткоины в рубли и гривны, на карты российских и украинских банков или на платежные системы Perfect Money, AdvСash, OKpay, Payeer. Обмен биткоина на рубли или доллары, независимо от платежной системы, не потребует регистрации и верификации на нашем сайте, поэтому вывод BTC на карту займет минимальное время.</p>
+<p align="center"><a href="/exchange_bitcoin_to_sberbank/">Обмен биткоин на Сбербанк</a>    <a href="/exchange_sberbank_to_bitcoin/">Купить биткоины за рубли с карты Сбербанка</a>    <a href="/bitcoin-cash/">Купить Bitcoin Cash за рубли</a></p>
+<p align="center"><a href="/ethereum/">Купить Эфириум за рубли</a>    <a href="/litecoin-exchange/">Купить лайткоин за рубли</a></p>
+								<div class="gradient"></div>
+							</div>
+							<p class="all"><a class="btn blue bordered">Показать весь текст</a></p>
+						</div>
+					</div>
+					<div class="clear"></div>
+<!-- /Статья -->
+<!-- Разделитель -->
+					<div class="serparator">
+						<div class="line"></div>
+					</div>
+					<div class="clear"></div>
+<!-- /Разделитель -->
+				</div>
+				<div class="sides"></div>
+			</div>
+		</div>
+<!-- Модальное окно -->
+<!-- Перезвоните мне -->
+<div class="modal callme">
+	<div class="bg"></div>
+	<div class="window">
+		<div class="header">
+			<div class="close"></div>
+			<p class="title">Перезвоните мне</p>
+		</div>
+		<div class="body">
+			<div class="logo">
+				<img src="/wp-content/themes/buybitcoins/img/icon_callme.gif" alt="" />
+			</div>
+			<div class="content">
+				<p>
+					Оставьте свой номер телефона и мы Вам перезвоним<br /> в течении 5 – 10 минут.				</p>
+				<div class="form">
+					<div class="field">
+						<p class="title">Ваше имя</p>
+						<input type="text" class="input" name="name" />
+					</div>
+					<div class="field">
+						<p class="title">
+							Телефон <span>*</span>
+						</p>
+						<input type="text" class="input" name="phone" />
+					</div>
+					<div class="field">
+						<p class="title">№ заявки</p>
+						<input type="text" class="input" name="bid" />
+					</div>
+					<div class="field">
+						<p class="title">
+							Вычислите <span id="reload_riddle" style="color: #000;">1 + 3</span> <span>*</span>
+						</p>
+						<input type="text" class="input" name="code" /> <a href="javascript: void(0);" onclick="$('#reload_riddle').load('/wp-content/themes/buybitcoins/callme.php');"
+							class="refresh_link">Обновить</a>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+		<div class="btn area">
+			<div class="btn red big submit">
+				<div class="left"></div>
+				<div class="body">Заказать звонок</div>
+				<div class="right"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /Перезвоните мне -->
+<!-- Что отдаём? -->
+		<div class="modal from">
+			<div class="bg"></div>
+			<div class="window">
+				<div class="header">
+					<div class="close"></div>
+<!-- Выбранная валюта -->
+					<div class="current">
+						<div class="inner">
+							<div class="icon"><img src="" width="60" height="60" alt="" /></div>
+							<input type="text" class="input" name="from" data-inputmask-regex="[0-9\.]*?"/>
+							<p></p>
+							<div class="clear"></div>
+						</div>
+					</div>
+<!-- /Выбранная валюта -->
+				</div>
+				<div class="body">
+					<p class="info">Выберите валюту для обмена</p>
+<!-- Список типов валют -->
+					<div class="types">
+						<span data-type="">Все</span>
+						<span class="active" data-type="USD">USD</span>
+						<span data-type="EUR">EUR</span>
+						<span data-type="RUB">RUB</span>
+						<span data-type="COIN">COIN</span>
+						<span data-type="EDO">EDO</span>
+						<span data-type="qtum">qtum</span>
+						<span data-type="XLM">XLM</span>
+						<span data-type="TRX">TRX</span>
+						<span data-type="XVG">XVG</span>
+						<div class="clear"></div>
+					</div>
+<!-- /Список типов валют -->
+<!-- Блоки валют -->
+					<div class="blocks">
+						<div class="block" data-naps-from="18" data-real-type="RUB" data-type="RUB" data-curs="1000000">
+							<div class="icon"><img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" /></div>
+							<div class="descr">
+								<p><span>Наличные Мск</span></p>
+								<p>1 000 000 RUB</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="19" data-real-type="USD" data-type="USD" data-curs="10000">
+							<div class="icon"><img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" /></div>
+							<div class="descr">
+								<p><span>Наличные Мск</span></p>
+								<p>10 000 USD</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="68" data-real-type="EUR" data-type="EUR" data-curs="10000">
+							<div class="icon"><img src="https://buy-bitcoin.pro/wp-content/uploads/066---euro-coins-512.png" alt="Наличные Мск EUR" /></div>
+							<div class="descr">
+								<p><span>Наличные Мск</span></p>
+								<p>10 000 EUR</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="24" data-real-type="ETH" data-type="COIN" data-curs="10">
+							<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_ethereum.png" alt="Ethereum ETH" /></div>
+							<div class="descr">
+								<p><span>Ethereum</span></p>
+								<p>10 ETH</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="37" data-real-type="ZEC" data-type="COIN" data-curs="100">
+							<div class="icon"><img src="/wp-content/uploads/Bez-nazvaniya.jpg" alt="Zcash ZEC" /></div>
+							<div class="descr">
+								<p><span>Zcash</span></p>
+								<p>100 ZEC</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="14" data-real-type="BTC" data-type="COIN" data-curs="1">
+							<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_bitcoin.png" alt="Bitcoin BTC" /></div>
+							<div class="descr">
+								<p><span>Bitcoin</span></p>
+								<p>1 BTC</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="38" data-real-type="XMR" data-type="COIN" data-curs="100">
+							<div class="icon"><img src="/wp-content/uploads/1255251256678sftdfdy.png" alt="Monero XMR" /></div>
+							<div class="descr">
+								<p><span>Monero</span></p>
+								<p>100 XMR</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="25" data-real-type="LTC" data-type="COIN" data-curs="100">
+							<div class="icon"><img src="/wp-content/themes/buybitcoins/img/icon_litecoin.png" alt="Litecoin LTC" /></div>
+							<div class="descr">
+								<p><span>Litecoin</span></p>
+								<p>100 LTC</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="40" data-real-type="DASH" data-type="COIN" data-curs="100">
+							<div class="icon"><img src="/wp-content/uploads/pic5.png" alt="Dash DASH" /></div>
+							<div class="descr">
+								<p><span>Dash</span></p>
+								<p>100 DASH</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="43" data-real-type="USD" data-type="USD" data-curs="10000">
+							<div class="icon"><img src="/wp-content/uploads/tether1.png" alt="Tether USD" /></div>
+							<div class="descr">
+								<p><span>Tether</span></p>
+								<p>10 000 USD</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="block" data-naps-from="45" data-real-type="XRP" data-type="COIN" data-curs="1000">
+							<div class="icon"><img src="/wp-content/uploads/Ripple-logo-300x300.png" alt="Ripple XRP" /></div>
+							<div class="descr">
+								<p><span>Ripple</span></p>
+								<p>1 000 XRP</p>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
+					</div>
+<!-- /Блоки валют -->
+				</div>
+				<div class="clear"></div>
+				<div class="btn area">
+					<div class="btn red big submit">
+						<div class="left"></div>
+						<div class="body">Далее</div>
+						<div class="right"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- /Что отдаём? -->
+<!-- Что получаем? -->
+<div class="modal to">
+	<div class="bg"></div>
+	<div class="window">
+		<div class="header">
+			<div class="close"></div>
+			<!-- Выбранная валюта -->
+			<div class="current">
+				<div class="inner">
+					<div class="icon">
+						<img src="" width="60" height="60" alt="" />
+					</div>
+					<input type="text" class="input" name="to" data-inputmask-regex="[0-9\.]*?" />
+					<p></p>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<!-- /Выбранная валюта -->
+			<p class="comission">Комиссия нашего сервиса: <b>0.05%</b>
+			</p>
+		</div>
+		<div class="body">
+			<p class="info">Выберите валюту для получения</p>
+			<!-- Список типов валют -->
+			<div class="types">
+				<span class="active" data-type="">Все</span>
+						<span data-type="USD">USD</span>
+						<span data-type="EUR">EUR</span>
+						<span data-type="RUB">RUB</span>
+						<span data-type="COIN">COIN</span>
+						<span data-type="EDO">EDO</span>
+						<span data-type="qtum">qtum</span>
+						<span data-type="XLM">XLM</span>
+						<span data-type="TRX">TRX</span>
+						<span data-type="XVG">XVG</span>
+						<div class="clear"></div>
+			</div>
+			<!-- /Список типов валют -->
+			<!-- Блоки валют -->
+					<div class="blocks" data-naps-from-tab="18">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_etherium/" data-real-type="ETH" data-type="COIN"
+					data-naps-to="239" data-curs="109.9910" data-curs2curs="9091.6529534235"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_ethereum.png" alt="Ethereum ETH" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Ethereum</span>
+						</p>
+						<p class="curs2">109.9910 ETH</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_bitcoin_btc/" data-real-type="BTC" data-type="COIN"
+					data-naps-to="244" data-curs="3.8147" data-curs2curs="262143.4080259944"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_bitcoin.png" alt="Bitcoin BTC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Bitcoin</span>
+						</p>
+						<p class="curs2">3.8147 BTC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_ltc/" data-real-type="LTC" data-type="COIN"
+					data-naps-to="267" data-curs="256.5330" data-curs2curs="3898.1339632718"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_litecoin.png" alt="Litecoin LTC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Litecoin</span>
+						</p>
+						<p class="curs2">256.5330 LTC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_Dash/" data-real-type="DASH" data-type="COIN"
+					data-naps-to="319" data-curs="163.9214" data-curs2curs="6100.4847445178"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/pic5.png" alt="Dash DASH" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Dash</span>
+						</p>
+						<p class="curs2">163.9214 DASH</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_tether_usdt/" data-real-type="USD" data-type="USD"
+					data-naps-to="409" data-curs="15161.0942" data-curs2curs="65.9583000282"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/tether1.png" alt="Tether USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tether</span>
+						</p>
+						<p class="curs2">15 161.0942 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_zcash/" data-real-type="ZEC" data-type="COIN"
+					data-naps-to="505" data-curs="285.3580" data-curs2curs="3504.3699493268"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/Bez-nazvaniya.jpg" alt="Zcash ZEC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Zcash</span>
+						</p>
+						<p class="curs2">285.3580 ZEC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashru_to_Monero/" data-real-type="XMR" data-type="COIN"
+					data-naps-to="522" data-curs="293.6490" data-curs2curs="3405.4262061168"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/1255251256678sftdfdy.png" alt="Monero XMR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Monero</span>
+						</p>
+						<p class="curs2">293.6490 XMR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="19">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cash_to_etherium/" data-real-type="ETH" data-type="COIN"
+					data-naps-to="235" data-curs="71.1250" data-curs2curs="140.5975395431"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_ethereum.png" alt="Ethereum ETH" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Ethereum</span>
+						</p>
+						<p class="curs2">71.1250 ETH</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cash_usd_to_bitcoin_btc/" data-real-type="BTC" data-type="COIN"
+					data-naps-to="245" data-curs="2.4665" data-curs2curs="4054.3367892568"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_bitcoin.png" alt="Bitcoin BTC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Bitcoin</span>
+						</p>
+						<p class="curs2">2.4665 BTC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cash_usd_to_ltc/" data-real-type="LTC" data-type="COIN"
+					data-naps-to="268" data-curs="165.8870" data-curs2curs="60.2819991922"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_litecoin.png" alt="Litecoin LTC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Litecoin</span>
+						</p>
+						<p class="curs2">165.8870 LTC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cash_usd_to_Dash/" data-real-type="DASH" data-type="COIN"
+					data-naps-to="320" data-curs="105.9998" data-curs2curs="94.3398006411"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/pic5.png" alt="Dash DASH" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Dash</span>
+						</p>
+						<p class="curs2">105.9998 DASH</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashusd_to_tether_usdt/" data-real-type="USD" data-type="USD"
+					data-naps-to="410" data-curs="9800.0000" data-curs2curs="1.0204081633"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/tether1.png" alt="Tether USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tether</span>
+						</p>
+						<p class="curs2">9 800.0000 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_cashUSD_to_Monero/" data-real-type="XMR" data-type="COIN"
+					data-naps-to="523" data-curs="189.8880" data-curs2curs="52.6626221773"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/1255251256678sftdfdy.png" alt="Monero XMR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Monero</span>
+						</p>
+						<p class="curs2">189.8880 XMR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="68">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_casheur_to_Dash/" data-real-type="DASH" data-type="COIN"
+					data-naps-to="513" data-curs="120.2674" data-curs2curs="83.1480517580"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/pic5.png" alt="Dash DASH" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Dash</span>
+						</p>
+						<p class="curs2">120.2674 DASH</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_casheur_to_ltc6/" data-real-type="LTC" data-type="COIN"
+					data-naps-to="514" data-curs="188.2150" data-curs2curs="53.1307281566"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_litecoin.png" alt="Litecoin LTC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Litecoin</span>
+						</p>
+						<p class="curs2">188.2150 LTC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_casheur_to_bitcoin_btc/" data-real-type="BTC" data-type="COIN"
+					data-naps-to="515" data-curs="2.7985" data-curs2curs="3573.3622453596"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_bitcoin.png" alt="Bitcoin BTC" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Bitcoin</span>
+						</p>
+						<p class="curs2">2.7985 BTC</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_casheur_to_etherium/" data-real-type="ETH" data-type="COIN"
+					data-naps-to="516" data-curs="80.6990" data-curs2curs="123.9172728287"
+					data-comission="2 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_ethereum.png" alt="Ethereum ETH" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Ethereum</span>
+						</p>
+						<p class="curs2">80.6990 ETH</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_casheur_to_Monero/" data-real-type="XMR" data-type="COIN"
+					data-naps-to="524" data-curs="214.7960" data-curs2curs="46.5558017840"
+					data-comission="2.20991 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/1255251256678sftdfdy.png" alt="Monero XMR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Monero</span>
+						</p>
+						<p class="curs2">214.7960 XMR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="24">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ethereum_to_sberbank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="148" data-curs="82518.4200" data-curs2curs="0.0001211851"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">82 518.4200 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ethereum_to_alfabank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="149" data-curs="84046.5375" data-curs2curs="0.0001189817"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">84 046.5375 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Ethereum_to_visa_mastercard_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="188" data-curs="78930.6600" data-curs2curs="0.0001266935"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">78 930.6600 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ethereum_to_tinkoff/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="214" data-curs="84046.5400" data-curs2curs="0.0001189817"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">84 046.5400 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ETHALFARUBCASHIN/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="228" data-curs="84046.5375" data-curs2curs="0.0001189817"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">84 046.5375 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_etherium_to_nalusd/" data-real-type="USD" data-type="USD"
+					data-naps-to="236" data-curs="1368.9000" data-curs2curs="0.0073051355"
+					data-comission="0.737873 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">1 368.9000 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_etherium_to_nalrub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="238" data-curs="88807.1400" data-curs2curs="0.0001126036"
+					data-comission="0.412011 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">88 807.1400 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_etherium_to_nalEUR/" data-real-type="EUR" data-type="EUR"
+					data-naps-to="512" data-curs="1182.6200" data-curs2curs="0.0084558015"
+					data-comission="2.77271 %">
+					<div class="icon">
+						<img src="https://buy-bitcoin.pro/wp-content/uploads/066---euro-coins-512.png" alt="Наличные Мск EUR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">1 182.6200 EUR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="37">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Zcash_to_sberbank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="290" data-curs="312331.9500" data-curs2curs="0.0003201722"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">312 331.9500 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Zcash_to_alfabank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="292" data-curs="318115.8750" data-curs2curs="0.0003143509"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">318 115.8750 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Zcash_to_visa_mastercard_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="294" data-curs="298752.3000" data-curs2curs="0.0003347255"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">298 752.3000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Zcash_tks_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="297" data-curs="318115.8800" data-curs2curs="0.0003143509"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">318 115.8800 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Zcash_to_alfabank2/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="366" data-curs="318115.8750" data-curs2curs="0.0003143509"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">318 115.8750 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_zec_nal/" data-real-type="USD" data-type="USD"
+					data-naps-to="506" data-curs="5281.7500" data-curs2curs="0.0189331188"
+					data-comission="0.5 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">5 281.7500 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_zec_to_cash_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="517" data-curs="341667.1500" data-curs2curs="0.0002926825"
+					data-comission="0.652257 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">341 667.1500 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="14">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_BTCCASHUSD/" data-real-type="USD" data-type="USD"
+					data-naps-to="26" data-curs="3954.3500" data-curs2curs="0.0002528861"
+					data-comission="0.527295 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">3 954.3500 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_bitcoin_to_sberbank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="54" data-curs="238437.4900" data-curs2curs="0.0000041940"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">238 437.4900 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_BTC_to_ALFARUB/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="56" data-curs="242853.0000" data-curs2curs="0.0000041177"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">242 853.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_bitcoin_to_tinkoff/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="57" data-curs="242853.0000" data-curs2curs="0.0000041177"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">242 853.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_BTCALFARUBCASHIN/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="68" data-curs="242853.0000" data-curs2curs="0.0000041177"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">242 853.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_bitcoin_to_visa_mastercard_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="176" data-curs="228070.6400" data-curs2curs="0.0000043846"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">228 070.6400 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_BTCCASHUSD7/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="215" data-curs="257255.3100" data-curs2curs="0.0000038872"
+					data-comission="-0.0479347 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">257 255.3100 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_BTCCASHeur/" data-real-type="EUR" data-type="EUR"
+					data-naps-to="507" data-curs="3432.1400" data-curs2curs="0.0002913634"
+					data-comission="2.11249 %">
+					<div class="icon">
+						<img src="https://buy-bitcoin.pro/wp-content/uploads/066---euro-coins-512.png" alt="Наличные Мск EUR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">3 432.1400 EUR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="38">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Monero_XMR_to_sberbank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="291" data-curs="303514.0000" data-curs2curs="0.0003294741"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">303 514.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Monero_XMR_to_alfabank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="293" data-curs="309134.6250" data-curs2curs="0.0003234837"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">309 134.6250 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Monero_XMR_to_visa_mastercard_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="295" data-curs="290317.7300" data-curs2curs="0.0003444502"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">290 317.7300 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Monero_XMR_to_tinkoff7/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="296" data-curs="309134.6200" data-curs2curs="0.0003234837"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">309 134.6200 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_XMRCASHRUB/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="412" data-curs="332248.8200" data-curs2curs="0.0003009792"
+					data-comission="0.545036 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">332 248.8200 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_XMRCASHUSD/" data-real-type="USD" data-type="USD"
+					data-naps-to="413" data-curs="5128.8300" data-curs2curs="0.0194976242"
+					data-comission="0.724875 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">5 128.8300 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="25">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_litecoin_to_alfabank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="150" data-curs="360728.9125" data-curs2curs="0.0002772165"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">360 728.9125 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_litecoin_to_sberbank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="151" data-curs="354170.2100" data-curs2curs="0.0002823501"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">354 170.2100 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_tinkoff_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="213" data-curs="360728.9100" data-curs2curs="0.0002772165"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">360 728.9100 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ltc_to_cash_usd/" data-real-type="USD" data-type="USD"
+					data-naps-to="309" data-curs="5880.6000" data-curs2curs="0.0170050675"
+					data-comission="0.52739 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">5 880.6000 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ltc_to_cash_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="310" data-curs="380974.3900" data-curs2curs="0.0002624848"
+					data-comission="0.347834 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">380 974.3900 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ltc_to_acash_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="354" data-curs="360728.9125" data-curs2curs="0.0002772165"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">360 728.9125 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_ltc_to_cash_eur/" data-real-type="EUR" data-type="EUR"
+					data-naps-to="511" data-curs="5182.9700" data-curs2curs="0.0192939569"
+					data-comission="0.5 %">
+					<div class="icon">
+						<img src="https://buy-bitcoin.pro/wp-content/uploads/066---euro-coins-512.png" alt="Наличные Мск EUR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">5 182.9700 EUR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="40">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_DASH_to_sberbank7/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="326" data-curs="543715.0800" data-curs2curs="0.0001839199"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">543 715.0800 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_dash_to_visa_mastercard_rub5/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="327" data-curs="520075.2900" data-curs2curs="0.0001922799"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">520 075.2900 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_DASH_to_ALFARUB6/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="328" data-curs="553783.8750" data-curs2curs="0.0001805759"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">553 783.8750 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_dash_to_tinkoff6/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="329" data-curs="553783.8800" data-curs2curs="0.0001805759"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">553 783.8800 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_dash_to_cash_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="342" data-curs="593136.5200" data-curs2curs="0.0001685953"
+					data-comission="0.822847 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">593 136.5200 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_dash_to_cash_usd/" data-real-type="USD" data-type="USD"
+					data-naps-to="343" data-curs="9202.9900" data-curs2curs="0.0108660338"
+					data-comission="0.5 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">9 202.9900 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_dash_to_acash_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="348" data-curs="553783.8750" data-curs2curs="0.0001805759"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">553 783.8750 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_dash_to_cash_EUR/" data-real-type="EUR" data-type="EUR"
+					data-naps-to="510" data-curs="7842.0000" data-curs2curs="0.0127518490"
+					data-comission="3.95011 %">
+					<div class="icon">
+						<img src="https://buy-bitcoin.pro/wp-content/uploads/066---euro-coins-512.png" alt="Наличные Мск EUR" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">7 842.0000 EUR</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="43">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to__alfa_cashin_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="367" data-curs="598750.0000" data-curs2curs="0.0167014614"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">598 750.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to__sberbank_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="369" data-curs="587863.6400" data-curs2curs="0.0170107476"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">587 863.6400 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to__visa_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="370" data-curs="562304.3500" data-curs2curs="0.0177839634"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">562 304.3500 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to_alfa_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="371" data-curs="598750.0000" data-curs2curs="0.0167014614"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">598 750.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to__tinkoff_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="372" data-curs="598750.0000" data-curs2curs="0.0167014614"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">598 750.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to__cash_msk_usd/" data-real-type="USD" data-type="USD"
+					data-naps-to="397" data-curs="9880.0000" data-curs2curs="1.0121457490"
+					data-comission="0">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashusd.png.pagespeed.ic-.u9qcv-s7ux-kopiya.png" alt="Наличные Мск USD" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">9 880.0000 USD</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Tether_USDT_to__cash_msk_rub/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="398" data-curs="643600.0000" data-curs2curs="0.0155376010"
+					data-comission="0.393875 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/xicon-cashrub.png.pagespeed.ic-.u9qcv-s7ux.png" alt="Наличные Мск RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Наличные Мск</span>
+						</p>
+						<p class="curs2">643 600.0000 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+					<div class="blocks" data-naps-from-tab="45">
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Ripple_to_tinkoff/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="453" data-curs="18716.9200" data-curs2curs="0.0534275939"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_tinkoff.png" alt="Tinkoff RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Tinkoff</span>
+						</p>
+						<p class="curs2">18 716.9200 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Ripple_to_sberbank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="454" data-curs="18376.6200" data-curs2curs="0.0544169711"
+					data-comission="10 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_sberbank.png" alt="Сбербанк RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Сбербанк</span>
+						</p>
+						<p class="curs2">18 376.6200 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Ripple_to_Visa/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="455" data-curs="17577.6300" data-curs2curs="0.0568904909"
+					data-comission="15 %">
+					<div class="icon">
+						<img src="/wp-content/uploads/visa-mc.jpg" alt="Visa/MasterCard RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Visa/MasterCard</span>
+						</p>
+						<p class="curs2">17 577.6300 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Ripple_to_Alfabank/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="456" data-curs="19154.0125" data-curs2curs="0.0522083819"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank</span>
+						</p>
+						<p class="curs2">19 154.0125 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="block" data-next-step-link="https://buy-bitcoin.pro/exchange_Ripple_to_Alfabankcash/" data-real-type="RUB" data-type="RUB"
+					data-naps-to="458" data-curs="19154.0125" data-curs2curs="0.0522083819"
+					data-comission="8 %">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/icon_alfa-bank.png" alt="Alfa-bank cash-in RUB" />
+					</div>
+					<div class="descr">
+						<p>
+							<span>Alfa-bank cash-in</span>
+						</p>
+						<p class="curs2">19 154.0125 RUB</p>
+					</div>
+					<div class="clear"></div>
+				</div>
+						<div class="clear"></div>
+			</div>
+<!-- /Блоки валют -->
+		</div>
+		<div class="clear"></div>
+		<div class="btn area">
+			<div class="btn red big submit">
+				<div class="left"></div>
+				<div class="body">Далее</div>
+				<div class="right"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /Что получаем? -->
+<!-- Информация -->
+<div class="modal info">
+	<div class="bg"></div>
+	<div class="window">
+		<div class="header">
+			<div class="close"></div>
+			<p class="title"></p>
+		</div>
+		<div class="body"></div>
+		<div class="btn area">
+			<div class="btn red big submit">
+				<div class="left"></div>
+				<div class="body">Закрыть</div>
+				<div class="right"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- /Информация -->
+<!-- Лоадер -->
+<div class="modal loader">
+	<div class="bg"></div>
+	<div class="window">
+		<div class="body">
+			<img src="/wp-content/themes/buybitcoins/img/loader.gif">
+			<p>Идёт загрузка...</p>
+		</div>
+	</div>
+</div>
+<!-- /Лоадер -->
+<!-- /Модальное окно -->
+<!-- Подвал -->
+<div class="footer">
+	<div class="centered">
+		<div class="inner">
+			<a href="https://buy-bitcoin.pro/"><img class="logo" src="/wp-content/themes/buybitcoins/img/footer_logo.png?v=17122018" alt="" /></a>
+			<!-- Меню -->
+			<div class="menu js-loaded">
+				<ul>
+					<li><span data-link="https://buy-bitcoin.pro/tokens/">Токены<span>NEW</span></span></li>
+					<li><span data-link="https://buy-bitcoin.pro/blog/">Блог</span></li>
+					<li><span data-link="https://buy-bitcoin.pro/company/">Компания</span></li>
+				</ul>
+				<ul>
+					<li><span data-link="https://buy-bitcoin.pro/press/">Пресса о нас</span></li>
+					<li><span data-link="https://buy-bitcoin.pro/karta-sayta/">Карта сайта</span></li>
+						</ul>
+				<div class="clear"></div>
+			</div>
+			<!-- /Меню -->
+			<div class="copy">Buy-bitcoin.pro – обмен валют онлайн &copy; 2019</div>
+			<!-- Адреса -->
+			<div class="addresses">
+				<div class="clear"></div>
+				<div class="address">
+					<p class="title">Москва</p>
+					<p><nobr>Пресненская наб. 12<br/>Башня Федерация Восток</nobr></p>
+					<p>
+						<a href="tel:+74993228302">+7 (499) <b>322-83-02</a></b>
+					</p>
+					<div class="btn callme">Перезвоните мне</div>
+				</div>
+<!-- Моб. приложения -->
+			<div class="mobileApp">
+				<div class="icon"><a href="https://play.google.com/store/apps/details?id=buy_bitcoin.pro" target="_blank"><img src="/wp-content/themes/buybitcoins/img/google-play-badge.png" alt="" /></a></div>
+				<div class="clear"></div>
+			</div>
+<!-- /Моб. приложения -->
+					</div>
+			<!-- /Адреса -->
+			<!-- Контакты -->
+			<div class="contacts">
+				<!-- Мессенджеры -->
+<!-- /Мессенджеры -->
+				<!-- Почта -->
+				<div class="email">
+					<div class="icon">
+						<img src="/wp-content/themes/buybitcoins/img/footer_icon_email.png" alt="" />
+					</div>
+					<a href="mailto:buybitcoins.pro@gmail.com">buybitcoins.pro@gmail.com</a>
+					<div class="clear"></div>
+				</div>
+				<!-- /Почта -->
+				<div class="clear"></div>
+			</div>
+			<!-- /Контакты -->
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<!-- /Подвал -->
+<!-- Моб. приложения -->
+<!-- /Моб. приложения -->
+<div class="clear"></div>
+<script type='text/javascript' src='https://buy-bitcoin.pro/wp-includes/js/wp-embed.min.js'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+			(function(){ var widget_id = 'IlVzek1QHn';var d=document;var w=window;function l(){
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+		</script>
+<!-- {/literal} END JIVOSITE CODE -->
+<script>
+            var triggersMap={'.xchange_submit_div [type="submit"]':'exchange','#check_rule_step_input':'apply','a.cancel_paybutton':'\u041E\u0442\u043C\u0435\u043D\u0430 \u043E\u0431\u043C\u0435\u043D\u0430','a.success_paybutton':'I_paid'};Object.keys(triggersMap).forEach(function(a){jQuery(document).on('click',a,function(b){console.log('clicked',a,location.href.replace(location.origin,''),{title:b.target.textContent||b.target.value||'',referer:localStorage.buyreferer}),yaCounter43071474.reachGoal(triggersMap[a]),yaCounter43071474.hit(location.href.replace(location.origin,''),{title:b.target.textContent||b.target.value||'',referer:localStorage.buyreferer}),localStorage.setItem('buyreferer',location.href)})});
+        </script>
+	<link rel="stylesheet" href="/wp-content/themes/buybitcoins/style.css?v=17122018" type="text/css" media="all" />
+	<link rel="stylesheet" href="/wp-content/themes/buybitcoins/inner.css?v=17122018" type="text/css" media="all" />
+	<link rel="stylesheet" href="/wp-content/themes/buybitcoins/modal.css?v=17122018" type="text/css" media="all" />
+</body>
+</html>

@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>Bitobmen.net - Обменник Биткоин</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://bitobmen.net/wp-content/themes/bitobmen/style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://bitobmen.net/wp-includes/css/dist/block-library/style.min.css?ver=5.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.2.0'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/premium/js/clipboard.min.js?ver=2.0.4'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=0.2'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/themes/bitobmen/js/jquery-select.js?ver=1.6'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/themes/bitobmen/js/jquery-table.js?ver=1.6'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/themes/bitobmen/js/jquery-checkbox.js?ver=1.6'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/themes/bitobmen/js/site.js?ver=1.6'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/html5-responsive-faq/js/hrf-script.js?ver=5.1'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/moduls/js_timer/js/jquery-timer.js?ver=1552903178'></script>
+<script type='text/javascript' src='https://bitobmen.net/wp-content/plugins/premiumbox/moduls/qr_adress/js/jquery-qrcode-0.14.0.min.js?ver=1552903178'></script>
+<script type='text/javascript' src='https://bitobmen.net/premiumjs.js?lang=ru&#038;ver=1552913978'></script>
+	<link rel="shortcut icon" href="/wp-content/uploads/favicon.png" type="image/png" />
+	<link rel="icon" href="/wp-content/uploads/favicon.png" type="image/png" />
+	<link rel='canonical' href='https://bitobmen.net/' />
+<meta name="keywords" content="Автоматический обменник, обмен валют, обменять биткоин,Яндекс деньги на Биткоин,Обмен Яндекс деньги на биткоин,Как обменять Яндекс деньги на биткоин," />
+<meta name="description" content="Купить биткоин за яндекс деньги, как купить биткоин за яндекс деньги, перфект мани на биткоин." />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://bitobmen.net/?rid=923" />
+<meta property="og:site_name" content="Bitobmen.net" />
+<meta property="og:description" content="Обменный пункт электронных валют" />
+<meta property="og:title" content="Bitobmen.net - Яндекс Деньги на Биткоин" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://bitobmen.net/wp-content/uploads/bg.jpg"); background-position: center center; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="icon" href="https://bitobmen.net/wp-content/uploads/cropped-logo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://bitobmen.net/wp-content/uploads/cropped-logo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://bitobmen.net/wp-content/uploads/cropped-logo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://bitobmen.net/wp-content/uploads/cropped-logo-270x270.jpg" />
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4 custom-background ">
+<div id="container">
+
+		
+	<div class="wclosearea  js_hnotice" id="hnotice_1">
+		<div class="wclosearea_ins">
+			<div class="wclosearea_hide js_hnotice_close"><div class="wclosearea_hide_ins"></div></div>
+			<div class="wclosearea_text">
+				<div class="wclosearea_text_ins">
+											<p>Оператор работает с 5:00 до 14:00 по МСК. Выходные &#8212; график свободный.</p>
+									</div>	
+			</div>
+		</div>
+	</div>
+		
+	<div class="wclosearea  js_hnotice" id="hnotice_2">
+		<div class="wclosearea_ins">
+			<div class="wclosearea_hide js_hnotice_close"><div class="wclosearea_hide_ins"></div></div>
+			<div class="wclosearea_text">
+				<div class="wclosearea_text_ins">
+											<p>Обмены проводятся автоматически и в любое время.</p>
+									</div>	
+			</div>
+		</div>
+	</div>
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://bitobmen.net/?rid=923" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://bitobmen.net/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+				<a href="https://bitobmen.net/en/?rid=923" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://bitobmen.net/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+					</div>
+					English
+				</a>
+			</div>
+		</div></div>			
+								
+				
+				
+				
+								
+				
+								
+									<div class="topbar_icon email">
+						<a href="mailto:&#98;i&#116;o&#98;men&#46;&#110;&#101;&#116;&#64;&#103;&#109;a&#105;l&#46;c&#111;m">&#98;&#105;&#116;obm&#101;n.&#110;e&#116;&#64;gma&#105;l.c&#111;m</a>
+					</div>		
+				
+								
+			
+									<a href="https://bitobmen.net/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://bitobmen.net/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://bitobmen.net">
+													
+															<img src="https://bitobmen.net/wp-content/uploads/logo.jpg" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://bitobmen.net/" aria-current="page"><span>Главная</span></a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://bitobmen.net/tos/"><span>Правила сайта</span></a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172"><a href="https://bitobmen.net/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="https://bitobmen.net/terms/"><span>Партнерам</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://bitobmen.net/feedback/"><span>Контакты</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+			
+		
+				<div class="homepage_wrap">
+
+		
+	<div class="xchange_table_wrap">
+		
+	<div class="xchange_type_table4">
+		<div class="xchange_type_table4_ins">	
+				<div class="xtt4_icon_wrap">
+					<div class="xtt4_left_col_icon">
+						<div class="tbl_icon xtt4_icon active js_icon_left js_icon_left_0" data-type="0"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>Все</div></div><div class="tbl_icon xtt4_icon js_icon_left js_icon_left_USD" data-type="USD" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>USD</div></div><div class="tbl_icon xtt4_icon js_icon_left js_icon_left_RUB" data-type="RUB" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>RUB</div></div><div class="tbl_icon xtt4_icon js_icon_left js_icon_left_BTC" data-type="BTC" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>BTC</div></div><div class="tbl_icon xtt4_icon js_icon_left js_icon_left_LTC" data-type="LTC" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>LTC</div></div><div class="tbl_icon xtt4_icon js_icon_left js_icon_left_ETH" data-type="ETH" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>ETH</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt4_right_col_icon">
+						<div class="tbl_icon xtt4_icon active js_icon_right js_icon_right_0" data-type="0"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>Все</div></div><div class="tbl_icon xtt4_icon js_icon_right js_icon_right_USD" data-type="USD" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>USD</div></div><div class="tbl_icon xtt4_icon js_icon_right js_icon_right_RUB" data-type="RUB" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>RUB</div></div><div class="tbl_icon xtt4_icon js_icon_right js_icon_right_BTC" data-type="BTC" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>BTC</div></div><div class="tbl_icon xtt4_icon js_icon_right js_icon_right_LTC" data-type="LTC" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>LTC</div></div><div class="tbl_icon xtt4_icon js_icon_right js_icon_right_ETH" data-type="ETH" style="display: none;"><div class="tbl_icon_ins xtt4_icon_ins"><div class="tbl_icon_abs xtt4_icon_abs"></div>ETH</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt4_table_wrap">
+				<div class="xtt4_table_title_wrap">
+					<div class="xtt4_left_col_title">
+						<div class="xtt4_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt4_right_col_title">
+						<div class="xtt4_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt4_table_title3">
+							<span>Курс</span>
+						</div>						
+						<div class="xtt4_table_title4">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt4_table_body_wrap">
+					<div class="xtt4_html_abs"></div>
+						<div class="xtt4_left_col_table">
+									<!-- one item -->
+									<div class="js_item_left js_item_left_BTC  " data-id="12" data-type="BTC">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													BitCoin BTC
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_LTC  " data-id="32" data-type="LTC">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													LiteCoin LTC
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_ETH  " data-id="41" data-type="ETH">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/ether.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Ethereum ETH
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="14" data-type="USD">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Exmo USD
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="15" data-type="RUB">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Exmo RUB
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="1" data-type="USD">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Perfect Money USD
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="10" data-type="USD">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													ADVCash USD
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="11" data-type="RUB">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													ADVCash RUB
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="29" data-type="USD">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Payeer USD
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="31" data-type="RUB">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Payeer RUB
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="6" data-type="RUB">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Яндекс.Деньги RUB
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="26" data-type="RUB">
+										<div class="xtt4_one_line_left">
+									<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+											<div class="xtt4_one_line_ico_left"> 
+												<div class="xtt4_change_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Cash-RUB-1.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt4_one_line_name_left">
+												<div class="xtt4_one_line_name">
+													Наличные RUB
+												</div>
+											</div>
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+						</div>		
+						<div class="xtt4_right_col_table">
+						
+								<div id="xtt4_right_col_html"></div>
+								
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div>	</div>
+
+		
+	
+			
+	
+		
+	
+	
+		
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											BitCoin BTC										</div>
+										<div class="one_home_reserv_sum">
+											1.76734008										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											LiteCoin LTC										</div>
+										<div class="one_home_reserv_sum">
+											131.64434629										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/ether.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ethereum ETH										</div>
+										<div class="one_home_reserv_sum">
+											1.12611482										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Exmo USD										</div>
+										<div class="one_home_reserv_sum">
+											2252.4789										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Exmo RUB										</div>
+										<div class="one_home_reserv_sum">
+											36186.0383										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Perfect Money USD										</div>
+										<div class="one_home_reserv_sum">
+											153.1088										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											ADVCash USD										</div>
+										<div class="one_home_reserv_sum">
+											230.3525										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											ADVCash RUB										</div>
+										<div class="one_home_reserv_sum">
+											30250.4236										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer USD										</div>
+										<div class="one_home_reserv_sum">
+											1.0949										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer RUB										</div>
+										<div class="one_home_reserv_sum">
+											324833.6808										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Яндекс.Деньги RUB										</div>
+										<div class="one_home_reserv_sum">
+											194.1441										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://bitobmen.net/wp-content/uploads/Cash-RUB-1.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Наличные RUB										</div>
+										<div class="one_home_reserv_sum">
+											1000000										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>														
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins">
+			<div class="home_partner_block">
+				<div class="home_partner_title">Партнеры</div>
+
+										<div class="home_partner_one">
+							<a href="#" target="_blank">								<img src="/wp-content/uploads/bitcoin-bottom.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://perfectmoney.is/?ref=8645022" target="_blank">								<img src="/wp-content/uploads/pm-bottom.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://wallet.advcash.com/referral/74dbffec-0996-4ee7-8721-fcf6de5273a0" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/advcash-105x31.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.okchanger.ru/?a=102783" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/okchanger.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://kurs.expert/4718" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/buttonY.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://bestexchangers.ru" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/88x31-3.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://exmo.com/?ref=291066" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/affiliate3-ru.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://exchangers.io/ru/obmennik-valjut/bitobmen" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/button88x31dark.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://cryptobrokers.ru" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/88x31.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.bestchange.ru/?p=771737" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/bestchange.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://payeer.com/04274868" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/payeer.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://exchangesumo.com" target="_blank">								<img src="https://bitobmen.net/wp-content/uploads/exsumo.png" alt="" />
+							</a>						</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>Сервис обмена электронных валют.</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://bitobmen.net/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://bitobmen.net/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="https://bitobmen.net/tos/"><span>Правила сайта</span></a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-custom menu-item-object-custom  last_menu_li menu-item-212"><a href="https://www.privateinternetaccess.com/pages/bitcoin-vpn/bitobmen"><span>Bitcoin VPN</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="http://vk.com/share.php?url=https%3A%2F%2Fbitobmen.net%2F%3Frid%3D923" class="social_link" target="_blank" rel="nofollow"><img src="https://bitobmen.net/wp-content/themes/bitobmen/images/vk-ico.png" alt="" /></a>
+													<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbitobmen.net%2F%3Frid%3D923" class="social_link" target="_blank" rel="nofollow"><img src="https://bitobmen.net/wp-content/themes/bitobmen/images/fb-ico.png" alt="" /></a>
+													<a href="https://plus.google.com/share?url=https%3A%2F%2Fbitobmen.net%2F%3Frid%3D923" class="social_link" target="_blank" rel="nofollow"><img src="https://bitobmen.net/wp-content/themes/bitobmen/images/gp-ico.png" alt="" /></a>
+													<a href="http://twitter.com/share?url=https%3A%2F%2Fbitobmen.net%2F%3Frid%3D923" class="social_link" target="_blank" rel="nofollow"><img src="https://bitobmen.net/wp-content/themes/bitobmen/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://bitobmen.net/ajax-set_site_vers.html?meth=get&yid=1a84d60ccb56&ynd=0&lang=ru&set=mobile&return_url=%2F%3Frid%3D923">Мобильная версия</a></div>
+							</div>
+			
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p>Работаем в автоматическом режиме.</p>
+				</div>
+								
+			
+			</div>	
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+<style type="text/css">
+            h2.frq-main-title{
+               font-size: 18px;
+            }
+            .hrf-entry{
+               border:none !important;
+               margin-bottom: 0px !important;
+               padding-bottom: 0px !important;
+            }
+            .hrf-content{
+               display:none;
+               color: #444444;
+               background: #f7f7f7;
+               font-size: 14px;
+               padding: 10px;
+               padding-left: 50px;
+               word-break: normal;
+            }
+            h3.hrf-title{
+               font-size: 16px ;
+               color: #3166b5;
+               background: #ffffff;
+               padding: 10px ;
+               padding-left: 50px;
+               margin: 0;
+               -webkit-touch-callout: none;
+               -webkit-user-select: none;
+               -khtml-user-select: none;
+               -moz-user-select: none;
+               -ms-user-select: none;
+               user-select: none;
+               outline-style:none;
+            }
+            .hrf-title.close-faq{
+               cursor: pointer;
+            }
+            .hrf-title.close-faq span{
+               width: 30px;
+               height: 30px;
+               display: inline-block;
+               position: relative;
+               left: 0;
+               top: 8px;
+               margin-right: 12px;
+               margin-left: -42px;
+               background: #3166b5 url(https://bitobmen.net/wp-content/plugins/html5-responsive-faq/images/open.png) no-repeat center center;
+            }
+            }.hrf-title.open-faq{
+            
+            }
+            .hrf-title.open-faq span{
+               width: 30px;
+               height: 30px;
+               display: inline-block;
+               position: relative;
+               left: 0;
+               top: 8px;
+               margin-right: 12px;
+               margin-left: -42px;
+               background: #3166b5 url(https://bitobmen.net/wp-content/plugins/html5-responsive-faq/images/close.png) no-repeat center center;
+            }
+            .hrf-entry p{
+            
+            }
+            .hrf-entry ul{
+            
+            }
+            .hrf-entry ul li{
+            
+            }</style>	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D923';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://bitobmen.net/ajax-globalajax_wp_check.html?meth=post&yid=1a84d60ccb56&ynd=0&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+									}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+
+		<div class="loginform_box_html" style="display: none;">
+			<div class="resultgo"></div>		
+			
+				<div class="form_field_line rb_line type_input field_name_logmail has_title"><div class="form_field_label rb_label"><label for="form_field_id-1-logmail"><span class="form_field_label_ins">Логин или e-mail <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-logmail" class="rb_input "  placeholder=""  name="logmail" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_password field_name_pass has_title"><div class="form_field_label rb_label"><label for="form_field_id-1-pass"><span class="form_field_label_ins">Пароль <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="password" id="form_field_id-1-pass" class="rb_input "  placeholder=""  name="pass" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+					
+			<div class="rb_line"><input type="submit" formtarget="_top" name="submit" class="rb_submit" value="Войти" /></div>
+		</div>
+		<form method="post" class="ajax_post_form" action="https://bitobmen.net/ajax-loginform.html?meth=post&yid=1a84d60ccb56&ynd=0&lang=ru">
+			<div class="loginform_box"></div>
+		</form>
+		
+		<div class="registerform_box_html" style="display: none;">
+			<div class="resultgo"></div>		
+			
+				<div class="form_field_line rb_line type_input field_name_login has_title"><div class="form_field_label rb_label"><label for="form_field_id-2-login"><span class="form_field_label_ins">Логин <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-2-login" class="rb_input "  placeholder=""  name="login" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input field_name_email has_title"><div class="form_field_label rb_label"><label for="form_field_id-2-email"><span class="form_field_label_ins">E-mail <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-2-email" class="rb_input "  placeholder=""  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_password field_name_pass has_title"><div class="form_field_label rb_label"><label for="form_field_id-2-pass"><span class="form_field_label_ins">Пароль <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="password" id="form_field_id-2-pass" class="rb_input "  placeholder=""  name="pass" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_password field_name_pass2 has_title"><div class="form_field_label rb_label"><label for="form_field_id-2-pass2"><span class="form_field_label_ins">Пароль снова <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="password" id="form_field_id-2-pass2" class="rb_input "  placeholder=""  name="pass2" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+			<div class="captcha_sci_div">
+				<div class="captcha_sci_title">
+					Кликните логотип Instagram
+				</div>
+				<div class="captcha_sci_body">
+					<input type="hidden" class="captcha_sci_hidden" name="captcha_sci" value="" />
+					
+					<div class="captcha_sci_img captcha_sci_img1">
+						<img src="https://bitobmen.net/wp-content/uploads/twitter.png" class="sci_img1" data-id="cpVplXl42zS48t3xtT186pCIP0vsFp3tHa7" alt="" />
+					</div>
+					<div class="captcha_sci_img captcha_sci_img2">
+						<img src="https://bitobmen.net/wp-content/uploads/skype.png" class="sci_img2" data-id="VZalQGHFfqEO50QERBYt0EKF0tGjODIG9dS" alt="" />
+					</div>
+					<div class="captcha_sci_img captcha_sci_img3">
+						<img src="https://bitobmen.net/wp-content/uploads/instagram.png" class="sci_img3" data-id="SgCdUzGaD7ZQdzAc5exkSh9p6JocXMWnfzN" alt="" />
+					</div>					
+						<div class="clear"></div>
+				</div>
+				<div class="captcha_sci_div_change">
+					<a href="#" class="captcha_sci_reload">заменить задачу</a>
+				</div>
+			</div>	
+			
+			<div class="rb_line"><label><input type="checkbox" name="rcheck" value="1" /> С <a href="https://bitobmen.net/tos/" target="_blank">правилами сервиса</a> ознакомлен и согласен</label></div>
+			<div class="rb_line"><input type="submit" formtarget="_top" name="submit" class="rb_submit" value="Регистрация" /></div>
+		</div>
+		<form method="post" class="ajax_post_form" action="https://bitobmen.net/ajax-registerform.html?meth=post&yid=1a84d60ccb56&ynd=0&lang=ru">
+			<div class="registerform_box"></div>
+		</form>
+		<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter43257189 = new Ya.Metrika({
+                    id:43257189,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/43257189" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><!--Embed from Zendesk Chat Chat Wordpress Plugin v1.4.14-->
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+      _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+      $.src='//v2.zopim.com/?4eIvuVhpjQUdF7VupWrVLblh1p8XlooK';z.t=+new Date;$.
+      type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+      </script><script>$zopim( function() {
+})</script><!--End of Zendesk Chat Script--><script type='text/javascript' src='https://bitobmen.net/wp-includes/js/wp-embed.min.js?ver=5.1'></script>
+
+</body>
+</html>

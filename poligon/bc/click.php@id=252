@@ -1,0 +1,781 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link href="/res/css/style.css?v=36" rel="stylesheet" type="text/css">
+<link rel="icon" href="https://vipchanger.com/favicon.ico" />
+<link rel="shortcut icon" href="https://vipchanger.com/favicon.ico" />
+<script src="/res/js/jquery-1.8.1.min.js"></script>
+<meta charset="utf-8">
+<meta name="keywords" content="Обменять Сбербанк на баты, обмен рублей на баты, обмен бат на рубль, перевести деньги из России в Таиланд, отправить деньги из Таиланда в Россию, перевести деньги из Украины в Таиланд Россию, обменять webmoney в Таиланде, обменять яндекс в Таиланде, обменять киви в Таиланде." />
+<meta name="description" content="Быстрые переводы денег между Таиландом, Россией, Украиной. Тайский Бат, Рубль, Гривна. Быстрый обмен Webmoney (WMZ, WMR), QIWI, Яндекс в Таиланде, России, Украине." />
+<title>VIPchanger.com - обмен Webmoney, QIWI, Яндекс, Рубль, Бат, Гривна в Таиланде, России, Украине.</title>
+
+<!-- <script type="text/javascript" src="//vk.com/js/api/openapi.js?127"></script> -->
+<script type="text/javascript">
+  //VK.init({apiId: 5620591, onlyWidgets: true});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-99133176-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<style>
+.spoiler-title,.spoiler-title1,.spoiler-title2,.spoiler-title3{cursor:pointer;}
+</style>
+
+</head>
+<body>
+
+<!--header-->
+<div class="header" style="position:relative;">
+<!-- 	<div style="position:absolute;left:-3px;top:38px;width:75px;height:67px;background-image:url(/res/img/hat2.png);background-repeat:no-repeat;background-size:cover;"></div> -->
+
+  <div class="menu">
+    <ul>
+      <li class="home"><!--noindex--><a rel="nofollow" href="/"><img src="/res/images/ico_home_act.png" width="20" height="18" alt="home"></a><!--/noindex--></li>
+      <li><a href="/articles">База знаний</a></li>
+      <li><a href="/faq">Вопросы и ответы</a></li>
+      <li><a href="/responses">Отзывы</a></li>
+	  <li><a href="/discount_program">Скидки</a></li>
+      <li><a href="/partner">Партнёрская программа</a></li>
+      <li><a href="/regulations">Правила</a></li>
+      <li><a class="contact" href="/contacts">Контакты</a></li>
+    </ul>
+  </div>
+
+<script>
+$(document).ready(function () {
+	//$('.menu a').each(function () {
+	//	if ($(this).find('a[href="'+window.location.pathname+'"]').length>0) {$(this).addClass("act");}
+	//});
+	$('.menu a[href="'+window.location.pathname+'"]').addClass('act');
+});
+</script>
+
+  <div class="c right times">Пн-Вс: 08:00 - 01:00 Бангкок<br>Пн-Вс: 04:00 - 21:00 Москва<br>Пн-Вс: 03:00 - 20:00 Киев</div>
+  <div class="c right times">Таиланд: +6620260666<br>Россия: +78005112246<br>Украина: +380800211595</div>
+<!--  <div class="c right times"><img src="/res/img/skype.png" width="16" height="16" alt="skype" /> <a href="skype:vipchanger.com?chat"><img src="/res/img/sky.png" width="123" height="17" alt="mail" /></a><br>
+  <img src="/res/img/mail.png" width="189" height="17" alt="mail" />
+  </div> -->
+  <!--noindex--><a rel="nofollow" href="/" class="logo left"></a><!--/noindex-->
+  <div class="ssl left times">Защита пользователя во время проведения транзакций</div>
+  <div class="clr"></div>
+  <hr class="both">
+</div>
+<!--END header-->
+
+<!--Page-->
+<div class="page">
+  <!--Right sidebar-->
+  <div class="r_sidebar right">
+  
+    <!--block -->
+<div class="blue_title">Авторизация</div>
+<div class="bl">
+	<form class="login" action="/logon" method="post">
+		<label class="login_lb left">Логин</label><input class="login_inp" name="login" type="text" />
+		<div class="both"></div>
+		<label class="login_lb left">Пароль</label><input class="login_inp" name="password" type="password" />
+		<div class="both"></div>
+		<input type="hidden" name="url" value="/" />
+		<input class="login_bt right" type="submit" name="logon" value="Вход" /> 
+           
+		<div class="autlinks">
+        <a href="/registration">Регистрация</a><br />
+        <a href="/remember">Забыли пароль?</a>
+        </div>
+
+	  <div class="both"></div>     
+		
+		<div class="both"></div>  
+	</form>
+</div>
+
+    <!--END block -->
+
+
+    <!--block -->
+<!-- отключение блока-->
+<div class="gray_title">Опрос</div>
+<div id="poll_content" class="bl poll">
+
+<div style="position:relative;">
+<div id="poll_overlay" style="display:none;position:absolute;left:0;top:0;width:100%;height:100%;background:#efefef;">
+	<img style="position:relative;display:block;margin:-10px auto 0 auto;vertical-align:middle;top:50%;" src="/res/img/ajax-loader2.gif" />
+</div>
+
+<div class="t poll_t">Каким способом Вам удобнее оплачивать заявки картами РФ и Украины?</div>
+<form id="poll" action="/" method="post">
+<div class="poll_list">
+<div><input type="radio" name="answer" value="51" /><label for="answer">Переводом с карты на карту (через Сбербанк Онлайн, Альфа-клик, ВТБ-Онлайн и т.д.)</label></div>
+<div><input type="radio" name="answer" value="52" /><label for="answer">Через эквайринг. Приём платежей на нашем сайте <br>(как в интернет-магазинах)</label></div>
+<div><input type="radio" name="answer" value="53" /><label for="answer">Оба варианта</label></div>
+
+</div>
+
+<div class="both"></div>
+<a class="pollink" href="#" onclick="
+$.ajax({
+	type: 'POST',
+	url: '/ajax_loader',
+	data: 'mod=poll&result=1&question=12',
+	cache: false,
+	beforeSend: function(j, s){$('#poll_overlay').fadeIn();},
+	success: function(h){$('#poll_content').html(h);$('#poll_overlay').hide();},
+	error: function(j, t, e){}
+	});
+return false;
+">Посмотреть результаты</a>
+
+
+	<button class="right" onclick="
+v_answer=$(':radio[name=answer]').filter(':checked').val();
+if ( v_answer!=null ) {
+$.ajax({
+	type: 'POST',
+	url: '/ajax_loader',
+	data: 'mod=poll&vote=1&question=12&answer='+v_answer,
+	cache: false,
+	beforeSend: function(j, s){$('#poll_overlay').fadeIn();},
+	success: function(h){$('#poll_content').html(h);$('#poll_overlay').hide();},
+	error: function(j, t, e){}
+	});
+}
+return false;">Ответить</button>
+</form>
+  <div class="both"></div>
+</div>
+
+
+</div>
+ <!--отключение блока-->
+    <!--END block -->
+
+    <!--block -->
+<!--noindex-->
+<div class="gray_title">Отзывы</div>
+<div class="bl">
+    <div class="resdate">18 Марта 2019, 04:42:00</div>
+	<div class="t">Елена</div>
+	<div class="txt">Все быстро как всегда</div>
+</div>
+<div class="bl">
+    <div class="resdate">18 Марта 2019, 04:11:28</div>
+	<div class="t">Елена</div>
+	<div class="txt">Благодарю за быструю корректную работу </div>
+</div>
+<div class="bl">
+    <div class="resdate">17 Марта 2019, 19:05:23</div>
+	<div class="t">Vladimir</div>
+	<div class="txt">Как всегда  бвстро и точно </div>
+</div>
+<div class="bl">
+    <div class="resdate">17 Марта 2019, 17:25:59</div>
+	<div class="t">Данил</div>
+	<div class="txt">Спасибо! Все прошло!</div>
+</div>
+<div class="bl">
+    <div class="resdate">17 Марта 2019, 13:08:26</div>
+	<div class="t">Виталик</div>
+	<div class="txt">Отлично работает!!</div>
+</div>
+
+<div class="bl poll"><a rel="nofollow" class="more_txt" href="/responses">Все отзывы</a>
+  <div class="both"></div>
+</div>
+<!--/noindex-->
+    <!--END block -->
+
+    <!--block -->
+<!-- отключение блока
+<div class="gray_title">Бонус</div>
+<div id="bonus_content" class="bl bonus">
+<div style="position:relative;">
+<div id="bonus_overlay" style="display:none;position:absolute;left:0;top:0;width:100%;height:100%;background:#efefef;">
+	<img style="position:relative;display:block;margin:-10px auto 0 auto;vertical-align:middle;top:50%;" src="/res/img/ajax-loader2.gif" />
+</div>
+
+<div class="txt poll_t">
+Вы можете получить подарочный бонус в размере <b>0.05 WMR</b> на свой кошелек <br>(не более одного раза в сутки). 
+</div>
+
+<form action="" method="post">
+
+	<ul id="form_err" style="display:none;color:#ff0000;"><b>Обнаружены следующие ошибки заполнения формы:</b>
+		<li id="antibot_err" style="display:none;color:#ff0000;">не правильно введён защитный код.</li>
+		<li id="purse_err" style="display:none;color:#ff0000;">не введён кошелёк для получения бонуса.</li>
+		<li id="purse_err2" style="display:none;color:#ff0000;">неверный кошелёк: для данной операции необходим {purse_char}-кошелёк.</li>
+		<li id="purse_err3" style="display:none;color:#ff0000;">введён не существующий кошелёк.</li>
+	</ul>
+
+	<div class="{name_cls} alingcenter">
+		<label>Кошелёк</label>
+		<input type="text" id="purse" name="purse" value="" class="bonus_inp" />
+	</div>
+
+	<div class="{antibot_cls} alingcenter">
+	   <label>Код</label>
+		 <input type="text" id="antibot" name="antibot" value="" class="bonus_inp" />
+	</div>
+    <div class="both"></div>
+    
+	<div class="alingcenter ots">
+		<a title="Нажмите чтобы обновить код" onclick="$('#bonus_ab_img').attr('src', '/res/php/antibot2.php?nc='+Math.random());return false;" href="#">
+			<img id="bonus_ab_img" width="150" height="30" src="/res/php/antibot2.php" alt="Проверочный код" />
+		</a>
+	</div>
+
+	<input type="submit" name="step2" value="Получить бонус" class="alingcenter" onclick="
+$.ajax({
+	type: 'POST',
+	url: '/ajax_loader',
+	data: 'mod=bonus&get=WMR&purse='+$('#purse').val()+'&antibot='+$('#antibot').val(),
+	cache: false,
+	beforeSend: function(j, s){$('#bonus_overlay').fadeIn();},
+	success: function(h){$('#bonus_content').html(h);$('#bonus_overlay').hide();}
+	});return false;"/>
+
+</form>
+<div class="txt poll_t">
+</div>
+</div>
+</div>
+ отключение блока-->
+    <!--END block -->   
+
+  </div>
+  <!--END Right sidebar-->
+  
+  <!--Left sidebar-->
+  <div class="l_sidebar left">
+    <!--block -->
+
+<div class="gray_title">Резервы обмена</div><div class="bl">	<table class="table_obmen"><tr>
+	<td class="tticon"><img src="/res/images/icon_WMR.png" width="16" height="16" alt="WMR"></td>
+	<td>WMR</td>
+	<td>:</td>
+	<td class="green">41257</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_WMZ.png" width="16" height="16" alt="WMZ"></td>
+	<td>WMZ</td>
+	<td>:</td>
+	<td class="green">270</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_WMU.png" width="16" height="16" alt="WMU"></td>
+	<td>WMU</td>
+	<td>:</td>
+	<td class="green">47477</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_QWRUB.png" width="16" height="16" alt="QWRUB"></td>
+	<td>QIWI</td>
+	<td>:</td>
+	<td class="green">51894</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_YAMRUB.png" width="16" height="16" alt="YAMRUB"></td>
+	<td>Яндекс.Деньги</td>
+	<td>:</td>
+	<td class="green">288775</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_THB.png" width="16" height="16" alt="THB"></td>
+	<td>Бат</td>
+	<td>:</td>
+	<td class="green">1590606</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_ACRUB.png" width="16" height="16" alt="ACRUB"></td>
+	<td>Альфабанк</td>
+	<td>:</td>
+	<td class="green">12459</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_VTB24RUB.png" width="16" height="16" alt="VTB24RUB"></td>
+	<td>ВТБ</td>
+	<td>:</td>
+	<td class="green">14990</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_SBERRUB.png" width="16" height="16" alt="SBERRUB"></td>
+	<td>Сбербанк</td>
+	<td>:</td>
+	<td class="green">172272</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_TCSBRUB.png" width="16" height="16" alt="TCSBRUB"></td>
+	<td>Тинькофф</td>
+	<td>:</td>
+	<td class="green">42083</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_CARDRUB.png" width="16" height="16" alt="CARDRUB"></td>
+	<td>Visa/MC Руб</td>
+	<td>:</td>
+	<td class="green">0</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_P24UAH.png" width="16" height="16" alt="P24UAH"></td>
+	<td>ПриватБанк</td>
+	<td>:</td>
+	<td class="green">356764</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_CARDUAH.png" width="16" height="16" alt="CARDUAH"></td>
+	<td>Visa/MC UAH</td>
+	<td>:</td>
+	<td class="green">3170</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_CARDKZT.png" width="16" height="16" alt="CARDKZT"></td>
+	<td>Visa/MC KZT</td>
+	<td>:</td>
+	<td class="green">933787</td>
+</tr>
+<tr>
+	<td class="tticon"><img src="/res/images/icon_CASHRUB.png" width="16" height="16" alt="CASHRUB"></td>
+	<td>Наличные RUB</td>
+	<td>:</td>
+	<td class="green">0</td>
+</tr>
+	</table></div>
+
+    <!--END block -->
+    
+        <!--block -->
+<div class="gray_title">Курсы валют</div><div class="bl">	<table class="table_obmen" width="100%" border="0" cellspacing="2" cellpadding="0"><tr>	<td>1 </td>	<td><img src="/res/images/icon_SBERRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">0.473</td></tr><tr>	<td>1 </td>	<td><img src="/res/images/icon_CASHRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">0.47</td></tr><tr>	<td>1 </td>	<td><img src="/res/images/icon_WMR.png" width="16" height="16" alt=""></td>	<td>WMR</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">0.47</td></tr><tr>	<td>1 </td>	<td><img src="/res/images/icon_QWRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">0.46</td></tr><tr>	<td>1 </td>	<td><img src="/res/images/icon_YAMRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">0.45</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_TCSBRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td>:</td>	<td class="green">0.499</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_CASHRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td>:</td>	<td class="green">0.502</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_WMR.png" width="16" height="16" alt=""></td>	<td>WMR</td>	<td>:</td>	<td class="green">0.502</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_QWRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td>:</td>	<td class="green">0.499</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_YAMRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td>:</td>	<td class="green">0.495</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_WMZ.png" width="16" height="16" alt=""></td>	<td>WMZ</td>	<td>:</td>	<td class="green">32.65</td></tr><tr>	<td>1 </td>	<td><img src="/res/images/icon_WMZ.png" width="16" height="16" alt=""></td>	<td>WMZ</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">30.65</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_SBERRUB.png" width="16" height="16" alt=""></td>	<td>Руб</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_P24UAH.png" width="16" height="16" alt=""></td>	<td>Грн</td>	<td>:</td>	<td class="green">2.5999</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_P24UAH.png" width="16" height="16" alt=""></td>	<td>Грн</td>	<td>:</td>	<td class="green">1.239</td></tr><tr>	<td>1 </td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td></td>	<td><img src="/res/images/icon_CARDKZT.png" width="16" height="16" alt=""></td>	<td>Тенге</td>	<td>:</td>	<td class="green">11.7</td></tr><tr>	<td></td>	<td><img src="/res/images/icon_CARDKZT.png" width="16" height="16" alt=""></td>	<td>Тенге</td>	<td><img src="/res/images/obmen_arr.png" width="13" height="10" alt="arr"></td>	<td>1 </td>	<td><img src="/res/images/icon_THB.png" width="16" height="16" alt=""></td>	<td>Бат</td>	<td>:</td>	<td class="green">12.85</td></tr>	</table></div>
+    <!--END block -->
+    
+    <!--block -->
+<!--/noindex-->
+<div class="gray_title">Новости</div>
+
+	<div class="news">
+<div class="bl">
+  <div class="date">20 Января 2019</div>
+  <div class="t"><a href="/news/2019.01.20_p24_visakzt_Kazakhstan">Запущены переводы с карт/на карты Казахстана</a></div>
+  <div class="txt"></div>
+</div>
+<div class="bl">
+  <div class="date">15 Января 2019</div>
+  <div class="t"><a href="/news/2019.01.15_p24_visauah_manual">Выплаты на приват24 и Visa/MC UAH временно выполняются в ручном режиме</a></div>
+  <div class="txt"></div>
+</div>
+<div class="bl">
+  <div class="date">15 Января 2019</div>
+  <div class="t"><a href="/news/2019.01.15_thb_timeout">Задержки при выплатах тайских бат (Задержки устранены)</a></div>
+  <div class="txt"></div>
+</div>
+<div class="bl">
+  <div class="date">10 Января 2019</div>
+  <div class="t"><a href="/news/2019.01.10_payments_from_alfabank">Приём платежей с карт Альфабанка России приостановлен (новость не актуальна)</a></div>
+  <div class="txt"></div>
+</div>
+
+	</div>
+
+    
+     <div class="bl poll"><a rel="nofollow" class="more_txt" href="/news">Все новости</a>
+     <div class="both"></div>
+     </div>
+<!--/noindex-->
+     
+    <!--END block -->
+    
+  </div>
+  <!--END Left sidebar-->
+  
+  <!--Content-->
+  <div class="content left">
+
+<ul class="w-currency-title">
+	<li class="w-give">Отдаете</li>
+	<li class="w-get">Получаете</li>
+	<li class="w-reserve">Резерв</li>
+</ul>
+<form id="calc" action="/res/php/redir.php" method="post">
+	<div class="w-currency">
+		<ul class="w-give">
+<li id="i_WMR"><span><em class="exchange-WMR">1.00</em>WMR</span></li>
+<li id="i_WMZ"><span><em class="exchange-WMZ">1.00</em>WMZ</span></li>
+<li id="i_QWRUB"><span><em class="exchange-QWRUB">1.00</em>QIWI</span></li>
+<li id="i_YAMRUB"><span><em class="exchange-YAMRUB">1.00</em>Яндекс.Деньги</span></li>
+<li id="i_THB"><span><em class="exchange-THB">1.00</em>Бат</span></li>
+<li id="i_ACRUB"><span><em class="exchange-ACRUB">1.00</em>Альфабанк</span></li>
+<li id="i_VTB24RUB"><span><em class="exchange-VTB24RUB">1.00</em>ВТБ</span></li>
+<li id="i_SBERRUB"><span><em class="exchange-SBERRUB">1.00</em>Сбербанк</span></li>
+<li id="i_TCSBRUB"><span><em class="exchange-TCSBRUB">1.00</em>Тинькофф</span></li>
+<li id="i_CARDRUB"><span><em class="exchange-CARDRUB">1.00</em>Visa/MC Руб</span></li>
+<li id="i_P24UAH"><span><em class="exchange-P24UAH">1.00</em>ПриватБанк</span></li>
+<li id="i_CARDUAH"><span><em class="exchange-CARDUAH">1.00</em>Visa/MC UAH</span></li>
+<li id="i_CARDKZT"><span><em class="exchange-CARDKZT">1.00</em>Visa/MC KZT</span></li>
+<li id="i_CASHRUB"><span><em class="exchange-CASHRUB">1.00</em>Наличные RUB</span></li>
+
+		</ul>
+<ul id="u_WMR" class="w-get">
+<li><a href="/exchange_WMR_to_QWRUB"><em class="exchange-QWRUB">0.99</em>QIWI<span>51894 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_YAMRUB"><em class="exchange-YAMRUB">1</em>Яндекс.Деньги<span>288775 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_THB"><em class="exchange-THB">0.47</em>Бат<span>1590606 Бат</span></a></li>
+<li><a href="/exchange_WMR_to_ACRUB"><em class="exchange-ACRUB">0.9667</em>Альфабанк<span>12459 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_VTB24RUB"><em class="exchange-VTB24RUB">0.9667</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_SBERRUB"><em class="exchange-SBERRUB">0.9623</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_TCSBRUB"><em class="exchange-TCSBRUB">0.9651</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_CARDRUB"><em class="exchange-CARDRUB">0.962</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_WMR_to_P24UAH"><em class="exchange-P24UAH">0.375</em>ПриватБанк<span>356764 Грн</span></a></li>
+<li><a href="/exchange_WMR_to_CARDUAH"><em class="exchange-CARDUAH">0.3746</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_WMR_to_CARDKZT"><em class="exchange-CARDKZT">5.32</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+<li><a href="/exchange_WMR_to_CASHRUB"><em class="exchange-CASHRUB">0.9662</em>Наличные RUB<span>0 Руб</span></a></li>
+
+</ul>
+<ul id="u_WMZ" class="w-get">
+<li><a href="/exchange_WMZ_to_QWRUB"><em class="exchange-QWRUB">64.6498</em>QIWI<span>51894 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_YAMRUB"><em class="exchange-YAMRUB">65.5004</em>Яндекс.Деньги<span>288775 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_THB"><em class="exchange-THB">30.65</em>Бат<span>1590606 Бат</span></a></li>
+<li><a href="/exchange_WMZ_to_ACRUB"><em class="exchange-ACRUB">64.7102</em>Альфабанк<span>12459 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_VTB24RUB"><em class="exchange-VTB24RUB">64.7102</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_SBERRUB"><em class="exchange-SBERRUB">65.0002</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_TCSBRUB"><em class="exchange-TCSBRUB">64.7102</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_CARDRUB"><em class="exchange-CARDRUB">64.7003</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_WMZ_to_P24UAH"><em class="exchange-P24UAH">24</em>ПриватБанк<span>356764 Грн</span></a></li>
+<li><a href="/exchange_WMZ_to_CARDUAH"><em class="exchange-CARDUAH">24.9782</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_WMZ_to_CARDKZT"><em class="exchange-CARDKZT">363.1</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+<li><a href="/exchange_WMZ_to_CASHRUB"><em class="exchange-CASHRUB">63.5</em>Наличные RUB<span>0 Руб</span></a></li>
+
+</ul>
+<ul id="u_QWRUB" class="w-get">
+<li><a href="/exchange_QWRUB_to_WMR"><em class="exchange-WMR">0.9488</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_QWRUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_QWRUB_to_THB"><em class="exchange-THB">0.46</em>Бат<span>45987 Бат</span></a></li>
+<li><a href="/exchange_QWRUB_to_P24UAH"><em class="exchange-P24UAH">0.3745</em>ПриватБанк<span>37443 Грн</span></a></li>
+<li><a href="/exchange_QWRUB_to_CARDUAH"><em class="exchange-CARDUAH">0.3697</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+
+</ul>
+<ul id="u_YAMRUB" class="w-get">
+<li><a href="/exchange_YAMRUB_to_WMR"><em class="exchange-WMR">0.9479</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_YAMRUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_YAMRUB_to_QWRUB"><em class="exchange-QWRUB">0.973</em>QIWI<span>51894 Руб</span></a></li>
+<li><a href="/exchange_YAMRUB_to_THB"><em class="exchange-THB">0.45</em>Бат<span>220498 Бат</span></a></li>
+<li><a href="/exchange_YAMRUB_to_ACRUB"><em class="exchange-ACRUB">0.957</em>Альфабанк<span>12459 Руб</span></a></li>
+<li><a href="/exchange_YAMRUB_to_VTB24RUB"><em class="exchange-VTB24RUB">0.957</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_YAMRUB_to_SBERRUB"><em class="exchange-SBERRUB">0.957</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_YAMRUB_to_TCSBRUB"><em class="exchange-TCSBRUB">0.957</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_YAMRUB_to_CARDRUB"><em class="exchange-CARDRUB">0.957</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_YAMRUB_to_P24UAH"><em class="exchange-P24UAH">0.3771</em>ПриватБанк<span>184754 Грн</span></a></li>
+<li><a href="/exchange_YAMRUB_to_CARDUAH"><em class="exchange-CARDUAH">0.3731</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_YAMRUB_to_CARDKZT"><em class="exchange-CARDKZT">5.325</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+
+</ul>
+<ul id="u_THB" class="w-get">
+<li><a href="/exchange_THB_to_WMR"><em class="exchange-WMR">1.992</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_THB_to_WMZ"><em class="exchange-WMZ">0.0306</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_THB_to_WMU"><em class="exchange-WMU">0.8065</em>WMU<span>47477 WMU</span></a></li>
+<li><a href="/exchange_THB_to_QWRUB"><em class="exchange-QWRUB">2.004</em>QIWI<span>51894 Руб</span></a></li>
+<li><a href="/exchange_THB_to_YAMRUB"><em class="exchange-YAMRUB">2.0202</em>Яндекс.Деньги<span>288775 Руб</span></a></li>
+<li><a href="/exchange_THB_to_ACRUB"><em class="exchange-ACRUB">1.9841</em>Альфабанк<span>12459 Руб</span></a></li>
+<li><a href="/exchange_THB_to_VTB24RUB"><em class="exchange-VTB24RUB">1.9841</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_THB_to_SBERRUB"><em class="exchange-SBERRUB">1.9841</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_THB_to_TCSBRUB"><em class="exchange-TCSBRUB">2.004</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_THB_to_CARDRUB"><em class="exchange-CARDRUB">1.9841</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_THB_to_P24UAH"><em class="exchange-P24UAH">0.8071</em>ПриватБанк<span>356764 Грн</span></a></li>
+<li><a href="/exchange_THB_to_CARDUAH"><em class="exchange-CARDUAH">0.8071</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_THB_to_CARDKZT"><em class="exchange-CARDKZT">11.7</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+<li><a href="/exchange_THB_to_CASHRUB"><em class="exchange-CASHRUB">1.992</em>Наличные RUB<span>0 Руб</span></a></li>
+
+</ul>
+<ul id="u_ACRUB" class="w-get">
+<li><a href="/exchange_ACRUB_to_WMR"><em class="exchange-WMR">0.948</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_ACRUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_ACRUB_to_THB"><em class="exchange-THB">0.473</em>Бат<span>230606 Бат</span></a></li>
+<li><a href="/exchange_ACRUB_to_P24UAH"><em class="exchange-P24UAH">0.385</em>ПриватБанк<span>187688 Грн</span></a></li>
+
+</ul>
+<ul id="u_VTB24RUB" class="w-get">
+<li><a href="/exchange_VTB24RUB_to_WMR"><em class="exchange-WMR">0.948</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_VTB24RUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_VTB24RUB_to_THB"><em class="exchange-THB">0.473</em>Бат<span>1590606 Бат</span></a></li>
+<li><a href="/exchange_VTB24RUB_to_P24UAH"><em class="exchange-P24UAH">0.3572</em>ПриватБанк<span>356764 Грн</span></a></li>
+<li><a href="/exchange_VTB24RUB_to_CARDUAH"><em class="exchange-CARDUAH">0.3572</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_VTB24RUB_to_CARDKZT"><em class="exchange-CARDKZT">5.45</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+
+</ul>
+<ul id="u_SBERRUB" class="w-get">
+<li><a href="/exchange_SBERRUB_to_WMR"><em class="exchange-WMR">0.948</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_SBERRUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_SBERRUB_to_THB"><em class="exchange-THB">0.473</em>Бат<span>833819 Бат</span></a></li>
+<li><a href="/exchange_SBERRUB_to_P24UAH"><em class="exchange-P24UAH">0.3846</em>ПриватБанк<span>356764 Грн</span></a></li>
+<li><a href="/exchange_SBERRUB_to_CARDUAH"><em class="exchange-CARDUAH">0.369</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_SBERRUB_to_CARDKZT"><em class="exchange-CARDKZT">5.45</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+
+</ul>
+<ul id="u_TCSBRUB" class="w-get">
+<li><a href="/exchange_TCSBRUB_to_WMR"><em class="exchange-WMR">0.948</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_TCSBRUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_TCSBRUB_to_THB"><em class="exchange-THB">0.47</em>Бат<span>323320 Бат</span></a></li>
+<li><a href="/exchange_TCSBRUB_to_P24UAH"><em class="exchange-P24UAH">0.382</em>ПриватБанк<span>262753 Грн</span></a></li>
+<li><a href="/exchange_TCSBRUB_to_CARDUAH"><em class="exchange-CARDUAH">0.3572</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_TCSBRUB_to_CARDKZT"><em class="exchange-CARDKZT">5.45</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+
+</ul>
+<ul id="u_CARDRUB" class="w-get">
+<li><a href="/exchange_CARDRUB_to_WMR"><em class="exchange-WMR">0.948</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_CARDRUB_to_WMZ"><em class="exchange-WMZ">0.0137</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_CARDRUB_to_THB"><em class="exchange-THB">0.47</em>Бат<span>70500 Бат</span></a></li>
+<li><a href="/exchange_CARDRUB_to_P24UAH"><em class="exchange-P24UAH">0.3861</em>ПриватБанк<span>57915 Грн</span></a></li>
+<li><a href="/exchange_CARDRUB_to_CARDUAH"><em class="exchange-CARDUAH">0.3597</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+<li><a href="/exchange_CARDRUB_to_CARDKZT"><em class="exchange-CARDKZT">5.45</em>Visa/MC KZT<span>817500 Тенге</span></a></li>
+
+</ul>
+<ul id="u_P24UAH" class="w-get">
+<li><a href="/exchange_P24UAH_to_WMR"><em class="exchange-WMR">2.44</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_P24UAH_to_WMZ"><em class="exchange-WMZ">0.0333</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_P24UAH_to_WMU"><em class="exchange-WMU">1.0844</em>WMU<span>47477 WMU</span></a></li>
+<li><a href="/exchange_P24UAH_to_QWRUB"><em class="exchange-QWRUB">2.3101</em>QIWI<span>51894 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_YAMRUB"><em class="exchange-YAMRUB">2.4001</em>Яндекс.Деньги<span>288775 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_THB"><em class="exchange-THB">1.145</em>Бат<span>1590606 Бат</span></a></li>
+<li><a href="/exchange_P24UAH_to_ACRUB"><em class="exchange-ACRUB">2.3463</em>Альфабанк<span>12459 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_VTB24RUB"><em class="exchange-VTB24RUB">2.3703</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_SBERRUB"><em class="exchange-SBERRUB">2.3953</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_TCSBRUB"><em class="exchange-TCSBRUB">2.3274</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_CARDRUB"><em class="exchange-CARDRUB">2.3583</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_P24UAH_to_CARDKZT"><em class="exchange-CARDKZT">13.4</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+<li><a href="/exchange_P24UAH_to_CASHRUB"><em class="exchange-CASHRUB">2.3</em>Наличные RUB<span>0 Руб</span></a></li>
+
+</ul>
+<ul id="u_CARDUAH" class="w-get">
+<li><a href="/exchange_CARDUAH_to_WMR"><em class="exchange-WMR">2.3981</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_CARDUAH_to_WMZ"><em class="exchange-WMZ">0.0333</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_CARDUAH_to_WMU"><em class="exchange-WMU">1.0646</em>WMU<span>47477 WMU</span></a></li>
+<li><a href="/exchange_CARDUAH_to_QWRUB"><em class="exchange-QWRUB">2.3072</em>QIWI<span>51894 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_YAMRUB"><em class="exchange-YAMRUB">2.3941</em>Яндекс.Деньги<span>288775 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_THB"><em class="exchange-THB">1.14</em>Бат<span>1590606 Бат</span></a></li>
+<li><a href="/exchange_CARDUAH_to_ACRUB"><em class="exchange-ACRUB">2.3</em>Альфабанк<span>12459 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_VTB24RUB"><em class="exchange-VTB24RUB">2.3</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_SBERRUB"><em class="exchange-SBERRUB">2.3108</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_TCSBRUB"><em class="exchange-TCSBRUB">2.3</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_CARDRUB"><em class="exchange-CARDRUB">2.3202</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_CARDUAH_to_CARDKZT"><em class="exchange-CARDKZT">13.4</em>Visa/MC KZT<span>933787 Тенге</span></a></li>
+
+</ul>
+<ul id="u_CARDKZT" class="w-get">
+<li><a href="/exchange_CARDKZT_to_WMR"><em class="exchange-WMR">0.1639</em>WMR<span>41257 WMR</span></a></li>
+<li><a href="/exchange_CARDKZT_to_WMZ"><em class="exchange-WMZ">0.0025</em>WMZ<span>270 WMZ</span></a></li>
+<li><a href="/exchange_CARDKZT_to_YAMRUB"><em class="exchange-YAMRUB">0.1706</em>Яндекс.Деньги<span>288775 Руб</span></a></li>
+<li><a href="/exchange_CARDKZT_to_THB"><em class="exchange-THB">0.0778</em>Бат<span>1590606 Бат</span></a></li>
+<li><a href="/exchange_CARDKZT_to_VTB24RUB"><em class="exchange-VTB24RUB">0.1639</em>ВТБ<span>14990 Руб</span></a></li>
+<li><a href="/exchange_CARDKZT_to_SBERRUB"><em class="exchange-SBERRUB">0.1639</em>Сбербанк<span>172272 Руб</span></a></li>
+<li><a href="/exchange_CARDKZT_to_TCSBRUB"><em class="exchange-TCSBRUB">0.1639</em>Тинькофф<span>42083 Руб</span></a></li>
+<li><a href="/exchange_CARDKZT_to_CARDRUB"><em class="exchange-CARDRUB">0.1639</em>Visa/MC Руб<span>0 Руб</span></a></li>
+<li><a href="/exchange_CARDKZT_to_P24UAH"><em class="exchange-P24UAH">0.0676</em>ПриватБанк<span>356764 Грн</span></a></li>
+<li><a href="/exchange_CARDKZT_to_CARDUAH"><em class="exchange-CARDUAH">0.0676</em>Visa/MC UAH<span>3170 Грн</span></a></li>
+
+</ul>
+<ul id="u_CASHRUB" class="w-get">
+<li><a href="/exchange_CASHRUB_to_THB"><em class="exchange-THB">0.47</em>Бат<span>1590606 Бат</span></a></li>
+
+</ul>
+
+	</div>
+	<input type="hidden" id="in_cur" name="in_cur" value="WMR" />
+	<input type="hidden" id="out_cur" name="out_cur" value="{out_cur}" />
+</form>
+
+<script type="text/javascript">
+var sm = 0;
+function incursel(v_in_cur) {
+	$('.w-currency ul.w-get').hide();
+	$('#u_'+v_in_cur).show();
+}
+$('#i_'+$('#in_cur').val()).addClass('w-give-active');
+incursel($('#in_cur').val());
+$('.w-currency .w-give li').hover(function() {
+	if (sm == 0) {
+		$('.w-currency .w-give li').removeClass('w-give-active');
+		$(this).addClass('w-give-active');
+		incursel($(this).attr('id').substr(2));
+	}
+}, function () {});
+$('.w-currency .w-give li').click(function() {
+	sm = 1;
+	$('.w-currency .w-give li').removeClass('w-give-active');
+	$(this).addClass('w-give-active');
+	incursel($(this).attr('id').substr(2));
+});
+</script>
+
+<p style="text-align: center;">
+	<span style="color:#ff0000;"><b>Акция! Скидка 0,1% для всех зарегистрированных пользователей!</b></span></p>
+<h2 style="text-align: center;">
+	<br />
+	Как совершить обмен?</h2>
+<p>
+	1. Выберите нужное направление. Вверху имеется таблица, в левом столбике которой нужно выбрать то, что желаете отдать, а в правом - что получить.</p>
+<p>
+	2. Заполните форму заявки следуя подсказкам системы.</p>
+<p>
+	3. Оплатите заявку следуя полученной инструкции.&nbsp;<br />
+	<b style="color: rgb(255, 0, 0); text-align: center;">Категорически запрещено производить оплату по реквизитам из старых заявок, а также оплачивать неактивные (просроченные, отменённые) заявки!</b></p>
+<p>
+	4. После проверки Вашего платежа, средства будут переведены:<br />
+	- в течении 10 минут, круглосуточно, если заявка обрабатывается в автоматическом режиме.<br />
+	- в течение 2х часов в рабочее время, если заявка обрабатывается вручную.</p>
+<p>
+	К обменам требующих участия оператора относятся:<br />
+	- приём платежей в гривне (ПриватБанк, Visa/MC UAH);<br />
+	- выплаты на Сбербанк, ВТБ, Visa/MC/МИР Руб;<br />
+	- платежи с новых реквизитов, требующие идентификации/проверки плательщика;<br />
+	- заявки направленные на ручную модерацию и заявки с ошибками. &nbsp;</p>
+<p>
+	Описание статусов заявок <a href="https://vipchanger.com/faq#status">https://vipchanger.com/faq#status</a></p>
+<p style="text-align: center;">
+	&nbsp;</p>
+<h2 style="text-align: center;">
+	Преимущества нашего сервиса:</h2>
+<p>
+	Быстрый* и надёжный** обмен Рублей на Баты, Гривну и обратно, а также ввод/вывод Webmoney (WMR, WMZ, WMU), QIWI и Яндекс.Деньги.<br />
+	<br />
+	* 82% обменов выполняется за 1-5 минут.<br />
+	<br />
+	** Сервис обеспечивает защиту всех сделок и гарантирует возврат средств при невозможности исполнения заявки.<br />
+	Система антифрода проверяет отправителей и надёжно защищает получателей платежей от недобросовестных контрагентов использующих краденные банковские карты.<br />
+	<br />
+	Мы работаем с Webmoney с <a href="http://passport.webmoney.ru/asp/certView.asp?wmid=397640011232" target="_blank">2005 года</a>&nbsp;(более 13 лет);<br />
+	Имеем официальную регистрацию (№110951) и&nbsp;<a href="http://passport.webmoney.ru/asp/certView.asp?wmid=397640011232" target="_blank">аттестат продавца</a> Webmoney с БЛ&gt;1500;<br />
+	Кредитоспособность нашего WMID по оценке Webmoney: $100 тыс.;<br />
+	Являемся участниками сообщества обменных пунктов&nbsp;<a href="http://club.owebmoney.ru/about.php" target="_blank">oWebmoney</a>&nbsp;(ID 708);<br />
+	Рейтинг VIPchanger.com по оценке Alexa:<br />
+	- в мире ~350 тыс.&nbsp;<br />
+	- в Таиланде ~5 тыс.<br />
+	<!--block --></p>
+<p>
+	&nbsp;</p>
+<div id="vk_comments">
+	&nbsp;</div>
+<script type="text/javascript">
+  //VK.Widgets.Comments("vk_comments", {limit: 3, width: "600", attach: "photo"});
+</script><!--END block -->
+  </div>
+  <!--END Content-->
+</div>
+<!--END Page-->
+
+<!--footer-->
+<div class="footer both">
+  
+  <div class="f_cont">
+    <div class="copy left">
+    <p>2013 - 2019г. Все права защищены.      </p>
+    <p>Копирование материалов с сайта запрещено </p>
+  </div>
+  
+  <div class="caunt">
+<!--noindex-->
+<!-- begin WebMoney Transfer : accept label -->
+<a rel="nofollow" href="http://www.megastock.ru/" target="_blank"><img src="/res/img/acc_blue_on_white_ru.png" width="88" height="31" alt="www.megastock.ru" /></a>
+<!-- end WebMoney Transfer : accept label -->
+
+<a rel="nofollow" href="http://passport.webmoney.ru/asp/certview.asp?wmid=397640011232" target="_blank">
+<img src="/res/img/v_blue_on_white_ru.png" width="88" height="31" alt="" /></a>
+
+
+<a href="http://passport.webmoney.ru/asp/certView.asp?wmid=397640011232" target="_blank" rel="nofollow" style="position:relative;">
+	<img src="/res/images/bl.png" alt="c" width="93" height="31" />
+	<img src="https://bl.wmtransfer.com/img/bl/397640011232?w=45&h=18&bg=0XDBE2E9" alt="c" width="35" height="18" style="position:absolute;left:54px;top:-11px;" />
+</a>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=26895336&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/26895336/3_0_FFFFFFFF_E6E6FAFF_0_pageviews"
+style="width:88px; height:31px; border:0;" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter26895336 = new Ya.Metrika({id:26895336,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/26895336" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- oWebmoney Club -->
+<a rel="nofollow" href="http://club.owebmoney.ru/about.php" target="_blank">
+<img src="/res/images/owm_club.gif" width="88" height="31" alt="VIPchanger.com - участник №708" /></a>
+<!-- /oWebmoney Club -->
+
+<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+79256473344", // WhatsApp number
+            telegram: "vipchanger", // Telegram bot username
+            vkontakte: "vipchanger_help", // VKontakte page name
+            company_logo_url: "//vipchanger.com/res/images/logo4.jpg", // URL of company logo (png, jpg, gif)
+
+            call_to_action: "", // Call to action
+            button_color: "#129BF4", // Color of button
+            position: "right", // Position may be 'right' or 'left'
+            order: "telegram,whatsapp,line,vkontakte,email" // Order of buttons
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->
+
+<!-- Start SiteHeart code -->
+<!-- отключение блока
+	<script>
+	(function(){
+	var widget_id = 721724;
+	_shcp =[{widget_id : widget_id}];
+	var lang =(navigator.language || navigator.systemLanguage 
+	|| navigator.userLanguage ||"en")
+	.substr(0,2).toLowerCase();
+	var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+	var hcc = document.createElement("script");
+	hcc.type ="text/javascript";
+	hcc.async =true;
+	hcc.src =("https:"== document.location.protocol ?"https":"http")
+	+"://"+ url;
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(hcc, s.nextSibling);
+	})();
+	</script>
+ отключение блока-->
+    <!-- End SiteHeart code -->
+<!--/noindex-->
+  </div>
+</div>
+  
+</div>
+
+</body>
+</html>

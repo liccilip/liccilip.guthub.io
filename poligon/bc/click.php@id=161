@@ -1,0 +1,257 @@
+<!DOCTYPE HTML><html><head><title>Обменник - онлайн обмен электронных валют. Вывод и пополнение Webmoney, Яндекс.Деньги, Приват 24, оплата и вывод на карту Приватбанка</title><meta name="keywords" content="Обменник webmoney, Обмен Webmoney, обменник webmoney в Украине, Webmoney в Украине, обмен yandex.деньги, вывод webmoney, вывод yandex.деньги, пополнение webmoney, вебмани, вывод webmoney на карту, вывод webmoney на карту приватбанка, visa на webmoney, пополнение webmoney privat24, пополнение webmoney приват24"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="interkassa-verification" content="b86e9f283e2aef748c1758bd79e9f44d" /><META NAME="webmoney.attestation.label"
+                  CONTENT="webmoney attestation label#48C1D3EC-C496-476D-BAC8-61126C7CEB2C"/><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"><link rel="stylesheet" type="text/css" media="screen" href="/compiled/css/772b2eb.css"/><!--[if IE 7]><link rel="stylesheet" href="/css/ie7.css" media="screen"/><![endif]--><script type="text/javascript" src="/compiled/js/d10eabf.js"></script><script type="text/javascript">
+                $(window).load(function () {
+
+    $('#login-modal').on('shown.bs.modal', function (event) {
+
+        $.ajax({
+            url: '/ru/login',
+            type: 'GET',
+            dataType: 'html',
+            success: function (data) {
+
+                $('#login-modal .modal-body').html(data);
+                $('#login-modal a').on('click', function () {
+                    $('#login-modal').modal('hide');
+                });
+            }
+        });
+    });
+
+});            </script><script type="text/javascript">
+                var userLoggedIn =  'true'
+                ;
+                var lang = 'ru';
+            </script></head><body id="page"><div class="progress loading" style="display: none;"><div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 100%"><span class="sr-only">100% Complete</span></div></div><div id="status-box" class="alert alert-success hide"></div><div id="top-box"><div class="container clearfix"><div class="top-box-wrapper"><div class="row"><div class="col-xs-5 hidden-sm hidden-md hidden-lg"></div><div class="col-xs-7 hidden-sm hidden-md hidden-lg"><div class="top-security"><ul class="security"><li class="first"><a href="/ru/login" class="static">
+                                                Вход                                            </a></li><li class="last"><a href="/ru/signup">
+                                                Регистрация                                            </a></li></ul></div></div></div><div class="row"><div class="hidden-xs col-sm-8"><div id="toper-navbar" class="toper-navbar"><ul><li id="3e11b6881d458705f85d6a1f5d0143ae"><a
+                                                            class="active"
+                                        href="/ru/">
+                    Обмен
+                                                </a></li><li id="ac33647d48bff350f675c46695442826"><a
+                                                        href="/ru/loyalty">
+                    Скидки
+                                                </a></li><li id="570eccee4b9dba96b39e997316d18690"><a
+                                                        href="/ru/partner-program">
+                    Бонус-счёт
+                                            <span class="count">0 $</span></a></li><li id="51cc3253ee15768334d96ccd0f1b76c6"><a
+                                                        href="/ru/ticket">
+                    Контакты
+                                                </a></li></ul></div></div><div class="hidden-xs col-sm-4"><div class="top-security"><ul class="security"><li class="first"><a href="#login-modal" data-target="#login-modal" data-toggle="modal">
+                                                Вход                                            </a></li><li class="last"><a href="/ru/signup">
+                                                Регистрация                                            </a></li></ul></div><div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="login-modal-label" aria-hidden="true"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button><h6 id="login-modal-label" class="modal-title">Вход</h6><span class="modal-logo"></span></div><div class="modal-body"></div></div></div></div></div></div></div></div><div class="container-fix clearfix"></div></div><!-- #top-box --><header class="header"><div class="container clearfix"><div class="header-wrapper"><div class="row"><div class="col-xs-6 col-sm-5 col-md-4"><div class="logo"><a href="/ru/"><img src="/compiled/images/8ad3860.png" class="logo-img" alt="" /></a></div></div><div class="hidden-xs col-sm-4 col-md-5"><div class="title">Мы рады представить Вам сервис обмена электронных валют - obmennik.ua</div></div><div class="col-xs-4 col-sm-3 col-lg-3"><div class="contact"><div class="phone"></div><div class="touch"><a href="/ru/ticket">
+                                            Контакты                                        </a></div></div></div><div class="col-xs-2 hidden-sm hidden-md hidden-lg"><div class="primary"><div class="navbar top-navbar" role="navigation"><button type="button" class="navbar-toggle btn-navbar collapsed" data-toggle="collapse" data-target="#navbar-collapse-main-xs"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><nav id="navbar-collapse-main-xs" class="collapse collapsing navbar-collapse"><ul class="nav navbar-nav navbar-left"><li id="3e11b6881d458705f85d6a1f5d0143ae"><a
+                                                            class="active"
+                                        href="/ru/">
+                    Обмен
+                                                </a></li><li id="ac33647d48bff350f675c46695442826"><a
+                                                        href="/ru/loyalty">
+                    Скидки
+                                                </a></li><li id="570eccee4b9dba96b39e997316d18690"><a
+                                                        href="/ru/partner-program">
+                    Бонус-счёт
+                                            <span class="count">0 $</span></a></li><li id="51cc3253ee15768334d96ccd0f1b76c6"><a
+                                                        href="/ru/ticket">
+                    Контакты
+                                                </a></li></ul></nav></div></div></div></div></div></div></header><!-- .header --><section id="main"><div class="container clearfix"><header class="page-header"><div id="content"><link rel="stylesheet" href="/compiled/css/0a3efd2.css"/><script type="text/javascript" src="/compiled/js/510ca73.js"></script><div class="row"><div class="col-xs-12 col-sm-8"><link rel="stylesheet" href="/compiled/css/4ddd202.css"/><script type="text/javascript" src="/compiled/js/510ca73.js"></script><form action="/ru/"
+      method="post"
+      id="calc_form"
+      class="dynamic not_asterisk padding-none hide"><div class="row"><div class="col-xs-12"><div class="row"><!-- Title FROM --><div class="col-xs-6"><div class="title exchange">
+                        Отдаю                    </div></div><!-- Title TO --><div class="col-xs-6"><div class="title exchange">
+                        Получаю                    </div></div></div><fieldset><div class="row"><div class="col-xs-6 padding-bottom-20"><select id="order_currency_from" name="order[currency_from]" required="required"    style="width: 100%;"><option value="4">P24 (моментальный)</option><option value="53">P24 (без комиссии 2%)</option><option value="9">WebMoney WME</option><option value="7">WebMoney WMR</option><option value="6" selected="selected">WebMoney WMZ</option><option value="16">Yandex</option></select></div><div class="col-xs-6 padding-bottom-20"><select id="order_currency_to" name="order[currency_to]" required="required"    style="width: 100%"><option value="4">P24 (моментальный)</option><option value="51">VISA/MC UAH</option><option value="9">WebMoney WME</option><option value="7" selected="selected">WebMoney WMR</option><option value="6">WebMoney WMZ</option><option value="16">Yandex</option></select></div></div><div class="row"><div class="col-xs-6 padding-bottom-20"><input type="text" id="order_amount" name="order[amount]" required="required"    class="form-control input-lg" value="10" /></div><div class="col-xs-6 padding-bottom-20"><input type="text" id="order_sum_t" name="order[sum_t]" required="required"    class="form-control input-lg" /></div><div class="col-xs-6 padding-bottom-20"><input type="text" id="order_sum_client_f" name="order[sum_client_f]"    class="form-control input-lg" /><div class="exchange-commission">
+                                с комиссией платежной системы                            </div></div><div class="col-xs-12 col-sm-6 padding-bottom-20" id="order-descriptions"><div id="rate" class="course"></div><div id="reserve" class="course"></div><div id="custom-commission" class="course"></div></div></div><div class="row"><div class="col-xs-12 padding-bottom-20"><a id="link_signup" href="/ru/signup" class="pull-right" style="font-size: 11px; text-decoration: underline;">
+                                        Зарегистрируйтесь</a><input type="text" id="order_user_email" name="order[user][email]" required="required" pattern="^[\ ]{0,}[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}[\ ]{0,}$"    placeholder="Email" title="Укажите корректный e-mail" class="form-control input-lg" /></div><div class="col-xs-12 col-xs-half padding-bottom-20"><div id="account_to" class="input-group"><input type="text" id="order_account_to_name" name="order[account_to][name]" required="required" pattern="^[ ]{0,}(R|r)[\d]{12,12}[ ]{0,}$"    class="form-control input-lg" placeholder="Номер R-кошелька" /><div class="input-group-btn btn-group-lg"><button type="button" class="btn btn-account dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                            Счета
+                                            <span class="caret"></span></button><ul class="dropdown-menu" role="menu"></ul></div></div></div><div class="col-xs-12 padding-bottom-20"><label class="checkbox"><input type="checkbox" id="order_agreement" name="order[agreement]" required="required" value="1" checked="checked" />
+                                     Ознакомлен с                                     <a href="/ru/about">регламентом работы</a> и                                     <a href="/ru/agreement">соглашения пользователя</a> принимаю                                </label></div><div class="col-xs-12"><div id="calc-errors" class="alert alert-danger fade"></div></div><div style="display: none;"><input type="hidden" id="order__token" name="order[_token]" value="801ebb0a7a7f51645d82eaf2fa352daac5b04a79" /></div></div></fieldset></div><div class="col-xs-12 padding-bottom-20"><button type="submit" class="btn btn-lg btn-exchange btn-block"><span class="button-icon-left"></span><span class="button-icon-right"></span>
+                О Б М Е Н Я Т Ь
+            </button></div></div></form><script type="text/javascript">
+    Application.checkAndLoad('/ru/jquery/calc', function () {
+        $('#calc_form').calc();
+    });
+</script><script type="text/javascript">
+    Application.checkAndLoad('/compiled/js/acf9ca2.js', function () {
+        $('#account_from').inputselect();
+        $('#account_to').inputselect();
+    });
+</script></div><div class="col-xs-12 col-sm-4"><div class="title exchange">Резервы</div><div class="panel panel-reserve"><div class="currency-logo"><img src="/compiled/bundles/obmennikgatewaysprivat24/images/small_logo.png" style="width: 26px; height: 26px;" /></div><div class="currency" alt="P24 (моментальный)" title="P24 (моментальный)">
+                P24 (моментальный)
+            </div><div class="currency-sum"><nobr>64 555.42</nobr></div></div><div class="panel panel-reserve"><div class="currency-logo"><img src="/compiled/bundles/obmennikgatewayscardinterkassa/images/small_logo.png" style="width: 26px; height: 26px;" /></div><div class="currency" alt="VISA/MC UAH" title="VISA/MC UAH">
+                VISA/MC UAH
+            </div><div class="currency-sum"><a class="reserve-empty" href="#"
+                       rel="tooltip"
+                       title="На текущий момент недостаточно средств для моментального обмена. Вы можете продолжить оформление заявки и как только необходимая сумма будет доступна, Вы получите уведомление на e-mail. Если в течении 24 часов не будет доступных средств, заявка будет закрыта автоматически.">нет средств                    </a></div></div><div class="panel panel-reserve"><div class="currency-logo"><img src="/compiled/bundles/obmennikgatewayswebmoney/images/small_logo.png" style="width: 26px; height: 26px;" /></div><div class="currency" alt="WebMoney WME" title="WebMoney WME">
+                WebMoney WME
+            </div><div class="currency-sum"><nobr>323.41</nobr></div></div><div class="panel panel-reserve"><div class="currency-logo"><img src="/compiled/bundles/obmennikgatewayswebmoney/images/small_logo.png" style="width: 26px; height: 26px;" /></div><div class="currency" alt="WebMoney WMR" title="WebMoney WMR">
+                WebMoney WMR
+            </div><div class="currency-sum"><nobr>381 944.96</nobr></div></div><div class="panel panel-reserve"><div class="currency-logo"><img src="/compiled/bundles/obmennikgatewayswebmoney/images/small_logo.png" style="width: 26px; height: 26px;" /></div><div class="currency" alt="WebMoney WMZ" title="WebMoney WMZ">
+                WebMoney WMZ
+            </div><div class="currency-sum"><nobr>1 178.39</nobr></div></div><div class="panel panel-reserve"><div class="currency-logo"><img src="/compiled/bundles/obmennikgatewaysyandexmoney/images/small_logo.png" style="width: 26px; height: 26px;" /></div><div class="currency" alt="Yandex" title="Yandex">
+                Yandex
+            </div><div class="currency-sum"><nobr>204 060.36</nobr></div></div></div></div><div class="row"><div class="col-xs-12 col-sm-8"><link rel="stylesheet" href="/compiled/css/dbc7966.css"/><section id="service_benefits_wrapper" class="block-title-linear"><div class="block-title-info"><h4><span>Преимущества нашего сервиса:</span></h4></div><div style="text-align: left; padding-left: 15px;"> 
+
+Мы рады представить Вам сервис обмена электронных валют в Украине – obmennik.ua. 
+
+<div style="padding-top:10px;">
+
+Преимущества нашего сервиса:
+<ul style="list-style: square inside;"><li>мгновенный вывод электронных валют (Webmoney, Яндекс.Деньги) на карты Приватбанка;</li><li>мгновенное пополнение электронных валют (WM, Яндекс) через приват24;</li><li>моментальный обмен валюты одной платёжной системы на валюту другой (Webmoney на Webmoney, Яндекс на Webmoney, Webmoney на Яндекс);</li><li>высокая надежность и технологичность сервиса;</li><li>лучшие курсы в Украине;</li><li>партнерская программа.</li></ul></div><div style="padding-top:10px;"></div><div style="padding-top:10px;">
+Мы будем рады видеть Вас в числе наших клиентов или партнеров.
+
+</div><br><!--Также Вы можете воспользоваться нашим партнерским сервисом <a class="static" target="new "href="http://obmennik.com.ua/">обмен Perfect Money</a>--></div></section></div><div class="col-xs-12 col-sm-4"><script type="text/javascript" src="/compiled/js/510ca73.js"></script><section id="service_job_wrapper" class="block-title-linear"><div class="block-title-info"><h4><span>
+                Работа сервиса            </span></h4></div><div class="job padding-top-none"><div class="contacts"><a href="/ru/ticket">
+                Он-лайн поддержка            </a>
+             пользователей:            <div class="transfer">
+                пн - пт, с <b>9:00</b>
+                 до <b>19:00</b></div></div><div class="around"><a href="/ru/">obmennik.ua</a>
+             работает круглосуточно:            <div class="transfer"><b>365 / 7 / 24</b></div></div><div class="client hidden-xs"><div class="text-justify">
+                Мы будем рады видеть Вас в числе <br/>
+                наших клиентов или                 <a href="/ru/partner-program">
+                    партнеров                </a></div></div><div class="client hidden-sm hidden-md hidden-lg"><div class="text-justify">
+                Мы будем рады видеть Вас в числе                 наших клиентов или                 <a href="/ru/partner-program">
+                    партнеров                </a></div></div></div></section><div class="row"><div class="col-xs-12"><div class="panel panel-social-main"><div class="social"><a href="https://vk.com/obmennikua" class="static social-icon si-nowrap si-colored si-rounded si-small si-vk" data-animate="bounceInLeft" target="_blank"><i class="icon-vk"></i><i class="icon-vk"></i></a><a href="https://www.youtube.com/channel/UCEdwoIt7NHL2MovkMaq0q-A" class="static social-icon si-nowrap si-colored si-rounded si-small si-youtube" data-animate="bounceInLeft" data-delay="300" target="_blank"><i class="icon-youtube"></i><i class="icon-youtube"></i></a></div></div></div></div></div></div><div class="row"><div class="col-xs-12"><section id="complex_faq_wrapper" class="block-title-linear"><div class="inner"><div class="block-title-info"><h4><span><a href="/ru/questions-and-answers">
+                        Вопросы и ответы                    </a></span></h4><div class="row"><div id="pfaq_slider"><div class="col-xs-12 col-sm-4 border-details"><div class="slider-wrapper theme-default"><div class="complex-faq-details"><p class="complex-faq-question"><img class="complex-faq-question-image" src="/compiled/bundles/obmennikclient/images/bootstrap3/faq/question.png" /><a href="/ru/questions-and-answers#collapse1">
+                                        Ваши гарантии?                                    </a></p><div class="complex-faq-answer text-justify"><div>
+            Мы представляем аттестованный официальный обменный пункт Webmoney.
+            Номер регистрации 83559.<br>[<a class="static" href="https://www.megastock.ru/Resource.aspx?id=83559" target="_blank">Мы на сайте сервиса Megastock</a>]&nbsp; [<a class="static" href="https://passport.webmoney.ru/asp/certview.asp?wmid=963130820766" target="_blank">Наш аттестат</a>]
+        </div></div></div></div></div><div class="col-xs-12 col-sm-4 border-details"><div class="slider-wrapper theme-default"><div class="complex-faq-details"><p class="complex-faq-question"><img class="complex-faq-question-image" src="/compiled/bundles/obmennikclient/images/bootstrap3/faq/question.png" /><a href="/ru/questions-and-answers#collapse2">
+                                        Заявка оплачена. Когда будет пополнен мой кошелёк?                                     </a></p><div class="complex-faq-answer text-justify"><div>
+            Перевод на Ваш кошелек после оплаты заявки производится практически мгновенно. Если этого не произошло (в течении 5 минут), проверьте статус заявки в разделе "Заявки" Вашего аккаунта, если там никаких ошибок нет, обратитесь в службу поддержки из раздела "Контакты".
+        </div></div></div></div></div><div class="col-xs-12 col-sm-4 border-details"><div class="slider-wrapper theme-default"><div class="complex-faq-details"><p class="complex-faq-question"><img class="complex-faq-question-image" src="/compiled/bundles/obmennikclient/images/bootstrap3/faq/question.png" /><a href="/ru/questions-and-answers#collapse3">
+                                        Заказал вывод. Как быстро будет пополнена моя карта?                                    </a></p><div class="complex-faq-answer text-justify"><div>
+            Перевод средств осуществляется мгновенно, сразу после получения нами уведомления об оплате заявки. После этого средства могут быть зачислены на Вашу карту в течении от 10 мин до 24 часов в зависимости от типа Вашей карты. Регламент зачисления платежей по Вашей карте уточните в своем банке.
+        </div></div></div></div></div><div class="col-xs-12 col-sm-4 border-details"><div class="slider-wrapper theme-default"><div class="complex-faq-details"><p class="complex-faq-question"><img class="complex-faq-question-image" src="/compiled/bundles/obmennikclient/images/bootstrap3/faq/question.png" /><a href="/ru/questions-and-answers#collapse4">
+                                        Keeper Mini: почему мой кошелек до сих пор не пополнен?                                    </a></p><div class="complex-faq-answer text-justify"><div>
+            Если Вы оплатили заявку и не получили средства на кошелек, проверьте статус заявки в разделе
+            "<a href="%orders%" target="_blank">Заявки</a>" Вашего аккаунта.
+        </div><div>
+            Если заявка выполнена, проверьте движение средств по счету с помощью
+            <a class="static" href="https://wiki.webmoney.ru/wiki/show/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80+%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9+%D0%B2+WebMoney+Keeper+Mini?q=mini" target="_blank">инструкции</a>.
+            Попробуйте также обновить страницу в кипере.
+        </div><div>
+            Если заявка еще не выполнена, скорее всего у Вас превышен лимит средств на кошельках. Изменить лимиты Вы
+            можете с помощью <a class="static" href="https://wiki.webmoney.ru/wiki/show/Finansovye_ogranicheniya_WebMoney_Keeper_Mini" target="_blank">инструкции</a>.
+        </div></div></div></div></div><div class="col-xs-12 col-sm-4 border-details"><div class="slider-wrapper theme-default"><div class="complex-faq-details"><p class="complex-faq-question"><img class="complex-faq-question-image" src="/compiled/bundles/obmennikclient/images/bootstrap3/faq/question.png" /><a href="/ru/questions-and-answers#collapse5">
+                                        Возможно ли отказаться от заявки?                                    </a></p><div class="complex-faq-answer text-justify"><div>
+            Выполненная заявка является необратимой, т.е. по такой заявке средства возврату не подлежат. Если заявка
+            оплачена, но еще не выполнена, Вы можете вернуть свои средства (за вычетом комиссии за перевод), написав
+            в службу поддержки из раздела &quot;<a class="contacts" href="%contact%">Контакты</a>&quot;.
+        </div></div></div></div></div></div></div></div></div></section></div></div><script type="text/javascript">
+
+        Application.checkAndLoad('/compiled/js/babae6d.js', function () {
+
+            'use strict';
+
+            /* Complex FAQ */
+            $('#pfaq_slider').slick({
+                arrows: true,
+                speed: 800,
+                centerMode: false,
+                autoplay: true,
+                autoplaySpeed: 5000,
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                dots: false,
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true
+                        }
+                    },
+                    {
+                        breakpoint: 640,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 420,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
+                    }
+                ]
+            });
+
+            /* Popular News */
+            $('#pnews_slider').slick({
+                arrows: true,
+                speed: 800,
+                centerMode: false,
+                autoplay: true,
+                autoplaySpeed: 5000,
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                dots: false,
+                responsive: [
+                    {
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                            infinite: true
+                        }
+                    },
+                    {
+                        breakpoint: 640,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 420,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                        }
+                    }
+                ]
+            });
+
+        });
+
+        setTimeout(function() {
+            $(window).resize();
+        }, 200);
+
+    </script><div class="clearfix"></div></div></header><!-- .page-header --></div></section><!-- #main --><div id="footer" class="footer"><div class="container clearfix"><div class="footer-wrapper"><div class="row"><div class="col-xs-12 col-sm-12"><div id="footer-navbar" class="footer-navbar"><ul class="footer-nav"><li id="fda4a7a9607a2ef4896fec260412b49c"><a
+                                                        href="/ru/rates">
+                    Курсы обмена
+                            </a></li><li id="ac33647d48bff350f675c46695442826"><a
+                                                        href="/ru/loyalty">
+                    Скидки
+                            </a></li><li id="570eccee4b9dba96b39e997316d18690"><a
+                                                        href="/ru/partner-program">
+                    Партнёрская программа
+                            </a></li><li id="48d00df13cbdd6a4dcce634415c0eff5"><a
+                                                        href="/ru/questions-and-answers">
+                    Вопросы и ответы
+                            </a></li><li id="51cc3253ee15768334d96ccd0f1b76c6"><a
+                                                        href="/ru/ticket">
+                    Контакты
+                            </a></li><li id="c295403a023b5c00d5dd6435d67ba4cb"><a
+                                                        href="/ru/about">
+                    О нас
+                            </a></li></ul></div></div></div></div></div></div><div id="bottom-box"><div class="container clearfix"><div class="bottom-box-wrapper"><div class="row"><div class="col-xs-4 col-sm-3"><div class="bottom-box-copyright"><div class="agree"><a href="/ru/agreement">Соглашение пользователя</a></div><div class="copyright">&copy; 2012&ndash;2019 &nbsp; &laquo;Обменник&raquo;</div><div class="auto-exchange">Автоматический обмен.</div></div></div><div class="col-xs-8 col-sm-9"><div class="bottom-box-webmoney pull-left"><ul><li style="display: inline-block; margin-right: 1px;"><a class="static" href="https://www.megastock.ru/"><img src="/compiled/images/c880a57.png"  border="0" alt="" /></a></li><li style="display: inline-block; margin-right: 1px;"><a class="static" href="https://passport.webmoney.ru/asp/certview.asp?wmid=963130820766"><img src="/compiled/images/aae9b16.png"  border="0" alt="" /></a></li><li style="display: inline-block;"><!-- capitaller label#71ac105f21c38559463a5b7c51946c2b83bdfa3f begin --><a class="static" href="https://www.capitaller.ru/" ><img alt="управление бюджетом" src="https://www.capitaller.ru/logo/logo.gif?cfid=3013&it=3" border="0" /></a><!-- capitaller label#71ac105f21c38559463a5b7c51946c2b83bdfa3f end --></li><li style="display: inline-block; margin-right: 1px;"><img src="/compiled/images/fff0ba2.png"  border="0" alt="" /></li><li style="display: inline-block; margin-right: 1px;"><img src="/compiled/images/90f5eac.png"  border="0" alt="" /></li><li style="display: inline-block; margin-right: 1px;"><img src="/compiled/images/98148e1.png"  border="0" alt="" /></li></ul></div></div></div></div></div></div><script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-41564226-1', 'obmennik.ua');
+                ga('send', 'pageview');
+
+            </script><!-- /.wrapper --></body></html>

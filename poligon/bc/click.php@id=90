@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link rel="stylesheet" type="text/css" href="/res/exmoney/css/style.css?v=0.2.7" />
+
+  <title>Выгодно обменять Сбербанк на Bitcoin</title>
+  <meta name="description" content="Очень легко провести обмен Сбербанк на Bitcoin с помощью нашего сервиса. Мы работаем с выгодными курсами обмена и обрабатываем каждую заявку не дольше 15 минут." />
+  <meta name="keywords" content="сбербанк на биткоин, сбербанк на bitcoin, обменять сбербанк на bitcoin, перевести сбербанк на биткоин, обмен sberbank на bitcoin, купить bitcoin со сбербанка" />
+  <meta property="og:image" content="/res/exmoney/img/logo.png" />
+  <meta property="og:title" content='Выгодно обменять Сбербанк на Bitcoin' />
+  <meta property="og:type"          content="website" />
+  <meta property="og:description"   content="Очень легко провести обмен Сбербанк на Bitcoin с помощью нашего сервиса. Мы работаем с выгодными курсами обмена и обрабатываем каждую заявку не дольше 15 минут." />
+  <meta name="theme-color" content="#98b0fc"/>
+  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+  <script type="text/javascript">if(window.parent.frames.length > 0){window.stop();}</script>
+
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-sm-8 order-lg-1 order-1 text-xs-center">
+        <a href="/" class="site-header__logo">
+          <img src="/res/exmoney/img/logo2.svg" alt="">
+          <span>ТВОЙ ОБМЕННЫЙ СЕРВИС</span>
+        </a>
+      </div>
+      <div class="col-lg-7 order-lg-1 order-3">
+        <nav class="site-header__menu">
+          <a href="#" class="menu-btn"><span></span></a>
+          <ul class="menu">
+            <li><a href="">&nbsp;</a></li>
+            <li><a href="">&nbsp;</a></li>
+            <li class="active"><a href="/">Обмен</a></li>
+            <li class=""><a href="/partners/">Партнерам</a></li>
+            <li class=""><a href="/reserve/">Резервы</a></li>
+            <!--<li class=""><a href="/reviews/">Отзывы</a></li>-->
+            <li class=""><a href="/contacts/">Контакты</a></li>
+            <li class=""><a href="/rules/">Правила</a></li>
+            <!--<li class=""><a href="/about/">Гарантии</a></li>-->
+          </ul>
+        </nav>
+      </div>
+
+      <div class="col-lg-2 col-sm-4 order-lg-1 order-2">
+        <div class="site-header__auth">
+                      <a data-fancybox data-src="#login" data-options='{"touch": false}' href="/login/"  class="site-header__login"><img src="/res/exmoney/img/login.svg" alt="login"><span>Войти</span></a>
+            <a data-fancybox data-src="#registration" data-options='{"touch": false}' href="/registration/" class="site-header__registration"><img src="/res/exmoney/img/registration.svg" alt="registration">Регистрация</a>
+          </div>
+      </div>
+
+    </div>
+  </div>
+</header>
+
+<!-- Авторизация -->
+<div style="display: none; max-width: 599px;" id="login" class="mt-5 login w-100">
+  <h3 class="login__title text-center">Вход под паролем</h3>
+<form action="/login/" method="POST">
+  <div class="relative mb-4">
+    <input class="f-input" type="email" name="email" required>
+    <label>Ваш e-mail</label>
+  </div>
+  <div class="relative mb-2">
+    <input class="f-input" type="password" name="password"  required>
+    <label>Пароль</label>
+  </div>
+  <div class="text-right mb-2">
+    <a class="login__forgot-password" data-fancybox data-src="#restpassword" data-options='{"touch": false}' href="/lostpass/">Вы забыли пароль?</a>
+  </div>
+  <div class="captcha" style="display:none;"><div id="auth-recaptcha"></div></div>
+  <div class="text-center mt-5">
+    <button type="submit" class="site-button">Войти</button>
+  </div>
+  <input type="hidden" name="action" value="signin">
+  </form></div>
+
+<div style="display: none; max-width: 599px;" id="registration" class="mt-5 registration w-100">
+  <h3 class="registration__title text-center">Регистрация</h3>
+<form action="/registration/" method="POST">
+  <div class="relative mb-4">
+    <input class="f-input" type="email" name="rmail" required>
+    <label>Ваш e-mail</label>
+  </div>
+  <div class="relative mb-4">
+    <input class="f-input" type="password" name="rpwd" required>
+    <label>Пароль</label>
+  </div>
+  <div class="relative mb-4">
+    <input class="f-input" type="password" name="rpwd2" required>
+    <label>Пароль еще раз</label>
+  </div>
+  <div class="captcha"><div id="register-recaptcha"></div></div>
+  <div class="relative">
+    <input class="f-input" type="checkbox" name="rcheck" id="privacy">
+    <label for="privacy">Я согласен с <a href="/rules/" target="_blank">правилами сервиса</a></label>
+  </div>
+  <div class="relative">
+    <input class="f-input" type="checkbox" name="subscription" id="mailing">
+    <label for="mailing">Я хочу получать рассылки о новостях сервиса</label>
+  </div>
+  <div class="text-center mt-5">
+    <button type="submit" class="site-button">Регистрация</button>
+  </div>
+  <input type="hidden" name="action" value="registration">
+  <div class="showMsg"></div>
+</form>
+<div class="text-center mt-2">
+  <a class="registration__register" data-fancybox data-src="#login" data-options='{"touch": false}' href="/login/">Я уже зарегистрирован</a>
+</div></div>
+
+<div style="display: none; max-width: 599px;" id="restpassword" class="mt-5 restpassword w-100">
+  <h3 class="restpassword__title text-center">Напоминание пароля</h3>
+<form action="/lostpass/" method="post">
+  <div class="relative mb-4">
+    <input class="f-input" type="email" name="email" class="f-input" required>
+    <label>Ваш e-mail</label>
+  </div>
+  <div class="form-group captcha mb-3">
+    <div id="lostpass-recaptcha"></div>  </div>
+
+    <div class="alert alert-danger lpeme" style="display:none;"></div>
+  <div class="alert alert-success lpems" style="display:none;"></div>
+  <div class="text-center mt-3">
+    <button type="submit" class="site-button">Восстановить пароль</button>
+  </div>
+  <input type="hidden" name="action" value="restore-s1" class="f-input"/>
+</form></div>
+<!-- /Авторизация --><section class="profitable-exchange">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-5">
+        <h2 class="profitable-exchange__title" data-type="title">
+          Выгодно обменять Сбербанк на Bitcoin        </h2>
+        <div class="profitable-exchange__text">
+          Вы потратите не более 15 минут
+          на прохождение всех этапов выполнения обмена по любому направлению,
+          которые предлагает наш сервис.<br>
+          <a href="/faq/coupon.html" target="_blank">FAQ - купоны</a>
+        </div>
+
+        </div>
+      <div class="col-lg-7">
+        <form class="profitable-exchange__block" action="/" method="POST">
+          <div class="profitable-exchange__content">
+            <h3 class="profitable-exchange__block-title">
+              Начните обмен в один клик!
+            </h3>
+            <div class="profitable-exchange__currency">
+              <div class="profitable-exchange__currency-input">
+                <div class="relative">
+                  <input class="f-input" type="text" name="summ1" id="from_summ" value="" placeholder="от 5000">
+                  <span data-type="curr_from">RUR</span>
+                </div>
+                <div class="text-center">
+                  <img src="/res/exmoney/img/arrow-big.png" alt="">
+                </div>
+                <div class="relative">
+                  <input class="f-input" type="text" name="summ2" id="to_summ" value="" placeholder="до 31.34">
+                  <span data-type="curr_to">BTC</span>
+                </div>
+              </div>
+              <div class="profitable-exchange__currency-select">
+                <span class="profitable-exchange__select-img" data-direct="from"><img src="/res/exchangebox/uploads/svg/sberbank.svg" alt=""><span>Сбербанк</span></span>
+                <span class="profitable-exchange__select-img" data-direct="to"><img src="/res/exchangebox/uploads/svg/bitcoin.svg" alt=""><span>Bitcoin</span></span>
+              </div>
+            </div>
+            <div class="profitable-exchange__change">
+              <div class="profitable-exchange__change-block">
+                <div class="profitable-exchange__change-item">
+                  <div class="profitable-exchange__change-label">Курс обмена</div>
+                  <div class="profitable-exchange__change-value fz15 uppercase"><span id="xc-com">xxx</span></div>
+                </div>
+                <div class="profitable-exchange__change-item">
+                  <div class="profitable-exchange__change-label">Среднее время обмена</div>
+                  <div class="profitable-exchange__change-value fz15">13 мин. 30 сек.</div>
+                </div>
+              </div>
+            </div>
+            <div class="profitable-exchange__form-after"></div>
+            <div class="profitable-exchange__form">
+              <div class="relative">
+  <input class="f-input" type="text" name="from_acc" value="" placeholder="Номер карты Сбербанк, 16-18 цифр"  required>
+  <label>Номер карты:</label>
+  </div>
+
+<div class="relative">
+  <input class="f-input" type="text" name="from_fio" value="" placeholder="Ф.И.О. владельца карты, полностью"  required>
+  <label>Ф.И.О. отправителя:</label>
+  </div>
+
+<div class="relative">
+  <input class="f-input" type="text" name="email" value="" placeholder="Например: name@mail.ru"  required>
+  <label>Ваш E-mail ящик:</label>
+  </div>
+
+<div class="relative">
+  <input class="f-input" type="text" name="to_acc" value="" placeholder="Например: 20vhaYuCDpaPXkmi12WZMK"  required>
+  <label>Кошелёк для получения:</label>
+  </div>
+
+<div class="relative coupon_select">
+  
+  <input class="f-input" type="text" name="coupon_name" value="" placeholder="Вставте код купона">
+  <label>Купон:</label>
+  <small class="form-text text-muted cc-small cc-short_name"></small>
+</div>            </div>
+
+            <div class="d-flex justify-content-center">
+              <div class="p-2">
+                <div class="relative">
+                  <input class="f-input" type="checkbox" name="agreement" id="privacy_index" checked>
+                  <label for="privacy_index">Я согласен с <a href="/rules/" target="_blank">правилами сервиса</a></label>
+                </div>
+                <div class="relative">
+                  <input class="f-input" type="checkbox" name="subscription" id="mailing_index" checked>
+                  <label for="mailing_index">Я хочу получать рассылки о новостях сервиса</label>
+                </div>
+              </div>
+            </div>
+
+            <div class="text-center">
+              <button id="step_fri" class="site-button">Создать заявку</button>
+            </div>
+
+            <input type="hidden" name="direct" value="0" class="f-input"/>
+            <input type="hidden" name="c1" value="8" class="f-input"/>
+            <input type="hidden" name="c2" value="12" class="f-input"/>
+            <input type="hidden" name="id" value="15529032922670" class="f-input">
+            <input type="hidden" name="action" value="toPreliminary"/>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Обмен валюты -->
+<div style="display: none; max-width: 789px;" id="currency-content" class="mt-5">
+  <div class="currency-content">
+    <h3 class="currency-content__title text-center"><span data-direct="from">Вы отдаете</span><span data-direct="to">Вы получаете</span></h3>
+    <ul class="nav nav-tabs" id="currency" role="tablist">
+            <li class="nav-item">
+        <a class="nav-link active" id="coin-tab" data-toggle="tab" href="#coin" role="tab" aria-controls="coin" aria-selected="true">coin</a>
+      </li>
+            <li class="nav-item">
+        <a class="nav-link " id="RUR-tab" data-toggle="tab" href="#RUR" role="tab" aria-controls="RUR" aria-selected="false">RUR</a>
+      </li>
+            <li class="nav-item">
+        <a class="nav-link " id="USD-tab" data-toggle="tab" href="#USD" role="tab" aria-controls="USD" aria-selected="false">USD</a>
+      </li>
+            <li class="nav-item">
+        <a class="nav-link " id="EUR-tab" data-toggle="tab" href="#EUR" role="tab" aria-controls="EUR" aria-selected="false">EUR</a>
+      </li>
+      </ul>
+    <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="coin" role="tabpanel" aria-labelledby="coin-tab">
+        <div class="currency-content__list">
+                    <div class="currency-content__item" data-id="12" data-group="" data-valute="BTC">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/bitcoin.svg" alt=""/>
+              <span class="currency-content__item-name">Bitcoin</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">31</span>
+              <span class="currency-content__item-currency text-uppercase">BTC</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="65" data-group="" data-valute="BTC">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/exmo.svg" alt=""/>
+              <span class="currency-content__item-name">Exmo BTC</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">12</span>
+              <span class="currency-content__item-currency text-uppercase">BTC</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="42" data-group="" data-valute="ETH">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/ethereum.svg" alt=""/>
+              <span class="currency-content__item-name">Ethereum</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">393</span>
+              <span class="currency-content__item-currency text-uppercase">ETH</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="70" data-group="" data-valute="XRP">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/ripple.svg" alt=""/>
+              <span class="currency-content__item-name">Ripple</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">119 075</span>
+              <span class="currency-content__item-currency text-uppercase">XRP</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="13" data-group="" data-valute="LTC">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/litecoin.svg" alt=""/>
+              <span class="currency-content__item-name">Litecoin</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">434</span>
+              <span class="currency-content__item-currency text-uppercase">LTC</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="84" data-group="" data-valute="TRX">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/tron.svg" alt=""/>
+              <span class="currency-content__item-name">Tron</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">552 580</span>
+              <span class="currency-content__item-currency text-uppercase">TRX</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="80" data-group="" data-valute="XLM">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/stellar.svg" alt=""/>
+              <span class="currency-content__item-name">Stellar</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">29 979</span>
+              <span class="currency-content__item-currency text-uppercase">XLM</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="72" data-group="" data-valute="XMR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/monero.svg" alt=""/>
+              <span class="currency-content__item-name">Monero</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 213</span>
+              <span class="currency-content__item-currency text-uppercase">XMR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="46" data-group="" data-valute="DSH">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/dash.svg" alt=""/>
+              <span class="currency-content__item-name">Dash</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">427</span>
+              <span class="currency-content__item-currency text-uppercase">DSH</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="82" data-group="" data-valute="ADA">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/cardano.svg" alt=""/>
+              <span class="currency-content__item-name">Cardano</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">335 145</span>
+              <span class="currency-content__item-currency text-uppercase">ADA</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="71" data-group="" data-valute="NEO">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/neo.svg" alt=""/>
+              <span class="currency-content__item-name">Neo</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">90 354</span>
+              <span class="currency-content__item-currency text-uppercase">NEO</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="55" data-group="" data-valute="ZEC">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/zcash.svg" alt=""/>
+              <span class="currency-content__item-name">ZCash</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">117</span>
+              <span class="currency-content__item-currency text-uppercase">ZEC</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="52" data-group="" data-valute="XDG">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/dogecoin.svg" alt=""/>
+              <span class="currency-content__item-name">Dogecoin</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">9 326 074</span>
+              <span class="currency-content__item-currency text-uppercase">XDG</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="90" data-group="" data-valute="BNB">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/bnb.svg" alt=""/>
+              <span class="currency-content__item-name">Binance Coin</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">4 615</span>
+              <span class="currency-content__item-currency text-uppercase">BNB</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="73" data-group="" data-valute="USDT">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/tether.svg" alt=""/>
+              <span class="currency-content__item-name">Tether</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">109 095</span>
+              <span class="currency-content__item-currency text-uppercase">USDT</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="117" data-group="" data-valute="USDC">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-usdc.png" alt=""/>
+              <span class="currency-content__item-name">USD Coin</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">32 868</span>
+              <span class="currency-content__item-currency text-uppercase">USDC</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="116" data-group="" data-valute="TUSD">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-tusd.png" alt=""/>
+              <span class="currency-content__item-name">TrueUSD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">21 783</span>
+              <span class="currency-content__item-currency text-uppercase">TUSD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="122" data-group="" data-valute="MNC">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-maincoin.png" alt=""/>
+              <span class="currency-content__item-name">Maincoin</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">320 198</span>
+              <span class="currency-content__item-currency text-uppercase">MNC</span>
+            </div>
+          </div>
+          </div>
+      </div>
+            <div class="tab-pane fade " id="RUR" role="tabpanel" aria-labelledby="RUR-tab">
+        <div class="currency-content__list">
+                    <div class="currency-content__item" data-id="9" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/qiwi.svg" alt=""/>
+              <span class="currency-content__item-name">QIWI RUB</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">14 193 892</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="8" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/sberbank.svg" alt=""/>
+              <span class="currency-content__item-name">Сбербанк</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">10 313 330</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="18" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-tcsbank.png" alt=""/>
+              <span class="currency-content__item-name">Тинькофф</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">7 140 829</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="26" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-visamc.png" alt=""/>
+              <span class="currency-content__item-name">Visa/MasterCard RUB</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">10 625 788</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="108" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/mir.svg" alt=""/>
+              <span class="currency-content__item-name">МИР</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">8 287 482</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="3" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/vtb24.svg" alt=""/>
+              <span class="currency-content__item-name">ВТБ</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 460 712</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="7" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/alphabank.svg" alt=""/>
+              <span class="currency-content__item-name">Альфа Банк</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">7 656 422</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="32" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-binbank.png" alt=""/>
+              <span class="currency-content__item-name">Бинбанк</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 815 054</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="58" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/raiffeisen.svg" alt=""/>
+              <span class="currency-content__item-name">Райффайзенбанк</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 302 400</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="2" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-ruskiystandart.png" alt=""/>
+              <span class="currency-content__item-name">Русский стандарт</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 046 887</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="17" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-gazprombank.png" alt=""/>
+              <span class="currency-content__item-name">Газпромбанк</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 184 194</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="37" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/mobile_russia.svg" alt=""/>
+              <span class="currency-content__item-name">Мобильная связь РФ</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">5 555 732</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="15" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/yandex.svg" alt=""/>
+              <span class="currency-content__item-name">Яндекс.Деньги</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">18 914 726</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="124" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-maincash.png" alt=""/>
+              <span class="currency-content__item-name">Maincash RUR</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">498 563</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="41" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/payeer.svg" alt=""/>
+              <span class="currency-content__item-name">Payeer RUB</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">13 526 504</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="57" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/advcash.svg" alt=""/>
+              <span class="currency-content__item-name">Advanced Cash RUR</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">1 454 672</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="60" data-group="" data-valute="RUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/exmo.svg" alt=""/>
+              <span class="currency-content__item-name">Exmo RUR</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">6 168 659</span>
+              <span class="currency-content__item-currency text-uppercase">RUR</span>
+            </div>
+          </div>
+          </div>
+      </div>
+            <div class="tab-pane fade " id="USD" role="tabpanel" aria-labelledby="USD-tab">
+        <div class="currency-content__list">
+                    <div class="currency-content__item" data-id="123" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/ps/ps-maincash.png" alt=""/>
+              <span class="currency-content__item-name">Maincash USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">17 000</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="22" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/payeer.svg" alt=""/>
+              <span class="currency-content__item-name">Payeer USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">82 869</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="28" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/advcash.svg" alt=""/>
+              <span class="currency-content__item-name">Advanced Cash USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">56 270</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="66" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/epayments.svg" alt=""/>
+              <span class="currency-content__item-name">ePayments USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">107 542</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="1" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/perfect_money.svg" alt=""/>
+              <span class="currency-content__item-name">Perfect Money USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">71 191</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="59" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/exmo.svg" alt=""/>
+              <span class="currency-content__item-name">Exmo USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">31 512</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="16" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/perfect_money.svg" alt=""/>
+              <span class="currency-content__item-name">e-Voucher</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">71 191</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="47" data-group="" data-valute="USD">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/livecoin.svg" alt=""/>
+              <span class="currency-content__item-name">Livecoin USD</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">8 400</span>
+              <span class="currency-content__item-currency text-uppercase">USD</span>
+            </div>
+          </div>
+          </div>
+      </div>
+            <div class="tab-pane fade " id="EUR" role="tabpanel" aria-labelledby="EUR-tab">
+        <div class="currency-content__list">
+                    <div class="currency-content__item" data-id="48" data-group="" data-valute="EUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/advcash.svg" alt=""/>
+              <span class="currency-content__item-name">Advanced Cash EUR</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">45 722</span>
+              <span class="currency-content__item-currency text-uppercase">EUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="49" data-group="" data-valute="EUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/perfect_money.svg" alt=""/>
+              <span class="currency-content__item-name">Perfect Money EUR</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">40 060</span>
+              <span class="currency-content__item-currency text-uppercase">EUR</span>
+            </div>
+          </div>
+                    <div class="currency-content__item" data-id="61" data-group="" data-valute="EUR">
+            <div>
+              <img src="/res/exchangebox/uploads/svg/exmo.svg" alt=""/>
+              <span class="currency-content__item-name">Exmo EUR</span>
+            </div>
+            <div>
+              <span class="currency-content__item-count">1 850</span>
+              <span class="currency-content__item-currency text-uppercase">EUR</span>
+            </div>
+          </div>
+          </div>
+      </div>
+      </div>
+  </div>
+</div>
+<!-- /Обмен валюты -->
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+
+    VR.aSet('c1', "8");
+    VR.aSet('c2', "12");
+
+    VR.setChangesArgument("get_course", {c1: $('[name="c1"]').val(), c2: $('[name="c2"]').val()});
+
+    // повторение заявки
+    if($('#from_summ').length && $('#to_summ').length){
+      if($('#from_summ').val() || $('#to_summ').val()){
+        d = $('#from_summ').val() ? 0 : 1;
+        VR.calc($('#'+(d==0?'from':'to')+'_summ').val(), d);
+      }
+    }
+
+
+  })
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    VR.setChangesArgument("get_course", {c1: $('[name="c1"]').val(), c2: $('[name="c2"]').val()});
+
+    if("" == "1"){
+      d = $('[name="direct"]').val();
+      VR.calc($('[name="summ'+(parseInt(d)+1)+'"]').val(), d);
+    }
+
+  });
+</script><footer class="site-footer">
+  <div class="container">
+    <div class="row align-items-end">
+      <div class="col-lg-8">
+        <div class="site-footer__copyright">
+          © EX-money  |  <a href="/sitemap/">Карта сайта</a>  |  <a href="/rules/">Правила</a>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="site-footer__contact">
+          <a class="bestchange" href="https://www.bestchange.ru/ex-money-exchanger.html" target="_blank">
+            <img src="/res/exmoney/img/bestchange.png" alt="">
+          </a>
+          <a class="question" href="/contacts/">
+            Служба поддержки
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer><script async type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=explicit"></script>
+<script type="text/javascript">
+var multirecaptcha = {};
+var recaptchaOnloadCallback = function() {
+      multirecaptcha["auth-recaptcha"] = grecaptcha.render("auth-recaptcha", { sitekey: "6LezX4sUAAAAABQ7KvjliIXv41JBQbYdajw1y_Te" });
+multirecaptcha["register-recaptcha"] = grecaptcha.render("register-recaptcha", { sitekey: "6LezX4sUAAAAABQ7KvjliIXv41JBQbYdajw1y_Te" });
+multirecaptcha["lostpass-recaptcha"] = grecaptcha.render("lostpass-recaptcha", { sitekey: "6LezX4sUAAAAABQ7KvjliIXv41JBQbYdajw1y_Te" });    };
+</script>
+<!-- Важная информация -->
+<a data-src="#important_information" data-options='{"touch": false}' href="javascript:;" class="hidden-link"></a>
+
+<div style="display: none; max-width: 789px;" id="important_information" class="mt-5  w-100">
+  <div class="currency-content text-center">
+    <h3 class="currency-content__title text-center mb-5">Важная информация</h3>
+    <p>
+      Если Вы хотите убедиться в нашей надежности, узнайте мнения <br>
+      о нас на популярных интернет-ресурсах. Наш сервис является сертифицированным <br>
+      партнером платежных систем Яндекс деньги, Payeer, ADVcash, perfect Money.
+    </p>
+    <p>
+      Вы можете ознакомиться с реальными отзывами наших клиентов на крупнейших, <br>
+      зарекомендовавших себя как самые надежные мониторингах.
+    </p>
+    <a data-fancybox-close href="javascript:;" class="site-button mb-4">Начать обмен</a>
+    <div class="continued-exchange__review text-center">
+      <a href="#">Оставить отзыв</a> о нашем обменнике
+    </div>
+  </div>
+</div>
+<!-- /Важная информация -->
+
+<div style="display: none; max-width: 599px;" id="errorModal" class="mt-5 registration w-100">
+  <h3 class="registration__title text-center" id="errorModalTitle">Ошибка</h3>
+  <div id="errorModalContent"></div>
+  <div class="text-center mt-2">
+    <a class="registration__register" data-fancybox-close href="#" >Закрыть</a>
+  </div>
+</div>
+
+
+<script src="/res/exmoney/js/bundle.min.js"></script>
+<script src="/res/exmoney/js/main.js"></script>
+<script type="text/javascript" src="/javascript/?v=0.2.7"></script>
+
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+  (function(){ var widget_id = 'wUJa1Vo6hS';var d=document;var w=window;function l(){var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<!-- {/literal} END JIVOSITE CODE -->
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=72843180';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
+
+
+
+
+
+
+

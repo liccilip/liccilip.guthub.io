@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>4exchange.cash - автоматический обмен валют Bitcoin Ethereum Litecoin EXMO CODE Dash ZEC Visa/MC RUB Сбербанк РУБ Тинькофф Альфа-банк Промсвязьбанк ВТБ24 Advanced Cash Qiwi 4CASH </title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Обмен электронных валют Bitcoin Ethereum Litecoin EXMO CODE Dash ZEC Visa/MC RUB Сбербанк РУБ Тинькофф Альфа-банк Промсвязьбанк ВТБ24 Advanced Cash Qiwi 4CASH в автоматическом режиме. Партнёрская программа. Система скидок." />
+<meta name="robots" content="index, follow" />
+<meta name="msvalidate.01" content="F298F2CA737F022D9C832A6683BF5008" />
+<meta name="wot-verification" content="daacc3bf01ce43a7b4b7" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script src="public/template/resources/js/jquery-2.1.4.min.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/resources/scripts/jquery-migrate-1.2.1.min.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/resources/scripts/jquery-ui-1.10.4.custom.min.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/resources/scripts/jquery.jgrowl_minimized.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/resources/scripts/jquery.form.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/resources/scripts/jquery.numberMask.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/resources/scripts/jquery.maskedinput.min.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/template/resources/javascripts/script.main.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="public/template/resources/js/custom.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="public/template/resources/css/jquery-ui-1.9.1.custom.css" />
+<link rel="stylesheet" href="public/template/resources/css/custom.css" type="text/css" />
+<link rel="stylesheet" href="public/template/resources/css/responsive.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+<header>
+<div class="container">
+<nav class="navbar navbar-default new_navbar">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+<span class="sr-only">Навигация</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="logo navbar-brand" href="/">
+4exchange.cash
+<span>Обмен электронных валют</span>
+</a>
+<div class="info">
+<p><small><i class="fa fa-telegram" aria-hidden="true"></i> <a href="https://t.me/four_exchange_bot" target="_blank">four_exchange_bot</a></small></p>
+
+</div>
+</div>
+<div class="collapse navbar-collapse" id="navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right menu">
+<li>
+<a id="first" href="index.html" class="active">Обмен</a>
+</li>
+<li>
+<a href="agree.html">Соглашение</a>
+</li>
+<li>
+<a href="security.html">Безопасность</a>
+</li>
+<li>
+<a href="discounts.html">Бонусы</a>
+</li>
+<li>
+<a href="affiliate.html">Партнерам</a>
+</li>
+<li>
+<a href="blog.html">Блог</a>
+</li>
+<li>
+<a href="contacts.html">Контакты</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</header>
+<div class="container-fluid">
+</div>
+<div class="wrapper">
+<div class="custom-grid">
+<div class="container">
+<div class="row">
+<div>
+<div class="left col-md-7 col-xs-12">
+<p class="marquee" style="font-size: 16px;"><span>Сервис обмена работает в автоматическом режиме круглосуточно!</span></p>
+<div class="steps">
+<div class="item active">
+<span>Выберите<br />направление обмена</span>
+1
+</div>
+<div class="item">
+<span>Укажите<br />необходимые данные</span>
+2
+</div>
+<div class="item">
+<span>Оплатите<br />заявку</span>
+3
+</div>
+</div>
+<div id="ExchangeTable" class="row">
+<div class="col-md-5 col-xs-5">
+<div class="heading1">Отдаете</div>
+<ul class="FromCurrencies">
+<li data-currency="BITCOIN">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/BITCOIN.png" alt="" /></span>
+<span>Bitcoin</span>
+</li>
+<li data-currency="ETHEREUM">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ETHEREUM.png" alt="" /></span>
+<span>Ethereum</span>
+</li>
+<li data-currency="LITECOIN">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/LITECOIN.png" alt="" /></span>
+<span>Litecoin</span>
+</li>
+<li data-currency="EXMORUB">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/EXMORUB.png" alt="" /></span>
+<span>EXMO RUB</span>
+</li>
+ <li data-currency="EXMOUSD">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/EXMOUSD.png" alt="" /></span>
+<span>EXMO USD</span>
+</li>
+<li data-currency="DASH">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/DASH.png" alt="" /></span>
+<span>Dash</span>
+</li>
+<li data-currency="ZEC">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ZEC.png" alt="" /></span>
+<span>Zcash(ZEC)</span>
+</li>
+<li data-currency="ADVCUSD">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ADVCUSD.png" alt="" /></span>
+<span>Advanced Cash USD</span>
+</li>
+<li data-currency="QWRUB">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/QWRUB.png" alt="" /></span>
+<span>Qiwi RUB</span>
+</li>
+<li data-currency="CARDRUB">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/CARDRUB.png" alt="" /></span>
+<span>Visa/MC RUB</span>
+</li>
+<li data-currency="SBERRUB">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/SBERRUB.png" alt="" /></span>
+<span>Сбербанк РУБ</span>
+</li>
+<li data-currency="TINKOFF">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/TINKOFF.png" alt="" /></span>
+<span>Тинькофф</span>
+</li>
+<li data-currency="ALFARUB">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ALFARUB.png" alt="" /></span>
+<span>Альфа-банк РУБ</span>
+</li>
+<li data-currency="PSBANK">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/PSBANK.png" alt="" /></span>
+<span>Промсвязьбанк</span>
+</li>
+<li data-currency="TBRUB">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/TBRUB.png" alt="" /></span>
+<span>ВТБ24 РУБ</span>
+</li>
+<li data-currency="BALANCE">
+<span><img class="hidden-xs" src="public/resources/icons/currencies/BALANCE.png" alt="" /></span>
+<span>4CASH USD</span>
+</li>
+</ul>
+</div>
+<div class="col-md-7 col-xs-7 to-currencies-box">
+<div class="heading1">Получаете</div>
+<div class="to-currencies-box-inner">
+<ul class="ToCurrencies">
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/BITCOIN.png" alt="" /></span>
+<span>Bitcoin</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ETHEREUM.png" alt="" /></span>
+<span>Ethereum</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/LITECOIN.png" alt="" /></span>
+<span>Litecoin</span>
+</li>
+ <li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/EXMORUB.png" alt="" /></span>
+<span>EXMO RUB</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/EXMOUSD.png" alt="" /></span>
+<span>EXMO USD</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/DASH.png" alt="" /></span>
+<span>Dash</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ZEC.png" alt="" /></span>
+<span>Zcash(ZEC)</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ADVCUSD.png" alt="" /></span>
+<span>Advanced Cash USD</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/QWRUB.png" alt="" /></span>
+<span>Qiwi RUB</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/CARDRUB.png" alt="" /></span>
+<span>Visa/MC RUB</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/SBERRUB.png" alt="" /></span>
+<span>Сбербанк РУБ</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/TINKOFF.png" alt="" /></span>
+<span>Тинькофф</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/ALFARUB.png" alt="" /></span>
+<span>Альфа-банк РУБ</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/PSBANK.png" alt="" /></span>
+<span>Промсвязьбанк</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/TBRUB.png" alt="" /></span>
+<span>ВТБ24 РУБ</span>
+</li>
+<li>
+<span><img class="hidden-xs" src="public/resources/icons/currencies/BALANCE.png" alt="" /></span>
+<span>4CASH USD</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<script type="e13c40dfcd9abd97b1bc17a9-text/javascript">
+function ArrayLength( aArray ) {
+    var iCount = 0;
+    for( var sKey in aArray )
+        iCount -= -1;
+    return iCount;
+}
+$( function() {
+    var oExchangeTable = $( 'div#ExchangeTable' ),
+        oFromCurrencies = oExchangeTable.find( 'ul.FromCurrencies' ),
+        oToCurrencies = oExchangeTable.find( 'ul.ToCurrencies' ),
+        aCurrencies = {},
+        aRates = {};
+
+             aCurrencies['BITCOIN'] = {
+        'sName' : 'BITCOIN',
+        'sBilling' : 'BITCOIN',
+        'sTitle' : 'Bitcoin',
+        'sEquivalent' : 'BTC',
+        'dReserve' : 12.0108
+    };
+    aRates['BITCOIN'] = {};
+                  aCurrencies['ETHEREUM'] = {
+        'sName' : 'ETHEREUM',
+        'sBilling' : 'ETHEREUM',
+        'sTitle' : 'Ethereum',
+        'sEquivalent' : 'ETH',
+        'dReserve' : 424.23
+    };
+    aRates['ETHEREUM'] = {};
+                  aCurrencies['LITECOIN'] = {
+        'sName' : 'LITECOIN',
+        'sBilling' : 'LITECOIN',
+        'sTitle' : 'Litecoin',
+        'sEquivalent' : 'LTC',
+        'dReserve' : 280.689
+    };
+    aRates['LITECOIN'] = {};
+                  aCurrencies['EXMORUB'] = {
+        'sName' : 'EXMORUB',
+        'sBilling' : 'EXMO',
+        'sTitle' : 'EXMO RUB',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 12893.5
+    };
+    aRates['EXMORUB'] = {};
+                  aCurrencies['EXMOUSD'] = {
+        'sName' : 'EXMOUSD',
+        'sBilling' : 'EXMO',
+        'sTitle' : 'EXMO USD',
+        'sEquivalent' : 'USD',
+        'dReserve' : 0
+    };
+    aRates['EXMOUSD'] = {};
+                  aCurrencies['DASH'] = {
+        'sName' : 'DASH',
+        'sBilling' : 'DASH',
+        'sTitle' : 'Dash',
+        'sEquivalent' : 'DASH',
+        'dReserve' : 1.83731
+    };
+    aRates['DASH'] = {};
+                  aCurrencies['ZEC'] = {
+        'sName' : 'ZEC',
+        'sBilling' : 'ZEC',
+        'sTitle' : 'Zcash(ZEC)',
+        'sEquivalent' : 'ZEC',
+        'dReserve' : 37.2805
+    };
+    aRates['ZEC'] = {};
+                  aCurrencies['ADVCUSD'] = {
+        'sName' : 'ADVCUSD',
+        'sBilling' : 'ADVC',
+        'sTitle' : 'Advanced Cash USD',
+        'sEquivalent' : 'USD',
+        'dReserve' : 205.97
+    };
+    aRates['ADVCUSD'] = {};
+                  aCurrencies['QWRUB'] = {
+        'sName' : 'QWRUB',
+        'sBilling' : 'QW',
+        'sTitle' : 'Qiwi RUB',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['QWRUB'] = {};
+                  aCurrencies['CARDRUB'] = {
+        'sName' : 'CARDRUB',
+        'sBilling' : 'CARDRUB',
+        'sTitle' : 'Visa/MC RUB',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['CARDRUB'] = {};
+                  aCurrencies['SBERRUB'] = {
+        'sName' : 'SBERRUB',
+        'sBilling' : 'SBERRUB',
+        'sTitle' : 'Сбербанк РУБ',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['SBERRUB'] = {};
+                  aCurrencies['TINKOFF'] = {
+        'sName' : 'TINKOFF',
+        'sBilling' : 'TINKOFF',
+        'sTitle' : 'Тинькофф',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['TINKOFF'] = {};
+                  aCurrencies['ALFARUB'] = {
+        'sName' : 'ALFARUB',
+        'sBilling' : 'ALFA',
+        'sTitle' : 'Альфа-банк РУБ',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['ALFARUB'] = {};
+                  aCurrencies['PSBANK'] = {
+        'sName' : 'PSBANK',
+        'sBilling' : 'PSBANK',
+        'sTitle' : 'Промсвязьбанк',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['PSBANK'] = {};
+                  aCurrencies['TBRUB'] = {
+        'sName' : 'TBRUB',
+        'sBilling' : 'TBRUB',
+        'sTitle' : 'ВТБ24 РУБ',
+        'sEquivalent' : 'RUB',
+        'dReserve' : 0
+    };
+    aRates['TBRUB'] = {};
+                  aCurrencies['BALANCE'] = {
+        'sName' : 'BALANCE',
+        'sBilling' : 'BALANCE',
+        'sTitle' : '4CASH USD',
+        'sEquivalent' : 'USD',
+        'dReserve' : 335704
+    };
+    aRates['BALANCE'] = {};
+         
+             aRates['BITCOIN']['ADVCUSD'] = 1 / 4016.16;
+                  aRates['BITCOIN']['QWRUB'] = 1 / 260101;
+                  aRates['BITCOIN']['CARDRUB'] = 1 / 254898.98;
+                  aRates['BITCOIN']['SBERRUB'] = 1 / 254898.98;
+                  aRates['BITCOIN']['TINKOFF'] = 1 / 254898.98;
+                  aRates['BITCOIN']['ALFARUB'] = 1 / 254898.98;
+                  aRates['BITCOIN']['PSBANK'] = 1 / 254013;
+                  aRates['BITCOIN']['TBRUB'] = 1 / 254898.98;
+                  aRates['BITCOIN']['BALANCE'] = 1 / 3786.531;
+                  aRates['ETHEREUM']['ADVCUSD'] = 1 / 139.112;
+                  aRates['ETHEREUM']['QWRUB'] = 1 / 8910.47;
+                  aRates['ETHEREUM']['CARDRUB'] = 1 / 8732.2606;
+                  aRates['ETHEREUM']['SBERRUB'] = 1 / 8732.2606;
+                  aRates['ETHEREUM']['TINKOFF'] = 1 / 8732.2606;
+                  aRates['ETHEREUM']['ALFARUB'] = 1 / 8732.2606;
+                  aRates['ETHEREUM']['PSBANK'] = 1 / 8732.2606;
+                  aRates['ETHEREUM']['TBRUB'] = 1 / 8732.2606;
+                  aRates['ETHEREUM']['BALANCE'] = 1 / 129.718;
+                  aRates['LITECOIN']['ADVCUSD'] = 1 / 59.9663;
+                  aRates['LITECOIN']['QWRUB'] = 1 / 3824.52;
+                  aRates['LITECOIN']['CARDRUB'] = 1 / 3748.0296;
+                  aRates['LITECOIN']['SBERRUB'] = 1 / 3748.0296;
+                  aRates['LITECOIN']['TINKOFF'] = 1 / 3748.0296;
+                  aRates['LITECOIN']['ALFARUB'] = 1 / 3748.0296;
+                  aRates['LITECOIN']['PSBANK'] = 1 / 3748.0296;
+                  aRates['LITECOIN']['TBRUB'] = 1 / 3748.0296;
+                  aRates['LITECOIN']['BALANCE'] = 1 / 55.6771;
+                  aRates['EXMORUB']['QWRUB'] = 1 / 1;
+                  aRates['EXMORUB']['CARDRUB'] = 1 / 0.98;
+                  aRates['EXMORUB']['SBERRUB'] = 1 / 0.98;
+                  aRates['EXMORUB']['TINKOFF'] = 1 / 0.98;
+                  aRates['EXMORUB']['ALFARUB'] = 1 / 0.98;
+                  aRates['EXMORUB']['PSBANK'] = 1 / 0.98;
+                  aRates['EXMORUB']['TBRUB'] = 1 / 0.98;
+                  aRates['EXMOUSD']['QWRUB'] = 1 / 63.4884;
+                  aRates['EXMOUSD']['CARDRUB'] = 1 / 62.2186;
+                  aRates['EXMOUSD']['SBERRUB'] = 1 / 62.2186;
+                  aRates['EXMOUSD']['TINKOFF'] = 1 / 62.2186;
+                  aRates['EXMOUSD']['ALFARUB'] = 1 / 62.2186;
+                  aRates['EXMOUSD']['PSBANK'] = 1 / 62.2186;
+                  aRates['EXMOUSD']['TBRUB'] = 1 / 62.2186;
+                  aRates['DASH']['ADVCUSD'] = 1 / 93.1299;
+                  aRates['DASH']['QWRUB'] = 1 / 5926.66;
+                  aRates['DASH']['CARDRUB'] = 1 / 5808.1268;
+                  aRates['DASH']['SBERRUB'] = 1 / 5808.1268;
+                  aRates['DASH']['TINKOFF'] = 1 / 5808.1268;
+                  aRates['DASH']['ALFARUB'] = 1 / 5808.1268;
+                  aRates['DASH']['PSBANK'] = 1 / 5808.1268;
+                  aRates['DASH']['TBRUB'] = 1 / 5808.1268;
+                  aRates['DASH']['BALANCE'] = 1 / 86.2799;
+                  aRates['ZEC']['ADVCUSD'] = 1 / 53.5174;
+                  aRates['ZEC']['QWRUB'] = 1 / 3431.08;
+                  aRates['ZEC']['CARDRUB'] = 1 / 3362.4584;
+                  aRates['ZEC']['SBERRUB'] = 1 / 3362.4584;
+                  aRates['ZEC']['TINKOFF'] = 1 / 3362.4584;
+                  aRates['ZEC']['ALFARUB'] = 1 / 3362.4584;
+                  aRates['ZEC']['PSBANK'] = 1 / 3362.4584;
+                  aRates['ZEC']['TBRUB'] = 1 / 3362.4584;
+                  aRates['ZEC']['BALANCE'] = 1 / 49.9494;
+                  aRates['ADVCUSD']['BITCOIN'] = 4136.6448 / 1;
+                  aRates['ADVCUSD']['ETHEREUM'] = 143.2854 / 1;
+                  aRates['ADVCUSD']['LITECOIN'] = 61.7653 / 1;
+                  aRates['ADVCUSD']['EXMOUSD'] = 1.03 / 1;
+                  aRates['ADVCUSD']['DASH'] = 95.9238 / 1;
+                  aRates['ADVCUSD']['ZEC'] = 55.1229 / 1;
+                  aRates['ADVCUSD']['QWRUB'] = 1 / 64.0292;
+                  aRates['ADVCUSD']['CARDRUB'] = 1 / 62.7486;
+                  aRates['ADVCUSD']['SBERRUB'] = 1 / 62.7486;
+                  aRates['ADVCUSD']['TINKOFF'] = 1 / 62.7486;
+                  aRates['ADVCUSD']['ALFARUB'] = 1 / 62.7486;
+                  aRates['ADVCUSD']['PSBANK'] = 1 / 62.5571;
+                  aRates['ADVCUSD']['TBRUB'] = 1 / 62.7486;
+                  aRates['QWRUB']['BITCOIN'] = 273106.05 / 1;
+                  aRates['QWRUB']['ETHEREUM'] = 9266.8888 / 1;
+                  aRates['QWRUB']['LITECOIN'] = 3977.5008 / 1;
+                  aRates['QWRUB']['EXMORUB'] = 1.04 / 1;
+                  aRates['QWRUB']['EXMOUSD'] = 66.0279 / 1;
+                  aRates['QWRUB']['DASH'] = 6177.42 / 1;
+                  aRates['QWRUB']['ZEC'] = 3568.3232 / 1;
+                  aRates['QWRUB']['ADVCUSD'] = 66.5904 / 1;
+                  aRates['QWRUB']['BALANCE'] = 70.6537 / 1;
+                  aRates['CARDRUB']['BITCOIN'] = 293133.827 / 1;
+                  aRates['CARDRUB']['ETHEREUM'] = 10042.0997 / 1;
+                  aRates['CARDRUB']['LITECOIN'] = 4310.234 / 1;
+                  aRates['CARDRUB']['ZEC'] = 3866.8272 / 1;
+                  aRates['BALANCE']['BITCOIN'] = 3975.8576 / 1;
+                  aRates['BALANCE']['ETHEREUM'] = 134.9067 / 1;
+                  aRates['BALANCE']['LITECOIN'] = 57.9042 / 1;
+                  aRates['BALANCE']['DASH'] = 89.9304 / 1;
+                  aRates['BALANCE']['ZEC'] = 51.9474 / 1;
+                  aRates['BALANCE']['QWRUB'] = 1 / 65.4201;
+         
+             if( ArrayLength( aRates['BITCOIN'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="BITCOIN"]' ).hide();
+                  if( ArrayLength( aRates['ETHEREUM'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="ETHEREUM"]' ).hide();
+                  if( ArrayLength( aRates['LITECOIN'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="LITECOIN"]' ).hide();
+                  if( ArrayLength( aRates['EXMORUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="EXMORUB"]' ).hide();
+                  if( ArrayLength( aRates['EXMOUSD'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="EXMOUSD"]' ).hide();
+                  if( ArrayLength( aRates['DASH'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="DASH"]' ).hide();
+                  if( ArrayLength( aRates['ZEC'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="ZEC"]' ).hide();
+                  if( ArrayLength( aRates['ADVCUSD'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="ADVCUSD"]' ).hide();
+                  if( ArrayLength( aRates['QWRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="QWRUB"]' ).hide();
+                  if( ArrayLength( aRates['CARDRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="CARDRUB"]' ).hide();
+                  if( ArrayLength( aRates['SBERRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="SBERRUB"]' ).hide();
+                  if( ArrayLength( aRates['TINKOFF'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="TINKOFF"]' ).hide();
+                  if( ArrayLength( aRates['ALFARUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="ALFARUB"]' ).hide();
+                  if( ArrayLength( aRates['PSBANK'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="PSBANK"]' ).hide();
+                  if( ArrayLength( aRates['TBRUB'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="TBRUB"]' ).hide();
+                  if( ArrayLength( aRates['BALANCE'] ) == 0 )
+        oFromCurrencies.find( 'li[data-currency="BALANCE"]' ).hide();
+         
+    oFromCurrencies.find( 'li' ).bind( 'click', function() {
+        oFromCurrencies.find( 'li' ).removeClass( 'active' );
+        $( this ).addClass( 'active' );
+        var sFromCurrency = $( this ).attr( 'data-currency' ), sHTML = '';
+        for( var sToCurrency in aRates[sFromCurrency] )
+            if( sFromCurrency == "QWRUB" && sToCurrency == "ADVCUSD" && 0 ) {
+              sHTML += '<li onclick="window.location = \'?sFromCurrency='+sFromCurrency+'&sToCurrency='+sToCurrency+'\'"><span><img class="hidden-xs" src="public/resources/icons/currencies/'+sToCurrency+'.png" alt="" /></span><span>'+aCurrencies[sToCurrency].sTitle+'</span><div class="subinfo"><small>Доступно:</small>'+57000+'</div></li>';
+            }
+            else {
+              sHTML += '<li onclick="window.location = \'?sFromCurrency='+sFromCurrency+'&sToCurrency='+sToCurrency+'\'"><span><img class="hidden-xs" src="public/resources/icons/currencies/'+sToCurrency+'.png" alt="" /></span><span>'+aCurrencies[sToCurrency].sTitle+'</span><div class="subinfo"><small>Доступно:</small>'+aCurrencies[sToCurrency].dReserve+'</div></li>';
+            }
+            
+//        oToCurrencies.find( 'ul' ).html( sHTML );
+        oToCurrencies.html( sHTML );
+    } );
+
+    oFromCurrencies.find( 'li:first-child' ).click();
+} );
+</script>
+<p>
+<a class="btn" href="affiliate.html" style="text-decoration: none">Отзывы</a>
+<a class="btn" href="rates.html" style="text-decoration: none">Курсы обмена</a>
+</p>
+<div class="BoxForm">
+<div class="heading2">Оповещение о резервах</div>
+<div class="user_agreement">
+<p>Если в обменном пункте не хватает валюты по выбранному Вами направлению обмена, Вы можете подписаться на оповещение о пополнении резерва. При пополнении резерва Вы получите уведомление на указанный Вами e-mail.</p>
+</div>
+<form action="subscribe-reserves.html" method="post" class="registration" id="reCaptchaForm2">
+<div class="inputs">
+<input name="sMod" type="hidden" value="subscribe" />
+<div class="row">
+<label class="col-md-2" for="sEmail">Email</label>
+<div class="col-md-10 col-xs-12"><input name="sEmail" id="sEmail" type="email" maxlength="129" value="" required="required" autocomplete="off" /></div>
+</div>
+<div class="row">
+<label class="col-md-2" for="dAmount">Сумма</label>
+<div class="col-md-6 col-xs-12"><input name="dAmount" id="dAmount" type="text" class="decimal" maxlength="11" value="" autocomplete="off" required="required" /></div>
+<div class="col-md-4 col-xs-12">
+<span class="select fa">
+<select name="sCurrency" required="required">
+<option value="">Выберите валюту</option>
+<option value="BITCOIN" class="BITCOIN">Bitcoin</option>
+<option value="ETHEREUM" class="ETHEREUM">Ethereum</option>
+<option value="LITECOIN" class="LITECOIN">Litecoin</option>
+<option value="EXMORUB" class="EXMORUB">EXMO RUB</option>
+<option value="EXMOUSD" class="EXMOUSD">EXMO USD</option>
+<option value="DASH" class="DASH">Dash</option>
+<option value="ZEC" class="ZEC">Zcash(ZEC)</option>
+<option value="ADVCUSD" class="ADVCUSD">Advanced Cash USD</option>
+<option value="QWRUB" class="QWRUB">Qiwi RUB</option>
+<option value="CARDRUB" class="CARDRUB">Visa/MC RUB</option>
+<option value="SBERRUB" class="SBERRUB">Сбербанк РУБ</option>
+ <option value="TINKOFF" class="TINKOFF">Тинькофф</option>
+<option value="ALFARUB" class="ALFARUB">Альфа-банк РУБ</option>
+<option value="PSBANK" class="PSBANK">Промсвязьбанк</option>
+<option value="TBRUB" class="TBRUB">ВТБ24 РУБ</option>
+</select>
+</span>
+</div>
+</div>
+<hr />
+<div class="row">
+<div class="main_subcr_button col-md-4 col-xs-12">
+<button class="g-recaptcha" id="captcha2" type="submit">Подписаться</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+
+</div>
+<div class="right col-md-5 col-xs-12">
+<div class="whiteBox autoriz">
+<form id="reCaptchaForm1" action="clients-login.html" method="post">
+<input name="sMod" type="hidden" value="login" />
+<div class="heading6">Авторизируйтесь, чтобы получать <a href="https://4exchange.cash/discounts.html" target="_blank"><b>БОНУСЫ</b></a> и просматривать статистику!</div>
+<p>&nbsp;</p>
+<ul>
+<li>
+<label>Email</label>
+<input type="email" name="sEmail" value="" maxlength="129" required="required" autocomplete="off" />
+</li>
+<li>
+<label>Пароль</label>
+<input type="password" name="sPassword" value="" maxlength="30" required="required" autocomplete="off" />
+</li>
+<li>
+
+</li>
+<li>
+<input id="captcha1" class="g-recaptcha sEnter" type="submit" value="Войти" name="sEnter" />
+<a class="btn sReg" href="clients-signup.html">Зарегистрироваться</a>
+</li>
+</ul>
+<p>
+<a href="clients-forgot.html">Забыли пароль?</a>
+</p>
+</form>
+</div>
+<div class="whiteBox">
+<div class="heading6">Резервы валют</div>
+<div class="reserves">
+<p>
+<span>
+<img src="public/resources/icons/currencies/BITCOIN.png" alt="" />
+Bitcoin
+</span>
+<span class="iBITCOINReserve heading7">12.0108</span>
+</p>
+<hr />
+<p>
+<span>
+<img src="public/resources/icons/currencies/ETHEREUM.png" alt="" />
+Ethereum
+</span>
+<span class="iETHEREUMReserve heading7">424.23</span>
+</p>
+<hr />
+<p>
+<span>
+<img src="public/resources/icons/currencies/LITECOIN.png" alt="" />
+Litecoin
+</span>
+<span class="iLITECOINReserve heading7">280.689</span>
+</p>
+<hr />
+<p>
+<span>
+<img src="public/resources/icons/currencies/EXMORUB.png" alt="" />
+EXMO RUB
+</span>
+<span class="iEXMORUBReserve heading7">12893.5</span>
+</p>
+<hr />
+<p>
+<span>
+<img src="public/resources/icons/currencies/DASH.png" alt="" />
+Dash
+</span>
+<span class="iDASHReserve heading7">1.83731</span>
+</p>
+<hr />
+<p>
+<span>
+<img src="public/resources/icons/currencies/ZEC.png" alt="" />
+Zcash(ZEC)
+</span>
+<span class="iZECReserve heading7">37.2805</span>
+</p>
+<hr />
+<p>
+<span>
+<img src="public/resources/icons/currencies/ADVCUSD.png" alt="" />
+Advanced Cash USD
+</span>
+<span class="iADVCUSDReserve heading7">205.97</span>
+</p>
+<hr />
+</div>
+<p><a href="rates.html">Экспорт курсов</a></p>
+</div>
+ <div class="whiteBox">
+<div class="heading6">Время работы</div>
+<div class="reserves">
+<p><span class="heading7">Сервис обмена работает в автоматическом режиме круглосуточно.</span></p>
+<hr />
+<p><span class="heading7">Выплаты на банковские карты проводятся с 08:00 до 00:00 МСК</span></p>
+<hr />
+<p>Чат онлайн:
+<span class="heading7">10.00 - 20.00 МСК</span>
+<small>(Остальное время, а так же суббота и воскресенье - в дежурном режиме)</small>
+</p>
+<p>Телефон: +380987629698
+<span class="heading7">10.00 - 20.00 МСК</span>
+</p>
+<hr />
+</div>
+</div>
+<div class="whiteBox">
+<div class="heading6">Статистика</div>
+<p>
+Предыдущий обмен: <b class="sLastExchangeDate StopWatch">00:00:00</b> назад<br />
+<b class="sLastExchange"></b>
+</p>
+</div>
+<div class="share">
+<div class="share42init"></div>
+<script async src="public/template/resources/js/share42.js" type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-lg-2 info">
+<small>
+</small>
+</div>
+<div class="col-md-7 menu">
+<a href="agree.html">Соглашение</a>
+<a href="discounts.html">Бонусы</a>
+<a href="affiliate.html">Партнерам</a>
+<a href="faq.html">ЧаВо</a>
+<a href="contacts.html">Контакты</a>
+</div>
+<div class="col-md-3">
+<a href="https://w.qiwi.com/" onclick="if (!window.__cfRLUnblockHandlers) return false; target='_blank'" data-cf-modified-e13c40dfcd9abd97b1bc17a9-=""><img src="public/resources/banners/QIWI.png" alt="" /></a>
+<a href="https://bitcoin.org/ru/" onclick="if (!window.__cfRLUnblockHandlers) return false; target='_blank'" data-cf-modified-e13c40dfcd9abd97b1bc17a9-=""><img src="public/resources/banners/BITCOIN.png" alt="" /></a>
+</div>
+</div>
+</div>
+<div class="copyright">
+<div class="copyright-inner">
+&copy; 2015-2019 4exchange.cash — Сервис автоматического обмена криптовалют и фиата
+</div>
+</div>
+</footer>
+
+
+
+<script type="e13c40dfcd9abd97b1bc17a9-text/javascript">
+  var onloadCallback = function() {
+  $(".g-recaptcha").each(function() {
+      var object = $(this);
+      grecaptcha.render(object.attr("id"), {
+          "sitekey" : "6Lee2nMUAAAAACKrIosHFDICjqjIemQpDe3YUdG9",
+          "callback" : function(token) {
+              object.parents('form').find(".g-recaptcha-response").val(token);
+              object.parents('form').submit();
+          }
+      });
+  })
+  };
+  </script>
+
+<script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit' async defer type="e13c40dfcd9abd97b1bc17a9-text/javascript"></script>
+
+
+<script data-cfasync="false">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-91446534-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+
+<script data-cfasync="false">
+(function(){ var widget_id = '4F2SKkfsQ5';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="e13c40dfcd9abd97b1bc17a9-|49" defer=""></script></body>
+</html>

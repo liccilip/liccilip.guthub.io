@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Xbit.Money Обмен: Bitcoin, Crypto, WM, YM, Visa/MC, P24, iBox, Steam</title>
+
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='bootstrap style-css'  href='https://xbit.money/wp-content/themes/xbit/css/bootstrap-4.1.1.min.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://xbit.money/wp-content/themes/xbit/style.css?ver=201902011555' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://xbit.money/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://xbit.money/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=1552902425'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/themes/xbit/js/bootstrap-4.1.1.min.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/themes/xbit/js/jquery-select.js?ver=1.5'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/themes/xbit/js/jquery-checkbox.js?ver=1.5'></script>
+<script type='text/javascript' src='https://xbit.money/wp-content/themes/xbit/js/site.js?ver=201811021200'></script>
+<script type='text/javascript' src='https://xbit.money/premiumjs.js?lang=ru&#038;ver=1552909625'></script>
+	<link rel="shortcut icon" href="/wp-content/themes/xbit/images/xbit-logo-dark-bcg.svg" type="image/svg+xml" />
+	<link rel="icon" href="/wp-content/themes/xbit/images/xbit-logo-dark-bcg.svg" type="image/svg+xml" />
+	<link rel='canonical' href='https://xbit.money/' />
+<meta name="keywords" content="Обмен криптовалют, обмен электронных денег,  Биткоин на карту Visa, вывод Ethereum на карту Visa, обмен Ripple на карту Visa, обмен DASH, обмен Litecoin, вывести Биткоин, вывести DASH, купить litecoin,  купить Bitcoin Cash ,обмен WebMoney, обмен Yandex Money вывести webmoney, вывод wmz, вывод wmr, вывод webmoney на карту visa, webmoney вывод приватбанк, вывод webmoney (вебмани) на карту Visa/MasterCard, пополнение webmoney, пополнить вебмани, пополнить webmoney,  обмен вебмани, обменять webmoney, онлайн обмен bitcoin, онлайн обмен webmoney, обмен  яндекс деньги на карту visa,  обменник wmz, купить webmoney, купить вебмани, ввод wmz, ввод wmu, ввод WMR, купить Yandex Money, купить Яндекс деньги, продать Яндекс деньги, продать Yandex Money, обмен вебмани, вебмани юа, вебмани украина, обменник вебмани, пополнить вебмани, вывод вэбмани, 
+вывод вебмани, пополнения вебмани через приват24, пополнить вебмани через приват24, вебмани обмен, как вывести деньги с вебмани, как пополнить вебмани, обменять вебмани, курс вебмани, вывести вебмани, обмен валют вебмани, как пополнить вебмани через приват24, как снять деньги с вебмани, біткоїн курс, пополнение вебмани через приват24, обменник онлайн,пополнить webmoney через приват24, купить Биткоин в терминале, пополнить Биткоин в терминале
+обмен биткоин, купить биткоин через приват24, bitcoin приватбанк, btc usd курс, вывод биткоинов на приват24,
+wmr на приват24, обменять wmr на wmu, обмен вебмани на приват24, обмен вм, webmoney приват24,
+wmr wmu, обмен wmu на wmz, вебмани эксчендж, курс валют вебмани, купить вебмани, webmoney кошелек вход, uah to rub,
+курс валют в банках харькова, курс доллара купить, курс валюты яндекс, авто обмен, купить wmu, регистрация webmoney, пополнить вебмани через приват, перевести деньги на карту, курс валют обменник, курс валюты рубля, кошелек webmoney, курс валют гривна, курс евро на сегодня украина, конвертер валют биткоин, веб кошелек, курс гривны к доллару график, курс валют рубль к гривне, обмін валют онлайн, пополнить вебмани с карты, регистрация web money, webmoney z-кошелек, webmoney exchange, купить биткоин приват24, bitcoin obmen, курс ripple, яндекс гроші, яндекс мани, wmu, vebmani,  пополнить карту приватбанка
+купить биткоин киев, купить биткоины, ripple кошелек, обмен webmoney, вебмани обмен, web money, как вывести деньги с веб мани,
+курс виза, как вывести деньги с вебмани, обмен биткоин на приват24, приват24 биткоин,  как обналичить биткоин, купить биткоин в украине,
+как купить биткоин в украине, купити біткоін, bitcoin обмен, биткоин приват24, bitexchanger, вывод биткоинов, биткоин 24, zcash кошелек, ripple usd, кошелек ripple, приватбанк биткоин, биржа биткоин украина, monero to usd, купить биткоин за гривны, bitcoin обмен, биткоин приват24, купить биткоин через приват24, zcash to usd, bitcoin приватбанк, btc usd курс, вывод биткоинов на приват24, wmr на приват24, обменять wmr на wmu,
+обмен вебмани на приват24, как купить биткоин украина, купить ethereum украина, продам биткоин, что такое биткоин адрес, ltc, лайткоин, 
+dogecoin usd, обналичить биткоин, купить биткоин за доллары, ethereum купить, вывод webmoney, обменять wmu на wmr, btc uah, privat24 bitcoin, купить 
+dogecoin, bitcoin приват24, btc cash, купить ltc, купить биткоин украина, биткоин купить украина, bit-changer, обменники btc, вывод биткоинов украина, курс xrp, купить догикоин, обмен bitcoin, 0.02 btc to usd, купить bitcoin приват24, обменять bitcoin, bitexchange, litecoin купить, кошелек zcash, купить эфириум украина, купить usdt, обменник валют онлайн, биткоин купить, куплю биткоин, btc to eth вывод вебмани на карту, вывод киви на приват24, bit,
+обмен яндекс на приват24, курс валюты яндекс, обмен яндекс на приват24,, приват24 яндекс деньги, яндекс money, обмен яндекс на приват, yandex money, yandex деньги, yandex dengi, лбменять биткоин, ghjlfnm wmz киев, вывод денег с webmoney, btc to usd, btc to wmz
+вывод средств с вебмани, как вывести деньги из вебмани,
+перевести деньги с вебмани на карту приватбанка, обменник Xbit.Money, обменник Xbit Money,  купить steam" />
+<meta name="description" content="Xbit.Money Обмен криптовалют Bitcoin, Litecoin, Bitcoin Cash, Visa / MasterCard, Приват24, iBox, WebMoney, Yandex Money, Qiwi, Steam" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://xbit.money/?rid=241" />
+<meta property="og:site_name" content="Надежный и быстрый обмен цифровых ценностей: BTC, ETH, LTC, BCH, USDT, WM, YM, Visa/MC, P24, iBox" />
+<meta property="og:description" content="Xbit.Money Обмен криптовалют Bitcoin, Litecoin, Bitcoin Cash, Visa/MasterCard, Приват24, терминалы iBox, WebMoney, Yandex Money, Steam" />
+<meta property="og:title" content="Xbit.Money Обмен: Bitcoin, Crypto, WM, YM, Visa/MC, P24, iBox, Steam" />
+<meta property="og:image" content="https://xbit.money/wp-content/uploads/xbit-logo-white-bcg.png" />
+<meta name="capitaller" content="9cfaec2d633fec322bf635251cd6d100c6b98f26"/>
+<link rel="alternate" hreflang="ru" href="https://xbit.money/?rid=241" />
+<link rel="alternate" hreflang="en" href="https://xbit.money/en/?rid=241" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125185401-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-125185401-1');
+</script>
+<script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter48871460 = new Ya.Metrika2({ id:48871460, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ecommerce:"dataLayer" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/48871460" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+    <script type="text/javascript">
+var LHCChatOptions = {};
+LHCChatOptions.opt = {widget_height:340,widget_width:300,popup_height:520,popup_width:500,domain:'xbit.money'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+var referrer = (document.referrer) ? encodeURIComponent(document.referrer.substr(document.referrer.indexOf('://')+1)) : '';
+var location  = (document.location) ? encodeURIComponent(window.location.href.substring(window.location.protocol.length)) : '';
+po.src = 'https://chat.xbit.money/index.php/rus/chat/getstatus/(click)/internal/(position)/middle_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(identifier)/xbit.money?r='+referrer+'&l='+location;
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://xbit.money/wp-content/themes/xbit/images/bg.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="https://xbit.money/wp-content/uploads/cropped-xbit-logo-white-bcg-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://xbit.money/wp-content/uploads/cropped-xbit-logo-white-bcg-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://xbit.money/wp-content/uploads/cropped-xbit-logo-white-bcg-180x180.png" />
+<meta name="msapplication-TileImage" content="https://xbit.money/wp-content/uploads/cropped-xbit-logo-white-bcg-270x270.png" />
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4 custom-background ">
+<div id="container">
+
+		
+	
+
+	
+
+	<!-- top menu -->
+    <nav class="container navbar navbar-expand-xl navbar-dark bg-transparent topmenu">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+                <a href="https://xbit.money" class="navbar-brand mr-auto">
+            
+                            <img src="/wp-content/themes/xbit/images/xbit-logo-dark-bcg.svg" alt="" />
+            
+                    </a>
+        
+        <div class="collapse navbar-collapse" id="">
+            <ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu navbar-nav mr-auto"><li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-362"><a href="https://xbit.money/"><span>Обмен</span></a></li>
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://xbit.money/terms/"><span>Скидки</span></a></li>
+<li id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="https://xbit.money/partnerskaya-programma/"><span>Партнерская программа</span></a></li>
+<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-348"><a href="https://xbit.money/reviews/"><span>Отзывы</span></a></li>
+</ul>        </div>
+        <ul id="top_login">
+                            <li class="d-block d-xl-none"><a href="https://xbit.money/login/" class="toplink toplink_signup">Войти</a></li>
+                <li class="d-none d-xl-block"><a href="https://xbit.money/login/" class="toplink toplink_signin">Войти</a></li>
+                <li class="d-none d-xl-block"><a href="https://xbit.money/register/" class="toplink toplink_signup">Регистрация</a></li>
+                    </ul>
+        <div class="d-none d-xl-block"><div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://xbit.money/?rid=241" class="langlist_li ">
+					RU
+				</a>
+				<a href="https://xbit.money/en/?rid=241" class="langlist_li ">
+					ENG
+				</a>
+			</div>
+		</div></div></div>
+
+        <div class="sidebar-menu-wrap"></div>
+        <div class="sidebar-menu">
+                            <p>Для учета персональной скидки <a href="/login" class="xtp_link">войдите</a> в аккаунт</p>
+                <ul class="tmenu">
+                    <li class="menu-item">
+                        <a href="https://xbit.money/login/">Авторизация</a>
+                    </li>
+                </ul>
+                        <ul id="menu-verhnee-menyu-top-menu-1" class="tmenu js_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-362"><a href="https://xbit.money/"><span>Обмен</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://xbit.money/terms/"><span>Скидки</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><a href="https://xbit.money/partnerskaya-programma/"><span>Партнерская программа</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-348"><a href="https://xbit.money/reviews/"><span>Отзывы</span></a></li>
+</ul>            
+		<ul class="sidebar-menu-list">
+			<li class="menu-item" data-toggle="collapse" data-target="#lang-content" 
+			       aria-controls="lang-content" aria-expanded="false">
+			    <a href="#">RU</a>
+			</li>
+		</ul>
+        <div class="collapse" id="lang-content">
+            <ul class="sidebar-menu-list">
+                        <li class="menu-item submenu-item current-menu-item">
+                            <a href="https://xbit.money/?rid=241">
+                                RU
+                            </a>
+                        </li>
+                        <li class="menu-item submenu-item ">
+                            <a href="https://xbit.money/en/?rid=241">
+                                ENG
+                            </a>
+                        </li>
+            </ul>
+		</div>        </div>
+    </nav>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+
+		
+				<div class="homepage_wrap">
+
+		<div class="home_wtext_wrap">
+		<div class="home_wtext_ins container">
+			<div class="home_wtext_block">
+				<div class="home_wtext_title"></div>
+				<div class="home_wtext_div">
+					<div class="text">
+						<p>Точный обмен криптовалют и цифровых ценностей:<br />
+Bitcoin, Litecoin, Bitcoin Cash ABC, WebMoney, YM, Visa / MasterCard, Privat24, Steam</p>
+<h2><strong>!!!NEW!!! Пробуй Telegram bot <a href="https://web.telegram.org/#/im?p=@xbitmoneybot" rel="noopener" target="_blank"><strong>@xbitmoneybot</strong></a> !!!NEW!!!</strong></h2>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+		
+	<div class="xchange_table_wrap container">
+		
+	<div class="xchange_type_list">
+		<div class="xchange_type_list_ins">
+
+			<div class="xtl_table_wrap">
+				<div class="xtl_table_wrap_ins">
+					<div class="xtl_html_wrap">
+						<div class="xtl_html_abs js_loader"></div>
+						
+						<div id="js_html">
+
+							
+		<div class="xtl_table_body_wrap row">
+			<div class="col-md-6">
+			    <div class="xtl_table_title mb-3">
+                    <div class="xtl_table_title_ins">
+                        Вы отдаете
+                    </div>
+                </div>
+									
+				<div class="xtl_ico_wrap">
+					<div class="xtl_ico" style="background: url(/wp-content/themes/xbit/images/cryptocurrency/visa_mc.svg) no-repeat center center;"></div>
+				</div>
+										
+				<div class="xtl_select_wrap">
+					<select name="" id="js_left_sel" class="imager" autocomplete="off"><option value="11"  selected='selected' data-img="/wp-content/themes/xbit/images/cryptocurrency/visa_mc.svg">Visa/MC only UAH</option><option value="28"  data-img="/wp-content/uploads/Privatbank.png">Privat24 UAH</option><option value="26"  data-img="/wp-content/themes/xbit/images/cryptocurrency/visa_mc.svg">Visa/MC world UAH</option><option value="9"  data-img="/wp-content/themes/xbit/images/cryptocurrency/bitcoin_icon.svg">Bitcoin BTC</option><option value="15"  data-img="/wp-content/themes/xbit/images/cryptocurrency/litecoin.svg">Litecoin LTC</option><option value="12"  data-img="/wp-content/themes/xbit/images/cryptocurrency/bitcoin_cash.svg">BCHABC BCH</option><option value="3"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM USD</option><option value="4"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM RUB</option><option value="53"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM WMX</option><option value="14"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM UAH</option><option value="19"  data-img="/wp-content/themes/xbit/images/cryptocurrency/YM.svg">YM RUB</option><option value="29"  data-img="/wp-content/themes/xbit/images/cryptocurrency/qiwi-1.svg">Qiwi RUB</option><option value="55"  data-img="https://xbit.money/wp-content/themes/xbit/images/cryptocurrency/dollar_icon.svg">Наличные USD</option>	
+					</select>						
+				</div>
+						<div class="xtl_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name="sum1"  autocomplete="off" cash-id="sum1" data-decimal="2" class="js_decimal js_sum1 cache_data" value="100" />
+							<div class="js_error js_sum1_error"></div>
+						</div>
+						<div class="xtl_commis_wrap js_wrap_error js_wrap_error_br " >
+							<div class="xtl_commis_text">С комиссией</div>
+							<input type="text" name=""  autocomplete="off" class="js_decimal js_sum1c" data-decimal="2" value="106" />
+								<div class="js_error js_sum1c_error"></div>				
+							<div class="clear"></div>
+						</div><div class="xtl_line">Для учета персональной скидки <a href="/login" class="xtp_link">войдите</a> в аккаунт</div></div>
+			<div class="xtl-change d-none d-md-block">
+				<a href="#" class="xtl_change" id="js_reload_table"></a>
+			</div>
+			<div class="col-md-6">
+			    <div class="xtl_table_title mb-3">
+                    <div class="xtl_table_title_ins">
+                        Вы получаете
+                    </div>
+                </div>
+
+				<div class="xtl_ico_wrap">
+					<div class="xtl_ico" style="background: url(/wp-content/themes/xbit/images/cryptocurrency/bitcoin_icon.svg) no-repeat center center;"></div>
+				</div>
+
+				<div class="xtl_select_wrap">
+					<select name="" id="js_right_sel" class="imager" autocomplete="off"><option value="9"  selected='selected' data-img="/wp-content/themes/xbit/images/cryptocurrency/bitcoin_icon.svg">Bitcoin BTC</option><option value="12"  data-img="/wp-content/themes/xbit/images/cryptocurrency/bitcoin_cash.svg">BCHABC BCH</option><option value="15"  data-img="/wp-content/themes/xbit/images/cryptocurrency/litecoin.svg">Litecoin LTC</option><option value="25"  data-img="/wp-content/themes/xbit/images/cryptocurrency/visa_mc.svg">Visa/MC only RUB</option><option value="3"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM USD</option><option value="4"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM RUB</option><option value="53"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM WMX</option><option value="14"  data-img="/wp-content/themes/xbit/images/cryptocurrency/WM.svg">WM UAH</option><option value="19"  data-img="/wp-content/themes/xbit/images/cryptocurrency/YM.svg">YM RUB</option><option value="29"  data-img="/wp-content/themes/xbit/images/cryptocurrency/qiwi-1.svg">Qiwi RUB</option><option value="56"  data-img="https://xbit.money/wp-content/uploads/Steam-icon-logo.svg">STEAM USD</option>		
+					</select>						
+				</div><div class="xtl_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2" data-decimal="8" value="0.00092257" /><div class="js_error js_sum2_error"></div>	
+						</div><div class="xtl_commis_wrap js_wrap_error js_wrap_error_br " >
+							<div class="xtl_commis_text">С комиссией</div>
+							<input type="text" name=""  autocomplete="off" class="js_decimal js_sum2c" data-decimal="8" value="0.00082257" /> 
+								<div class="js_error js_summ2c_error"></div>				
+								<div class="clear"></div>
+						</div>
+							<div class="xtl_line xtl_exchange_rate">
+								Курс обмена: <span class="js_curs_html">108393.4 UAH = 1 BTC</span>
+							</div>						
+							
+		<div class="xtl_line xtl_exchange_reserve">
+			Резерв: <span class="js_reserv_html">4.587654 BTC</span> <a href="#" class="xtp_link js_reserv" data-id="12" data-title="Visa/MC only UAH-Bitcoin BTC">Не хватает?</a> 
+		</div>														
+		</div>	
+		</div>	
+		<input type="hidden" name="" class="js_direction_id" value="12" />
+		<div class="xtl_submit_wrap">
+			<div class="xtl_submit_ins">
+				<a href="https://xbit.money/exchange_cardsuah2btc/" class="xtl_submit js_exchange_link " id="js_submit_button" data-direction-id="12">Обменять</a>
+					<div class="clear"></div>
+			</div>	
+		</div>
+						
+						</div>
+					</div>	
+				</div>
+			</div>
+			
+		</div>
+	</div>	
+		</div>
+
+		
+	
+			
+	<div class="home_reviews_wrap homepage_stats">
+        <div class="container">
+		<div class="widget widget_stats_div">
+			<div class="widget_ins">
+				<div class="widget_title">
+					<div class="widget_titlevn">
+						Статистика
+					</div>
+				</div>
+				<div class="widget_stats_line"><span>Всего пользователей:</span> 6436</div><div class="widget_stats_line"><span>Количество обменов сегодня:</span> 80</div><div class="widget_stats_line"><span>Общий объем резервов:</span> 103 881 USD</div>
+			</div>
+		</div>
+		</div>
+	</div>	
+	
+	
+	
+	
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins container">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins row">
+						
+								                                    <div class="one-home-reserv col-lg-3 col-sm-6">
+								<div class="one_home_reserv">
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/themes/xbit/images/cryptocurrency/visa_mc.svg) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MC world UAH										</div>
+										<div class="one_home_reserv_sum">
+											58729										</div>
+									</div>
+								</div>
+                                    </div>
+								                                    <div class="one-home-reserv col-lg-3 col-sm-6">
+								<div class="one_home_reserv">
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/themes/xbit/images/cryptocurrency/bitcoin_icon.svg) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Bitcoin BTC										</div>
+										<div class="one_home_reserv_sum">
+											3.799473										</div>
+									</div>
+								</div>
+                                    </div>
+								                                    <div class="one-home-reserv col-lg-3 col-sm-6">
+								<div class="one_home_reserv">
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/themes/xbit/images/cryptocurrency/litecoin.svg) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Litecoin LTC										</div>
+										<div class="one_home_reserv_sum">
+											18.967321										</div>
+									</div>
+								</div>
+                                    </div>
+								                                    <div class="one-home-reserv col-lg-3 col-sm-6">
+								<div class="one_home_reserv">
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/themes/xbit/images/cryptocurrency/bitcoin_cash.svg) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											BCHABC BCH										</div>
+										<div class="one_home_reserv_sum">
+											1.084044										</div>
+									</div>
+								</div>
+                                    </div>
+														
+								<div class="clear"></div>
+							</div>
+                            <a class="more-link d-lg-none" href="#">Еще доступные<i class="arrow-down"></i></a>
+
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		<div class="home_reviews_wrap">
+		<div class="home_reviews_ins">
+			<div class="home_reviews_abs"></div>
+			<div class="home_reviews_block container">
+				<div class="home_reviews_title">Отзывы</div>
+				
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins row">
+				
+										<div class="col-md-4">
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date"><img src="/wp-content/themes/xbit/images/icons/review_user.svg" width="20" class="user_icon"><strong>Андрій</strong>, 17.03.2019, 21:55</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Все Ок. Быстро и выгодно.</div>
+						</div>			
+                    </div>
+										<div class="col-md-4">
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date"><img src="/wp-content/themes/xbit/images/icons/review_user.svg" width="20" class="user_icon"><strong>Евгений</strong>, 17.03.2019, 09:46</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Спасибо все быстро ,и курс оптимальный!!!Рекомендую</div>
+						</div>			
+                    </div>
+										<div class="col-md-4">
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date"><img src="/wp-content/themes/xbit/images/icons/review_user.svg" width="20" class="user_icon"><strong>Владимир</strong>, 15.03.2019, 22:40</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Все отлично! И курс классный!</div>
+						</div>			
+                    </div>
+									
+						<div class="clear"></div>
+					</div>
+				</div>
+
+				<a href="https://xbit.money/reviews/" class="home_news_more">Все отзывы</a>
+			</div>
+		</div>
+	</div>
+		
+	
+	
+		
+			<div class="home_news_wrap">
+			<div class="home_news_wrap_ins">
+				<div class="home_news_abs"></div>
+				<div class="home_news_block container">
+					<div class="home_news_title">Новости</div>
+					
+					<div class="home_news_div">
+						<div class="home_news_div_ins row">
+												<div class="col-md-4">
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">07.03.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://xbit.money/telegram-bot-xbitmoneybot-eshhe-bolshe-udobstva-obmenov-i-vyigodyi-ot-nashey-komandyi/">Telegram bot: @xbitmoneybot еще больше удобства, обменов и выгоды от нашей команды</a></div>
+								</div>
+							</div>
+                        </div>
+												<div class="col-md-4">
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">15.02.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://xbit.money/pokupayte-steam-za-bitcoin-visa-mastercard-privat24-wm-ym-qiwi/">Покупайте STEAM за Bitcoin, Litecoin, Visa/MasterCard, Privat24, WM, YM, Qiwi</a></div>
+								</div>
+							</div>
+                        </div>
+												<div class="col-md-4">
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">08.02.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://xbit.money/2000-polzovateley-i-partnerstvo-s-kurse-kspert/">2000 Пользователей и партнерство с КурсЭксперт</a></div>
+								</div>
+							</div>
+                        </div>
+											
+							<div class="clear"></div>
+						</div>
+					</div>
+					
+					<a href="https://xbit.money/news/" class="home_news_more">Все новости</a>
+				</div>
+			</div>
+		</div>
+	
+    
+    <div class="home_reviews_wrap">
+        <div class="home_reviews_ins">
+            <div class="home_news_block container">
+                <div class="home_reviews_title">Направления обменов</div>
+                <div class="home_reviews_div row directions-block directions-hidden">
+                                            <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_YAMRUB_to_CARDRUB/" >Вывести Яндекс.Деньги на карту Visa / MasterCard RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_BTC_to_STEAM/" >Купить STEAM  за Bitcoin</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_BTC/" >Купить Биткоин (Bitcoin) за Приват24 UAH от !!! 100 грн. !!!</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_BTC_to_P24UAH/" >Обмен Биткоин  Bitcoin на Privat24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMX_to_CARDUAH/" >Вывод WMX Bitcoin на карту Visa / MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_YAMRUB_to_BTC/" >Обмен Yandex.Money на Bitcoin</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_STEAM/" >Купить Стим за Privat24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_BTC/" >Купить Биткоин (Bitcoin)  с карты Visa/MC world от !!! 100 грн !!!</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_QWRUB_to_STEAM/" >Купить Стим за Qiwi</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_BTC_to_YAMRUB/" >Обмен Bitcoin на Yandex.Money</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_BTC_to_CARDRUB/" >Вывести Биткоин (Bitcoin) на карту Visa / MasterCard RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_btc2cardsuah/" >Вывод Биткоин Bitcoin на  карту Visa / MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_WMX/" >Купить WMX Bitcoin с карты Visa / MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMZ_to_STEAM/" >Купить Стим за WMZ</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_BCH/" >Купить Биткоин кеш через Приват24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_QWRUB_to_CARDRUB/" >Перевести Privat24 на карту Visa / MasterCard RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_LTC_to_STEAM/" >Купить Steam за Litecoin</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_LTC/" >Купить  Litecoin LTC с карты Visa/MC world</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_STEAM/" >Купить STEAM  с карты Visa /MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMZ_to_P24UAH/" >Вывод  WMZ на Privat24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_YAMRUB_to_STEAM/" >Купить Стим за Яндекс.Деньги</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMR_to_P24UAH/" >Вывод  WMR на Privat24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_YAMRUB/" >Купить Яндекс деньги с Privat24 UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cardsuah2btc/" >Купить Биткоин (Bitcoin) с  карты Visa/Master Card гривны !!! От 100 грн !!!</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_QWRUB7/" >Обмен Visa/MC UAH на Qiwi RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_LTC/" >Купить Лайткоин (Litecoin) за Приват24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24_to_QWRUB/" >Обмен Privat24 на Qiwi RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMU_to_P24UAH/" >Вывести WMU на Privat24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_BCH/" >Купить Bitcoin Cash с карты Visa/MasterCard</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_LTC_to_CARDRUB/" >Обмен Litecoin на Visa / MasterCard RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_CARDRUB/" >Перевод с карты Visa / MasterCard UAH на карту Visa / MasterCard RUB</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_QWRUB_to_P24UAH/" >Вывести Qiwi   на Privat24 UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CARDUAH_to_WMZ/" >Пополнить WebMoney WMZ с карты Visa/MasterCard любого банка</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_bch2cardsuah/" >Продать Bitcoin Cash BCH на Visa/Master Card UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_ltc2cardsuah/" >Продать Лайткоин Litecoin на  карту Visa/Master Card UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cardsuah2bch/" >Купить Bitcoin Cash BCH за Visa/MasterCard only UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cardsuah2ltc/" >Купить Лайткоин Litecoin с карты Visa/Master Card UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_WMZ/" >Пополнить Вебмани WebMoney WMZ через Приват24</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_WMR/" >Обмен Приват24 на WMR</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_P24UAH_to_WMU/" >Обмен Privat24 на WMU</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMU_to_WMZ/" >Обмен WMU на WMZ</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMZ_to_WMU/" >Обменять WMZ на WMU</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMU_to_WMR/" >Обменять WMU на WMR</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMR_to_WMU/" >Обменять WMR на WMU</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMZ_to_WMX/" >Обмен WMZ на WMX</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMX_to_WMZ/" >Обмен WMX на WMZ</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_wmzvmcuah/" >Вывод Вебмани WebMoney WMZ на Visa/Master Card UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_YAMRUB_to_P24UAH/" >Обмен Яндекс Деньги на Privat24 UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMZ_to_WMR/" >Обмен WMZ на WMR</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_WMR_to_WMZ/" >Обмен WMR на WMZ</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_QWRUB_to_CARDUAH/" >Вывод Qiwi на Visa/MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cardsuahwmz/" >Пополнить Вебмани WebMoney USD (WMZ) c карты Visa/MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_wmu2cardsuah/" >Обмен WM UAH на VISA/MASTER CARD UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cards2wmu/" >Обмен Visa/Master Card UAH на WM UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_CASHUSD_to_BTC/" >Купить Bitcoin за наличные доллары USD в Киеве</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_wmr2cardsuah/" >Обмен WMR на карту Visa/MasterCard only UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_BTC_to_CASHUSD/" >Продать Bitcoin за наличные доллары USD в Киеве</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cardsuah2wmr/" >Пополнить Вебмани WebMoney с карты Visa/MasterCard</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_cards2ym/" >Купить Яндекс деньги с карты Visa/MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_ym2cardsuah/" >Обмен Яндекс Деньги на карту Visa/MasterCard UAH</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_QWRUB_to_BTC/" >Обмен Qiwi RUB на Bitcoin</a>
+                        </div>
+                                                <div class="col-md-4 direction-link-block">
+                            <a class="direction-link" href="https://xbit.money/exchange_BTC_to_QWRUB/" >Обмен  Bitcoin на Qiwi RUB</a>
+                        </div>
+                                        </div>
+
+                <div class="clear"></div>
+                <a href="#" class="home_news_more directions-more">Все направления</a>
+            </div>
+            <script>
+                $(function () {
+                    $('.directions-more').on('click', function (event) {
+                        event.preventDefault();
+                        var div = $('.directions-block');
+                        div.toggleClass('directions-hidden');
+                    });
+                });
+            </script>
+        </div>
+    </div>
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+            <div class="footer_menu container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+					<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu row"><li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page col-md-6 menu-item-has-children has_sub_menu first_menu_li menu-item-428"><a href="https://xbit.money/o-nas/"><span>О нас</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-334"><a href="https://xbit.money/terms/"><span>Скидки</span></a></li>
+	<li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-380"><a href="https://xbit.money/partnerskaya-programma/"><span>Партнерская программа</span></a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-345"><a href="https://xbit.money/reviews/"><span>Отзывы</span></a></li>
+	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-343"><a href="https://xbit.money/tarifs/"><span>Тарифы</span></a></li>
+</ul>
+</li>
+<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page col-md-6 menu-item-has-children has_sub_menu last_menu_li menu-item-432"><a href="https://xbit.money/docs/"><span>Документы</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-77"><a href="https://xbit.money/tos/"><span>Правила обмена</span></a></li>
+	<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-280"><a href="https://xbit.money/terms-of-use/"><span>Пользовательское соглашение</span></a></li>
+	<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36"><a href="https://xbit.money/notice/"><span>AML&amp;KYC</span></a></li>
+	<li id="menu-item-329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-329"><a href="https://xbit.money/notice-2/"><span>Уведомление о рисках</span></a></li>
+</ul>
+</li>
+</ul>                    </div>
+
+                    <div class="col-lg-3 col-md-6">
+                                                <ul>
+                            <li><a>График работы</a>
+                                <ul>
+                                    <li>
+                                        <div class="footer_timetable">
+                                            <p>Сервис работает автоматически 24/7<br />
+Операторы:<br />
+Пн — Пт с 9:00 до 18:00 (GMT+2)<br />
+Сб — Вс и праздники &#8212; свободный график</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                                            </div>
+
+                                            <div class="col-lg-3 col-md-6">
+                        <ul>
+                            <li><a>Контакты</a>
+                                <ul>
+                                    <li>
+                                        
+                                                                                    <div class="topbar_icon telegram">
+                                                <a href="https://t.me/xbitmoneybot">xbitmoneybot</a>
+                                            </div>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                                                                    <div class="topbar_icon footer_phone">
+                                                +(38)-063-293-45-33 (для месседжеров)                                            </div>
+                                                                                                                        <div style="margin-top: 10px;">
+                                            <a class="feedback_link"
+                                               href="https://xbit.money/feedback/">Задать вопрос</a>
+                                        </div>
+
+
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+				</div>
+            </div>
+				
+				<div class="footer_soc container">
+												<a href="https://vk.com/xbit.money" class="" target="_blank" rel="nofollow"><img src="https://xbit.money/wp-content/themes/xbit/images/vk-ico.png" alt="" /></a>
+													<a href="https://fb.me/xbitmoney" class="" target="_blank" rel="nofollow"><img src="https://xbit.money/wp-content/themes/xbit/images/fb-ico.png" alt="" /></a>
+													<a href="https://twitter.com/MoneyXbit" class="" target="_blank" rel="nofollow"><img src="https://xbit.money/wp-content/themes/xbit/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+			<div class="copyright container">
+											<p>Сервис выгодного и быстрого обмена криптовалют Bitcoin, Litecoin, Bitcoin Cash, электронных денег WebMoney, Yandex Money, Qiwi и Visa/MasterCard, Приват24, терминалы iBox, игровые деньги Steam</p>
+									</div>
+				<div class="clear"></div>
+		</div>
+	</div>
+	
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins container">
+		    <div class="copy">&copy; XBit 2017-2019</div>
+			<div class="home_partner_block">
+				
+
+										<div class="home_partner_one">
+							<a href="https://www.bestchange.com/xbitmoney-exchanger.html" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/bestchange.gif" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://kurs.expert/ru/obmennik/xbit-money/feedbacks.html" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/buttonE.png" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://askoin.com/Xbit.Money" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/askoin.jpg" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://exchangesumo.com/exchanger/842/xbit_money/" target="_blank" rel="nofollow">																<img src="https://exchangesumo.com/i/1.svg" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://chexch.com/xbit-money/" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/88x31-1.png" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://bestcurs.org/monitoring-obmennikov/?details=535" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/bestkurs-88x31k.png" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.okchanger.com/exchangers/Xbit-Money" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/okchanger-logo.png" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://ru.exchangersmonitor.com/exchanger-xbit.money.html" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/88x31.jpg" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://Udifo.com" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/udifo-logo.png" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.megastock.com/Resource.aspx?id=316781" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/88x31-wm-white-blue.png" alt="" />
+															</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://passport.wmtransfer.com/asp/certview.asp?wmid=155289860990" target="_blank" rel="nofollow">																<img src="https://xbit.money/wp-content/uploads/136-wm-capitaller.png" alt="" />
+															</a>						</div>
+					
+			</div>
+            <div class="clear"></div>
+		</div>
+	</div>
+		
+	<!-- end footer -->
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D241&ltime=1552909625';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://xbit.money/ajax-globalajax_wp_check.html?meth=post&yid=e55c3380719d&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+	<div class="last_events_wrap toright">
+		<div class="last_events_div">
+			<div id="last_events" class="last_events" ></div>
+			<div class="last_events_option">
+				<label><input type="checkbox" name="leven"  id="last_events_option" value="1" /> Отключить уведомления</label>
+			</div>
+		</div>
+	</div>
+		<div class="statuswork_div status_op1 toright">
+	<div class="statuswork_div_ins">
+		<div class="statuswork">
+			<div class="statuswork_ins">
+				<div class="statuswork_title"><span>Оператор online</span></div>
+				<div class="statuswork_date"><span>18.03.2019, 11:47</span></div>
+			</div>	
+		</div>
+	</div>
+	</div>
+
+		<div class="reserv_box_html" style="display: none;">
+			<div class="resultgo"></div>
+					
+			
+				<div class="form_field_line col-12 rb_line type_input  field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line col-12 rb_line type_input  field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line col-12 rb_line type_text  field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+	<div class="captcha_div">
+		<div class="captcha_title">
+			Введите ответ
+		</div>
+		<div class="captcha_body">
+			<div class="captcha_divimg">
+				<img src="https://xbit.money/wp-content/uploads/captcha/1552902425330042.png" class="captcha1" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				<span class="captcha_sym">+</span>
+			</div>	
+			<div class="captcha_divimg">
+				<img src="https://xbit.money/wp-content/uploads/captcha/1552902425298750.png" class="captcha2" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				=
+			</div>
+			<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			<a href="#" class="captcha_reload" title="заменить задачу"></a>
+				<div class="clear"></div>
+		</div>
+	</div>		
+	
+					
+			<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+		</div>	
+		
+		<form method="post" class="ajax_post_form" action="https://xbit.money/ajax-reservform.html?meth=post&yid=e55c3380719d&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+			<div class="reserv_box"></div>
+		</form>
+		<script type='text/javascript' src='https://xbit.money/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+
+</body>
+</html>

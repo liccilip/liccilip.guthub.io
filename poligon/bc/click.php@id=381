@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="ru" class="no-js"><head><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TC7GQXQ');</script><!-- End Google Tag Manager --><title></title><link href="/assets/obmenat-app/img/favicon.ico?bust=ae97d5b9ba7e" rel="shortcut icon" type="image/x-icon" /><meta name="viewport" content="initial-scale=1,width=1000"><meta http-equiv="X-UA-Compatible" content="IE=9"><link rel="stylesheet" href="/assets/obmenat-app/styles.css?bust=ae97d5b9ba7e"><link rel="stylesheet" href="/assets/emisser-core/system.css?bust=ae97d5b9ba7e"><link rel="stylesheet" href="/assets/emisser-core/wallet.css?bust=ae97d5b9ba7e"><script>
+      window.$debug = false;
+      window.$assets_version = 'ae97d5b9ba7e';
+      window.$allowedHost = 'obmen.at';
+    </script><script type="text/javascript">
+      window.Obmenat = {
+       "stat": {
+          "businessLevel": 1000,
+              },
+        "public_parameters": {"social_links":{"fb":"https:\/\/www.facebook.com\/obmenkawebmoney\/","vk":"https:\/\/vk.com\/obmenat"},"banners":[{"href":"\/\/passport.webmoney.ru\/asp\/certview.asp?wmid=297157965491","image":"assets\/obmenat-app\/img\/banner\/v_blue_on_white_ru.png","alt":"\u0417\u0434\u0435\u0441\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0430\u0442\u0442\u0435\u0441\u0442\u0430\u0442 \u043d\u0430\u0448\u0435\u0433\u043e WM \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u0430 297157965491"},{"href":"\/\/www.megastock.ru\/","image":"assets\/obmenat-app\/img\/banner\/acc_blue_on_white_ru.png","alt":"www.megastock.ru"}],"contact":[{"type":"telegram","value":"http:\/\/t.me\/obmen_at","title":"obmen_at","class":"telegram"},{"type":"phone","value":"tel:+38 (066) 414 24 96","title":"+38 (066) 414 24 96","class":"mtc"},{"type":"phone","value":"tel:+38 (068) 370 28 03","title":"+38 (068) 370 28 03","class":"kievstar"},{"type":"skype","value":"skype:live:hello_24920","title":"ObmenAT Hello","class":"skype"},{"type":"email","value":"mailto:hello@obmen.at","title":"hello@obmen.at","class":"email"}],"site":{"title":"obmenat","phone":{"value":380664142496,"title":"(066) 414 24 96"}}}
+      }
+    </script><script src="/assets/require.js?bust=ae97d5b9ba7e"></script><script src="/assets/requirejs.config.js?bust=ae97d5b9ba7e"></script><script>requirejs(['obmenat-app/entrypoint']);</script></head><body><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC7GQXQ"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-115526181-1"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115526181-1');
+    </script><!— BEGIN JIVOSITE CODE {literal} —><script type='text/javascript'>
+    (function(){ var widget_id = 'YWfT3uQPkS';var d=document;var w=window;function l(){
+    var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script><!— {/literal} END JIVOSITE CODE —></body></html>

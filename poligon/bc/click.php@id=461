@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang='ru-RU'>
+<head>
+<title>Ультраголд — Выгодный автоматический обмен электронных валют: WebMoney, Яндекс Деньги.</title>
+<meta name="description" content="Автоматический обмен электронных валют: WebMoney, Яндекс Деньги, Qiwi.">
+<meta name="msapplication-TileColor" content="#505070">
+<meta name="msapplication-TileImage" content="/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="SEdtUWdkRGUlLy83ITMgICApPTceBSYWF3EmEDETFQM.KiY5PQEeXQ==">
+<meta charset='UTF-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name="scope" content="NET">
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABR1BMVEVQUHBQUHBQUHBQUHBQUHBOTnBNTXBPT3BQUHBNTnFQUHBPT3FNTnJOT3FOT3FQUHBQUHBQUHBOT3BNTnBNTnBQUHBqaG5/e2x/fGx/fGx/e2xqaG5yb23f1WT06GLz52Lz52Lf1WRyb22NiWv57WL57WL57WL57WL57WL57WKNiWtjYW++tmjd02Xd02Xd02Xd02W+tmhWVW2aj1HFs0LGtELGs0Kaj1FWVW2FfFn53SX/4yL/4yL53SWFfFmFfFn53SX/4yL/4yL53SWFfFlWVW6ajU7FsDjFsDjFsDiajU5WVW5iXWO8nCbbshHashHashG8nCZiXWOMekj2xQH2xQD2xQD2xQD2xQGMekhxaFncsxDxwgLwwQPwwQPxwgJxaFlQUHBpYl9+cVF+cVB+cVB+cVFpYl9QUHBQUHBOT3FNTnJNTnIj1svWAAAAEXRSTlP+/v7+/v7+/v7+/v7+/v7+/jES3k4AAABYSURBVBjThc+7DoAwDEPR3tS0nfj/z0SMCBQW+lzIeKTINgFCP3fiTiN3P4Wo4saFyB085mMCA0RpwKPlRTF/UFMMFNIEQaQxhTX2D+zeTDZCqcX6OFjnvxboH/AQ1T30AAAAAElFTkSuQmCC" sizes="16x16">
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACiFBMVEVQUHBQUHBQUHBQUHBQUHBPT3BNTnBOTnBOTnBOTnBQUHBPT3BeXW+MiGuhm2mhnGmhnGmMiGteXW9QUHBlY27KwWb26mL57WL57WL57WL26mLKwWZlY25QUHBPT3Coomn67WL362L362L362L67WKoomlPT3BQUHBVVHDKwmb67WL362L67mLKwWZVVHBQUHBQUHBSUnC9tWf67mL362L67mK9tWdSUnBOTnB/fGzq32P67mL57WL57WL57WLq32N/fGxQUHBRUXCCf2zEu2fWzGbWzWbWzWbEu2dRUXBQUHBPT3BQUG9uamSFfV2Gf1yGflxuamRQUG9PT3BYV2yqm0jr0Sv22ib22yb22ybr0Suqm0hYV2xQUHBOT3GXjFD84CT/4iL+4SP+4SP+4SP84CSXjFBOT3FQUHBUU27Ktjr/5CL+4SP+4SP/5CLKtjpUU25QUHBUU27KtjrKtjpUU25QUHCYjFD84CT/4iL84CSYjFBOT3FPT3BYV2yqm0jr0Sv22yf22yb22yfr0Suqm0hYV2xQUHBPT3BQUHBuaWKFe1aGfFWGfFWGfFVuaWJQUHBPT3BQUHBRUW+Bc07BoCLTrBbUrRXUrRbBoCKBc05RUW9OT3F+cVDouwn3xgD2xQD2xQD2xQDouwl+cVBQUHBSUW+7myj3xgD0xAD0xAD3xgC7myhSUW9QUHBVU23IpR/3xgD0xAD3xgDIpR9VU21QUHBQUHBPUHCnjTX3xgD0xAD0xACnjTVPUHBPT3FkXmLHpB7zwwH2xgD2xQD2xQD2xgDzwwHHpB5kXmJQUHBeWmeLekifiDqgiTmgiTmLekheWmdQUHBPT3FNTnJOTnJOTnJOTnL10sGbAAAAA3RSTlP8/v6Wkl1CAAAA9klEQVQ4y72TPU7DQBBGvzcefnYtitAgjoEEN6FDXITrIDqK3AMhzkBBQROniWMLoaFwOns3HdvO0877ZnYRqHwisFpdCtORcxRwSQAzk4iICMmlswLQMMYobDWkEkB33rlyu1SfiLzvXBlgmNuRgPTlSgVACRiFcVdK4Qxv4RO5KPlzilQD8pjqAHkvYQ+UHehfXIUxSGGQpxZDYVEnINeuv77ge6HFFfApjKeiJO/rcE2zngH8Otyu5TpYLt4wDSpXYkrYcy3m8Hhkm0kHIG9m9cuIhlHY6nXZwYD+vnNt211bSLFpt8LQR/HZ3+g/vl4T9Q7xB48/YRLdkYvTAAAAAElFTkSuQmCC" sizes="32x32">
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAB9VBMVEVQUHBQUHBQUHBNTXBNTXFNTnBNTnFNTnJOTnBOTnFOTnJOT3BOT3FPT3BPT3FPUHBQUHBSUW9SUnBTUm5TU3BUU3BVVG1VVG5VVXBWVW5XVWtXVm9YVmtYVm1YWG9bWWtdWWddXG9hXGRiYG5jYGdkYWdoYV9oYWBoZm5oZ25pZ25rY15sZF1sZ2RsaGNsam5tZVxtaGNta25uZVxubG16c118b1J9emx/cVCAck+AfWyBc0+BfmyCfmyFdUyFdkyGdkyGfViGgmuGg2uHd0uIhGuKeUiLh2uPfUWQfUSQhVSQhlSQjGuRfkORjGqSjmqTjmqUiVKViVKXgkCYk2qahT2ajk+chT2clmqdl2mljDamoGmqkDOrkDKrpWitnketpmizokS3mSq5p0G5qEG5sWe6myi7tGe8nSa8tGe+rD++tme/niS/niW/rD/AuGfEoiDFoiDFoyDFoyHGsjzHvmbMtznPqhrRyGXTvTbXsBTa0GTgtg7htg7j2GTj2WTkuQvluQrlugrn3GPo3WPqvQjrvgbrvgfs0ivt4WPu4mPvwATwwQPxwgLx5mLy5mLzwwHz52Lz6GL0xAD0xAH06GL1xQD12Sf2xQD2xgD22yb26mL362L47GL53SX57GL57WL67WL+4SP/4SP/4iL/4iP/4yItMuCyAAAAA3RSTlP3+vuOwYMoAAADC0lEQVRo3u3a51MTQRgH4ECIOcLuJpDQW0JVQFGkiQWDFAWxUUS6CKGpWAjVggJKCUokHAnk8Ighf6cZPjFze2Hm7r0ZZ7zf99tndm/ffXfmTqOJUjQaTbRJ0URropQFolRABVRABf5JgNHqGMnRaZkzACalrKH9meS0N5SlMBEAnFgztbzL/ZYcbnd5qiYRiwHYNrjBc35Z4fiNQRumA9g26pc5/AnhHz8lnAYs/X6g9FtoAFO1zsGMz61XMRTAMspDzYAfTxQC+MJnDgrgPp3HAkB386cfLD9u6ASA9oEfMPe1QuARBzc+95AC3PkFB7jrhEvElK/AveSVcka4TdOdR1DAkTOdVmhNbrAVaqIVGs6aBKo0fjILUw+7ojkQgZ8rwiLHdanzQDbBHzhLsVjDibN1Lbp5WXEvdtnixFsmxrl1PSOTkjPSU5eLccSmjxmcYJGchPDjZ9wqcKzMRAaMKLuic+C55Ax0VmQjozhAMpvn9wIhGQnszTdnEjEA5U8chgIyEzqcyEd0gOTNBAMACc7kESqQ+gJk/LAwnGqkALH2/WMY4HjfHksBkqdDAaCEppOFALq0FoQCgmsXkQA4Zz8MgOXQfk4AxDw5hgP+PI5RFghQAMWXCF1R+CUrvk2VLzRj6rCyR4Xyh52JwBzXr/OJeMNpkd9wWsQbjvItU/mmH14lA4k3S058+PGIACE5td1DY5Iz1F2bQ4g4gKwdCy6vT0a8roUOKxIDSPGbbe+OzHi33xaLbFNSMCt7+BNitoBaaMaMMZDxw8JYBu2oQI2uHaC4GhEFSHvvgwJ879Iot4qrX1kogP1yWdhw9LfBVii8Rrf0QqCVhQPYVgpwbwcwd4WA4fom3Pib1wwCgBR+hHvJHwqJcJuaHXDb1GGmFVrlKtAU2NVKWqGZzL0eGMDTa6YfdlaHB2AOrMdhFbtVWPu++2QSrO9bn1X8VmGufrW0xXolh91aelltjnCrMKGkkvq2p5LTVl+ShM74QIH0BiQ5Bj1SPxKpgAqowP8JKP7zjNK///wFGr0IFmpAYU4AAAAASUVORK5CYII=" sizes="96x96">
+<link href="https://ultragold.net/" rel="canonical">
+<link href="/A.assets,,_afc8067a,,_loading-bar.min.css+assets,,_5263bd69,,_css,,_ngDialog.min.css+assets,,_e27f3489,,_themes,,_offline-theme-default.css+assets,,_ee4f0426,,_normalize.css+fonts,,_material-design,,_material-icons.css+css,,_main.css,Mcc.PxOGZNMeeN.css.pagespeed.cf.TfUY0msQmD.css" rel="stylesheet">
+<link rel="icon" type="image/png" href="/img/favicons/android-chrome-192x192.png.pagespeed.ce.6OuvbNtTX6.png" sizes="192x192">
+<link rel="apple-touch-icon" sizes="57x57" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAMAAAC7xnO3AAABVlBMVEVQUHBQUHBNTXBNTnFNTnJOTnBOTnFOTnJOT3BOT3FPT3BPT3FPUHBQUHBXVWtXVWxXVm1XVm9XV29YVWtYV2xYV29aV2laWGtaWWxaWW9aWm9fW2VfW2ZgXWlgXmlgXm9gX29sZFxta25uZVxuaWJuaWNubG11alZ2alV2a1Z2dG53a1Z3cF53cF93cV93dG13dG55bVR6d2x6d217dF18dF18dV2EdUyEdU2FgWyHfliRfkSSfkOSjWqTjmqVilGXgj+Xgz+Ygz+Yk2qZk2qZlGqcj0+vky+wqWixqmi1pEO1pETPqhnRyGXSyGXXrxTXrxXXwDTZz2TZz2XexzHnuwnouwjq32PtvwXv5GPw5GPw5WPxwgPx1inywwHywwL0xAD06GL06WL1xAD1xQD16WL2xQD2xgD32yb362L47GL57WL63yT73yT83yT+4SP/4iP/4yJxMch+AAAAAnRSTlP6/CzLejgAAAG+SURBVEjH7ZdHT0JBFEbpyAyPIsUuRVABG2BDqgVUiiBdUSkCUgTk/28kJL4CiTPvhRgXnP3Jzb3ft5jh8fjc4PH4BDf4c/MvTCDGAUyZYGF1+xDN9uoCYJpA7U8UntAUEn41oJtAd1ftdtpoOt3qnQ7QzesGjjd2Gzc0Exgy3TYu3YwBkKbYXWrjU3KLSVPgabAwGx4BNdPFaqaLmgmMaRZ7po2Adtswi9uGGano7muYedbuGXkSYDHwUHhGU3gILILJ3q6Y7Uco7OaVyd4SctmSZQ+NZUkmn2i8Kvj42kLz+hhUMRuvjX0OvwZovoafMS3jtpEejjd2exF64zezwwEuw+wG1QTJSWuAT+tYQprCiz4Ls38hpGaecp3JfU/utx3lGcXOM6oFM+nQSJUtW/cPUOxbl2XTjdebdnZR7Jj0k42HCl88X0STj/sUkG7KNbcvH/UKmvrHy61GTjPhZfm9gsd7+QpSJlxLNiu4NJPrkDSlzmIFn6JTSpqiszcW5tu5aAYz4XqKxZ4p2p4EDLG4bQjOJE8CKr3xHEaHcnGvEk71dsvmsP2Ow7Y11duxK0Xz483fmv/V5Pxf+QbtWKi37WFFfwAAAABJRU5ErkJggg==">
+<link rel="apple-touch-icon" sizes="60x60" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAABZVBMVEVQUHBQUHBOTnBOTnFOT3FPT3BPT3FPUHBQUHBRUW9RUXBTUm5TU3BVU21VVG1VVG5VVHBWVGxWVm9XVm1ZV2pZWW9bWGlbWm9eXGleXGpfWmZfXWlfXm9gXWlhXmhhXmliXWNiX2hjXWNjYW5jYm5uZVtuaWNubG5vbW1xZ1pxb215bVR6d22Bc06Cf2yEdUyFgWyGdkuHg2yId0qJhWucj06cj0+dhjydkE6emGmkizeln2mmn2mskTKtkjGtp2ivqGi1lyu3r2e5mii7s2e9nSa+nia/t2fAuGfCoSLEvGbPujjRuzfRvDfSrBfTrBfVy2XZsRLZsRPc0mTftQ7gtg7gtg/i12Ti2GTkyy/luQvlzS7mugrmzS7nuwnozi3o3WPq32PuwAXxwgLx5mPywgH0xAD0xAH06GL1xQD16WL2xQD2xgD262L3xgD362L47GL57WL67mL94SP+4SP/4iL/4yJvxZk/AAAAAnRSTlP6/CzLejgAAAHaSURBVEjH7ddXV8IwFMBxCEkJCCjgQsQN4h7gVnAPhnuBCxda0VIq9PP7SEJfbuDJo//330lJ7z2nmEzmujOZzLTuzP/4F2KEqB0QRciAiX10aXMb0ObSqJ3wmLSt5FQNlJpbbSMcbln/UovA1K/1Fhaj6RewLRbVl2nEYMe+VhRI23NUMek+K4ng0lk3qeKhK1UEq1eDDO44Fjv5uIMwtx0Xw3HutsPXArp0HUbckERzGvBnq1ouSmpmezzx+P4B6P0xMW5YDOQZnpwFNDnsQQZMLK7OHkCdLgupxdg/n8w8AMok5/2YxziU+tYroPTvVAizmATSehmcng4QBuPFslCLmMFekYPLZT3lrWKp/64igit3/VL9+IbBDT12YxfW0KuiOJSGD0maHxJKsX8OOp5zteNJKbE0+3oB+ZqNi0GxOzgxA2gi6MYGPHZw//wK6Pn+YKwGWyNZRc6DkpVsxMpiHLws5MEVLoLse6Zrn3mBPteYk0n7UUEEFw7brdXFGDiXRbB83sdsVdeJ2MmnXcxWNe0qIljZaWJve+pJ4Lnlpynutp2xN7CW32JObkik1uVbWQEl3y63Svx4SraRhY0tQBsLIzbJ8BGHMbUBohj/f/X+NdzI38EfCNr2WBt117UAAAAASUVORK5CYII=">
+<link rel="apple-touch-icon" sizes="72x72" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABmFBMVEVQUHBQUHBQUHBNTnBNTnFNTnJOTnBOTnFOTnJOT3FPT3BPT3FPUHBQUHBRUG9RUW9RUXBRUXFTUm1TUm5TU3BTU3FUU3BVVGxVVG1VVG5VVXBYVmpYWG9ZWG9aV2laWW9fXGlfXWlhXGRhYG9iYG9lX2JlZG5saGNtaGNvZltwbW1xbGF0ald1cm13a1Z3dW14cV54cl6BeFqBeVqIfleLekiMh2uPhFSZhD6blWqfiDqgmmmgm2mhijiiijijnWmknmmljDamjTWmjTanoWmooWmuky+vky+vn0awlC6wqWixqmiyq2izliy1rWi6qEG6qUG9nSW+niW/nyW/t2fAuGfBuWfCoSLEoiHEvGbGpB/HpB/HvmbIwGbJwGbKph3KpxzMw2bNxGbPujjXwDTbsxHe1GTfxzHkuQzkzC7n3GPovAjpvAjr4GPs4WPt0yrt1Crx1inywwHywwLzxAH0xAD1xAD1xQD16WL2xQD2xgD22yb26mL3xgD32yb362L47GL57WL67WL67mL73yT+4SP/4iP/4yIbw3MtAAAAA3RSTlP5+/wDIArAAAACP0lEQVRYw+3Y91PUQBQH8BwlsLsXOEwsgFKOJh2lo1RBioCiKEWw0bvUXAKRhOPIv22GGZx5d/kh+2aZ8Yf7/r6f2fbeZCNJISGRpAxFSDKkkBgolIbSkGiIZso0+FAqZ1JfiNLqjpF3HBnpqKY0FaJPu9djTpwjTmy9+xlNhmjpdMy55IwTmy6lSVBk4MK+5I59MRCBkFy3jXA8abtOhtBrlONJryCkfbnCQVefNQAV/cJCP4sA9GgBCy3AGdFhBwc5wxRudvM+7tT2m+FmK9okDprUkm925ZLNTdn2UiVNqbWKiT0n7nAk7uxNVFCf6tca+2eXvwXO8mx/o0Z9+5GcVfCQIwVZsn9jI0p5fcuLwGmpL/eG+DW2mrGNw/M/gXN+uDFW47e0ti3XvUlw5MZ1t9pSIPLywE1wxz1oJRCiZasIx5NWy2CJ5HReJ1C57swBUOSDi4Pc9xEAFa5goZXC+4GELU3YZgs7foW0/hZyIcWVCK5on9P7bCOelJ33gCN52cS3sTG1oXdm8WvgLM70NqgsFWLRtzuGZXLEMnZGoywZYtF5XT/ljK7P30n/IHWcm7mlxlUIkaZdHLTbRADE3hinqBiDDEDqnIWDrDkVQI9/mDjI/P4EzugTdkYf4YxIj46D9B642aR2E3dqm7UQUvL7Ts74nbOTvvzkm10ydcx9A4zjqRKWUmvFXWtHpsUR82itq5j5NLZwVfvQKEeG2qvC/h9aLJeEgz/8wiSXpV/Zaei/hYT9rBP1+/Avvc8IT2dbZ8UAAAAASUVORK5CYII=">
+<link rel="apple-touch-icon" sizes="76x76" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAABMCAMAAADwSaEZAAABvFBMVEVQUHBQUHBMTHFMTXJNTXBNTXFNTnBNTnFNTnJOTnBOTnFOT3FPT3BPT3FPUHBQUHBRUW9RUXBSUm9TUm5TU3BUU21UVHBVU21VVGxVVHBWVGxWVXBWVm9aV2laWW9bWm9cWGhcW29dWWddXG9jXWNjYm5kYGdkYWdoZGVpYl9qaG5sZF1sam5uaWJvaWJzbWF1ald2a1Z2c213dG17blN8eGyBck+BeVqBfmyCeVqCfmyFdUyGdkuGgmuHg2uMekeMe0eNe0aNiWuOimuPfUWQjGuSfkOSf0OTiFKTjmqUiFKUiVKVgUGWkWqqm0itnUeukzCwqmixlS2ylS2zo0SzrGi0rGi1pEO1pUO2pUO7mye7nCe9tWe+niXAuGfCoSLFvGbNqRvPxmXSrBfVy2XWrxTWrxXWwDTXwDTYzmXZz2XawzPjuAzjyi/jyy/kuQvm22Pn3GPpvAjrvQfs4WPtvwXt0yvt4mPuvwXu4mPvwQPwwQPw5WPxwgLy52LzwwHz52L0xAD0xAH06GL1xAD1xQD2xQD2xgD26mL3xgD362L43CX43Cb47GL57WL67WL94SP+4SP/4iL/4yLhgdP0AAAAAnRSTlP5+5mCvFgAAAJ0SURBVFjD7dhpVxJRGMBxKEnHe+/gvuNSirsGaVki5VYZrm22uGsuaSJumWAKAjpTwwh84aJX3TszL+4jvegc/h/gdy4z93nOYUwmc9oymczWtGXOYBnsf8cwZ8YYFoqq73BVXSRgfQw3jM2tfOZqZW6sAeth+e4NWY1xpsob7nwdbHg/JgOK7Q9rMMHpA1m/NZ9TYLCSGVUGps6U0JjQ5lOgmOJrEygsy30ugzt336KxEQWOKSNZNDZwCccuB2hMuPcN/sy+OulnhmuWYlAstlSDmXs2eAY8mnI2yN4zXPVGBmmK/LYKs+OE66YCKjenqIGpOqydTVzet7AT+M5VYGehrxzr7jOhsqW75xFHPd0tlYLRps29wV2uwaYlBe2eiddcTXjaC4gehpqmD6+SnF0dTjchLYY6N5OJOHeJ5GYnYjFiX0vGQSXXGgl7svFEHFhinDkZsW/DsS92QmHZD3/Ewf18kE1hFk/8Gr2wpBF7bvl3P/NaL2CbeQFpvRpW0rgOvbTr2kubznFKDfo7yKC/1xv01Arq4F9BHforKLUcb3JntBytqKy56z5XXc1lSBcjpb3zWwfHfo6OD7bme0uJFiO1k0dSJMhZRDqarCUsJla8DHFTf7jQqwqRwVC/PxwEFfb3IxoTbYsXQWAXizaRwpBjLwzFwnt3EYXlPDkNgjt9nENjzyJwLPKUwVwncOzERWOo1Qs+WsTbSj8za/EHCYpJH4vZe+bwRmFW1OtAmtkc2gVp0d0hnUHPc62GpChnUmjVlae7HOtHZ5c/cbU8O1pvsBwJKrTd5spWiIjxH36RcCVmPpJksAz2F5bOz9G/AGXAH/+luK4fAAAAAElFTkSuQmCC">
+<link rel="apple-touch-icon" sizes="114x114" href="data:image/png;base64,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">
+<link rel="apple-touch-icon" sizes="120x120" href="data:image/png;base64,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">
+<link rel="apple-touch-icon" sizes="144x144" href="data:image/png;base64,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">
+<link rel="apple-touch-icon" sizes="152x152" href="data:image/png;base64,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">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/favicons/apple-touch-icon-180x180.png.pagespeed.ce.J-4x-18UXS.png">
+<link rel="yandex-tableau-widget" href="/manifest.json"/>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+</head>
+<body ng-app="mainPage" is-guest>
+<div class="site-wrapper">
+<div class="top-menu-spacer"></div>
+<header class="top-menu top-menu_desktop">
+<div class="box">
+<ul><li class="active"><a href="/">Обмен валют</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/rates">Курсы обмена</a></li>
+<li><a href="/contacts">Контакты</a></li></ul>
+<div class="top-menu__auth">
+<a href="/signup" class="top-menu__auth-button / button button_yellow">
+<span class="button__text">Регистрация</span>
+</a>
+<button type="button" class="top-menu__auth-button / button button_blue" ng-dialog="/app/auth/templates/login.html">
+<span>
+<i class="material-icons button__icon">person</i>
+<span class="button__text">Войти</span>
+</span>
+</button>
+</div>
+</div>
+</header>
+<header class="top-menu top-menu_mobile">
+<input type="checkbox" id="menu" class="visuallyhidden">
+<input type="checkbox" id="auth" class="visuallyhidden">
+<label for="menu" class="top-menu__open-menu">
+<i class="material-icons">menu</i>
+</label>
+<a href="/" class="top-menu__logo">
+<img src="data:image/png;base64,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" srcset="/app/components/top-menu/logo-white@2x.png 2x" alt="Ультраголд">
+</a>
+<label for="auth" class="top-menu__open-auth"><i class="material-icons">person</i></label>
+<div class="top-menu__auth">
+<a href="/signup" class="top-menu__auth-button / button button_yellow">
+<span class="button__text">Регистрация</span>
+</a>
+<button type="button" class="top-menu__auth-button / button button_blue" ng-dialog="/app/auth/templates/login.html">
+<span>
+<i class="material-icons button__icon">person</i>
+<span class="button__text">Войти</span>
+</span>
+</button>
+</div>
+<ul><li class="active"><a href="/">Обмен валют</a></li>
+<li><a href="/partner">Партнерская программа</a></li>
+<li><a href="/rates">Курсы обмена</a></li>
+<li><a href="/contacts">Контакты</a></li></ul>
+<label for="menu" class="top-menu__menu-overlap"></label>
+<label for="auth" class="top-menu__auth-overlap"></label>
+</header>
+<main class='landing '>
+<div class="box">
+<div class="logo">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOcAAAAYCAMAAAA27hreAAAAilBMVEVMaXFKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVlKTVnz62z24D/nwy7z62zz62zz62z24D/24D/24D/nwy7nwy7nwy724D/z62z24D/z62znwy7nwy7nwy724D/z62z24D/24D/z62zz62znwy7nwy5KTVnz62z24D/nwy6CmoE9AAAAKnRSTlMAZt2Z7hEid0S7zDNViKrU1NRX/FZX/FZWV/z5+dbW1vn9Vf1U/VVUVFWFvbsAAAADNklEQVRYw72Y6XqlIAyGARHE7Szd984+Q9v7v71xAUkQKp7H0/wTEHkJ+RIk5MxWOMuTX6oKWYeGCyo7o9UpC7ncXbwF7GJ3CQbpwWYPqJlI7ZmahozGpLf2nGtdzHam5ePwEg/PJQtMhJcAmoYZWmoH/nmL2uXWnN0CsSv6NzLPZQoM59R11AxOxOsUzn6g2ZJdnHO3PafmwnOn1gKdWI7HN7aD+pPTNM7OqcMHHuOcj2fgHNrwC9knmFrLCKYFXeYc9/aL/QnjMTdQYtYCbeitdMCqRE5ddo2/45zHlZxiUNVypOmtQkPyzHOf9ZFryWxMdXBVA3qV7eimrCQHRyPK2StzCQ7F8Tmotz+ej2v1djSF28CQ0Vvl1GWFhVtNzM3252gfuicBI617LJ2ro5yjeI1bwlOTzyacXhf1Y9C0OKkasmXvW4n3w55vuchJiimWb/bX7wG73t+cmdPlCQvQznQJzSl9BVPLnMQGy8/3qN1sfW41PLfGeZCg9ITKO+Eg9466xBI4a/PRfZxzvy2niaoMr52D+AHTFUi159+ZWpY4TcyThzjnw3acwGq4z605V/RsnPbpa/yJc5kbVhgpZSmcoHASk4ym+vN7nPPqDJy8gjrIJvGhXnxiTgUrPRfcakV8kqunoN7+eroi23NaTLByR0xAIVGgErcBTgfB3STrbbsqf+boJKzhVEqhDFIEq1Wqsa42tqf2CqfMhXpy/rw93H8E7P5wOxN2CXIXW6u3qOpTOlQLm/Rvb2PS7a7JtWo806YcYmSRs+B2e/9+RA2Amg1saUFbsLeukjSFyyecApTxIlCVF+AmwDIpMwY+NNVOTCmOlDuwhGB9e4hzHsAdP3ztCN1Eovkzc3qbBTiVUyIU0XnkAJiYW1yVKZhf45yv4Cw0OnT/XcUppton5M7x9byMpNt5h6n2EzgH8Uvzp++CjKzntNW4MHO5spw5/+TYce7Hideh25wkco7/av7FOe9QdFNXd7OanMJpZKYV3i8RG5bC/47ORHgBbgXLnI3ZkLuXoN5+e7nzk0vddBrAVVMTchKn5ZGR3wj2PlL03+kUR4rQAvoVVIQkcbLW/hj8D092z8sMd7iOAAAAAElFTkSuQmCC">
+<h1 class="signature">Автоматический обмен электронных валют</h1>
+</div>
+</div>
+<div ng-controller="exchangeCtr as exchange">
+<div class="box">
+<form class="form exchange-form" name="exchangeForm" ng-submit="exchangeForm.$valid && exchange.redirectToExchange()" focus-invalid novalidate toggler>
+<div class="exchange-form__row">
+<div class="exchange-form__block">
+<label class="exchange-form__label">Отдаете</label>
+<div class="exchange-form__spacer">
+<select-wallet select-model="exchange.input.wallet" other-select="exchange.output.wallet" class="" direction="input" selected-code="exchange.starUpCodes.input"></select-wallet>
+</div>
+<div class="exchange-form__spacer">
+<input type="text" name="inputVal" class="form__input" ng-model="exchange.input.val" ng-change="exchange.inputChange()" ug-numbers ug-money-format="{{exchange.input.wallet.precision}}" placeholder="Сумма" required>
+</div>
+</div>
+<div class="exchange-form__block exchange-form__block_arrow">
+<i class="material-icons">keyboard_arrow_right</i>
+</div>
+<div class="exchange-form__block">
+<label class="exchange-form__label">Получаете</label>
+<div class="exchange-form__spacer">
+<select-wallet select-model="exchange.output.wallet" other-select="exchange.input.wallet" direction="output" selected-code="exchange.starUpCodes.output"></select-wallet>
+</div>
+<div class="exchange-form__spacer">
+<input type="text" class="form__input" ng-model="exchange.output.val" ng-change="exchange.outputChange()" ug-numbers ug-money-format="{{exchange.output.wallet.precision}}" placeholder="Сумма" required>
+</div>
+</div>
+</div>
+<div class="exchange-form__offer">
+<button class="button button_yellow button_medium bold exchange-form__submit">Обменять</button>
+<div class="exchange-form__info">
+<currency-course direction-model="exchange.direction" input-code="exchange.input.wallet" output-code="exchange.output.wallet">
+</currency-course>
+<div class="exchange-form__reserve">
+<span class="exchange-form__reserve-value">Резерв:&nbsp;</span>
+<span ng-bind="exchange.output.wallet.reserve | spaceNumber: exchange.output.wallet.precision"></span>&nbsp;
+<span class='abbr' ng-bind='exchange.output.wallet.abbr'></span>
+</div>
+<min-exchange-amount direction-model="exchange.direction" input-code="exchange.input.wallet" output-code="exchange.output.wallet">
+</min-exchange-amount>
+</div>
+</div>
+<error-block class="exchange-form__errors" form-errors="exchangeForm" server-errors="exchange.server" errors-messages="exchange.errorMessages"></error-block>
+</form>
+</div>
+<div class="box">
+<div class="another-exchanger">
+<div class="another-exchanger__title">
+Обмен других электронных валют на
+<a href="http://ultragold.org">ultragold.org</a>
+</div>
+<div class="another-exchanger__icons">
+<i class="money-icon yamrub" tool-tip="'yamrub'" tool-tip-dictionary="exchange.tooltips"></i>
+<i class="money-icon qwrub" tool-tip="'qwrub'" tool-tip-dictionary="exchange.tooltips"></i>
+</div>
+</div>
+</div>
+<div class="reserves__box box">
+<div class="block-header">
+Резервы валют
+<more-reserves with-email="true" code="{{ exchange.input.wallet.code }}"></more-reserves>
+</div>
+<reserves-list webmoney-deny="true"></reserves-list>
+</div>
+</div>
+<div class="box">
+<div class="service-stat">
+<div class="block-header">Статистика сервиса</div>
+<div class='icons-row'>
+<div class='item'>
+<span class='image'>
+<img src="/img/stat.png.pagespeed.ce.jXf3Otm3KH.png" alt="">
+</span>
+<p><b>33 912</b> пользователей</p>
+</div>
+<div class='item'>
+<span class='image'>
+<img src="/img/exchanges.png.pagespeed.ce.bPezSoL_B8.png" alt="">
+</span>
+<p><b>0</b> обменов в сутки</p>
+</div>
+<div class='item'>
+<span class='image'>
+<img src="/img/balance.png.pagespeed.ce.hIfDw4VCt0.png" alt="">
+</span>
+<p><b>6 863&nbsp;$</b> суммарный резерв</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box">
+<div class="last-orders" ng-controller="lastOrdersCtrl as lastOrders">
+<div class="block-header">Последние обмены</div>
+<table class="rates" ng-controller="showRatesCtr as vm">
+<thead class="row rates__header">
+<tr>
+<td class="rates__cell rates__cell_header">Направление обмена</td>
+<td class="rates__cell rates__cell_header">Сумма обмена</td>
+<td class="rates__cell rates__cell_header">Время обмена</td>
+</tr>
+</thead>
+<tbody class="rates-list">
+<tr>
+<td colspan="3">
+<preloader class="loading_padding" request="vm.request"></preloader>
+</td>
+</tr>
+<tr class="row rates__line" ng-repeat="order in lastOrders.orders">
+<td>
+<a ng-href="/obmen-{{order.inPS.slug}}-na-{{order.outPS.slug}}" class="direction">
+<div class="standart-wallet">
+<span class="money-icon {{order.fromPaymentSystem}}"></span>
+<span class="money-title" ng-bind="order.inPS.title"></span>
+</div><i class="material-icons direction__arrow l-gray">swap_horiz</i>
+<div class="standart-wallet">
+<span class="money-icon {{order.toPaymentSystem}}"></span>
+<span ng-bind="order.outPS.title"></span>
+</div>
+</a>
+</td>
+<td>
+<span>
+<span ng-bind='order.inAmount | spaceNumber : order.inPS.precision : true'></span>&nbsp;<span class='abbr' ng-bind='order.inPS.abbr | uppercase'></span>
+<i class="material-icons right-arrow-grey l-gray">swap_horiz</i>
+<span ng-bind='order.outAmount | spaceNumber : order.outPS.precision : true'></span>&nbsp;<span class='abbr' ng-bind='order.outPS.abbr | uppercase'></span>
+</span>
+</td>
+<td>
+<span ng-if="order.minutesAgo < 60">
+<ng-pluralize count="order.minutesAgo" when="{
+                                0: 'только что',
+                                one:'{{order.minutesAgo}} минута назад',
+                                few: '{{order.minutesAgo}} минуты назад',
+                                many: '{{order.minutesAgo}} минут назад',
+                                other: '{{order.hoursAgo}} минут назад'
+                            }">
+</ng-pluralize>
+</span>
+<span ng-if="order.minutesAgo > 59">
+<ng-pluralize count="order.hoursAgo" when="{
+                                one:'{{order.hoursAgo}} час',
+                                few: '{{order.hoursAgo}} часа',
+                                many: '{{order.hoursAgo}} часов',
+                             }">
+</ng-pluralize>
+назад
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="promo">
+<div class="box">
+<div class="block-header">Как это работает</div>
+<div class="promo__list">
+<div class="promo__item">
+<div class="image">
+<i class="design-icon user-suit"></i>
+</div>
+<p>Регистрируетесь<br>на сайте </p>
+</div>
+<div class="promo__item">
+<div class="image">
+<i class="design-icon calculator"></i>
+</div>
+<p>Подбираете<br>параметры обмена</p>
+</div>
+<div class="promo__item">
+<div class="image">
+<i class="design-icon coin"></i>
+</div>
+<p>Вводите сумму<br>для обмена</p>
+</div>
+<div class="promo__item">
+<div class="image">
+<i class="design-icon purse"></i>
+</div>
+<p>Получаете сумму<br>на кошелек</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box partnership-promo">
+<div class="block-header">Выгодная партнерская программа</div>
+<ul class="partnership__list">
+<li class="partnership__item">
+<span class="image rocket"></span>
+<p>Доход – 0,3% от<br> суммы обмена</p>
+</li>
+<li class="partnership__item">
+<span class="image graph"></span>
+<p>Подробная статистика<br>приглашенных пользователей</p>
+</li>
+<li class="partnership__item">
+<span class="image monitor"></span>
+<p>Баннеры для размещения<br>на ваших сайтах</p>
+</li>
+</ul>
+</div>
+</div>
+</main>
+<footer class="main-footer">
+<div class="box">
+<a href="https://vk.com/ultragold_org" class="vk text-left">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAzCAMAAADvo9thAAABFFBMVEUAAAA6nMU8oshAnsRCosZEpMZHp8pGp8lKqMlOrMxNqspQrMtQrMtUr8xTr8xdtM9ctM5ht89huNBnu9Jmu9Fsv9Rtv9N0xNZ2xNZ6xtZ8yNh/yNiAyNiBydqDytqEytqHzNuIzNyLzdyNzt2Pz96S0d6Z0+Gb1OGd1eGi1+Oo2uWr2+at3Oax3ui24Om34em44eq64eq84uu94+y+4+zC5e3D5e3E5u3G5+7I6O/M6fDO6vHQ6/HR6/HU7fLW7vPX7vPY7/Pa7/Td8fXi8/bk9Pfo9fjp9fnp9vnr9/ns9/rt+Pru+Prx+fvy+vvy+vzz+vz1+/z2+/33/P34/P35/f77/f77/v78/v79/v/+//////8LeuwSAAAAFnRSTlMAHzxXcIeanK++wM7P29zv8Pb3+/z+hjX/IwAAAeNJREFUSMetlnlbwjAMxtkQxjHGgEEQRURF8UDxvm+8UJFLRfj+38OuA0a7snXT959lXX5Pmqxp6/P9k8RgNJ4CpFQ8GhS5iDD2N5UKO3EzMWAo5rdBBCaCMWEaI6VhqtISm4mBrWKsqSXAQXHBPQOQoCkOBsVylQ8zLwk4FZhIKM0Lpc20FOCWMl474EKi+0DjUCKA+1ARd1AIQ2b/LJeR5pGx+drudtsPc/pgXh8sF8z+omY30PUzC1D9xuY+Gsv2sPlJzm/ix77h7yfI2sHWEbKq2BrUTC+9SWTzdR1/72UBSuNIXQMqml4ygtSJJBvY4RSgMIIODOZ4wkkl6jAK1c/BEjYqkO9j44XYaRBE1PNpmMAGfu5CHT+/coQTDRWN2dw/40fj0XhdBVsILgZW3YEDlG1boZoV0siRFUaoS8JDo0qua5tB3QBVcplekWZava3W0DoH8uda94fDEXQFuc7QrJDLiNFOpXfDcw9gYbiMOlRDaYymWbuufzTri8jK3bZbzWbjjKiDxyb01O6eNhZvW5inzdInZHiZjPC3A4B7gjJ5QKk8jEofn0lnJmk9dB1jqay7hOIqn3ENbSqfCUy95kwNpgg2tyM/E1Oc7mFihOovLcR35ZNkFZOaKkss4hffKfrP0pbprQAAAABJRU5ErkJggg==" alt="Группа Вконтакте"><span>Вступайте в группу</span>
+</a>
+<span>© 2019 ultragold.org</span>
+<a class="text-right" href="/user-agreement">Пользовательское соглашение</a>
+</div>
+</footer>
+</div>
+<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-3.min.js" data-apikey="a0db01361b91a30f244e40995a823be4"></script>
+<script>window.isProd="1"==="1"
+window.isDev=""==="1"</script>
+<script src="/assets/2215bc9d/angular.js.pagespeed.jm.lCchuLdjwi.js"></script>
+<script src="/assets/89b231b9/angular-locale_ru.js.pagespeed.jm.4ftLH7-MrM.js"></script>
+<script src="/assets/afc8067a,_loading-bar.min.js+5263bd69,_js,_ngDialog.min.js+4d6f1fbd,_angular-animate.min.js+e27f3489,_offline.min.js+f20c736c,_angular-messages.min.js.pagespeed.jc.o9R_mgk-Bm.js"></script><script>eval(mod_pagespeed_ZZ1KqSLEnk);</script>
+<script>eval(mod_pagespeed_wg6eJPlXRH);</script>
+<script>eval(mod_pagespeed_sZy2LarUMd);</script>
+<script>eval(mod_pagespeed_qLkRNiKLFM);</script>
+<script>eval(mod_pagespeed_ERI2wuNqpi);</script>
+<script>"use strict";!function(){angular.module("timerModule",[])}(),function(){function leftCounter(e,t){return{scope:{timerName:"@"},restrict:"E",templateUrl:"/app/interface/timer/templates/counter.html",replace:!0,controller:["$scope","$element","$attrs",function(r,i,n){r.timerName=r.timerName||"resend",r.timer=0;var m,a=function(){return 0!==r.timer&&void--r.timer},c=function(t){r.timer=t,m=e(function(){a()},1e3,t)};r.$watch("timer",function(e){0===e&&t.clearTimer(r.timerName)}),r.$watch(function(){return t.timerData[r.timerName]},function(e,t){e!==t&&+e&&c(e)}),t.timerData[r.timerName]&&c(t.timerData[r.timerName])}]}}angular.module("timerModule").directive("leftCounter",leftCounter),leftCounter.$inject=["$interval","timerService"]}(),function(){function TimerService(){var e=this;e.timerData={},this.get=function(t){return e.timerData[t]},this.clearTimer=function(t,r){e.timerData[t]=0},this.startTimer=function(t,r){e.timerData[t]=r||60}}angular.module("timerModule").service("timerService",TimerService)}();</script>
+<script src="/assets/437a66b6/angular-sanitize.min.js.pagespeed.jm.k0FiWE5coX.js"></script>
+<script src="/app/interface/dictionary/dictionary.min.js.pagespeed.ce.Ou3tTws_eP.js"></script>
+<script>"use strict";!function(){angular.module("rendError",["form"])}(),function(){function errorBlock(r){return{scope:{formErrors:"=",serverErrors:"=",errorsMessages:"=",disableSubmit:"="},restrict:"E",templateUrl:"/app/interface/rendError/index.html",replace:!0,link:function(e){function updateError(){if(e.serverErrors&&e.serverErrors.message){console.log("# serverError",e.serverErrors);var s=e.serverErrors.file&&e.serverErrors["stack-trace"],t=e.serverErrors.message;return e.error={type:"server",name:"server",text:s?o:t}}e.formErrors&&(angular.forEach(e.formErrors.$error,function(o,s){if(0!==o.length&&o[0]){var t=r("filter")(e.errorsMessages,{type:s,name:o[0].$name},!0)[0],n=t?t.text:"";e.error={type:s,name:o[0].$name,text:n}}},!0),angular.equals({},e.formErrors.$error)&&(e.error=null))}var o="Произошла ошибка на сервере, попробуйте повторить операцию и напишите нам в чат, если не удалось. Спасибо.";e.error=null,e.visible=!1,e.$watch("[serverErrors, formErrors.$error, errorsMessages]",updateError,!0)}}}angular.module("rendError").directive("errorBlock",errorBlock),errorBlock.$inject=["$filter"]}();</script>
+<script src="/app/interface/formHelpers/formHelpers.min.js.pagespeed.ce.rE4jNJ7D2N.js"></script>
+<script src="/app/auth/auth.min.js.pagespeed.ce.z4mEfUKQiE.js"></script>
+<script src="/assets/6e883a77,_angular-route.min.js+c1b49c3,_ngStorage.min.js.pagespeed.jc.C34IMQeYKS.js"></script><script>eval(mod_pagespeed_luJLqNKbMO);</script>
+<script>eval(mod_pagespeed_TlmieFAXKg);</script>
+<script>"use strict";function _classCallCheck(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var _createClass=function(){function defineProperties(e,t){for(var n=0;n<t.length;n++){var r=t[n];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(e,r.key,r)}}return function(e,t,n){return t&&defineProperties(e.prototype,t),n&&defineProperties(e,n),e}}();!function(){angular.module("menu",["ngRoute","ngStorage"])}();var MenuController=function(){function MenuController(e,t,n){"ngInject";_classCallCheck(this,MenuController),this.$route=e,this.$location=t,this.$sessionStorage=n,this.activate()}return MenuController.$inject=["$route","$location","$sessionStorage"],_createClass(MenuController,[{key:"activate",value:function(){this.variable()}},{key:"variable",value:function(){this.$storage=this.$sessionStorage,this.active=!0,this.activate=!1}},{key:"reload",value:function(){this.$route.reload()}},{key:"isActive",value:function(e){var t=new RegExp(""+e+"S*","g");return t.test(this.$location.absUrl())}},{key:"toggleAdmin",value:function(){this.$storage.adminBar=!this.$storage.adminBar,this.activate=!0}}]),MenuController}();MenuController.$inject=["$route","$location","$sessionStorage"],angular.module("menu").controller("menuCtr",MenuController),function(){function ngTarget(e){return{scope:{ngTarget:"@"},restrict:"A",link:function(t,n){var r=e.path().split("/");t.ngTarget!==r[1]&&n.attr("target","_self")}}}angular.module("menu").directive("ngTarget",ngTarget),ngTarget.$inject=["$location"]}();</script>
+<script>"use strict";!function(){angular.module("app",["angular-loading-bar","ngAnimate","ngDialog","auth","menu","entitiesCounter"])}(),function(){function config(n,e,o){var a=void 0,i=void 0,t=void 0,c=void 0,r=void 0;for(c=document.getElementsByTagName("meta"),r=null,i=0,t=c.length;i<t;i++)if(a=c[i],"csrf-token"===a.name){r=a.content;break}n.defaults.headers.common["X-CSRF-Token"]=r,e.setDefaults({className:"ngdialog-site-theme",showClose:!1,closeByDocument:!0,closeByEscape:!0,cache:!1}),o.includeSpinner=!1,Offline.options={checks:{xhr:{url:"/img/favicons/favicon-16x16.png"}}}}var n=angular.module("app");n.config(config),n.constant("config",{autoInputs:["wmr","wmz","yamrub","qwrub"]}),config.$inject=["$httpProvider","ngDialogProvider","cfpLoadingBarProvider"]}();</script>
+<script src="/assets/55970600/release/angular-recaptcha.min.js.pagespeed.jm.Yj76yiG87A.js"></script>
+<script>"use strict";!function(){angular.module("preloader",[])}(),function(){function Service(){function showPreloader(e){e.addClass("loading_active")}function hidePreloader(e){e.removeClass("loading_active")}this.show=showPreloader,this.hide=hidePreloader}angular.module("preloader").service("Activate",Service)}(),function(){function preloader(e,r,t){function link(e,r){e.$watch("request",function(e,o){if(e!==o)try{e.then(function(){t.hide(r)}),t.show(r)}catch(e){t.hide(r),console.error("request is not a Promise")}})}var o={compile:function(e,r){return{pre:link}},templateUrl:"/app/interface/preloader/templates/ballPreloader.html",replace:!0,restrict:"E",scope:{request:"="}};return o}angular.module("preloader").directive("preloader",preloader),preloader.$inject=["$http","$filter","Activate"]}();</script>
+<script src="/app/interface/paginator/paginator.min.js.pagespeed.ce.v5-nEZwZ4k.js"></script>
+<script>"use strict";!function(){angular.module("viewHelpers",[])}(),function(){function changeClass(){return{scope:{changeClass:"="},restrict:"AEC",link:function(e,t,n){function getChanges(e){for(var t in e)e[t]?addClass(t):removeClass(t)}function addClass(e){t.addClass(e)}function removeClass(e){t.removeClass(e)}e.$watch("changeClass",function(e,t){getChanges(e)},!0)}}}angular.module("viewHelpers").directive("changeClass",changeClass)}(),function(){function dateFormat(e,t){return{scope:{dateFormat:"@"},restrict:"A",link:function(n,r,o){t(function(){try{var t=r.html().trim();10===t.length&&(t*=1e3);var o=e("date")(t,n.dateFormat);r.html(o)}catch(e){console.error("Date format is not valid")}})}}}angular.module("viewHelpers").directive("dateFormat",dateFormat),dateFormat.$inject=["$filter","$timeout"]}(),function(){function dateModelFormat(e,t){return{require:"ngModel",restrict:"A",link:function(t,n,r,o){t.$watch(r.ngModel,function(t,n){try{var a=e("date")(t,r.dateModelFormat);o.$setViewValue(a),o.$render()}catch(e){console.error("Wrong date format")}})}}}angular.module("viewHelpers").directive("dateModelFormat",dateModelFormat),dateModelFormat.$inject=["$filter","$timeout"]}(),function(){function wordEnding(e,t){return{scope:{wordEnding:"@",wordEndingCount:"@"},restrict:"A",link:function(e,t,n){function partnerEnd(e){var t=e%10;return 0===t?"ов":1===t&&e%100!=11?"":t<5&&(e%100>16||e%100<8)?"а":"ов"}e.$watch("wordEndingCount",function(n,r){var o=e.wordEnding+partnerEnd(e.wordEndingCount);t.html(o)})}}}angular.module("viewHelpers").directive("wordEnding",wordEnding),wordEnding.$inject=["$filter","$timeout"]}();</script>
+<script src="/assets/e55fe6b1/ng-file-upload.min.js.pagespeed.jm.U0_Z-wNu5V.js"></script>
+<script src="/app/interface/global/global.min.js.pagespeed.ce.1Gd7prmxV7.js"></script>
+<script>"use strict";function _classCallCheck(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var _createClass=function(){function defineProperties(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(e,t,r){return t&&defineProperties(e.prototype,t),r&&defineProperties(e,r),e}}();angular.module("paymentSystem",["global"]);var Service=function(){function Service(e,t){_classCallCheck(this,Service),this.http=e,this.sortDirection=t}return Service.$inject=["http","sortDirection"],_createClass(Service,[{key:"index",value:function(){var e=!(arguments.length>0&&void 0!==arguments[0])||arguments[0],t=this.getAll(e).then(function(e){return e.filter(function(e){return!e.disabled})});return t}},{key:"getAll",value:function(){var e=this,t=!(arguments.length>0&&void 0!==arguments[0])||arguments[0],r=this.http.get("/api/payment-system",{cache:t}).then(function(t){var r=t.data.paymentSystems;return e.sortDirection.sortPaymentSystems(r)});return r}},{key:"setPaymentsSystems",value:function(e,t,r){if(!Array.isArray(e))throw new Error("Collection is not array");return this.getAll().then(function(n){return e.map(function(e){if(e)return r?(e.inPS=n.filter(function(r){return r.code===e[t]})[0],e.outPS=n.filter(function(t){return t.code===e[r]})[0]):e.PS=n.filter(function(r){return r.code===e[t]})[0],e})})}}]),Service}();Service.$inject=["http","sortDirection"],angular.module("paymentSystem").service("paymentSystem",Service);</script>
+<script>"use strict";!function(){angular.module("user",["ngFileUpload","Dictionaries","paymentSystem"])}(),function(){function userService(t,e,a,n,r,i,u){var s=this,o=this;this.modelData={},this.destroyWallet=function(t){console.log(t),e.delete("/api/user/purse/"+t).then(function(t){return s.showUser(null,!1),t})},this.showCurrent=function(){return e.get("/api/user",{ignoreLoadingBar:!0}).then(function(t){return t.data})},this.showUser=function(a){var n=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],r=a?"/api/user/"+a:"/api/user";return t.all([e.get(r,{cache:n}),i.index()]).then(function(t){return angular.forEach(t[0].data.purses,function(e){console.log(t[0])}),angular.forEach(t[0].data.settings,function(t){t.title=u.getSettingName(t.name)}),o.modelData=t[0].data,t[0].data})},this.setUserAttr=function(t,e){s.modelData[t]=e},this.uploadAvatar=function(t){var e=r.upload({url:"/api/user/avatar",data:{avatar:t}});return e.then(function(t){n.avatar=t.data.avatar})},this.deleteAvatar=function(){e.delete("/api/user/avatar").then(function(t){n.avatar=t.data.avatar})},this.getSetting=function(t){return e.get("/api/user/settings/"+t)},this.setSetting=function(t,n){return e.put("api/user/settings/"+t,{value:""+n}).then(function(){var e="0";n&&(e="1");var r=a("filter")(o.modelData.settings,{name:t})[0];r.value=e})}}angular.module("user").service("userService",["$q","$http","$filter","$rootScope","Upload","paymentSystem","settingDictionary",userService])}();</script>
+<script>"use strict";!function(){angular.module("redirectDir",[])}();var redirectTo=function(e,r,t){return{restrict:"A",scope:{redirectTo:"@",redirectToNewTab:"@",redirectToSelf:"@"},link:function(e,i){i.on("click",function(i){i.stopPropagation(),e.redirectTo&&(hasSelection()||("true"===e.redirectToNewTab?r.open(e.redirectTo,"_blank"):"true"===e.redirectToSelf?r.location.href=e.redirectTo:t.path(e.redirectTo)))})}}},hasSelection=function(){try{return 0!==window.getSelection().toString().length}catch(e){return!1}};angular.module("redirectDir").directive("redirectTo",redirectTo),redirectTo.$inject=["$timeout","$window","$location"];</script>
+<script src="/app/order/order.min.js.pagespeed.ce.YM5WnZi4BK.js"></script>
+<script>"use strict";!function(){angular.module("selector",[])}(),function(){function selectList(){return{scope:{collection:"=",selectModel:"=",error:"=",allowed:"=",placeholder:"@",cssClass:"@class",defaultVal:"@"},restrict:"E",replace:!0,templateUrl:function(e,t){return t.ngTpl||"/app/interface/selector/templates/selector.html"},link:function(e,t,l){e.errorClass="",console.log(),e.$watch("error",function(t,l){return e.error?void(e.errorClass=" error"):void(e.errorClass="")}),e.defaultVal&&!e.selectModel&&(e.selectModel={},e.selectModel.name=e.defaultVal,e.selectModel.title=e.defaultVal),e.setSelect=function(t){e.selectModel=t},e.cssClass&&t.addClass(e.cssClass)}}}angular.module("selector").directive("selectList",selectList)}(),function(){function toggleClass(e){return{restrict:"A",require:"^toggler",link:function(t,l,o,c){function elementClick(e){return e.stopPropagation(),t[o.ngDisabled]?l.addClass("disabled"):(l.toggleClass(o.toggleClass),l.hasClass(o.toggleClass)?c.activate(l):c.deactivate(l),void t.$apply())}function documentClick(e){l.removeClass(o.toggleClass),c.deactivate(t,l),t.$apply()}l.on("click",elementClick),e.on("click",documentClick),t.$on("$destroy",function(){l.off("click",elementClick),e.off("click",documentClick)}),t.$on("activate",function(e,t){t[0]!=l[0]&&l.removeClass(o.toggleClass)})}}}angular.module("selector").directive("toggleClass",toggleClass),toggleClass.$inject=["$document"]}(),function(){function toggler(e){return{restrict:"A",controller:["$scope",function(e){this.activate=function(t){e.$broadcast("activate",t)},this.deactivate=function(t){e.$broadcast("deactivate",t)}}]}}angular.module("selector").directive("toggler",toggler),toggler.$inject=["$document"]}();</script>
+<script src="/assets/a5b2fead,_dist,_Autolinker.min.js+1e13e969,_angular-scroll.min.js.pagespeed.jc.NbqqeWL_CC.js"></script><script>eval(mod_pagespeed_S_BKR9xQbw);</script>
+<script>eval(mod_pagespeed_ufXmJh5VPJ);</script>
+<script>"use strict";!function(){angular.module("feedback",["preloader","duScroll"])}(),function(){function FeedbackService(e,n){this.getFeedbacksById=function(n){var t=""+n;return e.get("/api/review/direction/"+t).then(function(e){return e.data.reviews})},this.columnSort=function(e){var n={leftColumn:[],rightColumn:[]};return e.forEach(function(e,t){return 0===t||t%2===0?void n.leftColumn.push(e):void n.rightColumn.push(e)}),n}}angular.module("feedback").service("feedbackService",FeedbackService),FeedbackService.$inject=["$http","$filter"]}(),function(){function feedbackDirection(){return{scope:{direction:"=directionId",top:"=topDirection"},restrict:"E",replace:!0,templateUrl:"../app/interface/feedback/templates/feedbackList.html",controller:feedbackController}}function feedbackController(e,n){e.request,e.leftColumn=[],e.rightColumn=[];e.$watch("direction",function(t,i){i!==t&&(e.request=n.getFeedbacksById(t,e.top).then(function(t){var i=void 0;i=n.columnSort(t),e.leftColumn=i.leftColumn,e.rightColumn=i.rightColumn}))})}angular.module("feedback").directive("feedbackDirection",feedbackDirection),feedbackController.$inject=["$scope","feedbackService"]}(),function(){function linker(){return{scope:{link:"=linker"},link:function(e,n,t){var i=new Autolinker({className:"link"});e.$watch("link",function(e,t){if(e){var r=i.link(e);n.html(r)}})}}}angular.module("feedback").directive("linker",linker)}();</script>
+<script src="/app/exchanger/exchanger.min.js.pagespeed.ce.d218PHNXxj.js"></script>
+<script src="/app/mainPage/mainPage.min.js.pagespeed.ce.gMbP0N5D2W.js"></script>
+<script>"use strict";!function(){angular.module("entitiesCounter",[])}(),function(){function entitiesCounter(t,e){return{restrict:"E",scope:{url:"@",timeout:"@"},replace:!0,templateUrl:"/app/entitiesCounter/templates/entitiesCounter.html",link:function(n,i,u){function displayCount(){t.getCount(u.url).then(function(t){n.cnt=t})}displayCount(),e(function(t){displayCount()},u.timeout)}}}entitiesCounter.$inject=["entitiesCounterService","$interval"],angular.module("entitiesCounter").directive("entitiesCounter",entitiesCounter)}(),function(){function entitiesCounter(t,e){this.getCount=function(e){return t.get(e,{ignoreLoadingBar:!0}).then(function(t){var e=+t.data.count;return e>99&&(e="99+"),e}).catch(function(t){403===t.status&&(document.location="/auth/logout")})}}entitiesCounter.$inject=["$http","$filter"],angular.module("entitiesCounter").service("entitiesCounterService",entitiesCounter)}();</script>
+<script>ChatraID='dKp3iNDu9ZDPssZRN';(function(d,w,c){var n=d.getElementsByTagName('script')[0],s=d.createElement('script');w[c]=w[c]||function(){(w[c].q=w[c].q||[]).push(arguments);};s.async=true;s.src=(d.location.protocol==='https:'?'https:':'http:')+'//call.chatra.io/chatra.js';n.parentNode.insertBefore(s,n);})(document,window,'Chatra');</script>
+<script type="text/javascript">(function(d,w,c){(w[c]=w[c]||[]).push(function(){try{w.yaCounter36575855=new Ya.Metrika({id:36575855,clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});}catch(e){}});var n=d.getElementsByTagName("script")[0],s=d.createElement("script"),f=function(){n.parentNode.insertBefore(s,n);};s.type="text/javascript";s.async=true;s.src="https://mc.yandex.ru/metrika/watch.js";if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false);}else{f();}})(document,window,"yandex_metrika_callbacks");</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/36575855" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-75989139-1','auto');ga('send','pageview');</script>
+</body>
+</html>

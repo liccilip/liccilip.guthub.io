@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+	<meta charset="UTF-8">
+	<title>BTCE-obmen &#8212; обменный пункт электронных валют BTC-E - BTCE-obmen - обменный пункт электронных валют BTC-E, Payeer USD, AAdvance Cache</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://btce-obmen.com/wp-content/themes/exchangeboxtheme2/style.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://btce-obmen.com/wp-content/themes/exchangeboxtheme2/js/jquery-1.8.3.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://btce-obmen.com/wp-content/plugins/exchangebox/js/jquery-ui-1.9.2.custom.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://btce-obmen.com/wp-content/plugins/exchangebox/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://btce-obmen.com/wp-content/themes/exchangeboxtheme2/js/all.js?ver=1.0'></script>
+<script type='text/javascript' src='https://btce-obmen.com/wp-content/plugins/exchangebox/jsphp/js.php?ver=1.0'></script>
+<link rel='https://api.w.org/' href='https://btce-obmen.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://btce-obmen.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbtce-obmen.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://btce-obmen.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbtce-obmen.com%2F&#038;format=xml" />
+<link rel='canonical' href='https://btce-obmen.com/' />
+<link rel="shortcut icon" href="/images/favicon.png" type="image/png" />
+<link rel="icon" href="/images/favicon.png" type="image/png" />
+<link rel="icon" href="https://btce-obmen.com/wp-content/uploads/cropped-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://btce-obmen.com/wp-content/uploads/cropped-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://btce-obmen.com/wp-content/uploads/cropped-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://btce-obmen.com/wp-content/uploads/cropped-Logo-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			body {
+    font: 14px/1.5em 'Open Sans', sans-serif;
+ }		</style>
+		
+	
+		
+	
+</head>
+
+<body class="home page-template page-template-exb-pluginpage page-template-exb-pluginpage-php page page-id-151">
+<div id="container">
+	<div class="headline"></div>
+
+    <div id="header">
+	    <div class="header">
+		
+		    <div class="logo">
+									<div class="textlogo"><a href="https://btce-obmen.com" title="BTCE-obmen &#8212; обменный пункт электронных валют BTC-E"><img src="https://btce-obmen.com/images/Logo.png" width="300px" alt="BTCE-obmen &#8212; обменный пункт электронных валют BTC-E" /></a></div>
+					<div class="logodescr">Обмен электронных валют</div>
+							</div>
+			
+						
+			<div class="hright">
+				<div class="hrighttop">
+															<div class="hemail"><a href="/cdn-cgi/l/email-protection#7416001752574544454f1b16525745444d4f1152574545444f525742404f52574544474f191552574544414f525745444c4f5a52574d4d4f1b19">&#98;t&#99;eob&#109;&#101;&#110;&#64;&#103;&#109;&#97;&#105;&#108;.com</a></div>						<div class="clear"></div>
+				</div>
+			
+				<div class="hrightbot">
+					<div class="hworktime"><p>Пн. &#8212; Вск. с 10:00 до 23:00</p>
+<p>Возможно и другое время, когда оператор онлайн!</p>
+</div>
+					<div class="htel"></div>
+						<div class="clear"></div>
+				</div>
+			</div>
+			
+			    <div class="clear"></div>
+		</div>
+	</div>	
+	
+	<div id="cwrap">
+	
+		<div id="menutopped">
+			<div id="topmenu">
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom  first_menu_li menu-item-130"><a href="/">Обмен</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://btce-obmen.com/reviews/">Отзывы</a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://btce-obmen.com/tos/">Правила</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-171"><a href="#">Кабинет</a>
+<ul class="sub-menu">
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://btce-obmen.com/register/">Условия и регистрации</a></li>
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://btce-obmen.com/login/">Авторизация</a></li>
+</ul>
+</li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://btce-obmen.com/tarifs/">Тарифы</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-169"><a href="https://btce-obmen.com/feedback/">Контакты</a></li>
+</ul>						<div class="clear"></div>
+				</div>
+			</div>	
+		</div>
+
+		<div class="content">
+			<div class="contentzone">		
+		
+	    		
+
+		
+		<div class="homeobmentable">
+	<div class="lefthomecol"><div class="lefthomecolvn"><div class="widgethometitle"><div class="widt">Отдаете</div></div><div class="onehline leftgo act" id="napobmen-26">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://btce-obmen.com/wp-content/uploads/exmo1-e1547110179266.jpg) no-repeat center center"></div>
+					<div class="onehlinetext">
+						EXMO USD
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-45">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://btce-obmen.com/wp-content/uploads/Bez-nazvaniya-2-e1516291252452.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Tether USDT
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-27">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://www.worldcoinindex.com/Content/img/coins/v-636096405580774340/Bitcoin.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Bitcoin BTC
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-13">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Qiwi RUB
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-16">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Приват24 UAH
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-28">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://www.worldcoinindex.com/Content/img/coins/v-636096405508202311/Ethereum.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						ETHEREUM ETH
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-22">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://btce-obmen.com/wp-content/uploads/advance.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Advance Cash USD
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-25">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://btce-obmen.com/wp-content/uploads/exmo1-e1547110179266.jpg) no-repeat center center"></div>
+					<div class="onehlinetext">
+						EXMO RUB
+					</div>
+				        <div class="clear"></div>
+			</div></div></div><div class="righthomecol"><div class="righthomecolvn">
+	<div class="widgethometitle2">
+		<div class="widt1">Получаете</div>
+		<div class="widt2">Резерв</div>
+			<div class="clear"></div>
+	</div>
+	<div class="tabhome act" id="napobmento-26"><a href="https://btce-obmen.com/xchange_EXMUSD_to_P24UAH/" class="onehrine">
+								<input type="hidden" value="EXMUSD" name="xname1" />
+								<input type="hidden" value="P24UAH" name="xname2" />
+							<div class="onehrineico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Приват24 UAH
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Приват24 UAH" name="16">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									-529099.05
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://btce-obmen.com/xchange_EXMUSD_to_ADVCUSD/" class="onehrine">
+								<input type="hidden" value="EXMUSD" name="xname1" />
+								<input type="hidden" value="ADVCUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://btce-obmen.com/wp-content/uploads/advance.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Advance Cash USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Advance Cash USD" name="22">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									936.38
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-45"><a href="https://btce-obmen.com/xchange_Tether_to_QWRUB/" class="onehrine">
+								<input type="hidden" value="Tether" name="xname1" />
+								<input type="hidden" value="QWRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									156004.18
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-27"><a href="https://btce-obmen.com/xchange_BTC_to_QWRUB/" class="onehrine">
+								<input type="hidden" value="BTC" name="xname1" />
+								<input type="hidden" value="QWRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									156004.18
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-13"><a href="https://btce-obmen.com/xchange_QWRUB_to_EXMRUB/" class="onehrine">
+								<input type="hidden" value="QWRUB" name="xname1" />
+								<input type="hidden" value="EXMRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(https://btce-obmen.com/wp-content/uploads/exmo1-e1547110179266.jpg) no-repeat center center"></div>
+								<div class="onehrinetext">
+									EXMO RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="EXMO RUB" name="25">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									466551.04
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://btce-obmen.com/xchange_QWRUB_to_EXMUSD/" class="onehrine">
+								<input type="hidden" value="QWRUB" name="xname1" />
+								<input type="hidden" value="EXMUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://btce-obmen.com/wp-content/uploads/exmo1-e1547110179266.jpg) no-repeat center center"></div>
+								<div class="onehrinetext">
+									EXMO USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="EXMO USD" name="26">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									1318.98
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-16"><a href="https://btce-obmen.com/xchange_P24UAH_to_EXMUSD/" class="onehrine">
+								<input type="hidden" value="P24UAH" name="xname1" />
+								<input type="hidden" value="EXMUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://btce-obmen.com/wp-content/uploads/exmo1-e1547110179266.jpg) no-repeat center center"></div>
+								<div class="onehrinetext">
+									EXMO USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="EXMO USD" name="26">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									1318.98
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-28"><a href="https://btce-obmen.com/xchange_ETH_to_QWRUB/" class="onehrine">
+								<input type="hidden" value="ETH" name="xname1" />
+								<input type="hidden" value="QWRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									156004.18
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-22"><a href="https://btce-obmen.com/xchange_ADVCUSD_to_QWRUB/" class="onehrine">
+								<input type="hidden" value="ADVCUSD" name="xname1" />
+								<input type="hidden" value="QWRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									156004.18
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-25"><a href="https://btce-obmen.com/xchange_EXMRUB_to_QWRUB/" class="onehrine">
+								<input type="hidden" value="EXMRUB" name="xname1" />
+								<input type="hidden" value="QWRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										Не хватает?
+									</div>
+								</div>
+									156004.18
+							</div>
+								<div class="clear"></div>
+							</a></div></div></div><div class="clear"></div>
+			<div class="clear"></div>
+		</div>
+	
+				
+		
+	    			
+	
+	<div class="clear"></div>
+		    <div class="fcwidget">
+			<div class="fcwidgetvn">
+				<div class="fcwtitle">
+					<div class="fcwtitlevn">
+						Приветствуем на сайте обменного пункта!					</div>
+				</div>
+					<p>Наш On-line-сервис BTCE-обмен предназначен для тех, кто хочет быстро, безопасно и по выгодному курсу обменять такие виды электронных валют: Advance Cash, Payeer USD, Яндекс.Деньги, Приват24.</p>
+<p>Этим возможности нашего сервиса не ограничиваются. В рамках проекта действуют программа лояльности, накопительная скидка и партнерская программа, воспользовавшись преимуществами которых, вы сможете совершать обмен электронных валют на более выгодных условиях. Для этого нужно просто зарегистрироваться на сайте.</p>
+<p>Наш пункт обмена электронных валют – система, созданная на базе современного программного обеспечения и содержащая весь набор необходимых функций для удобной и безопасной конвертации наиболее распространенных видов электронных денег. За время работы мы приобрели репутацию проверенного партнера и делаем все возможное, чтобы ваши впечатления от нашего сервиса были только благоприятными.</p>
+				<div class="clear"></div>
+			</div>
+		</div>
+    	
+	
+
+			</div>
+			<div class="sidebar">
+		
+				
+	<div class="statuswork_widget online"><div class="statuswork_widgetvn">
+		<div class="statuswork_widget_text">РАБОТАЕМ</div><div class="statuswork_widget_time">18.03.2019 12:58:59</div>
+	</div></div>
+	
+			<div class="login_widget">
+				<div class="login_widgetvn">
+				<div class="loginwidget_title"><div class="loginwidget_titlevn">Авторизация</div></div>
+					<form method="post" class="exbajaxpostform" action="https://btce-obmen.com/ajax-loginform.html?notcsrf=9d8cd55e7a">
+		<div class="resultgo"></div>
+		<div class="wline">
+			<input type="text" name="login" placeholder="Логин" value="" />
+		</div>
+		<div class="wline">
+			<input type="password" name="pass" placeholder="Пароль" value="" />
+		</div>	
+					
+		
+					
+		<div class="wlineleft">
+			<p><a href="https://btce-obmen.com/register/">Регистрация</a></p>
+		</div>
+		<div class="wlineright">
+			<p><a href="https://btce-obmen.com/lostpass/">Забыли пароль?</a></p>
+		</div>                    				
+			<div class="clear"></div>
+		<div class="wlinesubmit">
+			<input type="submit" formtarget="_top" name="" value="Войти" />
+		</div>  		
+	
+					</form>
+				</div>
+			</div>
+			<div class="widget">
+	<div class="widgettitleotzivs">Отзывы</div>
+		<div class="clear"></div>
+	<div class="wotzivline ">
+		<div class="wnewauthorto">Геннадий,</div>
+		<div class="wnewsdateto">16.03.2019, 18:11</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			Огромное спасибо за обмен.Быстро и понятно
+		</div>
+	</div><div class="wotzivline odd">
+		<div class="wnewauthorto">Илья,</div>
+		<div class="wnewsdateto">16.03.2019, 17:23</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			Отличный обменник ,все мгновенно оплачивают)
+		</div>
+	</div><div class="wotzivline ">
+		<div class="wnewauthorto">Богдан,</div>
+		<div class="wnewsdateto">14.03.2019, 09:51</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			Пользовался услугами обменника, всё прошло удачно и быстро. Понравился сервис&hellip;
+		</div>
+	</div><div class="wotzivline odd">
+		<div class="wnewauthorto">Иван,</div>
+		<div class="wnewsdateto">06.03.2019, 21:06</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			Всем привет.использовал обменник с комиссией определённой деньги с утра к&hellip;
+		</div>
+	</div><div class="wotzivline ">
+		<div class="wnewauthorto">владимир,</div>
+		<div class="wnewsdateto">26.02.2019, 12:31</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			ETH&gt;QIWI все ок
+		</div>
+	</div>
+	
+		<div class="wmorenewsdiv">
+			<a href="https://btce-obmen.com/reviews/" class="wmorenews">Все отзывы (118)</a>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+		<div class="lobmen_widget">
+		    <div class="lobmenwidget_title">Последний обмен</div>
+				<div class="lobmentable">
+					<div class="lobmline">
+						<div class="lobmlineico">
+							<div class="obmenlinewico" style="background: url(/images/payment_icons/qw.png) no-repeat center center"></div>
+								<div class="clear"></div>
+						</div>
+						<div class="lobmlinebac">
+							6500&nbsp;RUB
+						</div>
+							<div class="clear"></div>
+					</div>
+							
+					<div class="lobmlinepr"></div>
+							
+					<div class="lobmline">
+						<div class="lobmlineico">
+							<div class="obmenlinewico" style="background: url(https://btce-obmen.com/wp-content/uploads/exmo1-e1547110179266.jpg) no-repeat center center"></div>
+								<div class="clear"></div>
+						</div>
+						<div class="lobmlinebac">
+							6337.5&nbsp;RUB
+						</div>
+							<div class="clear"></div>
+					</div>	
+						<div class="clear"></div>
+				</div>
+				<div class="lobmendate">18.03.2019 12:30</div>
+		</div>
+					
+			</div>
+				<div class="clear"></div>
+		</div>
+
+	</div>
+	
+			<div class="fwidget">
+	        <div class="fwidgetvn">
+				<table class="tpartner">
+				    <tr>
+					    <td>
+							Партнеры:						</td>
+													<td>
+								<a href="http://bestchange.ru" target="_blank" title="bestchange">									<img src="https://www.bestchange.ru/bestchange.gif" alt="bestchange" />
+								</a>							</td>
+													<td>
+								<a href="https://bestcurs.org/" target="_blank" title="bestcurs">									<img src="https://bestcurs.org/wp-content/plugins/exchangers-monitor/images/bestkurs_88x31k.png" alt="bestcurs" />
+								</a>							</td>
+													<td>
+								<a href="http://exchangesumo.com" target="_blank" title="exchangesumo">									<img src="https://exchangesumo.com/i/1.svg" alt="exchangesumo" />
+								</a>							</td>
+													<td>
+								<a href="https://glazok.org/" target="_blank" title="GLAZOK">									<img src="http://glazok.org/88x31.gif" alt="GLAZOK" />
+								</a>							</td>
+												
+					</tr>
+				</table>
+				
+				<div class="clear"></div>
+	        </div>
+	    </div>	
+		
+	
+    <div id="footer">
+	    <div class="footer">
+		    <div class="fleft">
+							© 2017 BTCEobmen.com - сервис обмена электронных валют.						</div>
+
+		    <div class="fright">
+				<ul id="menu-nizhnee-menyu" class="tmenu"><li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-220"><a href="https://btce-obmen.com/sitemap/">Карта сайта</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://btce-obmen.com/tos/">Правила сайта</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-221"><a href="https://btce-obmen.com/preduprezhdenie/">Предупреждение</a></li>
+</ul>					<div class="clear"></div>
+			</div> 
+                <div class="clear"></div>			
+		</div>
+	</div>	
+
+</div>
+		<div id="exbprezshadow"></div> 
+		<div class="exbprezbox">
+			<div class="exbprezboxvn">
+				<div class="exbprezboxclose"></div>
+				<div class="exbprezboxtitle" id="rezerv_titls">Запрос резерва</div>
+				
+				<form method="post" class="ajax_post_form" action="https://btce-obmen.com/ajax-reservform.html?notcsrf=9d8cd55e7a">
+					<input type="hidden" name="id" id="rezerv_ids" value="" />
+					<div class="resultgo"></div>
+					
+					<p><input type="text" name="sum" placeholder="Необходимая сумма" value="" /></p>
+					<p><input type="text" name="email" placeholder="E-mail" value="" /></p>
+					<p><textarea name="comment" placeholder="Комментарий"></textarea></p>
+					
+										
+					<p><input type="submit" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='https://btce-obmen.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script type='text/javascript'>
+    (function(){ var widget_id = 'lZey3kOhWW';
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id+'?plugin=wp'; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+</script></body>
+</html>

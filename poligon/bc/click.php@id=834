@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+    <meta charset="UTF-8">
+    <title>Онлайн Обменник валют /  Быстрый обмен электронных валют</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="keywords" content="Обмен валют Быстрый обмен электронных валют Мультивалютный обменный сервис - Multi-Currency.Exchange, 1b0d44f87c5f71838c7e"/>
+<meta name="description" content="Онлайн обменник виртуальных валют. Обменивайте в нашем обменнике быстро и по выгодному курсу. Обменник валют онлайн. Автоматический обмен валют. Лучшие курсы, значительные запасы."/>
+<link rel="icon" href="https://multi-currency.exchange/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://multi-currency.exchange/favicon.ico" type="image/x-icon"> 
+    <link href="https://multi-currency.exchange/skin/mydomain/css/bootstrap.min.css?v=7.8" rel="stylesheet">
+    <link href="https://multi-currency.exchange/skin/mydomain/css/style.css?v=7.8" rel="stylesheet">
+<!--COLOR-->
+<link rel="stylesheet" type="text/css" href="https://multi-currency.exchange/skin/mydomain/skins/gray.css?v=7.8" title="gray" media="screen" />
+<!--!COLOR-->
+        <link href="https://multi-currency.exchange/skin/mydomain/other.css?v=7.8" rel="stylesheet">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+<link rel="stylesheet" type="text/css" href="https://multi-currency.exchange/skin/mydomain/exchange.css?v=7.8"/>
+<link href="https://multi-currency.exchange/skin/mydomain/dd.css?v=7.8" rel="stylesheet"> 
+<script>window.onerror= function(){return true;}</script><script src="https://multi-currency.exchange/lang/ru-ru/lang.js?v=7.8"></script>
+<script src="https://multi-currency.exchange/file/script/config.js"></script>
+<script src="https://multi-currency.exchange/file/script/common.js?v=7.8"></script>
+<script src="https://multi-currency.exchange/file/script/sha256.js?v=7.8"></script>
+<script src="https://multi-currency.exchange/file/script/portal.js?v=7.8"></script>
+<script src="https://multi-currency.exchange/file/script/jquery.js?v=7.8"></script>
+    <script src="https://multi-currency.exchange/file/script/switches.js?v=7.8"></script>
+    <script src="https://multi-currency.exchange/file/script/tooltips.js?v=7.8"></script>
+<script src="https://multi-currency.exchange/file/script/dd.js?v=7.8"></script>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://multi-currency.exchange/skin/mydomain/images/apple-touch/apple-touch-icon-152x152.png" />
+  </head>
+ <body class="cnt-home">
+<header class="header-style-1">
+<div class="top-bar animate-dropdown">
+<div class="container">
+<div class="header-top-inner">
+    <div class="cnt-account hidden-xs"><h1 class="box-header">ОБМЕН ВАЛЮТ ПО ВСЕМУ МИРУ. СЕМЬ ДНЕЙ В НЕДЕЛЮ, ДВАДЦАТЬ ЧЕТЫРЕ ЧАСА В СУТКИ</h1></div>
+<div class="cnt-block">
+<ul class="list-unstyled list-inline">
+<link rel="stylesheet" type="text/css" href="https://multi-currency.exchange/skin/mydomain/flag.css?v=7.8" />                               <li class="dropdown language js-selectable-dropdown">
+<a data-toggle="dropdown" class="selected" href="#"><span class="js-change-text"><i class="famfamfam-flag-ru-ru"></i> &nbsp;Русский</span> <span class="caret"></span></a>
+                                    <ul class="dropdown-menu js-possibilities" role="menu">
+<li><a class="l_cursor" onClick="lang_switch('ru', 'ru-ru');"><i class="famfamfam-flag-ru-ru"></i> &nbsp;Русский</a></li>
+<li><a class="l_cursor" onClick="lang_switch('ru', 'en-en');"><i class="famfamfam-flag-en-en"></i> &nbsp;English</a></li>
+                                    </ul>
+                                </li>
+<!--  = USER INFO scripts NOT DELETE=  -->
+<li class="dropdown dropdown-small" id="uportal_member"></li>
+<!--  = END USER INFO scripts NOT DELETE=  -->
+    &nbsp;
+<li><a role="button" data-toggle="collapse" href="#hidemtop" aria-expanded="false" id="mhide">
+<i id="mthh_plus" class="mthh fa fa-plus-square-o fa-lg hidden" data-toggle="tooltip" data-placement="bottom" title="Открыть блок"></i>
+<i id="mthh_minus" class="mthh fa fa-minus-square-o fa-lg " data-toggle="tooltip" data-placement="bottom" title="Закрыть блок"></i>
+</a></li>
+</ul><!-- /.list-unstyled -->
+</div><!-- /.cnt-block -->
+<div class="clearfix"></div>
+</div><!-- /.header-top-inner -->
+</div><!-- /.container -->
+</div><!-- /.top-bar -->
+<!-- box collapse -->
+<div class="collapse in" id="hidemtop">
+<div class="main-header">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-3 logo-holder">
+              <div class="logo"><a href="https://multi-currency.exchange/"><img src="https://multi-currency.exchange/skin/mydomain/images/logo.png" data-toggle="tooltip" data-placement="bottom" alt="Быстрый обмен электронных валют"/></a></div>
+               </div>
+<!-- START BOX CONTACT -->
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 f_white hidden-xs">
+<b>ВРЕМЯ РАБОТЫ ОПЕРАТОРА по обработке заявок "полуавтоматических" и "обработка оператором" - Пн., Вт., Ср., Чт., Пт. с 9.00 - 23.00 (время Киевское) Сб., Вс. свободный график. Учитывайте при обмене</b><br/>Так же вы можете скачать наше приложение для  <a href="https://play.google.com/store/apps/details?id=exchange.multicurrency" target="_blank"><span style="color:#3498db">Android</span></a> и в магазине <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1421025920&mt=8" target="_blank"><span style="color:#3498db">App Store</span></a>. Теперь совершать обмены стало еще проще.</div>
+                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 f_white">
+                          <p data-toggle="tooltip" data-placement="top" title="E-mail"><i class="fa fa-envelope sa"></i> obmen.multi.currency@gmail.com</p>                                                      </div>
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 f_white">
+                                                    <p><i class="fa fa-telegram sa"></i> @Multicurrency_exchange</p>  <p><i class="fa fa-telegram sa"></i> <a class="f_white" href="https://t.me/Multicurrency_bot" rel="nofollow" target="_blank">Наш бот Telegram</a></p></div>
+                  <!-- END BOX CONTACT -->
+</div><!-- /.row -->
+</div><!-- /.container -->
+</div><!-- /.main-header -->
+<!-- END box collapse -->
+</div>
+<div class="header-nav animate-dropdown">
+    <div class="container">
+        <div class="yamm navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+                <button data-target="#mc-horizontal-menu-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+                    <span class="sr-only">Menu</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="nav-bg-class">
+           <div class="navbar-collapse collapse" id="mc-horizontal-menu-collapse">
+    <div class="nav-outer">
+<ul class="nav navbar-nav">
+<li class="active"><a href="https://multi-currency.exchange/">Главная</a></li>
+<li><a href="https://multi-currency.exchange/news/"><span>Новости</span></a></li>
+<li><a href="https://multi-currency.exchange/help/"><span>Помощь</span></a></li>
+<li><a href="https://multi-currency.exchange/exchange/feedback.php">Отзывы</a></li>
+ 
+<li><a href="https://multi-currency.exchange/tariff/">Тарифы</a></li>
+<li><a href="https://multi-currency.exchange/rates/">Курсы валют</a></li> 
+ 
+<li><a href="https://multi-currency.exchange/contact/">Контакты</a></li> 
+<!-- START OPERATOR -->
+<li class="navbar-right special-menu online">
+ <a href="https://multi-currency.exchange/contact/"><span data-toggle="tooltip" data-placement="top" data-original-title="Оператор онлайн"><i class="fa fa-life-ring fa-lg sa"></i> Оператор онлайн</span>
+</a></li>
+<!-- END OPERATOR -->
+</ul><!-- /.navbar-nav -->
+<div class="clearfix"></div>
+</div><!-- /.nav-outer -->
+</div><!-- /.navbar-collapse -->
+            </div><!-- /.nav-bg-class -->
+        </div><!-- /.navbar-default -->
+    </div><!-- /.container-class -->
+</div><!-- /.header-nav -->
+</header>
+            <!-- Fixed Icon Start -->
+            <div class="fixed-icon hidden-xs">
+                <ul class="fixed-icon-list">
+                    <li><a href="#" data-toggle="modal" data-target="#trans"><i data-toggle="tooltip" data-placement="top" title="Проверить статус транзакции" class="fa fa-exchange fa-lg"></i></a></li>                    <li><a href="#" data-toggle="modal" data-target="#vvreserves"><i data-toggle="tooltip" data-placement="top" title="Резерв" class="fa fa-money fa-lg"></i></a></li>                    <li><a href="https://multi-currency.exchange/member/register.php" data-toggle="tooltip" title="Регистрация"><i class="fa fa-user-circle"></i></a></li>
+                    <li><a href="https://multi-currency.exchange/member/login.php" data-toggle="tooltip" title="Вход"><i class="fa fa-user-plus"></i></a></li>
+                    <li><a href="https://multi-currency.exchange/member/send.php" data-toggle="tooltip" title="Забыли пароль?"><i class="fa fa-unlock-alt"></i></a></li>
+                </ul>
+            </div>
+            <!-- Fixed Icon End -->
+     <!-- Modal transaction-->
+<div class="modal fade" id="trans" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Проверить статус транзакции</h4>
+      </div>
+      <div class="modal-body">
+<div class="form-inline">
+<input type="text" class="form-control" style="width:60%;" name="extrans" id="extrans" placeholder="Введите ID транзакции" onKeyUp="value=value.replace(/\D+/g,'')"/>
+<input type="button" class="btn btn-primary btn-lg" onclick="get_trans();" value="Проверить"/>
+<span id="nottrans" class="help-block f_red"></span>
+<script>
+function get_trans() {
+if(Vu('extrans').value == '') {
+alert('Введите ID транзакции');
+Vu('extrans').focus();
+return false;
+}
+if(Vu('extrans').value.length < 1) return;
+$.ajax({
+url: AJPath+'?moduleid=25&action=exchange&value='+Vu('extrans').value,
+type: 'POST',
+data: {'crypt':'983a272525b4a5d0f12c1b6b10508ce6da3b2cf418936eee7f75002f4a9130c7'},
+dataType: 'text'
+})
+.done(function(data) {
+if(data != 1) $('#nottrans').html(data);
+else $('#nottrans').html("Такой транзакции не существует");
+});
+}
+</script>
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+      <!-- Modal reserves-->
+<div class="modal fade" id="vvreserves" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Резерв</h4>
+      </div>
+      <div class="modal-body">
+           <table class="table table-bordered table-hover">
+<tr>
+<td>WebMoney WMZ</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>2 698.73</td>
+</tr>
+<tr>
+<td>WebMoney WMR</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>51 382.87</td>
+</tr>
+<tr>
+<td>QIWI RUB</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>76 745.19</td>
+</tr>
+<tr>
+<td>Visa/MasterCard UAH</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>45 866.78</td>
+</tr>
+<tr>
+<td>Приват 24 UAH</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>153 649.10</td>
+</tr>
+<tr>
+<td>Monobank UAH</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>21 000.00</td>
+</tr>
+<tr>
+<td>Яндекс Деньги RUB</td>
+<td class="t_c"><i class="fa fa-arrows-h skin_color"></i></td>
+<td>49 877.67</td>
+</tr>
+</table>
+      </div>
+    </div>
+  </div>
+</div>
+     <!--  = initialization scripts NOT DELETE=  -->
+    <div id="uportal_script"></div><div class="body-content">
+<div class="container">
+<div class="moneytop" id="step1">
+ <div class="row">
+  <div class="aop-steps hidden-xs">
+  <ul>
+<li class="current-steps">Выбор направления</li>
+<li>Ввод данных</li>
+<li>Проверка</li>
+<li>Завершение обмена</li>
+  </ul>
+  </div>
+
+<div class="col-md-12">
+ <div class="spinner"></div>
+                    <div class="row">
+                 <div class="col-md-6 col-sm-6 hidden-xs">
+ <h3 class="entry-title t_c">Отдаете</h3>
+                 </div>
+                 <div class="col-md-6 col-sm-6 hidden-xs">
+ <h3 class="entry-title t_c">Получаете</h3>
+                    </div>
+                 </div>
+
+                    <div class="row">
+                 <div class="col-md-6 col-sm-6">
+<select name="fid" id="fid" class="form-control imager" OnChange="showvalin(this.value);">
+<option class="opench" value="wmz" data-img="https://multi-currency.exchange/api/changers/icons/wmz.png"><font style="color:#e66161">WebMoney WMZ</font></option>
+<option class="opench" value="wmr" data-img="https://multi-currency.exchange/api/changers/icons/wmr.png"><font style="color:#6873ed">WebMoney WMR</font></option>
+<option class="opench" value="qiwiwalletrub" data-img="https://multi-currency.exchange/api/changers/icons/qiwi.png" selected>QIWI RUB</option>
+<option class="opench" value="liqpayuah" data-img="https://multi-currency.exchange/api/changers/icons/mastercard.png">Visa/MasterCard UAH</option>
+<option class="opench" value="privat24uah" data-img="https://multi-currency.exchange/api/changers/icons/privatbank.png">Приват 24 UAH</option>
+<option class="opench" value="monobuah" data-img="https://multi-currency.exchange/api/changers/icons/mono.png">Monobank UAH</option>
+<option class="opench" value="yandex" data-img="https://multi-currency.exchange/api/changers/icons/yandex.png">Яндекс Деньги RUB</option>
+</select>
+                 </div>
+ <div class="mtop"></div>
+        <div class="col-md-6 col-sm-6">
+<select name="tid" id="tid" class="form-control imager" OnChange="showvalout(this.value);">
+<option class="opench" value="wmz" data-img="https://multi-currency.exchange/api/changers/icons/wmz.png"><font style="color:#e66161">WebMoney WMZ</font></option>
+<option class="opench" value="wmr" data-img="https://multi-currency.exchange/api/changers/icons/wmr.png"><font style="color:#6873ed">WebMoney WMR</font></option>
+<option class="opench" value="qiwiwalletrub" data-img="https://multi-currency.exchange/api/changers/icons/qiwi.png">QIWI RUB</option>
+<option class="opench" value="liqpayuah" data-img="https://multi-currency.exchange/api/changers/icons/mastercard.png">Visa/MasterCard UAH</option>
+<option class="opench" value="privat24uah" data-img="https://multi-currency.exchange/api/changers/icons/privatbank.png" selected>Приват 24 UAH</option>
+<option class="opench" value="monobuah" data-img="https://multi-currency.exchange/api/changers/icons/mono.png">Monobank UAH</option>
+<option class="opench" value="yandex" data-img="https://multi-currency.exchange/api/changers/icons/yandex.png">Яндекс Деньги RUB</option>
+</select>
+        </div>
+ <div class="divider1"></div>
+        <div class="col-md-12 col-sm-12">
+ <div class="divider1"></div>
+<div id="indirection" class="alert alert-danger t_c" style="display:none">Выбранное направление отключено</div>
+<div class="well well-sm">
+<span class="f_gray" id="course">Курс: <span id="fkurs"></span> - <span id="tkurs"></span></span>
+<span class="help-block">Резерв <span id="res_value"></span>: <span id="reserve"></span></span>
+</div>
+
+<span class="btn btn-primary btn-lg btn-block btn-uppercase" id="submit" onClick="toStep('step2');">Выбрал</span>
+ </div>
+                 </div>
+        </div>
+</div>
+
+<div id="botblocks">
+<div class="divider2"></div>
+             <div class="col-md-12">
+<h3>Отзывы<span class="f_r"> <a title="Смотреть все..." class="btn btn-primary btn-xs" href="https://multi-currency.exchange/exchange/feedback.php"><span class="fa fa-hand-o-right"></span> Смотреть все...</a></span></h3>
+        <div class="mtop-section">
+        <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Дмитрий Иванцов<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-03-15</span></h6>
+        <p>Спасибо за быстрый обмен. Воспользова...</p>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Юрий<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-03-01</span></h6>
+        <p>совершал обмен в первый раз операция ...</p>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Alex<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-02-04</span></h6>
+        <p>Все очень быстро! Оператор перевел д...</p>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+        <h6><i class="fa fa-user-circle" data-toggle="tooltip" data-placement="top" title="Добавил"></i> Сергій Пархомець<span class="f_r"><i class="fa fa-calendar" data-toggle="tooltip" data-placement="top" title="Добавлено"></i> 2019-01-27</span></h6>
+        <p>Спасибо! Отличная скорость, будем раб...</p>
+        </div>
+        </div>
+        </div>
+        </div> 
+     </div> 
+    
+<div class="col-md-12">
+<h3>Только что обменяли</h3>
+        <div class="mtop-section">
+        <div class="row">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/yandex.png" alt="Яндекс Деньги RUB "/>
+        <h6><strong>2600</strong> Яндекс Деньги RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/privatbank.png" alt="Приват 24 UAH"/>
+        <h6><strong>1011.91</strong> Приват 24 UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/yandex.png" alt="Яндекс Деньги RUB "/>
+        <h6><strong>4974.87</strong> Яндекс Деньги RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/mastercard.png" alt="Visa/MasterCard UAH"/>
+        <h6><strong>1877.95</strong> Visa/MasterCard UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/yandex.png" alt="Яндекс Деньги RUB "/>
+        <h6><strong>1000</strong> Яндекс Деньги RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/mastercard.png" alt="Visa/MasterCard UAH"/>
+        <h6><strong>374.37</strong> Visa/MasterCard UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/qiwi.png" alt="QIWI RUB "/>
+        <h6><strong>1880</strong> QIWI RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/privatbank.png" alt="Приват 24 UAH"/>
+        <h6><strong>671.43</strong> Приват 24 UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/qiwi.png" alt="QIWI RUB "/>
+        <h6><strong>4950</strong> QIWI RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/privatbank.png" alt="Приват 24 UAH"/>
+        <h6><strong>1767.86</strong> Приват 24 UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/qiwi.png" alt="QIWI RUB "/>
+        <h6><strong>4950</strong> QIWI RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/privatbank.png" alt="Приват 24 UAH"/>
+        <h6><strong>1767.86</strong> Приват 24 UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/qiwi.png" alt="QIWI RUB "/>
+        <h6><strong>15000</strong> QIWI RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/mastercard.png" alt="Visa/MasterCard UAH"/>
+        <h6><strong>5369.8</strong> Visa/MasterCard UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/yandex.png" alt="Яндекс Деньги RUB "/>
+        <h6><strong>11400</strong> Яндекс Деньги RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/mastercard.png" alt="Visa/MasterCard UAH"/>
+        <h6><strong>4303.35</strong> Visa/MasterCard UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/qiwi.png" alt="QIWI RUB "/>
+        <h6><strong>3300</strong> QIWI RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/mastercard.png" alt="Visa/MasterCard UAH"/>
+        <h6><strong>1181.36</strong> Visa/MasterCard UAH</h6>
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 hvr-float-shadow">
+        <div class="single-mtop theme-bg-color">
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/yandex.png" alt="Яндекс Деньги RUB "/>
+        <h6><strong>8000</strong> Яндекс Деньги RUB <i class="fa fa-angle-double-right"></i></h6>
+ <div class="divider2"></div>
+<img style="max-height: 40px;" class="image_left" src="https://multi-currency.exchange/api/changers/icons/privatbank.png" alt="Приват 24 UAH"/>
+        <h6><strong>3106.19</strong> Приват 24 UAH</h6>
+        </div>
+        </div>
+        </div>
+        </div> 
+     </div> 
+
+</div>
+</div>
+<script>
+var valuteid;
+var mainpage = 'https://multi-currency.exchange/';
+var formaction = 'https://multi-currency.exchange/exchange/';
+var shortlink = '1';
+var ajaxpages = 0;
+var selectedin = 0;
+var selectedout = 0;
+var defid = 'step1';
+var scrpt = '';
+</script>
+<span id="step1script">
+<script>
+$(document).ready(function() {
+selectedin = 0;
+selectedout = 0;
+$(document).Jselect();
+});
+function initscript() {
+showvalin('qiwiwalletrub');
+showvalout('privat24uah');
+}
+</script>
+</span>
+</div>
+</div>
+ <div class="divider1"></div>
+<script src="https://multi-currency.exchange/file/script/exc_main_min.js?v=7.8"></script><script src="https://multi-currency.exchange/file/script/exc_global.js?v=7.8"></script><div class="container" id="cookie_info"><div class="moneytop"><div class="divider1"></div><div class="row"><div class="col-md-12"><div class="well">На нашем сайте мы используем cookie для сбора информации технического характера.<br/>В частности, для персонифицированной работы сайта мы обрабатываем IP-адрес региона вашего местоположения.&nbsp;<a class="btn btn-primary btn-sm" onClick="cc_close();">OK</a></div></div></div></div></div>
+<script>
+if((UA.indexOf('chrome') == -1 || UA.indexOf('firefox') == -1) && get_cookie('goo_agree')) $('#cookie_info').hide();
+function cc_close() {$('#cookie_info').hide();set_cookie('goo_agree', 1);}
+</script>
+<footer id="footer" class="footer">
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="module-body">
+        <ul class="toggle-footer">
+            <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-copyright fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p><a href="https://multi-currency.exchange/">2019 © multi-currency.exchange All Rights Reserved</a></p>
+                </div>
+            </li>
+              <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-connectdevelop fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p><a href="https://money-top.com" target="_blank">Powered by Money Top V 7.8</a></p>
+                </div>
+            </li>
+            </ul>
+    </div><!-- /.module-body -->
+                </div><!-- /.col -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="module-body">
+                        <ul class='list-unstyled'>
+                <li><a href="https://multi-currency.exchange/sitemap/" title="Карта сайта">Карта сайта</a></li>
+<li><a href="https://multi-currency.exchange/sitemaps.xml" title="Google Sitemap" target="_blank">Google Sitemap</a></li>               <li><a href="https://multi-currency.exchange/feed/" title="RSS">RSS</a></li>               <li><a href="https://multi-currency.exchange/link/" title="Партнеры">Партнеры</a></li>                        </ul>
+                    </div><!-- /.module-body -->
+                </div><!-- /.col -->
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="module-body">
+                        <ul class='list-unstyled'>
+<li><a href="https://multi-currency.exchange/contact/" title="Контакты">Контакты</a></li><li><a href="#" data-toggle="modal" data-target="#monitoring" title="Мониторингам">Мониторингам</a></li><li><a href="https://multi-currency.exchange/static/p-5.html">Пользовательское соглашение</a></li>
+<li><a href="https://multi-currency.exchange/static/p-4.html">Уведомление об отсветсвенности</a></li>
+<li><a href="https://multi-currency.exchange/static/p-3.html">Партнерская программа</a></li>
+<li><a href="https://multi-currency.exchange/static/p-6.html">Политика возвратов</a></li>
+                        </ul>
+                    </div><!-- /.module-body -->
+                </div><!-- /.col -->
+            </div>
+        </div>
+    </div>
+
+<!-- Modal monitoring-->
+<div class="modal fade" id="monitoring" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Мониторингам</h4>
+      </div>
+      <div class="modal-body">
+<p>Экспортный файл курсов в формате XML</p>
+<div class="input-group">
+<span class="input-group-addon"><span onclick="share_code();" class="input-text"><i class="fa fa-share-square-o skin_color" style="cursor: pointer;" title="Ctrl+C скопировать в буфер"></i></span></span>
+<input type="text" name="share_code" id="share_code" value='https://multi-currency.exchange/monitor.xml' class="form-control" onmouseover="this.select();" style="padding:3px;"/>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="copyright-bar">
+        <div class="container">
+            <div class="col-xs-12 col-sm-6 no-padding social">
+                <ul class="link">
+                  </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 no-padding">
+                <div class="clearfix payment-methods">
+                    <ul>
+ <!-- begin WebMoney Transfer : accept label -->
+<li><a rel="nofollow" href="https://www.webmoney.ru/" target="_blank"><img src="https://multi-currency.exchange/skin/mydomain/i/megastok.png" data-toggle="tooltip" data-placement="top" data-original-title="www.webmoney.ru" alt=""></a></li>
+<!-- end WebMoney Transfer : accept label -->
+<!-- begin WebMoney Transfer : attestation label -->
+<li><a rel="nofollow" href="https://passport.webmoney.ru/asp/certview.asp?wmid=249646703985" target="_blank"><img src="https://multi-currency.exchange/skin/mydomain/i/attestat.png" data-toggle="tooltip" data-placement="top" data-original-title="WMID: 249646703985" alt=""></a></li>
+<!-- end WebMoney Transfer : attestation label -->
+<li><a href="https://www.bestchange.ru/multi-currency-exchanger.html" target="_blank" tooltip="BestChange.ru - агрегатор электронных обменников"><img src="https://multi-currency.exchange/file/upload/201901/22/181934171.gif" width="88" height="31" tooltip="BestChange.ru - агрегатор электронных обменников"></a></li>
+<li><a href="https://kurs.expert/ru/obmennik/multi-currency-exchange/feedbacks.html" target="_blank" title=""><img src="https://multi-currency.exchange/file/upload/201810/12/184901981.png" width="88" height="31" tooltip="kurs.expert Отзывы о нашем сайте"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+<div style="display: none" id="uportal_message"></div>
+ </footer>
+     <a href="#" class="scroll_top" title="Вверх" style="display: inline;">Вверх</a>
+    <div id="fb-root"></div>
+    <script src="https://multi-currency.exchange/skin/mydomain/js/bootstrap.min.js"></script>
+<script src="https://multi-currency.exchange/file/script/bxslider.min.js"></script>
+    <script src="https://multi-currency.exchange/skin/mydomain/js/script.js"></script>
+<script>
+jQuery(document).ready(function() {
+var c = get_cookie('topcolor');
+if (c) style_switch(c);
+});
+show_task('moduleid=25');
+</script>
+  </body>
+</html>

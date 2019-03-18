@@ -1,0 +1,387 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Меняйко. Автоматический обменный пункт WebMoney. Выгодно и просто!</title>
+<link href="style4.css" rel="stylesheet" type="text/css" />
+<meta name="Keywords" content=" обмен, webmoney, вебмани, продать, 
+вывести, обменять, wme, wmu, обменник, WM  "/>
+<meta name="Description" content=" Меняйко. Автоматический беспроцентный обмен, ввод, вывод, купля, продажа, WebMoney (wmr, wmz, wmu, wme). Обмен электронных валют Вебмани в Украине. "/>
+<meta name="webmoney" content="17A59412-CB6D-4615-BAB3-A917E1F97557"/>
+<meta http-equiv="Cache-Control" content="no-cache">
+
+</head>
+<body >
+<div id="top">
+	<!--<a href="?1" class="logo" onfocus="this.blur()"><img src="images/logo.png" width="178" height="170" alt="меняйко.com.ua" /></a>-->
+	<!--<a href="?1" class=logo onfocus="this.blur()"><img src="images/logo.png" width="190" height="148" alt="меняйко.com.ua" /></a>-->
+	<a href="?1" class="logo" onfocus="this.blur()"><img src="images/logo.png" width="206" height="177" alt="меняйко.com.ua" /></a>
+	<a href="?1" onfocus="this.blur()"><img src="images/sell.png" width="190" height="112" alt="" /></a>
+	<a href="?1" onfocus="this.blur()"><img src="images/buy.png" width="190" height="112" alt="" /></a>
+	<a href="?63" onfocus="this.blur()"><img src="images/change.png" width="190" height="112" alt="" /></a>
+	<!--<a href="?yandex" onfocus="this.blur()"><img src="images/Ident8.png" width="190" height="112" alt="" /></a>-->
+</div>
+<div id="menu">
+<img src="images/menu_left.png" width="16" height="41" alt="" /><a href="?p=31" onfocus="this.blur()"><img src="images/menu_rules.png" width="148" height="41" alt="" /></a><a href="?p=49" onfocus="this.blur()"><img src="images/menu_reviews.png" width="147" height="41" alt="" /></a><a href="?p=36" onfocus="this.blur()"><img src="images/menu_partners.png" width="154" height="41" alt="" /></a><a href="?p=48" onfocus="this.blur()"><img src="images/menu_contacts.png" width="151" height="41" alt="" /></a><img src="images/menu_right.png" width="16" height="41" alt="" />
+</div>
+<div id="container">
+<table class="columns"><tr>
+	<td class="left">
+	<div class="box_login">
+<div class="header_login"><a href="?p=35" onfocus="this.blur()"></a></div>
+		<div class="leftbg"><div class="rightbg"><div class="mainbg">
+
+			<form method="post" action="?login">
+			<b>Логин</b>
+			<input name="bodun" class="login_input"/>
+			<b>Пароль</b>
+			<input name="bugaga" type="password" class="login_input"/>
+<br />
+			<input class="submit" type="image" value="Войти" src="images/login_enter.png" alt="Войти"/> 
+<a href="?new"> <img class="register" border="0" src="images/login_reg.png" width="102" height="27" alt="Регистрация"/></a>
+<center><a href="https://login.wmtransfer.com/GateKeeper.aspx?RID=9E745FEF-242D-4FAB-A8D8-A101012E95F7"> <img class="register" border="0" src="images/login_wmid.png" width="102" height="27" alt="Вход по WMID"/></a></center>
+
+<br />
+<center>
+<span>
+<a href="?repwd">Забыл пароль?</a></span>
+</center>
+</form>
+
+		<br />
+  
+
+
+		</div></div></div>
+		<div class="bottom"></div>
+	</div>
+
+     <div class="leftbox"><h1>&nbsp;</h1>
+	<div class="leftbox_content2">
+       <center>
+<!--
+<a href="https://siteheart.com/webconsultation/348046?" target="siteheart_sitewindow_348046" onclick="o=window.open;o('https://siteheart.com/webconsultation/348046?', 'siteheart_sitewindow_348046', 'width=550,height=400,top=30,left=30,resizable=yes'); return false;"><img src="http://webindicator.siteheart.com/webindicator/livehelp2?ent=348046&amp;company=348046" border="0" alt="SiteHeart"/></a>
+
+<script type="text/javascript"> _shcp = []; _shcp.push({widget_id : 348046, widget : "Chat", side : "right", position : "center", template : "orange", track : 1 }); (function() { var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true; hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://siteheart.com/apps/js/sh.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hcc, s.nextSibling); })(); </script>
+
+<br />
+<br />-->
+  <!-- AddThis Button BEGIN -->
+  <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+  <a class="addthis_button_preferred_1"></a>
+  <a class="addthis_button_preferred_2"></a>
+
+  <a class="addthis_button_preferred_3"></a>
+  <a class="addthis_button_preferred_4"></a>
+  <a class="addthis_button_preferred_5"></a>
+   <a class="addthis_button_compact"></a>
+  </div>
+  <!--<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=svtx"></script>-->
+  <!-- AddThis Button END -->
+        </center>
+        </div>
+	<div class="leftbox_footer"></div>		
+	</div>
+
+<br /> 	<div class="leftbox"><h1>Информация</h1>
+	<div class="leftbox_content">
+	
+        <center><b>ГРАФИК РАБОТЫ:</b><br /><br />
+       <b>Ввод-вывод и обмен WebMoney</b><br />
+       <b style="color:blue">Автоматический</b><br />
+       <span style="color:red"><em>круглосуточно</em></span> <br /> <br />
+       <b style="color:blue">Экономный</b><br />
+       <em>понедельник-пятница</em> <br />
+       c 10:00 до 19:00 <br /><br />
+       <!--<b>вывод эл. знаков в офисе <br /></b>
+        г. Харьков, ул. Дарвина 4<br /><br />
+         рядом с ХАТОБ, здание ФИДОбанка <br /><br />       
+         г. Чернигов, ул. Мстиславская 9, каб.211 <br /><br />   -->
+       <em>понедельник-пятница</em> <br />
+       c 10:00 до 18:00 <br /><br />
+       <b>воскресенье, праздничные дни</b> <br />
+       по предварительной договоренности с клиентом
+     <br />
+
+<!--
+<br />
+<br />
+<strong>В Мегасток наш №:</strong>
+<br />
+<a href="http://www.megastock.ru/searchres.aspx?search=меняйко.com.ua" target="blank"><img width="88" height="31" border="0" src=" http://gallery.ukrwest.net/main.php?g2_view=core.DownloadItem&g2_itemId=68802&g2_serialNumber=1" alt="Принимаем WebMoney" title=" Наш обменный пункт зарегистрирован в сервисе MegaStock - № " /></a>
+-->
+
+<br />
+<strong>Наш Аттестат: </strong>
+<br />
+
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=192211650456" target="_blank"><img src="https://passport.webmoney.ru/images/bat135.png" alt="Здесь находится аттестат нашего WM идентификатора 192211650456" border="0"/></a>
+<br />
+<strong>BL:</strong><img width="35" height="16" border="0" src="https://bl.wmtransfer.com/img/bl/192211650456?w=45&h=18&bg=FFF" alt=""/>
+<br />
+<a href="http://www.webmoney.ru" target="blank"><img width="88" height="31" border="0" src="images/88x31_wm_blue_on_transparent_ru.png" alt="Принимаем WebMoney" title="У нас вы можете купить-продать, ввести-вывести WebMoney" /></a>
+<!-- begin WebMoney Transfer : attestation label --> 
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=192211650456" target="_blank"><img src="images/88x31_wm_v_blue_on_white_ru.png" title="Здесь находится аттестат нашего WM идентификатора 192211650456" alt="Здесь находится аттестат нашего WM идентификатора 192211650456" border="0"/></a>
+
+<!-- end WebMoney Transfer : attestation label -->
+<br />
+<a href="?risk">УВЕДОМЛЕНИЕ О РИСКАХ</a>
+
+<br /><br />
+
+       </center>
+        </div>
+	<div class="leftbox_footer"></div>		
+	</div>
+ 
+
+	<div class="leftbox"><h1>Новости</h1>
+
+	<div class="leftbox_content">
+	
+<ul>	
+
+<li class="date"></li>
+<li class="news"><b></b> Уважаемые клиенты. 
+<font color="#ff0000"><b>Обязательно ознакомьтесь с правилами</b></font> работы обменного пункта и <font color="#ff0000"><b> порядком обменных операций</b></font> в разделе "Правила". <a href="?News#26">Подробнее...</a></li>
+
+</ul>
+
+
+</div>
+	<div class="leftbox_footer"></div>		
+	</div>
+
+<!-- <br /> __$COMMON ADVERTISEMEN T -->
+	</td>
+	<td class="main">
+	<div class="content">
+
+	
+
+<center>
+
+<!--	<div style="background-color: #FFEAEA; margin: 5pt; padding: 5pt; FONT-FAMILY: Arial; FONT-SIZE: 9pt; border: 1px solid #EFB3B3">
+	<font color="#CC0000">  Уважаемые клиенты <br/> в данный момент на сайте <b>ведутся технические работы</b>, которые продлятся до 31.10.2012. <br/> Убедительно просим воздержатся от платежей в этот период. (С Уважением, администрация)</font>
+	</div>-->
+	</center>
+
+		<table class="exchange"><tr>
+			<td class="sell">
+			
+		<div class="header"></div>
+		<div class="leftbg"><div class="rightbg"><div class="mainbg">
+	
+<a href="?buy&amp;id=57" onfocus="this.blur()" class="wmz">
+	<b>1 WMZ = 25.61 грн</b>
+	<u>Комиссия: 0-1%, Автомат</u>
+		<i></i>
+	<span></span></a>	
+	
+	<a href="?buy&amp;id=59" onfocus="this.blur()" class="wmu">
+	<b>1 WMU = 0.65 грн</b>
+	<u>Комиссия: 0-1%, Автомат</u>
+		<i></i>
+	<span></span></a>	
+	
+	<a href="?buy&amp;id=61" onfocus="this.blur()" class="wmr">
+	<b>1 WMR = 0.375 грн</b>
+	<u>Комиссия: 0-1%, Автомат</u>
+		<i></i>
+	<span></span></a>	
+	
+	<a href="?buy&amp;id=79" onfocus="this.blur()" class="wme">
+	<b>1 WME = 28.00 грн</b>
+	<u>Комиссия: 0-1%, Автомат</u>
+		<i></i>
+	<span></span></a>	
+	
+	<a href="?buy&amp;id=63" onfocus="this.blur()" class="Янд">
+	<b>1 Янд = 0.375 грн</b>
+	<u>Комиссия: 0-1%, Автомат</u>
+		<i class="yandex"></i>
+	<span></span></a>	
+	
+	
+
+		</div>
+		</div></div>
+		<div class="bottom"></div>				
+			</td>
+			<td class="buy">
+	<div class="header"></div>
+		<div class="leftbg"><div class="rightbg"><div class="mainbg">
+
+<a href="?sell&amp;id=67" onfocus="this.blur()" class="wmz">
+ <b>1 WMZ = 27.10 грн</b>
+<u>Комиссия: 0-1%, Автомат</u>
+	<i></i>
+ <span></span> </a>
+
+
+<a href="?sell&amp;id=69" onfocus="this.blur()" class="wmu">
+ <b>1 WMU = 1.00 грн</b>
+<u>Комиссия: 0-1%, Автомат</u>
+	<i></i>
+ <span></span> </a>
+
+
+<a href="?sell&amp;id=71" onfocus="this.blur()" class="wmr">
+ <b>1 WMR = 0.43 грн</b>
+<u>Комиссия: 0-1%, Автомат</u>
+	<i></i>
+ <span></span> </a>
+
+
+<a href="?sell&amp;id=88" onfocus="this.blur()" class="wme">
+ <b>1 WME = 32.50 грн</b>
+<u>Комиссия: 0-1%, Автомат</u>
+	<i></i>
+ <span></span> </a>
+
+
+<a href="?sell&amp;id=73" onfocus="this.blur()" class="Янд">
+ <b>1 Янд = 0.43 грн</b>
+<u>Комиссия: 0-1%, Автомат</u>
+	<i class="yandex"></i>
+ <span></span> </a>
+
+
+
+
+		</div></div></div>
+		<div class="bottom"></div>
+			</td>
+                    </tr>
+		</table>
+
+<center><span style="color:red"><b>Все операции ввода-вывода доступны <u>"Без регистрации"</u></b></span><br/><br/></center>
+
+<!--<center><a href="https://kharkov.internet-bilet.ua/lyapis-98" target="blank"><img width="570" height="75" border="0" src="banners/lapis.jpg" alt="Ляпис-98" title=""></a></center>-->
+
+<h2>При помощи <a href="?webmoney_ru" target="_blank">WebMoney</a> прямо сейчас Вы можете:</h2>
+<table width="100%" cellpadding="5">
+  <tr>
+    <td width="50%" valign="top"><ul>
+	
+<li>Осуществлять безопасные и мгновенные переводы другим пользователям системы.</li>
+
+<li>Комиссия на эти и любые другие переводы в системе - 0.8%.</li>
+
+<li>Принимать платежи в интернете за 
+различные товары или услуги.</li>
+
+<li>Выдавать и получать займы, в том числе 
+и коллективно.</li>
+
+<li>Проводить и обсуждать сделки при 
+помощи защищенной WM-почты и сервиса оповещений.</li>
+
+<li>Осуществлять массовые выплаты.</li>
+	
+	</ul></td>
+    <td width="50%"  valign="top"><ul>
+	
+<li>Страховать риски при проведении 
+сделок online.</li>
+
+<li>Выпускать чеки и рассчитываться ими.</li>
+
+<li>Оплачивать услуги и товары.</li>
+
+<li>Стать нашим деловым партнером.</li>
+
+<li>Воспользоваться нашими готовыми 
+решениями для подключения.</li>
+
+<li>Автоматизировать управление бюджетом 
+Вашей организации.</li>
+
+<li>Проводить рекламные кампании
+за WebMoney.</li>
+
+	
+	</ul></td>
+  </tr>
+</table>
+
+  <h2>Вывод электронной валюты <a href="?webmoney_ru" target="_blank">Вебмани</a></h2>
+  Наш обменный пункт позволит вам избежать любых задержек и срочно <strong>вывести</strong> и <strong>обналичить webmoney</strong> в любом городе Украины. Мы <strong>автоматически</strong> и мгновенно переведем Ваши деньги на <strong>гривневые</strong> карточные счета любого банка Украины, в том числе на виртуальные <strong>счета приват24</strong> или <strong>наличными</strong>.
+  <br/>
+  Обменный центр Меняйко позволяет <strong>обналичить</strong>, <strong>вывести</strong>, и <strong>продать</strong> следующие виды электронных денег <strong>webmoney</strong>: 
+  <ul>
+	<li><strong>WMR (вмр)</strong> - эквивалент российского рубля</li>
+	<li><strong>WMZ (вмз)</strong> - эквивалент американского доллара</li>
+	<li><strong>WMU (вму)</strong> - эквивалент украинской гривны</li>
+	<li><strong>WME (вме)</strong> - эквивалент евро</li>
+  </ul>
+  <strong>Вывод вебмани (обналичка webmoney)</strong> производится на счета <strong>privat24</strong>, карты <strong>Visa</strong>, карты <strong>MasterCard</strong>, <strong>наличными</strong>, в банкоматах приватбанка <strong>без карты</strong>.
+  <br/><br/>Минимальная сумма заявки на продажу wmz, wmr, wmu, wme составляет всего 50 грн.
+  <br/><br/>
+  К каждому клиенту Меняйко применяется <strong>индивидуальный подход</strong>, в ближайшее время будет запущен современный форум о электронных деньгах и обменных операциях. На форуме будут освещатся современные <strong>новости мира электронных денег</strong>, в том числе <strong>webmoney, liqpay</strong>, тенденциях рынка мировых валют.
+  <br/><br/>
+  Операции вывода, обмена и продажи вебмани проводится <strong>без скрытых комиссий</strong>, <strong>без процентов</strong>, на любую операцию вывода<strong>комиссия</strong> всегда <strong>равна 0%</strong> (ноль процентов).
+  Меняйко работает для Вас, совершайте ввод, вывод и обмен вебмани (вмр, вмз, вму, вме) и достигните любых высот и успехов!
+  <br/><br/>
+  Все операции проводимые на сайте являются <strong>конфиденциальными</strong> и не подлежат разглашению (кроме случаев официального запроса от WebMoney Arbitrage)
+<br/><br/>
+  <h2>Ввод (пополнение кошелька) <a href="?webmoney_ru" target="_blank">WebMoney</a></h2>
+  <strong>Электронные деньги вебмани</strong> все больше становятся альтернативным и зачастую незаменимым средством оплаты и расчета за товары и услуги, не только в сети интернет но и в обычной жизни. Компьютерные игры, электронные книги, программное обеспечение, обычные товары, особенно товары в зарубежных интернет магазинах (Китай, США, Канада, Европа) - вот очень неполный перечень возможного использования <strong>вебмани (вмз, вмр, вму, вме)</strong>. 
+  <br/><br/>
+  Чтобы воспользоватся всеми преимуществами webmoney Вам необходимо предварительно <strong>пополнить свой кошелек</strong> необходимой валютой: wmz, wmr, wmu, wme. 
+  <br/><br/>
+  <strong>Ввод вебмани (пополнение webmoney)</strong> производится на соответствующие каждой валюте кошельки: <strong>R, Z, U, E</strong> либо в виде <strong>Paymer (паймер)</strong> чеков.
+  <br/><br/>Наш обменный пункт позволит это сделать максимально <strong>быстро</strong> и комфортно и, что самое главное, <strong>без комиссий и автоматически!</strong>. У нас вы всегда можете <strong>купить webmoney</strong>, <strong>купить wmz</strong>, <strong>купить wmu</strong>, <strong>купить wmr</strong> или <strong>купить wme</strong> за украинскую гривну автоматически через приват24, liqpay, privat24, наличными в кассах и терминалах Приватбанка, картами Visa и MasterCard или банковскими переводами. <br/><br/>Весь процесс автоматизирован, но если вы хотите сэкономить свои средства и заработать на обмене воспользутесь услугой <strong>экономного ввода вебмани</strong> на свои счета и кошельки, это позволит вам сэкономить 1-2%, что, согласитесь, является существенном и приятным дополнением к бюджету.
+  <br/><br/>Второй возможностью пополнить кошелек является <strong>обмен</strong> одной <strong>валюты вебмани</strong> на другую. К примеру <strong>wmz на wmu</strong>, <strong>wmz на wmr</strong>, <strong>wmu на wmz</strong> и так далее. В скорости мы откроем нашим клиентам такую возможность.
+  <br/><br/>
+  С уважением, администрация обменного пункта Меняйко.
+	 
+	 </div>
+	 </td>
+</tr></table>
+
+<div id="footer">
+<!--<a href="?1" class="logo"><img src="images/footer_logo.png" width="74" height="58" alt="меняйко.com.ua"/></a>-->
+<a href="?1" class="logo"><img src="images/flogo.png" width="76" height="63" alt="меняйко.com.ua"/></a>
+<div class="top"></div>
+<div class="content">
+<!-- MyCounter v.2.0 -->
+<script type="text/javascript"><!--
+my_id = 110856;
+my_width = 88;
+my_height = 41;
+my_alt = "MyCounter - счётчик и статистика";
+//--></script>
+<script type="text/javascript"
+  src="https://get.mycounter.ua/counter2.0.js">
+</script><noscript>
+<a target="_blank" href="https://mycounter.ua/"><img
+src="https://get.mycounter.ua/counter.php?id=110856"
+title="MyCounter - счётчик и статистика"
+alt="MyCounter - счётчик и статистика"
+width="88" height="41" border="0" /></a></noscript>
+<!--/ MyCounter -->
+
+
+<b>меняйко.com.ua</b> &copy; 2010-2019. Все права защищены. <!--Разработано <a href="http://softstudio.com.ua/" target="_blank">SoftStudio</a>-->
+</div>
+<center><strong><span style="font-size:9"><a href="http://меняйко.com.ua/?Faq&amp;city=г.Киев">Обмен Вебмани в Киев</a>  | <a href="https://меняйко.com.ua/?Faq&amp;city=Киевской обл.">Киевская обл.</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Винница">Винница</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Днепропетровск">Днепропетровск</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Донецк">Донецк</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Житомир">Житомир</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Запорожье">Запорожье</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Ивано-Франковск">Ивано-Франковск</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Кировоград">Кировоград</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Кременчуг">Кременчуг</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Кривой Рог">Кривой Рог</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Луганск">Луганск</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Луцк">Луцк</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Львов">Львов</a> |  <a href="https://меняйко.com.ua/?Faq&amp;city=г.Николаев">Николаев</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Одесса">Одесса</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Полтава">Полтава</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Ровно">Ровно</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Сумы">Сумы</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Тернополь">Тернополь</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Ужгород">Ужгород</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Харьков">Харьков</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Херсон">Херсон</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Хмельницкий">Хмельницкий</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Черкассы">Черкассы</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Черновцы">Черновцы</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Чернигов">Чернигов</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Симферополь">Симферополь</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Севастополь">Севастополь</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Феодосия">Феодосия</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Керчь">Керчь</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Ялта">Ялта</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Мариуполь">Мариуполь</a> | <a href="https://меняйко.com.ua/?Faq&amp;city=г.Мелитополь">Мелитополь</a></span></strong></center>
+</div>
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38889935-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>

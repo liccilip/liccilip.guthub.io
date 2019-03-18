@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Обмен webmoney на Сбербанк, ВТБ24, Альфабанк, Тинькофф банк, вывод webmoney</title>
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="5 days" />
+<meta name="description" content="Автоматический обмен Webmoney 24 часа в сутки. Вывод валют WMR, WMZ, WMX, на Альфа банк, ВТБ24, Сбербанк, Тинькофф банк" />
+<meta name="keywords" content="автоматический обмен, купить webmoney, вывод webmoney, вывести webmoney, вывод WMR, вывод WMZ, вывод WMX, webmoney вывод, пополнить webmoney, Альфа банк, ВТБ24, Сбербанк, Тинькофф банк" />
+<meta name="generator" content="Aranea.CMS 2.1.3 - Авторские права (C) 2004-2011 студия веб-дизайна Aranea. Все права защищены" />
+<base href="https://wm-sha.ru/" />
+<link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="https://wm-sha.ru/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<!--[if lte IE 7]><link href="https://wm-sha.ru/css/style_ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if lte IE 6]><link href="https://wm-sha.ru/css/style_ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<link href="https://wm-sha.ru/css/widget.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://wm-sha.ru/widget/datepicker/datepicker.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://wm-sha.ru/widget/slimbox/russian/slimbox.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/jquery.min.js"></script>
+<script type="text/javascript">
+jQuery.noConflict();
+</script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/lang/russian.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/mootools.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/mootools-more.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/swfobject.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/system.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/user.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/history.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/widget/clientcide/clientcide.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/widget/slimbox/slimbox.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/cache/js/hints.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://wm-sha.ru/js/common.js"></script>
+<meta name="yandex-verification" content="619ee50cace26e99" />
+<meta name="verify-v1" content="OOWIvfQHLf5i4WAmyXrWD1eoJwkjWgkVJkJ7Lw0giWI" />
+<meta name="google-site-verification" content="OOWIvfQHLf5i4WAmyXrWD1eoJwkjWgkVJkJ7Lw0giWI" />
+<meta name="y_key" content="1ccae8a5002583c0" />
+<meta name="viewport" content="width=device-width">
+</head>
+
+<body>
+
+<div id="page-outer" align="center">
+	<div id="top">
+		<a id="ajax-content" href="https://wm-sha.ru/" title="Обмен webmoney на Сбербанк, ВТБ24, Альфабанк, Тинькофф банк, вывод webmoney"></a>
+
+		<div class="account_btn" id="account_btn_id">
+
+		</div>
+
+		<button class="hamburger hamburger--squeeze" type="button" id="menu_btn">
+			<span class="hamburger-box">
+				<span class="hamburger-inner"></span>
+			</span>
+		</button>
+
+		<div class="contacts">
+			<p>Режим работы сервиса: с <strong style="color: #6EC7C9;">9:00</strong> до <strong style="color: #6EC7C9;">23:00</strong> Мск, <strong style="color: #FF5F49;">без выходных</strong></p>
+			<p class="row1"><span class="icon2">&nbsp;</span><a href="tg://resolve?domain=wmsha">Telegram</a></p>
+			<p class="row123"><span class="icon1">&nbsp;</span><a title="WhatsApp" href="whatsapp://send?phone=79034303066">+7 903 430-30-66</a></p>
+			<p class="row123 no_display_mobile"><span class="icon3">&nbsp;</span><a href="skype:wmsha.ru?chat">Skype</a></p>
+		</div>
+		<p class="service">
+			<span><a id="icon_main" href="https://wm-sha.ru/" title="Обмен webmoney на Сбербанк, ВТБ24, Альфабанк, Тинькофф банк, вывод webmoney"></a></span>
+			<span><a id="icon_contact" href="https://wm-sha.ru/contacts" title="Контакты" onclick="return updatePage(this);"></a></span>
+			<a id="icon_map" href="https://wm-sha.ru/sitemap" title="Карта сайта" onclick="return updatePage(this);"></a>
+		</p>
+	</div>
+	<div id="header">
+			<div id="block3" class="menu">
+				<div class="content">
+<ul>
+<li id="pid1" class="item-first"><a href="https://wm-sha.ru" title="Выбор направления обмена валют" onclick="return updatePage(this);">Выбор валют</a></li>
+<li id="pid23"><a href="https://wm-sha.ru/service" title="Описание услуг сервиса Wm-Sha.Ru" onclick="return updatePage(this);">Услуги сервиса</a></li>
+<li id="pid2"><a href="https://wm-sha.ru/licence" title="СОГЛАШЕНИЕ СЕРВИСА" onclick="return updatePage(this);">Соглашение</a></li>
+<li id="pid3"><a href="https://wm-sha.ru/faq" title="Часто задаваемые вопросы:" onclick="return updatePage(this);">Вопрос &amp; ответ</a></li>
+<li id="pid5"><a href="https://wm-sha.ru/partner" title="Партнерская программа" onclick="return updatePage(this);">Партнерская программа</a></li>
+<li id="pid4" class="item-last"><a href="https://wm-sha.ru/contacts" title="Контакты" onclick="return updatePage(this);">Контакты</a></li>
+</ul>
+				</div>
+			</div>
+
+
+		<h2>Быстрый обмен Webmoney, выгодный курс</h2>
+		<div id="account">
+			<strong class="title">Личный кабинет</strong>
+<div id="login-content">				<div align="center">
+					<form method="post" id="login_form" name="login_form" action="https://wm-sha.ru/user/login" onsubmit="showAJAXicon('ajax-login'); return submitAJAXForm('login_form', 'login-content', 'https://wm-sha.ru/module/ajax/action_user.php?0&amp;lang=', true);">
+						<input type="hidden" name="act" value="login" />
+						<table cellspacing="0">
+						<tr>
+							<td align="left">Логин:</td>
+							<td align="right"><input class="fld" type="text" name="frm_login" value="" /></td>
+						</tr>
+						<tr>
+							<td align="left">Пароль:</td>
+							<td align="right"><input class="fld" type="password" id="frm_password" name="frm_password" /></td>
+						</tr>
+						</table>
+						<table cellspacing="0">
+						<tr>
+							<td align="left" width="110">
+								<a id="acc-register" href="https://wm-sha.ru/user/register" onclick="return updatePage(this);" title="Регистрация пользователя">Регистрация</a>
+								<a id="acc-remember" href="https://wm-sha.ru/user/remember" onclick="return updatePage(this);" title="Восстановление пароля">Забыли пароль</a>
+							</td>
+							<td align="right" width="140">
+								<input class="btn fl_right" type="submit" id="btn_login" name="btn_login" value="" />
+								<div id="ajax-login" class="ajax-form hidden"></div>
+							</td>
+						</tr>
+						</table>
+						
+					</form>
+				</div></div>
+		</div>
+	</div>
+	<div id="content-ajax">
+		<div id="content">
+			<noscript>
+				<div class="msg_err">Для просмотра этой страницы необходим Javascript<br />Пожалуйста включите Javascript в Вашем браузере</div>
+			</noscript>
+
+
+<div id="maincontent">
+			<div id="block9" class="block-buttons">
+				<div class="content">
+			<div class="exchange">
+				<div class="tabs">
+					<a id="tab-buy" class="selected" href="https://wm-sha.ru/buy-wm" title="Ввод Webmoney" onclick="return selectExchangeTab('buy');">Ввод</a>
+					<a id="tab-sell" href="https://wm-sha.ru/sell-wm" title="Вывод Webmoney" onclick="return selectExchangeTab('sell');">Вывод</a>
+					<a id="tab-exchange" href="https://wm-sha.ru/exchange-wm" title="Обмен Webmoney" onclick="return selectExchangeTab('exchange');">Обмен</a>
+					<span>Резерв</span>
+				</div>
+				<div class="content">
+					<div id="panel-buy" class="selected">
+						<ul class="curr51"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell4/buy1" title="Обменять Альфа-банк RUB на WMZ" onclick="return popupExchange(22, 4, 1);"><span>1</span><em>Руб.</em><span class="course">0.01477</span><span class="curr-icon curr1"></span><strong>WMZ</strong><span class="arrow"></span><span class="reserve">5656.56</span></a></li><li><a href="https://wm-sha.ru/exchange/sell4/buy3" title="Обменять Альфа-банк RUB на WMR" onclick="return popupExchange(22, 4, 3);"><span>1</span><em>Руб.</em><span class="course">0.98328</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">13403.62</span></a></li><li><a href="https://wm-sha.ru/exchange/sell4/buy2" title="Обменять Альфа-банк RUB на WME" onclick="return popupExchange(22, 4, 2);"><span>1</span><em>Руб.</em><span class="course">0.01014</span><span class="curr-icon curr1"></span><strong>WME</strong><span class="arrow"></span><span class="reserve">0.00</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr50"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell5/buy1" title="Обменять ВТБ24 RUB на WMZ" onclick="return popupExchange(22, 5, 1);"><span>1</span><em>Руб.</em><span class="course">0.01481</span><span class="curr-icon curr1"></span><strong>WMZ</strong><span class="arrow"></span><span class="reserve">5656.56</span></a></li><li><a href="https://wm-sha.ru/exchange/sell5/buy3" title="Обменять ВТБ24 RUB на WMR" onclick="return popupExchange(22, 5, 3);"><span>1</span><em>Руб.</em><span class="course">0.98231</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">13403.62</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr57"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell10/buy1" title="Обменять Сбербанк RUB на WMZ" onclick="return popupExchange(22, 10, 1);"><span>1</span><em>Руб.</em><span class="course">0.01483</span><span class="curr-icon curr1"></span><strong>WMZ</strong><span class="arrow"></span><span class="reserve">5656.56</span></a></li><li><a href="https://wm-sha.ru/exchange/sell10/buy3" title="Обменять Сбербанк RUB на WMR" onclick="return popupExchange(22, 10, 3);"><span>1</span><em>Руб.</em><span class="course">0.98522</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">13403.62</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr54"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell14/buy1" title="Обменять Тинькофф RUB на WMZ" onclick="return popupExchange(22, 14, 1);"><span>1</span><em>Руб.</em><span class="course">0.01483</span><span class="curr-icon curr1"></span><strong>WMZ</strong><span class="arrow"></span><span class="reserve">5656.56</span></a></li><li><a href="https://wm-sha.ru/exchange/sell14/buy3" title="Обменять Тинькофф RUB на WMR" onclick="return popupExchange(22, 14, 3);"><span>1</span><em>Руб.</em><span class="course">0.98328</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">13403.62</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr55"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell9/buy1" title="Обменять Промсвязьбанк RUB на WMZ" onclick="return popupExchange(22, 9, 1);"><span>1</span><em>Руб.</em><span class="course">0.01474</span><span class="curr-icon curr1"></span><strong>WMZ</strong><span class="arrow"></span><span class="reserve">5656.56</span></a></li><li><a href="https://wm-sha.ru/exchange/sell9/buy3" title="Обменять Промсвязьбанк RUB на WMR" onclick="return popupExchange(22, 9, 3);"><span>1</span><em>Руб.</em><span class="course">0.98231</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">13403.62</span></a></li><li class="stub">&nbsp;</li></ul>
+					</div>
+					<div id="panel-sell">
+						<ul class="curr1Z"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell1/buy4" title="Обменять WMZ на Альфа-банк RUB" onclick="return popupExchange(22, 1, 4);"><span>1</span><em>WMZ</em><span class="course">64.6467</span><span class="curr-icon curr51"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">150000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell1/buy5" title="Обменять WMZ на ВТБ24 RUB" onclick="return popupExchange(22, 1, 5);"><span>1</span><em>WMZ</em><span class="course">64.7595</span><span class="curr-icon curr50"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">44000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell1/buy10" title="Обменять WMZ на Сбербанк RUB" onclick="return popupExchange(22, 1, 10);"><span>1</span><em>WMZ</em><span class="course">64.704</span><span class="curr-icon curr57"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">52470.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell1/buy14" title="Обменять WMZ на Тинькофф RUB" onclick="return popupExchange(22, 1, 14);"><span>1</span><em>WMZ</em><span class="course">64.6703</span><span class="curr-icon curr54"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">4000.00</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr1R"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell3/buy4" title="Обменять WMR на Альфа-банк RUB" onclick="return popupExchange(22, 3, 4);"><span>1</span><em>WMR</em><span class="course">0.97631</span><span class="curr-icon curr51"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">150000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell3/buy5" title="Обменять WMR на ВТБ24 RUB" onclick="return popupExchange(22, 3, 5);"><span>1</span><em>WMR</em><span class="course">0.97727</span><span class="curr-icon curr50"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">44000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell3/buy10" title="Обменять WMR на Сбербанк RUB" onclick="return popupExchange(22, 3, 10);"><span>1</span><em>WMR</em><span class="course">0.97947</span><span class="curr-icon curr57"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">52470.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell3/buy14" title="Обменять WMR на Тинькофф RUB" onclick="return popupExchange(22, 3, 14);"><span>1</span><em>WMR</em><span class="course">0.97428</span><span class="curr-icon curr54"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">4000.00</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr1E"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell2/buy4" title="Обменять WME на Альфа-банк RUB" onclick="return popupExchange(22, 2, 4);"><span>1</span><em>WME</em><span class="course">71</span><span class="curr-icon curr51"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">150000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell2/buy5" title="Обменять WME на ВТБ24 RUB" onclick="return popupExchange(22, 2, 5);"><span>1</span><em>WME</em><span class="course">71</span><span class="curr-icon curr50"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">44000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell2/buy10" title="Обменять WME на Сбербанк RUB" onclick="return popupExchange(22, 2, 10);"><span>1</span><em>WME</em><span class="course">72</span><span class="curr-icon curr57"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">52470.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell2/buy14" title="Обменять WME на Тинькофф RUB" onclick="return popupExchange(22, 2, 14);"><span>1</span><em>WME</em><span class="course">71</span><span class="curr-icon curr54"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">4000.00</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr1X"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell13/buy4" title="Обменять WMX на Альфа-банк RUB" onclick="return popupExchange(22, 13, 4);"><span>1</span><em>WMX</em><span class="course">200</span><span class="curr-icon curr51"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">150000.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell13/buy10" title="Обменять WMX на Сбербанк RUB" onclick="return popupExchange(22, 13, 10);"><span>1</span><em>WMX</em><span class="course">200</span><span class="curr-icon curr57"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">52470.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell13/buy14" title="Обменять WMX на Тинькофф RUB" onclick="return popupExchange(22, 13, 14);"><span>1</span><em>WMX</em><span class="course">200</span><span class="curr-icon curr54"></span><strong>Руб.</strong><span class="arrow"></span><span class="reserve">4000.00</span></a></li><li class="stub">&nbsp;</li></ul>
+					</div>
+					<div id="panel-exchange">
+						<ul class="curr1Z"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell1/buy3" title="Обменять WMZ на WMR" onclick="return popupExchange(22, 1, 3);"><span>1</span><em>WMZ</em><span class="course">65.8</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">0.00</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr1R"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell3/buy1" title="Обменять WMR на WMZ" onclick="return popupExchange(22, 3, 1);"><span>1</span><em>WMR</em><span class="course">0.01467</span><span class="curr-icon curr1"></span><strong>WMZ</strong><span class="arrow"></span><span class="reserve">6.00</span></a></li><li><a href="https://wm-sha.ru/exchange/sell3/buy13" title="Обменять WMR на WMX" onclick="return popupExchange(22, 3, 13);"><span>1</span><em>WMR</em><span class="course">0.003</span><span class="curr-icon curr1"></span><strong>WMX</strong><span class="arrow"></span><span class="reserve">0.00</span></a></li><li class="stub">&nbsp;</li></ul>
+						<hr />
+						<ul class="curr1X"><li class="stub">&nbsp;</li><li><a href="https://wm-sha.ru/exchange/sell13/buy3" title="Обменять WMX на WMR" onclick="return popupExchange(22, 13, 3);"><span>1</span><em>WMX</em><span class="course">200</span><span class="curr-icon curr1"></span><strong>WMR</strong><span class="arrow"></span><span class="reserve">0.00</span></a></li><li class="stub">&nbsp;</li></ul>
+					</div>
+					<div class="bottom"></div>
+				</div>
+			</div>
+				</div>
+			</div>
+
+			<div id="block24" class="menu">
+				<div class="content">
+<h1>Wm-Sha.Ru - обмен, ввод webwoney и вывод webwoney.</h1>
+
+<p>Сервис предлагает услуги обмена электронных валют <strong>WebMoney (wmz, wmr, wmx)</strong>, а так же <br />пополнение кошелька <strong>WebMoney без комиссии</strong>,  со счета банка и<br />вывод WebMoney на счета банков <strong>ВТБ24, Альфа банк, Сбербанк, Тинькофф банк</strong> с минимальной комиссией.</p>
+<p><strong>Оплату производите только по реквизитам указанным в заявке, созданной на сайте!<br />
+Обмены мимо сайта с подменой реквизитов по Skype не производим, будьте внимательны!</strong></p>
+
+
+				</div>
+			</div>
+
+			<div id="block10" class="block">
+				<h2 class="title">Новости</h2>
+				<div class="content">
+					<div id="news">
+						<div class="news-item fl_left">
+							<div class="news-date">15.02.2016 г.</div><div class="news-name"><a href="https://wm-sha.ru/news/2014-05-10-1309-obmeny-s-ispolzovaniem-sistemy-tel.html" title="Обмены с использованием системы Телебанк" onclick="return updatePage(this);">Обмены с использованием системы Телебанк</a></div>
+							<div class="news-content">
+								Внимание! Обмены с использованием системы Телебанк временно проводятся вручную.<br />Приносим извинения за доставленные неудобства.<br />
+							</div>
+						</div>
+						<div class="news-item fl_right">
+							<div class="news-date">20.11.2012 г.</div><div class="news-name"><a href="https://wm-sha.ru/news/2012-11-20-2331-bonus-ot-wm-sharu-razdavai-bonusy-.html" title="Бонус от Wm-Sha.Ru, раздавай бонусы со своего сайта." onclick="return updatePage(this);">Бонус от Wm-Sha.Ru, раздавай бонусы со своего сайта.</a></div>
+							<div class="news-content">
+								<p>Сервис Wm-Sha.RU предлагает уникальную возможность быстрого и бесплатного привлечения новых клиентов на Ваш ресурс.<br /><br />Вы можете повысить посещаемость Вашего сайта с помощью нашей формы раздачи WMR-бонусов. Для этого нужно разместить HTML-форму раздачи бонусов на Вашем сайте в любом доступном для клиентов месте. Форма на странице <a href="bonus">wm-sha.ru/bonus</a></p>
+							</div>
+						</div>
+<div class="line"></div>
+						<div class="news-item fl_left">
+							<div class="news-date">13.09.2012 г.</div><div class="news-name"><a href="https://wm-sha.ru/news/2012-09-13-obnovlenie-internet-banka-alfa-klik.html" title="Обновление интернет-банка «Альфа-Клик»" onclick="return updatePage(this);">Обновление интернет-банка «Альфа-Клик»</a></div>
+							<div class="news-content">
+								Произведено большое обновление интернет-банка «Альфа-Клик» — переход на новую технологическую платформу. В связи с этим, заявки в этом направлении будут обрабатываться вручную с небольшой задержкой.
+							</div>
+						</div>
+						<div class="news-item fl_right">
+							<div class="news-date">01.11.2011 г.</div><div class="news-name"><a href="https://wm-sha.ru/news/2011-11-01-ssl-sertifikat.html" title="SSL сертификат" onclick="return updatePage(this);">SSL сертификат</a></div>
+							<div class="news-content">
+								SSL сертификат защитит Ваши данные от перехвата и обеспечит конфиденциальность обмена Webmoney.
+							</div>
+						</div>
+<div class="line"></div>
+						<p class="detail"><a href="https://wm-sha.ru/news" title="Все новости" onclick="return updatePage(this);">Все новости</a></p>
+					</div>
+
+				</div>
+				<div class="bottom"></div>
+			</div>
+
+
+</div>
+
+			<div><div id="icons-ajax"></div></div>
+		</div>
+		<div id="content-left">
+			<div id="block20" class="block">
+				<h2 class="title">Аттестат продавца</h2>
+				<div class="content">
+<table style="width: 100%;" border="0" align="left">
+<tbody>
+<tr>
+<td align="center"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="files/cert.gif" alt="" width="75" height="75" /></strong><br /></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center"><strong><a href="https://passport.webmoney.ru/asp/CertView.asp?wmid=881627402476" target="_blank">WMID 881627402476</a></strong></td>
+</tr>
+<tr>
+<td align="center"><a title="Сайт зарегистрирован в каталоге Мегасток" href="https://megastock.ru/Resource.aspx?id=4528" target="_blank">Регистрация в Мегастоке №4528</a></td>
+</tr>
+<tr>
+<td id="bl" style="padding-left: 40px;">WebMoney <strong>BL: </strong>-</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">// <![CDATA[
+if(typeof bll != "undefined"){setText('bl',bll);}
+// ]]></script>
+				</div>
+				<div class="bottom"></div>
+			</div>
+
+			<div id="block25" class="menu">
+				<div class="content">
+<p style="font-family:Trebuchet MS,Arial,Helvetica,sans-serif; font-size: 12px;"><a title="вывод WebMoney" href="/">Wm-Sha.ru</a> — сервис ввода, вывода webmoney, предоставляет услуги:
+<a href="alfabank" title="вывод webmoney на Альфабанк">Вывод webmoney</a> на Альфабанк, 
+вы можете <a href="sell-wm" title="вывести webmoney на Телебанк">вывести webmoney</a> на Телебанк или
+<a href="telebank" title="вывод webmoney на карту ВТБ24">вывести webmoney на карту</a> ВТБ24,
+<a href="/exchange/sell3/buy10" title="вывести webmoney на карту Сбербанка">webmoney на карту</a> Сбербанка,
+<a href="sell-wm" title="webmoney вывод средств">webmoney вывод средств</a>.
+Вы можете пополнить <a href="buy-wm" title="пополнить webmoney без комиссии">webmoney без комиссии</a>.
+<a href="buy-wm" title="купить webmoney">Купить webmoney</a> по направлениям: 
+<a href="alfabank" title="пополнить webmoney без комиссии со счета Альфабанка">альфа-банк webmoney</a>,
+<a href="telebank" title="webmoney купить со счета Телебанк">телебанк webmoney</a> и 
+<a href="/exchange/sell10/buy3" title="пополнить webmoney с доплатой со счета Сбербанка">Сбербанк webmoney</a>.
+Каждому клиенту WMR-бонус.
+Производите <a href="exchange-wm" title="обмен webmoney по лучшему курсу">обмен webmoney по лучшему курсу</a>.
+<a href="exchange/sell3/buy14" title="вывод webmoney на Тинькофф банк">Вывод webmoney</a> на Тинькофф банк.
+Обмен <a href="/">webmoney</a></p>
+				</div>
+			</div>
+
+			<div id="block13" class="block block-white">
+				<h2 class="title">WMR-Бонус</h2>
+				<div id="wmbonus">
+						<form method="post" id="wmbonus_form" name="wmbonus_form" action="https://wm-sha.ru/" onsubmit="showAJAXicon('ajax-bonus'); return submitAJAXForm('wmbonus_form', 'wmbonus_msg', 'https://wm-sha.ru/module/ajax/action_wmbonus.php?0&amp;lang=');">
+							<input type="hidden" name="act" value="wmbonus" />
+							<p id="wmbonus_hint"><img class="fl_right" src="images/bonus.png" width="46" height="40" alt="WMR - бонус" title="WMR - бонус" />Вы можете получить WMR-бонус от 0.01 до 0.03 WMR на свой кошелек 1 раз в сутки</p>
+							<p><strong>Кошелек:</strong> <input class="fld" type="text" id="frm_vallet" name="frm_vallet" value="" /></p>
+							<p><strong>Код:</strong><input class="fld fl_right" type="text" id="frm_captcha" name="frm_captcha" value="" /><a id="wmbonus_form_captcha" class="captchas" href="#" onclick="return updateCaptchaS('wmbonus_form_captcha');" title="Нажмите чтобы обновить код"><img src="captchas.php?1552902228" alt="Проверочный код" /></a></p>
+							<div class="clearfix">
+								<div id="wmbonus_msg"></div>
+								<input class="btn fl_right" type="submit" id="btn_bonus" name="btn_bonus" value="" />
+								<div id="ajax-bonus" class="ajax-form hidden"></div>
+							</div>
+						</form>
+
+<a href="https://wm-sha.ru/bonus" title="Раздавай бонусы со своего сайта">Раздавай бонусы со своего сайта</a>
+				</div>
+			</div>
+
+			<div id="block6" class="menu">
+				<div class="content">
+
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+</div>
+<div id="footer-outer" align="center">
+	<div id="footer" align="center">
+		<div class="fl_left">
+			<p>&copy; 2009-2019, Wm-Sha.Ru</p>
+			<p>Автоматический вывод webmoney, обменять webmoney, ввод webmoney</p>
+			<a href="http://www.aranea.com.ua" title="Создание сайта студия Aranea" target="_blank">Создание сайта Aranea</a>
+		</div>
+		<div class="fl_right">
+			<div id="block4" class="menu">
+				<div class="content">
+<ul>
+<li id="pid10" class="item-first"><a href="https://wm-sha.ru/contacts" title="Контакты" onclick="return updatePage(this);">Контакты</a></li>
+<li id="pid7"><a href="https://wm-sha.ru/licence" title="Правила предоставления услуг" onclick="return updatePage(this);">Правила предоставления услуг</a></li>
+<li id="pid8"><a href="https://wm-sha.ru/faq" title="Вопрос &amp; ответ" onclick="return updatePage(this);">Вопрос &amp; ответ</a></li>
+<li id="pid9" class="item-last"><a href="https://wm-sha.ru/partner" title="Партнерская программа" onclick="return updatePage(this);">Партнерская программа</a></li>
+</ul>
+				</div>
+			</div>
+
+
+		</div>
+			<div id="block19" class="block-buttons">
+				<div class="content">
+<!-- begin WebMoney Transfer : accept label -->
+<a href="http://www.megastock.ru/" target="_blank"><img src="/files/88x31_wm_white_blue.png" alt="www.megastock.ru" border="0" /></a>
+<!-- end WebMoney Transfer : accept label -->
+<!-- webmoney attestation label#133EDCA9-5E2F-45A2-80B8-B329585BBE2B begin -->
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=881627402476" target="_blank"><img src="files/v_blue_on_white_ru.png" alt="Аттестат Wm-Sha.Ru" border="0"/></a>
+<!-- webmoney attestation label#133EDCA9-5E2F-45A2-80B8-B329585BBE2B end -->
+
+<!--LiveInternet counter-->
+<span id="count1" ><script type="text/javascript"><!--
+document.getElementById('count1').innerHTML ="<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'></a>";
+//--></script></span>
+<!--/LiveInternet-->
+
+<!-- Yandex.Metrika informer --><a href="http://metrika.yandex.ru/stat/?id=16680829&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/16680829/3_0_EAFADAFF_CADABAFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:16680829,type:0,lang:'ru'});return false}catch(e){}"/></a><!-- /Yandex.Metrika informer --><!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter16680829 = new Ya.Metrika({id:16680829, enableAll: true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/16680829" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+				</div>
+			</div>
+
+
+	</div>
+</div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+if(screen.width>641) {
+window.addEvent('domready', function(){
+	HistoryManager.initialize();
+	pageMngr = new PaginationClass(site_url);
+	HistoryManager.start();
+});
+var PaginationClass = new Class({
+	initialize: function(firstPage) {
+		this.historyKey = HISTORY_KEY;
+		this.history = HistoryManager.register(this.historyKey, [firstPage], function(values) { this.to(values[0]); }.bind(this), function(values) { return [this.historyKey, values[0]].join(''); }.bind(this), this.historyKey + '(.*)' );
+	},
+	to: function(page, forced) {
+		if (page === undefined || page === null || page === '#' /*|| dCond*/) return;
+		old_page = this.page;
+		this.page = String(page);
+		this.page = this.page.replace(site_url, '');
+		this.page = this.page.replace(/^http:\/\/[^\/]+/, '');
+		if ( forced || (this.page && (this.page != old_page)) ) {
+			this.history.setValue(0, this.page);
+			showAJAXicon('ajax-content');
+			updateContent('content-ajax', site_url + 'ajax/' + this.page);
+		} else if ( (this.history.getOldState() != '#1') && (document.location != this.page) ) { document.location.replace(document.location); }
+	}
+});
+}
+setSelected('icon_main');
+
+//-->
+</script>
+<script>
+	var hamburger = document.getElementById("menu_btn");
+	hamburger.addEventListener("click", function() {
+		hamburger.classList.toggle("is-active");
+		var first_linck = document.getElementById('pid1');
+		var first_linck_a = first_linck.getElementsByTagName('a');
+		first_linck_a.onclick = function() {
+		}
+	});
+</script>
+</body>
+</html>

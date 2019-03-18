@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+	<meta charset="UTF-8">
+	<title>Обменный пункт 5Минут &#8212; Обменный пункт 5Минут</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://5min.su/wp-content/themes/exchangeboxtheme2/style.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://5min.su/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://5min.su/wp-content/themes/exchangeboxtheme2/js/jquery-1.8.3.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://5min.su/wp-content/plugins/exchangebox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://5min.su/wp-content/plugins/exchangebox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://5min.su/wp-content/plugins/exchangebox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://5min.su/wp-content/themes/exchangeboxtheme2/js/jquery-ui-1.9.2.custom.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://5min.su/wp-content/themes/exchangeboxtheme2/js/all.js?ver=2.4'></script>
+<script type='text/javascript' src='https://5min.su/premiumjs.js?lang=ru&#038;ver=1.6'></script>
+<link rel="shortcut icon" href="https://5min.su/wp-content/uploads/fav5min.png" type="image/png" />
+<link rel="icon" href="https://5min.su/wp-content/uploads/fav5min.png" type="image/png" />
+<link rel='canonical' href='https://5min.su/' />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+	
+	
+			<link rel="stylesheet" href="https://5min.su/wp-content/themes/exchangeboxtheme2/green.css?ver=2.4" type="text/css" />
+		
+	
+</head>
+
+<body class="home page-template page-template-exb-pluginpage page-template-exb-pluginpage-php page page-id-151">
+<div id="container">
+	<div class="headline"></div>
+
+    <div id="header">
+	    <div class="header">
+		
+		    <div class="logo">
+									<a href="https://5min.su" title="Обменный пункт 5Минут"><img src="https://5min.su/wp-content/uploads/logo.gif" alt="Обменный пункт 5Минут" /></a>
+							</div>
+			
+						
+			<div class="hright">
+				<div class="hrighttop">
+															<div class="hemail"><a href="mailto:i&#110;&#102;&#111;&#64;5&#109;in.su">info&#64;&#53;&#109;&#105;&#110;.su</a></div>						<div class="clear"></div>
+				</div>
+			
+				<div class="hrightbot">
+					<div class="hworktime"><p>Работаем<br />
+без выходных с 9:00 до 23:00</p>
+</div>
+					<div class="htel">+7 (499) 350-31-39</div>
+						<div class="clear"></div>
+				</div>
+			</div>
+			
+			    <div class="clear"></div>
+		</div>
+	</div>	
+	
+	<div id="cwrap">
+	
+		<div id="menutopped">
+			<div id="topmenu">
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom  first_menu_li menu-item-130"><a href="/"><span>Обмен</span></a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://5min.su/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://5min.su/tos/"><span>Правила</span></a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-171"><a href="#"><span>Кабинет</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://5min.su/login/"><span>Авторизация</span></a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://5min.su/register/"><span>Условия и регистрации</span></a></li>
+</ul>
+</li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://5min.su/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://5min.su/feedback/"><span>Контакты</span></a></li>
+<li id="menu-item-425" class="menu-item menu-item-type-taxonomy menu-item-object-category  last_menu_li menu-item-425"><a href="https://5min.su/category/novosti/"><span>Новости</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>
+			</div>	
+		</div>	
+	
+		<div class="content">
+			<div class="contentzone">		
+		
+	    		
+
+		
+		<div class="homeobmentable">
+	
+	<div class="lefthomecol">
+		<div class="lefthomecolvn"><div class="widgethometitle"><div class="widt">Отдаете</div></div>
+				<div class="onehline leftgo act first" id="napobmen-36">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(https://5min.su/wp-content/uploads/waves.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Waves WAVES
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-12">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/images/payment_icons/sb.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Сбербанк RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-16">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Приват24 UAH
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo last" id="napobmen-18">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/images/payment_icons/yd.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Яндекс.Деньги RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+		</div>
+	</div>
+	<div class="righthomecol">
+		<div class="righthomecolvn">
+	<div class="widgethometitle2">
+		<div class="widt1">Получаете</div>
+		<div class="widt2">Резерв</div>
+			<div class="clear"></div>
+	</div>
+	<div class="tabhome act" id="napobmento-36">
+								<a href="https://5min.su/xchange_WAVES_to_YAMRUB/" data-xname1="WAVES" data-xname2="YAMRUB" class="onehrine first last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/images/payment_icons/yd.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Яндекс.Деньги RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" data-id="18">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										4168.88633644
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-12">
+								<a href="https://5min.su/xchange_SBERRUB_to_P24UAH/" data-xname1="SBERRUB" data-xname2="P24UAH" class="onehrine first last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										23505.8414921
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-16">
+								<a href="https://5min.su/xchange_P24UAH_to_SBERRUB/" data-xname1="P24UAH" data-xname2="SBERRUB" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/images/payment_icons/sb.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Сбербанк RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Сбербанк RUB" data-id="12">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										52256.39729932
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://5min.su/xchange_P24UAH_to_QIWI/" data-xname1="P24UAH" data-xname2="QIWI" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://5min.su/wp-content/uploads/qiwi.jpg) no-repeat center center"></div>
+									<div class="onehrinetext">
+										QIWI RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="QIWI RUB" data-id="21">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										387.30264869
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-18">
+								<a href="https://5min.su/xchange_YAMRUB_to_BTC/" data-xname1="YAMRUB" data-xname2="BTC" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://5min.su/wp-content/uploads/BTC.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										BitCoin BTC
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="BitCoin BTC" data-id="32">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										0.0002242
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://5min.su/xchange_YAMRUB_to_P24UAH/" data-xname1="YAMRUB" data-xname2="P24UAH" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										23505.8414921
+									</div>
+									<div class="clear"></div>
+								</a></div>
+		</div>
+	</div>
+		<div class="clear"></div>
+			<div class="clear"></div>
+		</div>
+	
+				
+		
+	    			
+	
+	<div class="clear"></div>
+				<div class="fcwidget">
+				<div class="fcwidgetvn">
+					<div class="fcwtitle">
+						<div class="fcwtitlevn">
+							Обменный пункт &quot;5Минут&quot; - меняйте быстро и выгодно!						</div>
+					</div>
+						<p>Рады предложить Вам наиболее выгодные курсы обмена в системах: WebMoney, Яндекс.Денег, Приват24, Сбербанк Онлайн. Обработка заявки происходит обычно <strong>не более 5 минут</strong>.</p>
+<p>Обмен проводит оператор, который постоянно на связи. За счет экономии на комиссии мерчантов Вы получаете наиболее выгодный курс в сравнении с автоматическими обменниками. В частном порядке можно запросить дополнительные скидки, заказать нужную сумму на удобное время, получить консультацию по работе с платежными системами.</p>
+<p>Спасибо, что выбрали нас!</p>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+	
+			</div>
+			<div class="sidebar">
+		
+				
+	<div class="statuswork_widget online"><div class="statuswork_widgetvn">
+		<div class="statuswork_widget_text">Оператор <span class="opstatus">online</span></div><div class="statuswork_widget_time">18.03.2019 12:47:23</div>
+	</div></div>
+	<div class="widget">
+		<div class="widgettitlenews">Новости</div>
+		<div class="clear"></div>
+		<div class="wnewline">
+		<div class="wnewsdate">
+			<div class="wmon">July</div>
+			<div class="wdate">27</div>
+		</div>
+		<div class="wnewlineright">
+			<div class="wnewstext">
+				Сообщите нам, если кнопка чата до сих пор не работает&hellip;
+			</div>
+			<a href="https://5min.su/ispravlenyi-problemyi-s-rabotoy-chata/" class="wnewsmore">Подробнее</a>
+		</div>
+			<div class="clear"></div>
+	</div>
+	    
+		<div class="wmorenewsdiv">
+			<a href="https://5min.su/news/" class="wmorenews">Все новости (5)</a>
+				<div class="clear"></div>
+		</div>		
+	</div>
+	
+			<div class="login_widget">
+				<div class="login_widgetvn login_widget_ins">
+				<div class="loginwidget_title login_widget_title">
+					<div class="loginwidget_titlevn login_widget_title_ins">Авторизация</div>
+				</div>
+					<form method="post" class="ajax_post_form" action="https://5min.su/ajax-loginform.html?meth=post&yid=70cc3c496bcc">
+		<div class="resultgo"></div>
+		<div class="wline">
+			<input type="text" name="logmail" placeholder="Логин" value="" />
+		</div>
+		<div class="wline">
+			<input type="password" name="pass" placeholder="Пароль" value="" />
+		</div>	
+					
+		
+					
+		<div class="wlineleft">
+			<p><a href="https://5min.su/register/">Регистрация</a></p>
+		</div>
+		<div class="wlineright">
+			<p><a href="https://5min.su/lostpass/">Забыли пароль?</a></p>
+		</div>                    				
+			<div class="clear"></div>
+		<div class="wlinesubmit">
+			<input type="submit" formtarget="_top" name="" value="Войти" />
+		</div>  		
+	
+					</form>
+				</div>
+			</div>
+			
+		<div class="rezerv_widget">
+			<div class="rezerv_widgetvn">
+				<div class="rezervwidget_title">
+					<div class="rezervwidget_titlevn">
+						Резервы валют
+					</div>
+				</div>
+				<table class="rewtable">	
+					
+					<tr class="odd">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(/images/payment_icons/sb.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								Сбербанк RUB
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">52256.39729932</td>
+					</tr>					
+				
+					<tr class="even">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								Приват24 UAH
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">23505.8414921</td>
+					</tr>					
+				
+					<tr class="odd">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(/images/payment_icons/yd.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								Яндекс.Деньги RUB
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">4168.88633644</td>
+					</tr>					
+				
+					<tr class="even">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(https://5min.su/wp-content/uploads/qiwi.jpg) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								QIWI RUB
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">387.30264869</td>
+					</tr>					
+				
+					<tr class="odd">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								Приват24 USD
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">600</td>
+					</tr>					
+				
+					<tr class="even">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(https://5min.su/wp-content/uploads/BTC.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								BitCoin BTC
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">0.0002242</td>
+					</tr>					
+				
+					<tr class="odd">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(https://5min.su/wp-content/uploads/ETHEREUM.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								Ethereum ETH
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">0.00025139</td>
+					</tr>					
+				
+					<tr class="even">
+						<td class="rewvalut">
+							<div class="obmenlinew">
+								<div class="obmenlinewico" style="background: url(https://5min.su/wp-content/uploads/waves.png) no-repeat center center"></div>
+								<div class="obmenlinewtext">
+								Waves WAVES
+								</div>
+								<div class="clear"></div>
+							</div>			
+						</td>
+						<td class="rewrezerv">1.93072866</td>
+					</tr>					
+				
+				</table>	
+			</div>
+		</div>
+					
+			</div>
+				<div class="clear"></div>
+		</div>
+	</div>
+	
+			<div class="fwidget">
+	        <div class="fwidgetvn">
+				<table class="tpartner">
+				    <tr>
+
+													<td>
+								<a href="https://www.bestchange.ru" target="_blank" title="Мониторинг обменных пунктов BestChange.ru">									<img src="https://www.bestchange.ru/images/banners/88x31-6.gif" alt="Мониторинг обменных пунктов BestChange.ru" />
+								</a>							</td>
+													<td>
+								<a href="https://www.secretovobmena.net/" target="_blank" title="Мониторинг обменных пунктов SecretovObmena.net">									<img src="https://secretovobmena.net/images/secretovobmena_88_31.gif" alt="Мониторинг обменных пунктов SecretovObmena.net" />
+								</a>							</td>
+													<td>
+								<a href="https://kurs.expert" target="_blank" title="Мониторинг обменников, анализатор валют КурсЕксперт">									<img src="https://kurs.expert/i/buttonY.png" alt="Мониторинг обменников, анализатор валют КурсЕксперт" />
+								</a>							</td>
+													<td>
+								<a href="https://okku.ru" target="_blank" title="Лучший курс обмена валют">									<img src="https://okku.ru/images/88_31_okku_3.gif" alt="Лучший курс обмена валют" />
+								</a>							</td>
+													<td>
+								<a href="http://kurs.com.ua/webmoney" target="_blank" title="Мониторинг обменников электронных валют">									<img src="https://5min.su/wp-content/uploads/88x31.png" alt="Мониторинг обменников электронных валют" />
+								</a>							</td>
+													<td>
+								<a href="//changegid.com" target="_blank" title="changegid.com">									<img src="//changegid.com/image/button/1.jpg" alt="changegid.com" />
+								</a>							</td>
+							
+                         <td><a href="https://glazok.org/" target="_blank" title="Мониторинг обменных пунктов GLAZOK"><img border=0 src="https://glazok.org/88x31.gif" width="88" height="31" ></a>	</td>
+                        <td><!--LiveInternet counter--><script type="text/javascript"><!--
+							document.write("<a href='//www.liveinternet.ru/click' "+
+							"target=_blank><img src='//counter.yadro.ru/hit?t38.6;r"+
+							escape(document.referrer)+((typeof(screen)=="undefined")?"":
+							";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+							screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+							";"+Math.random()+
+							"' alt='' title='LiveInternet' "+
+							"border='0' width='31' height='31'><\/a>")
+							//--></script><!--/LiveInternet--></td>							
+					</tr>
+				</table>
+				
+				<div class="clear"></div>
+	        </div>
+	    </div>	
+		
+
+    <div id="footer">
+	    <div class="footer">
+		    <div class="fleft">&copy; 2015-2019 — 5Минут сервис обмена электронных валют.
+													</div>
+
+		    <div class="fright">
+				<ul id="menu-nizhnee-menyu" class="tmenu"><li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-220"><a href="https://5min.su/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://5min.su/tos/"><span>Правила сайта</span></a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-221"><a href="https://5min.su/preduprezhdenie/"><span>Предупреждение</span></a></li>
+</ul>					<div class="clear"></div>
+			</div> 
+                <div class="clear"></div>			
+		</div>
+	</div>	
+
+</div>
+
+
+		<div id="exbprezshadow"></div> 
+		<div class="exbprezbox">
+			<div class="exbprezboxvn">
+				<div class="exbprezboxtitle">Запрос резерва "<span id="rezerv_titls"></span>"</div>
+				<div class="exbprezboxclose"></div>
+				<form method="post" class="ajax_post_form" action="https://5min.su/ajax-reservform.html?meth=post&yid=70cc3c496bcc"><input type="hidden" name="id" id="rezerv_ids" value="0" />
+					<div class="resultgo"></div>
+					
+					
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_text ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="rb_id-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+					
+					<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>		
+		<script type='text/javascript' src='https://5min.su/wp-includes/js/wp-embed.min.js?ver=5.0.3'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			
+  <!-- Start SiteHeart code 
+<script>
+(function(){
+var widget_id = 618517;
+_shcp =[{widget_id : widget_id}];
+var lang =(navigator.language || navigator.systemLanguage 
+|| navigator.userLanguage ||"en")
+.substr(0,2).toLowerCase();
+var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+var hcc = document.createElement("script");
+hcc.type ="text/javascript";
+hcc.async =true;
+hcc.src =("https:"== document.location.protocol ?"https":"http")
++"://"+ url;
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>
+ End SiteHeart code -->
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'gdDMsY2SRx';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33300608 = new Ya.Metrika({
+                    id:33300608,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33300608" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>

@@ -1,0 +1,1547 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+        <link rel="canonical" href="https://btcbit.net"/>
+            <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="description" content="Обменник криптовалют BTCBIT.NET предоставляет услуги по выгодному обмену криптовалюты различных видов. Хочешь обменять свою крипту? Заходи к нам!" />
+    <meta name="keywords" content="BTC, BTCBIT, Credit, Card, SEPA, SEPA Payment, Debit Card, Bitcoin exchange, Cryptocurrency exchange, Bank Card, EXCHANGE, Perfect Money, Advanced Cash, Payeer, Ethereum" />
+    <meta name="msvalidate.01" content="8008BA603F91302AD4412F339184D5B2" />
+    <meta name="author" content="BTCBIT">
+    <meta name="yandex-verification" content="5e1ea2b4b99a09bd" />
+
+    <title>BTCBIT.NET - Онлайн обменник криптовалют по выгодному курсу в 2019</title>
+
+    <link rel="alternate" hreflang="ru" href="https://btcbit.net/ru" />
+    <link rel="alternate" hreflang="en" href="https://btcbit.net/" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Source+Sans+Pro:400,600,700" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/application/views/site/js/pickadate/themes/classic.css" />
+    <link rel="stylesheet" href="/application/views/site/js/pickadate/themes/classic.date.css" />
+    <link rel="stylesheet" href="/application/views/site/css/style.css?v=1.01" />
+    <link rel="alternate" hreflang="ru" href="https://btcbit.net/ru/" />
+
+    <meta property="og:site_name" content="BTCBIT.NET buy cryptocurrency via VISA/MASTERCARD with low commission">
+    <meta property="og:image" content="https://btcbit.net/application/views/site/img/btcbit_logo_full.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://btcbit.net/">
+    <meta property="og:site_name" content="BTCBIT" />
+    <meta property="og:title" content="BTCBIT.NET покупка и продажа криптовалюты при помощи карты VISA/MasterCard по самым низким комиссиям!">
+    <meta property="og:description" content="Купить или продать Биткойн, Рипл, Эфириум и другие криптовалюты используя карты VISA/Mastercard или другие популярные методы оплат. BTCBIT.NET - мгновенная покупка или продажа приптовалюты по самым низким комиссиям!" />
+
+    <meta name="twitter:image" content="https://btcbit.net/application/views/site/img/btcbit_logo_full.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@BTCBITNET">
+    <meta name="twitter:title" content="BTCBIT.NET покупка и продажа криптовалюты при помощи карты VISA/MasterCard по самым низким комиссиям!" />
+    <meta name="twitter:description" content="Купить или продать Биткойн, Рипл, Эфириум и другие криптовалюты используя карты VISA/Mastercard или другие популярные методы оплат. BTCBIT.NET - мгновенная покупка или продажа приптовалюты по самым низким комиссиям!" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/application/views/site/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/application/views/site/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/application/views/site/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/application/views/site/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/application/views/site/img/favicon/safari-pinned-tab.svg" color="#4186fa">
+    <link rel="shortcut icon" href="/application/views/site/img/favicon/favicon.ico">
+
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/application/views/site/img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <meta name=”robots” content=”NOODP,NOYDIR” />
+    <meta name="DC.title" content="BTCBIT" />
+    <meta name="geo.region" content="PL" />
+    <meta name="geo.placename" content="Slubice" />
+    <meta name="geo.position" content="52.334399;14.597654" />
+    <meta name="ICBM" content="52.334399, 14.597654" />
+    <meta name="Language" content="English" />
+    <meta name="Publisher" content="BTCBIT" />
+    <meta name="Revisit-After" content="Weekly" />
+    <meta name="distribution" content="LOCAL" />
+    <meta name="Robots" content="INDEX, FOLLOW" />
+    <meta name="page-topic" content="Buy bitcoin">
+    <meta name="YahooSeeker" content="INDEX, FOLLOW">
+    <meta name="msnbot" content="INDEX, FOLLOW">
+    <meta name="googlebot" content="index,follow"/>
+    <meta name="Rating" content="General"/>
+    <meta name="allow-search" content="yes">
+    <meta name="expires" content="never">
+
+    <script src="/application/views/site/js/jquery-2.2.1.min.js"></script>
+    <script src="/application/views/site/js/jquery-migrate-1.2.1.js"></script>
+    <script src="/application/views/site/js/jquery.qtip.min.js"></script>
+    <script src="/application/views/site/js/jquery.magnific-popup.min.js"></script>
+    <script src="/application/views/site/js/jquery.hashchange.min.js"></script>
+    <script src="/application/views/site/js/jquery.easytabs.js"></script>
+    <script type="text/javascript" src="/application/views/site/cookie-bar/cookiebar-latest.min.js?theme=grey&top=1"></script>
+    <script src="/application/views/site/js/pickadate/picker.js"></script>
+    <script src="/application/views/site/js/pickadate/picker.date.js"></script>
+    <script src="/application/views/site/js/jquery-qrcode-0.14.0.js"></script>
+    <script src="/application/views/site/js/js.js"></script>
+    <script src="/js/system_js.js"></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+		<script src="/js/qrcode.js"></script>
+		
+    <!-- TrustBox script -->
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+    <!-- End Trustbox script -->
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '129739887670350');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=129739887670350&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(45479274, "init", {
+            id:45479274,
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true,
+            trackHash:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/45479274" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+
+
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-NFNCTX9');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - AdWords: 838606900 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115154338-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-115154338-1');
+        gtag('config', 'AW-838606900');
+    </script>
+
+
+    <script> gtag('event', 'page_view', {'send_to': 'AW-838606900', 'user_id': 'replace with value'}); </script>
+
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "BTCBIT",
+  "logo":"/application/views/site/img/btcbit_logo.png",
+  "url": "https://btcbit.net",
+  "sameAs": [
+    "https://www.facebook.com/btcbitnet",
+    "https://instagram.com/btcbitnet",
+    "https://www.linkedin.com/in/btcbit",
+    "https://twitter.com/btcbitnet",
+    "https://vk.com/btcbitnet"
+  ],
+  "contactPoint": [
+    { "@type": "ContactPoint",
+      "telephone": "+37166090222",
+      "contactType": "customer service"
+    }
+  ],
+  "aggregateRating":{"@type":"AggregateRating","bestRating":"10","worstRating":"0","ratingValue":"9.6","reviewCount":"190"}
+}
+</script>
+
+</head>
+
+<body>
+
+<div class="absoluteTop">
+    <a id="account_settings_profile"></a>
+    <a id="password"></a>
+    <a id="2fa"></a>
+    <a id="paymentInfo"></a>
+    <a id="account_settings_referrals"></a>
+</div>
+    <script type="text/javascript">
+        var _user_id = '0'; // Set to the user's ID, username, or email address, or '' if not yet known.
+        var _session_id = ''; // Set to a unique session ID for the visitor's current browsing session.
+
+        var _sift = window._sift = window._sift || [];
+        _sift.push(['_setAccount', '689923fac1']);
+        _sift.push(['_setUserId', _user_id]);
+        _sift.push(['_setSessionId', _session_id]);
+        _sift.push(['_trackPageview']);
+
+        (function () {
+            function ls() {
+                var e = document.createElement('script');
+                e.src = 'https://cdn.siftscience.com/s.js';
+                document.body.appendChild(e);
+            }
+
+            if (window.attachEvent) {
+                window.attachEvent('onload', ls);
+            } else {
+                window.addEventListener('load', ls, false);
+            }
+        })();
+    </script>
+<div class="wrap">
+
+    <header class="header header--home">
+        <a href="/ru/" class="logo"><img src="/application/views/site/img/btcbit_logo_full.png" class="logo__image" /></a>
+        <div class="mainMenuWrapper">
+            <ul class="mainMenu">
+
+
+                <li class="mainMenu__item "><a href="/ru/buy" class="mainMenu__item__link">КУПИТЬ</a></li>
+                <li class="mainMenu__item "><a href="/ru/sell" class="mainMenu__item__link">ПРОДАТЬ</a></li>
+                <li class="mainMenu__item "><a href="/ru/news" class="mainMenu__item__link">Новости</a></li>
+                <li class="mainMenu__item "><a href="/ru/faq" class="mainMenu__item__link">FAQ</a></li>
+                <li class="mainMenu__item "><a href="/ru/contacts" class="mainMenu__item__link">Поддержка</a></li>
+            </ul>
+
+
+            <button class="mainMenuLink hamburger hamburger--slider" type="button">
+            <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+
+            </span>
+            </button>
+
+
+        </div>
+
+        <div class="status">
+            <div class="status__links">
+                <a href="/ru/sign_in" class="inline-block add24right">Вход</a>
+                <a href="/ru/sign_up" class="inline-block">Присоединиться</a>
+            </div>
+            <a href="#" class="status__dots mdi mdi-dots-vertical"></a>
+
+            
+
+            <span class="dropdownLink"><a href="#" class="status__lang" style="background-image: url(/application/views/site/img/flag/ru.png)" dropdown-id="languagesPopupMenu"></a></span>
+
+
+
+
+
+
+            <ul id="languagesPopupMenu" class="languagesPopupMenu" style="display:none;">
+
+                                    <li class=""><a href="//btcbit.net/?referal=1737" class="status__lang" style="background-image: url(/application/views/site/img/flag/uk.png)" ></a></li>
+                                    <li class=""><a href="//btcbit.net/ru/?referal=1737" class="status__lang" style="background-image: url(/application/views/site/img/flag/ru.png)" ></a></li>
+                
+
+            </ul>
+        </div>
+
+    </header>
+
+    <div class="mobileMenuWrapper">
+        <ul class="mobileMenu">
+
+
+                                                            <li class="mainMenu__item "><a href="/ru/buy" class="mainMenu__item__link">КУПИТЬ</a></li>
+                                                            <li class="mainMenu__item "><a href="/ru/sell" class="mainMenu__item__link">ПРОДАТЬ</a></li>
+                                                            <li class="mainMenu__item "><a href="/ru/news" class="mainMenu__item__link">Новости</a></li>
+                                                            <li class="mainMenu__item "><a href="/ru/faq" class="mainMenu__item__link">FAQ</a></li>
+                                                            <li class="mainMenu__item "><a href="/ru/contacts" class="mainMenu__item__link">Поддержка</a></li>
+
+
+            <li class="mainMenu__item"><a href="/ru/sign_in" class="mainMenu__item__link">Вход</a></li>
+            <li class="mainMenu__item">
+                <a href="/ru/sign_up" class="mainMenu__item__link">Присоединиться</a>
+                                    <div class="text-right smaller"><a href="//btcbit.net/?referal=1737"><span class="status__lang status__lang--mobile" style="background-image: url(/application/views/site/img/flag/uk.png);"></span>English</a></div>
+                            </li>
+
+        </ul>
+
+    </div>
+
+<style>
+    input[type="number"] {
+        -moz-appearance: textfield;
+    }
+
+    input[type="number"]:hover,
+    input[type="number"]:focus {
+        -moz-appearance: number-input;
+    }
+
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+</style>
+
+<style>
+
+    .toggle {
+        position: relative;
+        display: block;
+        width: 40px;
+        /* height: 20px; */
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+        transform: translate3d(0, 0, 0);
+    }
+
+    .toggle:before {
+        content: "";
+        position: relative;
+        top: 3px;
+        left: 3px;
+        width: 34px;
+        height: 14px;
+        display: block;
+        background: #9A9999;
+        border-radius: 8px;
+        transition: background 0.2s ease;
+    }
+
+    .toggle span {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 20px;
+        height: 20px;
+        display: block;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 3px 8px rgba(154, 153, 153, 0.5);
+        transition: all 0.2s ease;
+    }
+
+    .toggle span:before {
+        content: "";
+        position: absolute;
+        display: block;
+        margin: -18px;
+        width: 56px;
+        height: 56px;
+        background: rgba(79, 46, 220, 0.5);
+        border-radius: 50%;
+        transform: scale(0);
+        opacity: 1;
+        pointer-events: none;
+    }
+
+    .small {
+        font-size: .85rem;
+    }
+
+    #cbx:checked + .toggle:before {
+        background: #3f80fa7a;
+    }
+
+    #cbx:checked + .toggle span {
+        background: #3f80fa;
+        transform: translateX(20px);
+        transition: all 0.2s cubic-bezier(0.8, 0.4, 0.3, 1.25), background 0.15s ease;
+        box-shadow: 0 3px 8px rgba(63, 128, 250, 0.2);
+    }
+
+    #cbx:checked + .toggle span:before {
+        transform: scale(1);
+        opacity: 0;
+        transition: all 0.4s ease;
+    }
+
+    .center {
+        position: absolute;
+        top: calc(50% - 10px);
+        left: calc(50% - 20px);
+    }
+
+    input[type="number"] {
+        -moz-appearance: textfield;
+    }
+
+    input[type="number"]:hover,
+    input[type="number"]:focus {
+        -moz-appearance: number-input;
+    }
+
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    .blink1 {
+        -webkit-animation: blink1 2s linear infinite;
+        animation: blink1 2s linear infinite;
+    }
+
+    @-webkit-keyframes blink1 {
+        0% {
+            color: rgb(253, 240, 255);
+        }
+        50% {
+            color: rgba(34, 34, 34, 0);
+        }
+        100% {
+            color: rgba(255, 255, 255, 0.84);
+        }
+    }
+
+    @keyframes blink1 {
+        0% {
+            color: rgb(253, 240, 255);
+        }
+        50% {
+            color: rgba(34, 34, 34, 0);
+        }
+        100% {
+            color: rgba(255, 255, 255, 0.84);
+        }
+    }
+
+    .hero {
+        height: 570px;
+    }
+
+
+</style>
+
+<div class="hero">
+    <br><br>
+    <!-- TrustBox widget - Micro TrustScore -->
+    <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b637fa0340045cd0c936"
+         data-businessunit-id="598d867a0000ff0005a8a02c" data-style-height="20px" data-style-width="100%"
+         data-theme="dark">
+        <a href="https://www.trustpilot.com/review/btcbit.net" target="_blank">Trustpilot</a>
+    </div>
+    <br><br>
+    <!-- End TrustBox widget -->
+    <div><img src="/application/views/site/img/btcbit_logo.png" class="hero__logo" alt="BTCBIT big logo"/></div>
+    <h1 class="hero__heading">
+        Купить криптовалюту с банковской карты        <div class="subheader">Моментальная покупка и продажа криптовалюты по низкой комиссии</div>
+    </h1>
+    <br>
+    <h3 class="blink1">Высокие лимиты до 30 000 USD</h3>
+</div>
+<section class="section section--buy-sell" style="padding-top:4px;">
+    <div class="container" id="tab-container">
+        <ul class="tabs tabs--trade">
+            <li class=""><a href="#buy" class="add8inside">Купить</a></li>
+            <li class=""><a href="#sell" class="add8inside">Продать</a></li>
+        </ul>
+        <div id="buy">
+            <form>
+                <input type="hidden" value="1" id="from">
+                <input type="hidden" value="3" id="to">
+                <input type="hidden" value="3" id="from2">
+                <input type="hidden" value="2" id="to2">
+                <input type="hidden" value="0" id="light">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="row middle-xs">
+                            <div class="col-xs-5 add8bottom">
+                                <div class="selectWrapper withIcon">
+
+
+                                    <select id="pay_methods" OnChange="change_trans();" class="form-control extrabold">
+                                                                                    <option value="2">VISA/MasterCard</option>
+                                                                                    <option value="12">Bank transfer <br>(SEPA/SWIFT)</option>
+                                                                                    <option value="22">Payeer</option>
+                                                                                    <option value="10">AdvCash</option>
+                                                                                    <option value="17">Epay</option>
+                                                                            </select>
+
+
+                                    <span id="img_methods"><img class="icon"
+                                                                src="/application/views/site/img/card_icon.png"/></span>
+                                </div>
+                            </div>
+                            <div class="col-xs-7 add8bottom">
+                                <div class="row inputAndSelect">
+                                    <div class="col-xs hasDesciption">
+                                        <input type="number" step="0.01" id="sum" OnInput="change_trans();"
+                                               class="form-control text-right" placeholder="0" value="">
+                                        <span class="description">Потратите</span>
+                                    </div>
+                                    <div class="col selectWrapper">
+                                        <select id="sel_valut"
+                                                OnChange="setvalut($( '#sel_valut' ).val(),$('#sel_valut').children('option:selected').text())"
+                                                class="form-control extrabold">
+
+                                                                                            <option value="1">USD</option>
+                                                                                            <option value="2">EUR</option>
+                                                                                            <option value="7">RUB</option>
+                                                                                            <option value="14">GBP</option>
+                                                                                            <option value="15">UAH</option>
+                                                                                            <option value="20">AMD</option>
+                                                                                            <option value="21">BYN</option>
+                                                                                            <option value="22">KZT</option>
+                                            
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+
+
+                                                    </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="row middle-xs">
+                            <div class="col-xs-12 col-sm-8 add8bottom">
+                                <div class="row inputAndSelect">
+                                    <div class="col-xs hasDesciption">
+                                        <input type="number" disabled id="sum_res" class="form-control text-right"
+                                               placeholder="" value="0">
+                                        <span class="description">К отправке</span>
+                                    </div>
+                                    <div class="col selectWrapper">
+                                        <select id="sel_crypto"
+                                                OnChange="setvalut2($( '#sel_crypto' ).val(),$('#sel_crypto').children('option:selected').text())"
+                                                class="form-control extrabold">
+                                                                                            <option value="3">BTC</option>
+                                                                                            <option value="4">ETH</option>
+                                                                                            <option value="5">LTC</option>
+                                                                                            <option value="6">XRP</option>
+                                                                                            <option value="8">BCH</option>
+                                                                                            <option value="10">DASH</option>
+                                                                                            <option value="12">ETC</option>
+                                                                                            <option value="13">ZEC</option>
+                                                                                            <option value="18">ADA</option>
+                                                                                            <option value="19">XLM</option>
+                                            
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 add8bottom">
+                                <a href="/ru/sign_in"
+                                   class="btn btn-primary btn-block extrabold">Обмен</a>
+
+                            </div>
+
+                        </div>
+                        <div>
+                            <div class="small white opacity5 note--get">
+                <span>Мин&nbsp;<val id="min_lim">50</val>&nbsp;  <val
+                            class="valut1">USD</val> - Макс                    <val id="limit">10000</val>&nbsp;  <val class="valut1">USD</val> Наш резерв <span
+                            id="reserv"></span>&nbsp;<val class="valut2">BTC</val></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="sell" style="display:none;">
+            <form>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="row middle-xs">
+                            <div class="col-xs-5 add8bottom">
+                                <div class="selectWrapper withIcon">
+                                    <select id="pay_methods2" OnChange="change_method();"
+                                            class="form-control extrabold">
+                                                                                    <option value="16">SEPA</option>
+                                                                                    <option value="24">Perfect Money</option>
+                                                                                    <option value="26">AdvCash</option>
+                                                                                    <option value="27">VISA/MasterCard</option>
+                                        
+                                    </select>
+                                    <span id="img_methods2"><img class="icon"
+                                                                 src="/application/views/site/img/sepa_icon.png"/></span>
+                                </div>
+                            </div>
+                            <div class="col-xs-7 add8bottom">
+                                <div class="row inputAndSelect">
+                                    <div class="col-xs hasDesciption">
+                                        <input type="number" step="0.001" class="form-control text-right"
+                                               OnChange="change_trans2();" OnClick="change_trans2();" id="sum2"
+                                               placeholder="0" value="">
+                                        <span class="description">Потратите</span>
+                                    </div>
+                                    <div class="col selectWrapper">
+                                        <select id="sel_valut2"
+                                                OnChange="setvalut22($( '#sel_valut2' ).val(),$('#sel_valut2').children('option:selected').text())"
+                                                class="form-control extrabold">
+
+                                                                                            <option value="3">BTC</option>
+                                                                                            <option value="4">ETH</option>
+                                                                                            <option value="5">LTC</option>
+                                                                                            <option value="6">XRP</option>
+                                                                                            <option value="8">BCH</option>
+                                                                                            <option value="10">DASH</option>
+                                                                                            <option value="12">ETC</option>
+                                                                                            <option value="13">ZEC</option>
+                                            
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+
+
+                            <div id="light_show">
+
+                                <div class="row white opacity5 note--trade2">
+                                    <div class="col-sm-5"></div>
+                                    <div class="light smaller col-xs-2 col-sm-1">
+                                        <input type="checkbox" id="cbx" style="display:none"/>
+                                        <label for="cbx" class="toggle"><span></span></label>
+                                    </div>
+
+                                    <div class="col-xs-5 col-sm-4 small">
+
+                                        &nbsp;&nbsp;Lightning <i class="mdi mdi-flash add48right"
+                                                                 style="color: rgb(243, 156, 18);"></i></div>
+                                    <div class="col-xs-3 col-sm-2 small white text-right">
+                                                                                    <a href="https://btcbit.net/ru/news/laitning-netvork" target="_blank">Что
+                                                это?</a>
+                                                                            </div>
+                                </div>
+                            </div>
+
+
+                                                    </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="row middle-xs">
+                            <div class="col-xs-12 col-sm-8 add8bottom">
+                                <div class="row inputAndSelect">
+                                    <div class="col-xs hasDesciption">
+                                        <input type="number" disabled id="sum_res2" class="form-control text-right"
+                                               placeholder="" value="0">
+                                        <span class="description">К отправке</span>
+                                    </div>
+                                    <div class="col selectWrapper">
+                                        <select id="sel_valut3"
+                                                OnChange="setvalut21($( '#sel_valut3' ).val(),$('#sel_valut3').children('option:selected').text())"
+                                                class="form-control extrabold">
+                                                                                            <option value="1">USD</option>
+                                                                                            <option value="2">EUR</option>
+                                            
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4 add8bottom">
+                                <a href="/ru/sign_in"
+                                   class="btn btn-primary btn-block extrabold">Обмен</a>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="small white opacity5 note--get2">
+                            <span>Мин&nbsp <span id="sum_min2">0.011</span> <val
+                                        class="valut21">BTC</val> - Макс <span id="sum_max2">2</span> <val
+                                        class="valut21">BTC</val> Наш резерв <span
+                                        id="reserv_btc2">19</span> <val class="valut21">BTC</val></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<script>
+
+
+    setInterval(function () {
+
+        if ($('#sum').val() > 0) {
+            change_trans();
+            change_trans2();
+        }
+
+    }, 5000); // 1000 м.сек
+
+
+    $(function () {
+        $('#cbx').on('change', function () {
+            if ($('#cbx').prop('checked')) {
+                $('#light').val(1);
+                change_trans2();
+            } else {
+                $('#light').val(0);
+                change_trans2();
+            }
+        });
+    });
+
+
+    function change_method() {
+
+        if ($('#pay_methods2').val() == 16) {
+            $('#img_methods2').html('<img class="icon" src="/application/views/site/img/sepa_icon.png"/>');
+
+            //      $('#light_show').show();
+
+        }
+
+        if ($('#pay_methods2').val() == 24) {
+            $('#img_methods2').html('<img class="icon" src="/application/views/site/img/perfect_icon.png"/>');
+
+
+            //       $('#light').val(0);
+            //      $('#light_show').hide();
+            //       $("#cbx").removeAttr('checked');
+        }
+
+        if ($('#pay_methods2').val() == 26) {
+            $('#img_methods2').html('<img class="icon" src="/application/views/site/img/adv_icon.png"/>');
+
+
+            //       $('#light').val(0);
+            //      $('#light_show').hide();
+            //       $("#cbx").removeAttr('checked');
+        }
+
+        if ($('#pay_methods2').val() == 27) {
+            $('#img_methods2').html('<img class="icon" src="/application/views/site/img/card_icon.png"/>');
+
+        }
+
+        change_trans2();
+
+
+    }
+
+
+    function change_trans() {
+
+        if ($('#pay_methods').val() == 2) {
+
+
+            $('#img_methods').html('<img class="icon" src="/application/views/site/img/card_icon.png"/>');
+
+
+        }
+
+        if ($('#pay_methods').val() == 12) {
+
+
+            $('#img_methods').html('<img class="icon" src="/application/views/site/img/sepa_icon.png"/>');
+
+
+        }
+
+        if ($('#pay_methods').val() == 17) {
+
+
+            $('#img_methods').html('<img class="icon" src="/application/views/site/img/epay1_icon.png"/>');
+
+
+        }
+        if ($('#pay_methods').val() == 10) {
+
+
+            $('#img_methods').html('<img class="icon" src="/application/views/site/img/adv_icon.png"/>');
+
+
+        }
+        if ($('#pay_methods').val() == 22) {
+
+
+            $('#img_methods').html('<img class="icon" src="/application/views/site/img/payeer_icon.png"/>');
+
+
+        }
+        if ($('#pay_methods').val() == 23) {
+
+
+            $('#img_methods').html('<img class="icon" src="/application/views/site/img/perfect_icon.png"/>');
+
+
+        }
+
+        $.ajax({
+            type: "GET",
+            url: '/ajax/change_trans' + '?from=' + $('#from').val() + '&to=' + $('#to').val() + '&pay_methods=' + $('#pay_methods').val() + '&sum=' + $('#sum').val(),
+            dataType: 'json',
+            cache: false,
+            contentType: false,
+            processData: false,
+
+            success: function (data) {
+                $('#sum_res').val(data.sum_res.toFixed(5));
+                $('#sum_in').val(data.sum);
+                $('#pay_methods_com').html(data.pay_methods_com);
+                $('#valut_com').html(data.valut_com);
+                $('#metod1').html(data.metod_name);
+
+                $('#limit').html(data.metod_limit);
+                if ($('#from').val() == 7) {
+                    $('#limit').html(730000);
+                } else if ($('#from').val() == 15) {
+                    $('#limit').html(320000);
+                } else if ($('#from').val() == 20) {
+                    $('#limit').html(5500000);
+                } else if ($('#from').val() == 21) {
+                    $('#limit').html(32000);
+                } else if ($('#from').val() == 22) {
+                    $('#limit').html(4200000);
+                } else if ($('#from').val() == 14) {
+                    $('#limit').html(8800);
+                }
+
+
+                $('#reserv').html(data.reserv);
+// console.log(data);
+            }
+        });
+    }
+
+    function setvalut(id, name) {
+        $('.valut1').html(name);
+        $('#from').val(id);
+        change_trans();
+        if ($('#from').val() == 7) {
+            $('#min_lim').html(4000);
+        } else if ($('#from').val() == 15) {
+            $('#min_lim').html(1800);
+        } else if ($('#from').val() == 20) {
+            $('#min_lim').html(28000);
+        } else if ($('#from').val() == 21) {
+            $('#min_lim').html(125);
+        } else if ($('#from').val() == 22) {
+            $('#min_lim').html(21400);
+        } else {
+            $('#min_lim').html(50);
+        }
+    }
+
+    function setvalut2(id, name) {
+        $('#to').val(id);
+        $('.valut2').html(name);
+        change_trans();
+    }
+
+    function initcalc() {
+        buy = 1;
+        valut = 3;
+        idi = 1;
+        $('#sel_valut3').val(2).change();
+        change_trans();
+
+
+    }
+
+    function setvalut21(id, name) {
+        $('.valut22').html(name);
+        $('#to2').val(id);
+        change_trans2();
+    }
+
+    function setvalut22(id, name) {
+        $('.valut21').html(name);
+        $('#from2').val(id);
+        change_trans2();
+        if ($('#from2').val() > 3) {
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+
+        } else {
+
+            $('#light_show').show();
+
+        }
+    }
+
+    function change_trans2(type = 0) {
+
+        var cryp_cash = $('#sel_valut2').val();
+        if (cryp_cash == 3) {
+
+
+            $('#crypto_text').show();
+            $('#light_show').show();
+        }
+        if (cryp_cash == 4) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 5) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 6) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 8) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 10) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 12) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 13) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 18) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+        if (cryp_cash == 19) {
+
+            $('#light').val(0);
+            $('#light_show').hide();
+            $("#cbx").removeAttr('checked');
+        }
+
+
+        $.ajax({
+            type: "GET",
+            url: '/ajax/change_trans_btc' + '?from=' + $('#from2').val() + '&to=' + $('#to2').val() + '&pay_methods=' + $('#pay_methods2').val() + '&sum=' + $('#sum2').val() + '&light=' + $('#light').val(),
+            dataType: 'json',
+            cache: false,
+            contentType: false,
+            processData: false,
+
+            success: function (data) {
+                if (type == 0) $('#sum_res2').val(data.sum_res.toFixed(2));
+                $('#sum_in2').val(data.sum);
+                $('#pay_methods_com2').html(data.pay_methods_com);
+                $('#valut_com2').html(data.valut_com);
+                //$('#sum_min2').val(data.sum_min.toFixed(5));
+                //$('#sum_max2').val(data.sum_max.toFixed(5));
+                document.getElementById("sum_min2").innerHTML = (data.sum_min.toFixed(5));
+                document.getElementById("sum_max2").innerHTML = (data.sum_max.toFixed(5));
+                document.getElementById("reserv_btc2").innerHTML = (data.reserv_btc);
+                // $('#reserv_btc2').val(data.reserv_btc);
+                $('#metod2').html(data.metod_name);
+                $('#sum_res_nocom2').val(data.sum_res_nocom);
+
+
+                // console.log(data);
+            }
+        });
+    }
+
+
+    setTimeout(initcalc, 500);
+    // setTimeout(change_trans2,3000);
+    // setTimeout(change_trans,1000);
+
+
+    //   setInterval(function(){
+
+
+    //            ajax('valut_rates','type=1','#valut_rates');
+
+
+    //    }, 5000);
+
+    window.onload = function () {
+        ajax('valut_rates', 'type=1', '#valut_rates');
+
+    }
+
+
+</script>
+
+
+<section class="section section--prices">
+
+    <marquee behavior="scroll" scrollamount="4" direction="left">
+        <ul>
+            <li id="valut_rates">&nbsp;</li>
+        </ul>
+    </marquee>
+</section>
+
+<main class="main">
+    <section class="section section--howItWorks">
+        <div class="container">
+            <h3 class="text-center add24top add24bottom" style="min-width: 290px;">
+                <strong>Как начать?</strong></h3>
+            <div class="row text-center">
+                <div class="col-xs-12 col-sm-4 add24inside">
+                    <div class="column">
+                        <div class="column__content">
+                            <div class="add8bottom"><img src="/application/views/site/img/icon_1.png" class="icon"/></div>
+                            <div class="add8bottom"><strong class="bigger">1. Регистрация</strong>
+                            </div>
+                            <div class="opacity75">Личные данные зашифрованы и хранятся на защищённых серверах </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 add24inside">
+                    <div class="column">
+                        <div class="column__content">
+                            <div class="add8bottom"><img src="/application/views/site/img/icon_2.png" class="icon"/></div>
+                            <div class="add8bottom"><strong
+                                        class="bigger add8bottom">2. Верификация</strong></div>
+                            <div class="opacity75">Завершите процесс верификации, чтобы начать делать платежи – исправить</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 add24inside">
+                    <div class="column">
+                        <div class="column__content">
+                            <div class="add8bottom"><img src="/application/views/site/img/icon_3.png" class="icon"/></div>
+                            <div class="add8bottom"><strong class="bigger add8bottom">3. Покупка</strong>
+                            </div>
+                            <div class="opacity75">Выберите нужную валюту и укажите сумму, которую вы хотите обменять</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="add24inside text-center">
+                <span class="strong">Начни покупать и продавать криптовалюту сегодня!</span>
+                <div class="add8top"><a class="btn btn-primary"
+                                        href="/ru/sign_up">Создать аккаунт</a></div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section section--ourAdvantages">
+        <div class="container">
+            <div class="row text-center">
+
+                <div class="col-xs-12 col-sm-6 add24inside add8bottom hidden-xs-up">
+                    <div class="add24bottom">
+                        <h3 class="text-center"><strong>Почему мы?</strong></h3>
+                    </div>
+                    <img src="/application/views/site/img/devices.png"/>
+                </div>
+                <div class="row hidden-xs-up">
+                    <div class="advantage col-xs-6">
+                        <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                        <div class="strong add4bottom">ОБМЕН</div>
+                        <div class="lighter">Instant purchase and sale of crypto currency</div>
+                    </div>
+
+                    <div class="advantage col-xs-6">
+                        <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                        <div class="strong add4bottom">БЕЗОПАСНОЕ ХРАНЕНИЕ</div>
+                        <div class="lighter">100% защита данных</div>
+                    </div>
+
+                    <div class="advantage col-xs-6">
+                        <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                        <div class="strong add4bottom">ПАРТНЁРСКАЯ ПРОГРАММА</div>
+                        <div class="lighter">Income to 25% with each exchange</div>
+                    </div>
+                    <div class="advantage col-xs-6">
+                        <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                        <div class="strong add4bottom">MOBILE ADAPTABILITY</div>
+                        <div class="lighter">Website is fully adapted for mobile devices</div>
+                    </div>
+                    <div class="advantage col-xs-6">
+                        <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                        <div class="strong add4bottom">МОНИТОРИНГ</div>
+                        <div class="lighter">Instant monitoring cryptocurrency course on the market</div>
+                    </div>
+                    <div class="advantage col-xs-6">
+                        <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                        <div class="strong add4bottom">DDOS ЗАЩИТА</div>
+                        <div class="lighter">Installed modern defense against DDoS attacks</div>
+                    </div>
+
+                </div>
+
+                <div class="row hidden-xs">
+                    <div class="col-xs-12 col-sm-3 add24inside">
+                        <div class="advantage">
+                            <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                            <div class="strong add4bottom">МОБИЛЬНАЯ АДАПТИВНОСТЬ</div>
+                            <div class="lighter">Используйте планшет или смартфон для быстрой покупки или продажи криптовалюты</div>
+                        </div>
+                        <div class="advantage">
+                            <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                            <div class="strong add4bottom">МОНИТОРИНГ</div>
+                            <div class="lighter">Мгновенный мониторинг курса криптовалюты на рынке</div>
+                        </div>
+                        <div class="advantage">
+                            <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                            <div class="strong add4bottom">DDOS ЗАЩИТА</div>
+                            <div class="lighter">Установлена современная защита от DDoS атак</div>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 add24inside">
+                        <div class="add24bottom">
+                            <h3 class="text-center"><strong>Почему мы?</strong></h3>
+
+                        </div>
+                        <img src="/application/views/site/img/devices.png"/>
+                    </div>
+                    <div class="col-xs-12 col-sm-3 add24inside">
+                        <div class="advantage">
+                            <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                            <div class="strong add4bottom">ОБМЕН</div>
+                            <div class="lighter">Моментальная покупка и продажа криптовалюты с низкой комиссией </div>
+                        </div>
+
+                        <div class="advantage">
+                            <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                            <div class="strong add4bottom">БЕЗОПАСНОЕ ХРАНЕНИЕ</div>
+                            <div class="lighter">100% защита данных</div>
+                        </div>
+
+                        <div class="advantage">
+                            <img src="/application/views/site/img/check_icon.png" class="icon"/>
+                            <div class="strong add4bottom">ПАРТНЕРСКАЯ ПРОГРАММА</div>
+                            <div class="lighter">Доход до 25% с каждого обмена</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section--faq">
+        <div class="container">
+            <h3 class="text-center add24bottom add40top"><strong>FAQ</strong></h3>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6">
+                    <div class="row add24bottom">
+                        <div class="col">
+                            <img src="/application/views/site/img/info_icon.png" class="icon add8right"/>
+                        </div>
+                        <div class="col-xs">
+                            <div class="strong bigger add8bottom">Могу ли я использовать карту Maestro/Visa Electron?</div>
+                            <div class="lighter smaller">Да, обменный сервис BTCBIT.NET принимает данные карты</div>
+                        </div>
+                    </div>
+
+                    <div class="row add24bottom">
+                        <div class="col">
+                            <img src="/application/views/site/img/info_icon.png" class="icon add8right"/>
+                        </div>
+                        <div class="col-xs">
+                            <div class="strong bigger add8bottom">Как мне дополнительно обезопасить свой профиль? </div>
+                            <div class="lighter smaller">Придумайте сложный пароль, состоящий из букв, символов и цифр. Вы также можете включить двухфакторную аутентификацию в настройках вашего профиля.</div>
+                        </div>
+                    </div>
+
+                    <div class="row add24bottom">
+                        <div class="col">
+                            <img src="/application/views/site/img/info_icon.png" class="icon add8right"/>
+                        </div>
+                        <div class="col-xs">
+                            <div class="strong bigger add8bottom">Что такое SEPA? </div>
+                            <div class="lighter smaller">
+                                (Single Euro Payments Area, "единая зона платежей в евро") — зона, в которой полностью ликвидированы различия между внутренними и международными платежами в валюте евро. Пользователи могут совершать транзакции в евро, используя единый набор платежных данных.                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="row add24bottom">
+                        <div class="col">
+                            <img src="/application/views/site/img/info_icon.png" class="icon add8right"/>
+                        </div>
+                        <div class="col-xs">
+                            <div class="strong bigger add8bottom">Зачем Вам мои данные? </div>
+                            <div class="lighter smaller">Обменный сервис BTCBIT.NET следует международным принципам и правилам по борьбе с отмыванием денег, так же как банки и финансовые учреждения. </div>
+                        </div>
+                    </div>
+
+                    <div class="row add24bottom">
+                        <div class="col">
+                            <img src="/application/views/site/img/info_icon.png" class="icon add8right"/>
+                        </div>
+                        <div class="col-xs">
+                            <div class="strong bigger add8bottom">В какое время я могу произвести обмен? </div>
+                            <div class="lighter smaller">Вы можете подать заявку на совершение обмена в любое удобное для Вас время. Обработка заявок происходит круглосуточно.  </div>
+                        </div>
+                    </div>
+
+                    <div class="row add24bottom">
+                        <div class="col">
+                            <img src="/application/views/site/img/info_icon.png" class="icon add8right"/>
+                        </div>
+                        <div class="col-xs">
+                            <div class="strong bigger add8bottom">Сколько времени занимает верификация? </div>
+                            <div class="lighter smaller">
+                                Процесс верификации занимает не более 15 минут, но в некоторых случаях может занять до 12 часов.                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="whiteBg add24inside">
+        <div class="text-center">
+            <div class="logo__box" style="margin-top: -68px;"><img class="logo__image at-center"
+                                                                   src="/application/views/site/img/btcbit_logo.png"/></div>
+        </div>
+        <section class="section section--about">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <h3 class="text-center add32bottom add16top"><strong>О BTCBIT</strong>
+                        </h3>
+                        <p class="lighter text-justify">BTCBIT.NET - это качественный и надежный обменник криптовалют, базирующийся в Польше, с операционными офисами в Латвии и Эстонии. Наша компания предоставляет безопасную платформу для покупки и продажи разных криптовалют, в том числе Bitcoin, Ethereum, Litecoin, XRP, Dash, Bitcoin Cash, Ethereum Classic и Zcash. Мы предлагаем нашим клиентам высоконадежный сервис по обмену криптовалют с использованием передовых технологий. Преимущества нашего сервиса заключаются как в безопасности, так и в мобильной адаптивности нашего сайта, позволяюшей быстро и легко совершать обмены на смартфоне или планшете.  </p>
+                        <p class="lighter text-justify">BTCBIT.NET - это быстрый обмен, надежная защита данных и удобный интерфейс для совершения транзакций. Также на нашем сайте размещен трекер всех предлагаемых нами криптовалют в реальном времени. Присоединяясь к нашей реферальной программе, вы сможете заработать на каждом обмене, совершенном при переходе по вашей реферальной ссылке.</p>
+                        <a href="/ru/about-us">Ещё <span
+                                    class="mdi mdi-arrow-right add8left"></span></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+        <section class="section section--lastest">
+        <div class="container">
+            <div class="row add40top ">
+
+                <div class="col-xs-12 col-sm-6">
+                    <h5>Последние транзакции</h5>
+                    <div class="panel add16top card-body-flex">
+                        <table class="table no-border table--zebra small" style="/*height: 330px;*/">
+                            <thead>
+                            <tr>
+                                <th>Время</th>
+                                <th>Отдано</th>
+                                <th>Получено</th>
+                                <th>Сумма</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr><td>16 минут назад</td><td class="addArrowRight"><a href="/buy-ethereum-with-credit-card" target="_blank">VISA / MasterCard</a></td><td>Ethereum</td><td>$130</td></tr><tr><td>42 минут назад</td><td class="addArrowRight"><a href="/buy-bitcoin-with-credit-card" target="_blank">VISA / MasterCard</a></td><td>Bitcoin</td><td>$2800</td></tr><tr><td>52 минут назад</td><td class="addArrowRight"><a href="/buy-litecoin-with-credit-card" target="_blank">VISA / MasterCard</a></td><td>Litecoin</td><td>€700</td></tr><tr><td>80 минут назад</td><td class="addArrowRight"><a href="/buy-xrp-with-credit-card" target="_blank">VISA / MasterCard</a></td><td>XRP</td><td>$260</td></tr><tr><td>101 минут назад</td><td class="addArrowRight"><a href="/buy-bitcoin-with-credit-card" target="_blank">VISA / MasterCard</a></td><td>Bitcoin</td><td>$100</td></tr><tr><td>107 минут назад</td><td class="addArrowRight"><a href="/buy-bitcoin-with-credit-card" target="_blank">VISA / MasterCard</a></td><td>Bitcoin</td><td>$6500</td></tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <h5>Последние новости</h5>
+                    <div class="panel add16top card-body-flex">
+                        <table class="table table--news no-border small" style="/*height: 330px;*/">
+                            <tbody>
+                                                            <tr>
+                                    <td>
+                                        <div class="news__thumb news__thumb--small"><a
+                                                    href="/ru/news/fondovaya-birzha-tailanda-zapustit-platformu-tsifrovykh-aktivov-v-2020-godu"
+                                                    style="background-image: url(/upload/country/3e9abb6107bedb56f5920f052ca79c02.jpg)"></a>
+                                        </div>
+
+                                    </td>
+                                    <td class="">
+                                        <a href="/ru/news/fondovaya-birzha-tailanda-zapustit-platformu-tsifrovykh-aktivov-v-2020-godu">Фондовая биржа Таиланда запустит платформу цифровых активов в 2020 году</a>
+                                        <div class="light text-truncate">Фондовая биржа Таиланда (SET) подтвердила создание платформы криптоактивов, которую она планирует запустить в следующем году.</div>
+                                    </td>
+                                </tr>
+
+
+                                                            <tr>
+                                    <td>
+                                        <div class="news__thumb news__thumb--small"><a
+                                                    href="/ru/news/Milliarder-alan-khovard-sozdast-kriptovalyutnuyu-platformu-dlya-institutsionalnykh-investorov"
+                                                    style="background-image: url(/upload/country/8baa919f73525122a3ca63f116bab279.jpg)"></a>
+                                        </div>
+
+                                    </td>
+                                    <td class="">
+                                        <a href="/ru/news/Milliarder-alan-khovard-sozdast-kriptovalyutnuyu-platformu-dlya-institutsionalnykh-investorov">Миллиардер Алан Ховард создаст криптовалютную платформу для институциональных инвесторов</a>
+                                        <div class="light text-truncate">Компания Elwood Asset Management, принадлежащая миллиардеру Алану Ховарду (Alan Howard), планирует привлечь институциональных инвесторов в сферу криптоактивов.</div>
+                                    </td>
+                                </tr>
+
+
+                                                            <tr>
+                                    <td>
+                                        <div class="news__thumb news__thumb--small"><a
+                                                    href="/ru/news/alibaba-zapustila-dve-dochernie-blokcheyn-kompanii"
+                                                    style="background-image: url(/upload/country/0f10e0ea5371c51b88ffd498c8a4516f.jpg)"></a>
+                                        </div>
+
+                                    </td>
+                                    <td class="">
+                                        <a href="/ru/news/alibaba-zapustila-dve-dochernie-blokcheyn-kompanii">Alibaba запустила две дочерние блокчейн-компании</a>
+                                        <div class="light text-truncate">Alibaba объявила об открытии двух дочерних блокчейн-компаний.</div>
+                                    </td>
+                                </tr>
+
+
+                                                            <tr>
+                                    <td>
+                                        <div class="news__thumb news__thumb--small"><a
+                                                    href="/ru/news/shveytsarskaya-fondovaya-birzha-six-mozhet-otkryt-torgovlyu-etp-na-xrp-cherez-2-mesyatsa"
+                                                    style="background-image: url(/upload/country/c5a233a1cc8ed65bf7f64c60ecee4a30.jpg)"></a>
+                                        </div>
+
+                                    </td>
+                                    <td class="">
+                                        <a href="/ru/news/shveytsarskaya-fondovaya-birzha-six-mozhet-otkryt-torgovlyu-etp-na-xrp-cherez-2-mesyatsa">Швейцарская фондовая биржа SIX может открыть торговлю ETP на XRP через 2 месяца</a>
+                                        <div class="light text-truncate">Швейцарская фондовая биржа (SIX) планирует вскоре добавить в листинг еще один криптовалютный ETP, основанный на цене XRP.</div>
+                                    </td>
+                                </tr>
+
+
+                                                            <tr>
+                                    <td>
+                                        <div class="news__thumb news__thumb--small"><a
+                                                    href="/ru/news/Bittorrent-zapustit-programmu-loyalnosti-dlya-prodvizheniya-tokena-btt"
+                                                    style="background-image: url(/upload/country/b66185278c74551ec959338f88efd636.jpg)"></a>
+                                        </div>
+
+                                    </td>
+                                    <td class="">
+                                        <a href="/ru/news/Bittorrent-zapustit-programmu-loyalnosti-dlya-prodvizheniya-tokena-btt">BitTorrent запустит программу лояльности для продвижения токена BTT</a>
+                                        <div class="light text-truncate">Руководители BitTorrent планируют стимулировать пользователей своей файлообменной сети, которая насчитывает более миллиарда человек, использовать токен BTT.</div>
+                                    </td>
+                                </tr>
+
+
+                            
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section section--feedback whiteBg">
+        <div class="container add32top add16bottom">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h5>Отзывы пользователей</h5>
+                    <iframe
+                            src="https://widget.trustpilot.com/trustboxes/54ad5defc6454f065c28af8b/index.html?templateId=54ad5defc6454f065c28af8b&businessunitId=598d867a0000ff0005a8a02c#locale=en-US&styleHeight=220px&styleWidth=100%25&theme=light&stars=4%2C5"
+                            style="min-height: 200px"
+                    ></iframe>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+<script>
+    $(document).ready(function () {
+        $('.row').each(function () {
+            var highestBox = 0;
+            $('.card-body-flex', this).each(function () {
+                if ($(this).height() > highestBox) {
+                    highestBox = $(this).height();
+                }
+            });
+            $('.card-body-flex', this).height(highestBox);
+        });
+    });
+</script>
+<script>
+    function goBack() {
+        window.history.back();
+    }
+</script>
+
+<footer class="footer">
+    <div class="footer__logos">
+        <div class="container">
+            <a class="footer__logo"><img src="/application/views/site/img/logo/bl_1.png" alt="logo, cryptocurrency, png, buy, bitcoin, bicoincash, btc, bch, lightning"/></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/bitcoincash.png" alt="logo, cryptocurrency, png, buy, bitcoin, bicoincash, btc, bch"/></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/ethereum.png" alt="logo, cryptocurrency, png, buy, ehtereum, eth"/></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/bitcoin.png" alt="logo, cryptocurrency, png, buy, bitcoin, bicoincash, btc, bch"/></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/litecoin.png" alt="logo, cryptocurrency, png, buy, litecoin, ltc"/></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/xrp.png" alt="logo, cryptocurrency, png, buy, xrp, ripple" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/dash.png" alt="logo, cryptocurrency, png, buy, dash" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/ethc.png" alt="logo, cryptocurrency, png, buy, ethereum, ethereum classic, etc" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/zcash.png" alt="logo, cryptocurrency, png, buy, zcash, zec" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/stellar_1.png" alt="logo, cryptocurrency, png, buy, stellar, xlm, lumen" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/cardano_1.png" alt="logo, cryptocurrency, png, buy, cardano, ada," /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/sepa.png" alt="logo, cryptocurrency, png, buy, sepa, transfer" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/swift.png" alt="logo, cryptocurrency, png, buy, swift, bank, transfer" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/visa.png" alt="logo, cryptocurrency, png, buy, visa, bank" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/mastercard.png" alt="logo, cryptocurrency, png, buy, mastercard, bank card" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/adv_1.png" alt="logo, cryptocurrency, png, buy, adv, advcash" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/pm_1.png" alt="logo, cryptocurrency, png, buy, pm, perfectmoney" /></a>
+            <a class="footer__logo"><img src="/application/views/site/img/logo/pa_1.png" alt="logo, cryptocurrency, png, buy, payeer" /></a>
+        </div>
+    </div>
+    <div class="footer__main add24left add24right">
+        <div class="container">
+            <div class="row center-xs add32bottom footer__main__links">
+                <div class="col-xs-5  col-sm-4 col-md-2 col-lg-2">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">Компания</li>
+                        <li><a href="/ru/about-us">О нас</a></li>
+                        <li><a href="/ru/contacts">Поддержка</a></li>
+                        <li><a href="/ru/news">Новости</a></li>
+                        <li><a href="/ru/about-us#feedback">Отзывы</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-5  col-sm-4 col-md-2 col-lg-2">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">Контакты</li>
+                        <li><a href="tel:0037166090222"><small>Телефон</small>+371 66 090 222</a></li>
+                        <li><a href="mailto:info@btcbit.net"><small>Электронная почта</small>info@btcbit.net</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-5  col-sm-4 col-md-2 col-lg-2">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">Мой профиль</li>
+                        <li><a href="/ru/sign_in">Вход</a></li>
+                        <li><a href="/ru/sign_up">Присоединиться</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-5  col-sm-4 col-md-2 col-lg-2">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">Информация</li>
+                        <li><a href="/ru/faq">FAQ</a></li>
+                        <li><a href="/ru/terms">Пользовательское соглашение</a></li>
+                        <li><a href="/ru/aml-policy">Политика AML</a></li>
+                        <li><a href="/ru/refund-policy">Политика Возвратов</a></li>
+                        <li><a href="/ru/privacy-policy">Политика конфиденциальности </a></li>
+                        <li><a href="/ru/processing-of-personal-data">GDPR</a></li>
+                        <li><a href="/ru/licenses">Лицензии</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-5  col-sm-4 col-md-2 col-lg-2">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">КУПИТЬ</li>
+                        <li><a href="/ru/buy-bitcoin-btc-with-credit-card">Bitcoin</a></li>
+                        <li><a href="/ru/buy-xrp-with-credit-card">XRP</a></li>
+                        <li><a href="/ru/buy-ethereum-eth-with-credit-card">Ethereum</a></li>
+                        <li><a href="/ru/buy-litecoin-ltc-with-credit-card">Litecoin</a></li>
+                        <li><a href="/ru/buy-bitcoin-cash-bch-with-credit-card">Bitcoin Cash</a></li>
+                        <li><a href="/ru/buy-dash-with-credit-card">Dash</a></li>
+                        <li><a href="/ru/buy-zcash-zec-with-credit-card">Zcash</a></li>
+                        <li><a href="/ru/buy-ethereum-classic-etc-with-credit-card">Ethereum Classic</a></li>
+                        <li><a href="/ru/buy-cardano-ada-with-credit-card">Cardano</a></li>
+                        <li><a href="/ru/buy-stellar-lumen-xlm-with-credit-card">Stellar/Lumen</a></li>
+                    </ul>
+                </div>
+                <div class="col-xs-5  col-sm-4 col-md-2 col-lg-2">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">ПРОДАТЬ</li>
+                        <li><a href="/ru/sell-bitcoin">Bitcoin</a></li>
+                        <li><a href="/ru/sell-xrp">XRP</a></li>
+                        <li><a href="/ru/sell-ethereum">Ethereum</a></li>
+                        <li><a href="/ru/sell-litecoin">Litecoin</a></li>
+                        <li><a href="/ru/sell-bitcoin-cash">Bitcoin Cash</a></li>
+                        <li><a href="/ru/sell-dash">Dash</a></li>
+                        <li><a href="/ru/sell-zcash">Zcash</a></li>
+                        <li><a href="/ru/sell-ethereum-classic">Ethereum Classic</a></li>
+                        <li><a href="/ru/sell-cardano">Cardano</a></li>
+                        <li><a href="/ru/sell-stellar-lumen">Stellar/Lumen</a></li>
+                    </ul>
+                </div>
+            </div>
+            <hr class="add24bottom" />
+            <div class="row center-xs at-center" style="width: 91%">
+                <div class="col-xs-12 footer__logoAndSocial">
+                    <div class="text-center">
+                        <div><img src="/application/views/site/img/btcbit_logo_full.png" alt="logo, cryptocurrency, png, buy, sell, crypto, bitcoin, ethereum, altcoins, xrp, zcash, dash, exchange, btcbit"/></div>
+                        <div class="footer__social">
+                            <a class="mdi mdi-facebook" href="https://www.facebook.com/btcbitnet/" target="_blank"></a>
+                            <a class="mdi mdi-twitter" href="https://twitter.com/btcbitnet" target="_blank"></a>
+                            <a class="mdi mdi-instagram" href="https://www.instagram.com/btcbitnet/" target="_blank"></a>
+                            <a class="mdi mdi-linkedin" href="https://www.linkedin.com/company/btcbit/" target="_blank"></a>
+                            <a class="mdi mdi-vk" href="https://vk.com/btcbitnet" target="_blank"></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-6">
+                    <ul class="footer__list">
+                        <li class="footer__list__heading">BTCBIT</li>
+                        <li>BTCBIT Sp. z o.o.</li>
+                        <li>Ul. Transportowa 11 - 7, Slubice, Poland, 69-100</li>
+                        <li>Reg Nr.: 369827363</li>
+                    </ul>
+                </div>
+                <div class="col-xs-6">
+                    <div>
+                        <ul class="footer__list text-right">
+                            <li class="footer__list__heading">Languages</li>
+                                                                                        <li ><a href="//btcbit.net/?referal=1737" >English</a></li>
+                                                            <li class="active"><a href="//btcbit.net/ru/?referal=1737" >Русский</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__copyright">
+        &copy; 2018 BTCBIT. All rights reserved BTCBIT Sp. z o.o
+    </div>
+</footer>
+</div>
+
+
+
+<script type='text/javascript'>
+    (function(){ var widget_id = 'DUlUgxxzpb';var d=document;var w=window;function l(){
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+</body>
+</html>
+

@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="ru-RU.utf8">
+<head>
+<meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="58Fg9TKR3gTl6gMxAK8evIC4g4ZkBczM8bwfB74tA3uJlzetYfW8Zq-tZkJizUjG6t7hxTROqYKH2EcxxkkzIw==">
+<title>PLATOV - ПРОСТО ОБМЕНЯЙ</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Platov.cc - Платит Всем! Быстрый обмен Биткоин, Лайткоин, Эфириум. Простой и удобный интерфейс. Круглосуточная и мгновенная тех поддержка. Platov.cc - Ваш надежный обменный сервис!" <link href="/assets/757c41b6/css/bootstrap.css" rel="stylesheet">
+<link href="/css/site.css" rel="stylesheet"> 
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/animate.css">
+<link rel="stylesheet" href="/css/owl.carousel.css">
+<link rel="stylesheet" href="/css/owl.theme.css">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="home-page" class="wrap">
+<nav id="mainNavigation" class="navbar navbar-dafault main-navigation"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mainNavigation-collapse"><span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button><a class="navbar-brand" href="/"><img src="/img/logo.png" alt="My Application" style="height:70px;"></a></div><div id="mainNavigation-collapse" class="collapse navbar-collapse"><ul id="w0" class="nav navbar-nav navbar-right text-uppercase"><li class="active"><a href="/site/index">Главная</a></li>
+<li><a href="/site/reserves">Резервы</a></li>
+<li><a href="/site/partners">Партнерам</a></li>
+<li><a href="/site/guarantees">Гарантии</a></li>
+<li><a href="/site/contact">Контакты</a></li>
+<li><a href="/site/signup">Регистрация</a></li>
+<li><a href="/site/login">Личный кабинет</a></li></ul></div></div></nav>
+<div class="main-content">
+<input type="hidden" id="refUrl" value="https://www.bestchange.net/list.html">
+<section class="bg-white story">
+<div class="container">
+<div class="headline text-center">
+<div class="row">
+<div class="col-md-6 col-md-offset-3">
+<h2 class="section-title">PLATOV - ПРОСТО ОБМЕНЯЙ</h2>
+</div>
+</div>
+</div>
+<div class="team-list">
+<div class="row">
+<div class="col-md-3">
+<div class="team-member-box text-center">
+<div class="team-member-description">
+<div class="team-member-about">
+<h4>Вы отправляете</h4>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="BTC" currency-id="1">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/bitcoin.svg" alt="Bitcoin">
+<b>Bitcoin</b> <br>
+Мин. сумма: 0.05 BTC </div>
+</div>
+ </div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="YAMRUB" currency-id="2">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/yandex.svg" alt="Яндекс.Деньги">
+<b>Яндекс.Деньги</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="PMUSD" currency-id="3">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/perfect_money.svg" alt="Perfect Money">
+<b>Perfect Money</b> <br>
+Мин. сумма: 10 USD </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="LTC" currency-id="4">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/litecoin.svg" alt="Litecoin">
+<b>Litecoin</b> <br>
+Мин. сумма: 0.5 LTC </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="ETH" currency-id="5">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/ethereum.svg" alt="Ethereum">
+<b>Ethereum</b> <br>
+Мин. сумма: 0.25 ETH </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="PRUSD" currency-id="6">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/payeer.svg" alt="Payeer">
+<b>Payeer</b> <br>
+Мин. сумма: 10 USD </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+ <div class="faq-q source-currency" export-code="SBERRUB" currency-id="7">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/sberbank.svg" alt="Сбербанк">
+<b>Сбербанк</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="TCSBRUB" currency-id="8">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/tcsbank.svg" alt="Тинькофф">
+<b>Тинькофф</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="ACRUB" currency-id="9">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/alphabank.svg" alt="Альфа Банк">
+<b>Альфа Банк</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="VTB24RUB" currency-id="10">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/vtb24.svg" alt="ВТБ 24">
+<b>ВТБ 24</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="CARDRUB" currency-id="11">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/visamc_rur.svg" alt="Visa / MasterCard">
+<b>Visa / MasterCard</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="ADVCUSD" currency-id="12">
+ <img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/advcash.svg" alt="Advanced Cash">
+<b>Advanced Cash</b> <br>
+Мин. сумма: 10 USD </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="QWRUB" currency-id="14">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/qiwi.svg" alt="QIWI">
+<b>QIWI</b> <br>
+Мин. сумма: 5000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="EXMRUB" currency-id="25">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/exmo.svg" alt="Exmo RUB">
+<b>Exmo RUB</b> <br>
+Мин. сумма: 1000 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q source-currency" export-code="EXMUSD" currency-id="26">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/exmo.svg" alt="Exmo USD">
+<b>Exmo USD</b> <br>
+Мин. сумма: 10 USD </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div id="exchange-form" class="team-member-box text-center">
+<div class="team-member-description">
+<div class="team-member-about">
+<h4>Вы легко здесь обменяете</h4>
+</div> 
+</div>
+</div> 
+</div>
+<div class="col-md-3">
+<div class="team-member-box text-center">
+<div class="team-member-description">
+<div class="team-member-about">
+<h4>Вы получаете</h4>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="BTC" currency-id="1">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/bitcoin.svg" alt="Bitcoin">
+<b>Bitcoin</b> <br>
+Резерв: 4.84 BTC </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="YAMRUB" currency-id="2">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/yandex.svg" alt="Яндекс.Деньги">
+<b>Яндекс.Деньги</b> <br>
+Резерв: 583527.58 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="PMUSD" currency-id="3">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/perfect_money.svg" alt="Perfect Money">
+<b>Perfect Money</b> <br>
+Резерв: 8195.06 USD </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="LTC" currency-id="4">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/litecoin.svg" alt="Litecoin">
+<b>Litecoin</b> <br>
+Резерв: 25.02 LTC </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="ETH" currency-id="5">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/ethereum.svg" alt="Ethereum">
+<b>Ethereum</b> <br>
+Резерв: 40.33 ETH </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="PRUSD" currency-id="6">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/payeer.svg" alt="Payeer">
+ <b>Payeer</b> <br>
+Резерв: 1169.87 USD </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="SBERRUB" currency-id="7">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/sberbank.svg" alt="Сбербанк">
+<b>Сбербанк</b> <br>
+Резерв: 460242.15 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="TCSBRUB" currency-id="8">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/tcsbank.svg" alt="Тинькофф">
+<b>Тинькофф</b> <br>
+Резерв: 442160.7 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="ACRUB" currency-id="9">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/alphabank.svg" alt="Альфа Банк">
+<b>Альфа Банк</b> <br>
+Резерв: 467875.7 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="VTB24RUB" currency-id="10">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/vtb24.svg" alt="ВТБ 24">
+<b>ВТБ 24</b> <br>
+Резерв: 497073.88 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="CARDRUB" currency-id="11">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/visamc_rur.svg" alt="Visa / MasterCard">
+<b>Visa / MasterCard</b> <br>
+Резерв: 458838.11 RUB </div>
+ </div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="ADVCUSD" currency-id="12">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/advcash.svg" alt="Advanced Cash">
+<b>Advanced Cash</b> <br>
+Резерв: 4665.05 USD </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="QWRUB" currency-id="14">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/qiwi.svg" alt="QIWI">
+<b>QIWI</b> <br>
+Резерв: 228156.51 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="EXMRUB" currency-id="25">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/exmo.svg" alt="Exmo RUB">
+<b>Exmo RUB</b> <br>
+Резерв: 9768.28 RUB </div>
+</div>
+</div>
+<div class="topics">
+<div class="faq-c">
+<div class="faq-q-disabled target-currency" export-code="EXMUSD" currency-id="26">
+<img style="border-radius: 25px; transition: .3s; max-height: 20px; max-width: 20px;" src="/img/exmo.svg" alt="Exmo USD">
+<b>Exmo USD</b> <br>
+Резерв: 951.76 USD </div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+</div>
+</div>
+</div> 
+</div>
+</section>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+
+<div class="col-md-3 col-sm-3 col-xs-3 footer-widget">
+<h4>Информация</h4>
+<ul class="row footer-links">
+<li><a href="#">FAQ</a></li>
+<li><a href="/site/agreements">Пользовательское соглашение</a></li>
+<li><a href="#">Новости</a></li>
+</ul>
+</div>
+<div class="col-md-6 col-sm-6 col-xs-6 footer-widget text-center">
+<h4>Гарантии</h4>
+<div class="row">
+<div class="col-md-12">
+<a href="https://www.bestchange.ru/platov-exchanger.html"><img src="/img/banners/bestchange.gif" title="Обмен Bitcoin, Perfect Money, Advanced Cash" alt="Мониторинг обменных пунктов BestChange.ru" width="88" height="31" border="0" /></a>
+<a title="Анализатор обменников. Мониторинг обменников. Мониторинг курсов." href="https://kurs.expert/ru/obmennik/platov-cc/feedbacks.html" target="_blank" rel="nofollow"> <img src="/img/banners/buttonY.png" alt="" width="88" height="31" hspace="5"></a>
+<a title="Мониторинг обменников с лучшими курсами обмена электронных валют" href="https://www.okchanger.ru/exchangers/PLATOV" target="_blank" rel="nofollow"> <img src="/img/banners/okchanger.png" alt="" width="88" height="31" hspace="5"></a>
+<a title="BestExchangers.ru - Мониторинг обменников." href="https://bestexchangers.ru/ru/detail.html?xobmen=702" target="_blank" rel="nofollow"> <img src="/img/banners/88x31.gif" alt="" width="88" height="31" hspace="5"></a>
+</div>
+</div>
+</div>
+
+<div class="col-md-3 col-sm-3 col-xs-3 footer-widget text-right">
+<h4>Platov</h4>
+<div class="footer-address">
+<p>
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7f0c0a0f0f100d0b3f0f131e0b1009511c1c">[email&#160;protected]</a>
+</p>
+</div>
+<div class="row">
+<div class="col-md-12">
+<ul class="footer-share-button">
+<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+</ul> 
+</div>
+</div>
+</div> 
+</div>
+</div>
+</footer>
+<nav class="hidden-xs hidden-sm footer-nav" role="navigation">
+<div class="container">
+<div class="navbar-header">
+
+<div class="navbar-brand">
+<span class="sr-only">© Platov</span>
+<a href="/">
+© Platov
+</a>
+</div>
+
+</div>
+
+<div class="collapse navbar-collapse" id="main-nav-collapse">
+<ul class="nav navbar-nav navbar-right text-capitalize">
+<li><a href="/">
+<span>Главная</span>
+</a></li>
+<li><a href="/site/partners">
+<span>Партнерам</span>
+</a></li>
+<li><a href="/site/guarantees">
+<span>Гарантии</span>
+</a></li>
+<li><a href="/site/contact">
+<span>Контакты</span>
+</a></li>
+<li><a href="/site/signup">
+<span>Регистрация</span>
+</a></li>
+<li><a href="/site/login">
+<span>Личный кабинет</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+  (function(){ var widget_id = 'KbubzfTUzt';var d=document;var w=window;function l(){
+    var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<script src="/assets/1a07eeb7/jquery.js"></script>
+<script src="/assets/74a2b5c0/yii.js"></script>
+<script src="/js/jquery.validate.min.js"></script>
+<script src="/assets/757c41b6/js/bootstrap.js"></script>
+<script>jQuery(function ($) {
+
+    
+    function searchInspections() {
+        $.ajax({
+            url: "/site/form",
+            type: "GET",
+            data: {
+                source_currency_id: $(".source-currency.faq-q-selected")[0].getAttribute("export-code"),
+                target_currency_id: $(".target-currency.faq-q-selected")[0].getAttribute("export-code"),
+            },
+            success: function(data) {
+                $("#exchange-form").html(data);
+            }
+        });
+    }
+    
+    function searchAvailableCurrencies() {
+        $.ajax({
+            url: "/exchange-rate/available-currencies",
+            type: "GET",
+            data: {
+                id: $(".source-currency.faq-q-selected")[0].getAttribute("currency-id"),
+            },
+            success: function(data) {
+                var availableCurrencies = JSON.parse(data);
+                $(".faq-q-disabled").each(function( index ) {
+                    if (availableCurrencies.indexOf($(this).attr("currency-id")) !== -1) {
+                        $(this).removeClass("faq-q-disabled");
+                        $(this).addClass("faq-q");
+                    }
+                });
+                
+            }
+        });
+    }
+    
+    $(".source-currency.currency-type").on("click", function (e) {
+        var replacementElement = $(this).clone();
+        replacementElement.removeClass("currency-type");
+        replacementElement.removeClass("faq-q");
+        replacementElement.addClass("faq-q-selected");
+        $(".source-currency.faq-q-selected").replaceWith(replacementElement[0].outerHTML);
+        searchAvailableCurrencies();
+    });
+    
+    
+    
+    $(".source-currency").on("click", function (e) {
+        if (!$(this).hasClass("currency-type")) {
+            $(".target-currency.faq-q-selected").addClass("faq-q-disabled");
+            $(".target-currency.faq-q-selected").removeClass("faq-q-selected");
+            $(".target-currency.faq-q").addClass("faq-q-disabled");
+            $(".target-currency.faq-q").removeClass("faq-q");
+            
+            $(".source-currency.faq-q-selected").addClass("faq-q");
+            $(".source-currency.faq-q-selected").removeClass("faq-q-selected");
+            $(this).removeClass("faq-q");
+            $(this).addClass("faq-q-selected");
+            searchAvailableCurrencies();
+        }
+        
+    });
+    
+    $(".target-currency.currency-type").on("click", function (e) {
+        if ($(this).hasClass("faq-q")) {
+            var replacementElement = $(this).clone();
+            replacementElement.removeClass("currency-type");
+            replacementElement.removeClass("faq-q");
+            replacementElement.addClass("faq-q-selected");
+            $(".target-currency.faq-q-selected").replaceWith(replacementElement[0].outerHTML);
+            searchInspections();
+        }
+    });
+    
+    $(".target-currency").on("click", function (e) {
+        if ($(this).hasClass("faq-q") && !$(this).hasClass("currency-type")) {
+            $(".target-currency.faq-q-selected").addClass("faq-q");
+            $(".target-currency.faq-q-selected").removeClass("faq-q-selected");
+            $(this).removeClass("faq-q");
+            $(this).addClass("faq-q-selected");
+            searchInspections();
+        }
+    });
+    
+    
+
+});</script></body>
+</html>

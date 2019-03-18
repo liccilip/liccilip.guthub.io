@@ -1,0 +1,22 @@
+<html>
+<head>
+<script src="https://static.stormwall.pro/jquery-3.2.1.min.js"></script>
+<script src="https://static.stormwall.pro/jsv1.2.js" async defer></script>
+<link rel="stylesheet" href="https://static.stormwall.pro/captcha.css">
+</head>
+<body>
+<div class="content">
+
+<div id="error-frame" class="infoblock action-description invisible">
+	<img src="https://static.stormwall.pro/error-icon-128.png" />
+	<p id="description">Website is probably down.</div>
+</div>
+
+</div>
+<script>var cE = "5qw9i9yetiw?odxkky3jvczn1:x?uko22os93487w6q5wx5u:auqgklahcionjk:qvyb64oiz1dg";
+var cK = 4;
+var cN = "swp_token";
+var cO = ";path=/;max-age=1800";
+</script>
+</body>
+</html>

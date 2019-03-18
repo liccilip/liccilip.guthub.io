@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="24obmen.org">
+<meta name="author" content="Sassoft, http://sassoft.ru">
+<title>24обмен.org - Автоматический обменик Яндекс.Деньги Qiwi Okpay Perfect Money Payeer Bitcoin BTC-e</title>
+<link href="/assets/dd0c1700/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/5e908f14/css/style.css" rel="stylesheet">
+<link href="/assets/5e908f14/css/custom.min.css" rel="stylesheet">
+<style>
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}</style> <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="YQIx0K83ozsaWJXABXuvCcjj94grzrgcxgCMf-ZBXLwtSmOlmnOWaXcp5aVkOOtEjYKdxRK5zU6rc_42ixAm1w==">
+
+
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<nav id="w0" class="navbar navbar-default navbar-fixed-top"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w0-collapse"><span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button><a class="navbar-brand" href="/">24обмен</a></div><div id="w0-collapse" class="collapse navbar-collapse"><ul id="w1" class="navbar-nav nav"><li><a href="/about">О сервисе</a></li>
+<li><a href="/security">Безопасность</a></li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/partners">Партнёрам</a></li>
+<li><a href="/contact">Контакты</a></li>
+<li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Язык <span class="caret"></span></a><ul id="w2" class="dropdown-menu"><li class="active"><a href="/index?lang=ru" tabindex="-1">Русский</a></li>
+<li><a href="/index?lang=en" tabindex="-1">English</a></li></ul></li></ul></div></div></nav>
+
+<div class="container">
+
+<div class="row">
+<div class="col-lg-3">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Мой аккаунт</h3>
+</div>
+<div class="panel-body">
+<form class="form-horizontal" method="post" action="/user/default/login">
+<input type="hidden" name="_csrf" value="YQIx0K83ozsaWJXABXuvCcjj94grzrgcxgCMf-ZBXLwtSmOlmnOWaXcp5aVkOOtEjYKdxRK5zU6rc_42ixAm1w==">
+<fieldset>
+<div class="form-group">
+<div class="col-lg-10">
+<input type="text" name="LoginForm[username]" class="form-control" id="inputEmail" placeholder="Логин">
+</div>
+</div>
+<div class="form-group">
+<div class="col-lg-10">
+<input type="password" name="LoginForm[password]" class="form-control" id="inputPassword" placeholder="Пароль">
+</div>
+</div>
+<div class="form-group">
+<div class="col-lg-12">
+<button type="submit" class="btn btn-primary">Войти</button>
+<br><a href="/signup">Регистрация</a>
+<br><a href="/forgot-password">Забыли пароль?</a>
+</div>
+</div>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Контакты</h3>
+</div>
+<div class="panel-body">
+<a target="_blank" href="https://telegram.me/site24obmen" class="btn btn-info">Telegram</a>
+<br><br><a target="_blank" href="https://www.instagram.com/24obmen/" class="btn btn-info">Instagram</a>
+<br><br><a href="/contact" class="btn btn-info">Написать нам</a>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Партнеры</h3>
+</div>
+<div class="panel-body">
+
+<a target="_blank" href="https://www.bestchange.ru/"><img src="https://www.bestchange.ru/bestchange.gif" title="Обмен Bitcoin, Perfect Money, AdvCash, EXMO" alt="Мониторинг обменных пунктов BestChange.ru" width="88" height="31" border="0" /></a>
+
+<br><br><a target="_blank" href="https://kurs.expert" title="Анализатор обменников №1"><img src="https://kurs.expert/i/buttonY.png" width="88" height="31" border="0"></a>
+<br><br><a href='https://exchangesumo.com' title='Сервис поиска выгодного курса обмена'><img src='https://exchangesumo.com/i/1.svg' width='88' height='31' border='0'></a>
+</div>
+</div>
+</div>
+
+<div class="col-lg-7">
+<script type="76e83fd966543d50da172ca0-text/javascript">
+    var rates = {"pm_yad":{"value":63.3006034,"man_value":0,"min_amount":1,"max_amount":500,"reserve":957.41,"cur_in":"pm","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"pm_btc":{"value":0.00023389999999999997,"man_value":0.000231596,"min_amount":10,"max_amount":300,"reserve":0.0027,"cur_in":"pm","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0013,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_payeer":{"value":0.99,"man_value":0,"min_amount":3,"max_amount":1000,"reserve":0,"cur_in":"pm","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_advcash":{"value":0.96975,"man_value":0,"min_amount":1,"max_amount":1000,"reserve":0,"cur_in":"pm","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"btc_pm":{"value":3833.1931136,"man_value":0,"min_amount":0.005,"max_amount":1,"reserve":442.63,"cur_in":"btc","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"btc_sbr":{"value":249577.700908,"man_value":0,"min_amount":0.01,"max_amount":0.5,"reserve":13050.52,"cur_in":"btc","cur_out":"sbr","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +70000000000)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":1},"btc_payeer":{"value":3939.1931136,"man_value":0,"min_amount":0.003,"max_amount":1,"reserve":0,"cur_in":"btc","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_eth":{"value":0.0007684,"man_value":0,"min_amount":20,"max_amount":1000,"reserve":15.3622,"cur_in":"xlm","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.007,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_eth":{"value":0.0069547,"man_value":0.00683837,"min_amount":13,"max_amount":300,"reserve":15.3622,"cur_in":"pm","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0,"comission_in":3,"comission_in_percent":0,"comission_percent":0},"yad_ltc":{"value":0.00024350000000000004,"man_value":0,"min_amount":150,"max_amount":13000,"reserve":1.4641,"cur_in":"yad","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0.025,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_pm":{"value":0.1023349,"man_value":0,"min_amount":3,"max_amount":3000,"reserve":442.63,"cur_in":"xlm","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"xlm_nixmoney":{"value":0.0789949,"man_value":0,"min_amount":50,"max_amount":300,"reserve":10.85,"cur_in":"xlm","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_nixmoney":{"value":0.99025,"man_value":0,"min_amount":10,"max_amount":1000,"reserve":10.85,"cur_in":"pm","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_yad":{"value":63.2340034,"man_value":0,"min_amount":1,"max_amount":300,"reserve":957.41,"cur_in":"payeer","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"payeer_btc":{"value":0.00023184999999999997,"man_value":0.000228945,"min_amount":10,"max_amount":300,"reserve":0.0027,"cur_in":"payeer","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0013,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_advcash":{"value":0.959,"man_value":0,"min_amount":0.1,"max_amount":1000,"reserve":0,"cur_in":"payeer","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_pm":{"value":0.985,"man_value":0,"min_amount":3,"max_amount":2000,"reserve":442.63,"cur_in":"payeer","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"payeer_nixmoney":{"value":0.97125,"man_value":0,"min_amount":10,"max_amount":1000,"reserve":10.85,"cur_in":"payeer","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_yad":{"value":60.6006034,"man_value":0,"min_amount":5,"max_amount":750,"reserve":957.41,"cur_in":"advcash","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_btc":{"value":0.00024165000499999997,"man_value":0.000242022,"min_amount":10,"max_amount":300,"reserve":0.0027,"cur_in":"advcash","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0013,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_nixmoney":{"value":0.97127,"man_value":0,"min_amount":10,"max_amount":2000,"reserve":10.85,"cur_in":"advcash","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_pm":{"value":0.9885,"man_value":0,"min_amount":1,"max_amount":5000,"reserve":442.63,"cur_in":"advcash","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"btc_ltc":{"value":64.955132,"man_value":66.8809593594,"min_amount":0.001,"max_amount":1,"reserve":1.4641,"cur_in":"btc","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0.01,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"btc_advcash":{"value":3918.2031136,"man_value":0,"min_amount":0.003,"max_amount":0.5,"reserve":0,"cur_in":"btc","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_eth":{"value":9.93e-5,"man_value":0.000111129,"min_amount":250,"max_amount":20000,"reserve":15.3622,"cur_in":"payeer_rub","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0,"comission_in":95,"comission_in_percent":0,"comission_percent":0},"advcash_eth":{"value":0.006964700000000001,"man_value":0.007095204,"min_amount":13,"max_amount":300,"reserve":15.3622,"cur_in":"advcash","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0,"comission_in":3,"comission_in_percent":0,"comission_percent":0},"advcash_payeer_rub":{"value":62.7506134,"man_value":61.65854151241,"min_amount":3,"max_amount":3000,"reserve":498,"cur_in":"advcash","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"btc_eth":{"value":25.7633815,"man_value":28.6421490984,"min_amount":0.005,"max_amount":0.08,"reserve":15.3622,"cur_in":"btc","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.005,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_eth":{"value":0.4172422,"man_value":0,"min_amount":0.08,"max_amount":10,"reserve":15.3622,"cur_in":"ltc","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.008,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"yad_pm":{"value":0.014579700000000001,"man_value":0,"min_amount":100,"max_amount":15000,"reserve":442.63,"cur_in":"yad","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"yad_btc":{"value":3.25e-6,"man_value":3.767e-6,"min_amount":500,"max_amount":13000,"reserve":0.0027,"cur_in":"yad","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0,"comission_in":303,"comission_in_percent":0,"comission_percent":0},"yad_payeer_rub":{"value":0.9401,"man_value":0,"min_amount":500,"max_amount":25000,"reserve":498,"cur_in":"yad","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"yad_payeer":{"value":0.0150097,"man_value":0,"min_amount":200,"max_amount":35000,"reserve":0,"cur_in":"yad","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_advcash_rub":{"value":64.6006034,"man_value":62.65854151241,"min_amount":1,"max_amount":1000,"reserve":52651.22,"cur_in":"pm","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"yad_nixmoney":{"value":0.0138297,"man_value":0,"min_amount":1000,"max_amount":15000,"reserve":10.85,"cur_in":"yad","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_ltc":{"value":0.00018700000000000002,"man_value":0.000261864,"min_amount":150,"max_amount":13000,"reserve":1.4641,"cur_in":"payeer_rub","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0.03,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"yad_advcash":{"value":0.0147297,"man_value":0,"min_amount":100,"max_amount":15000,"reserve":0,"cur_in":"yad","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"sbr_xlm":{"value":0.1352256,"man_value":0,"min_amount":250,"max_amount":20000,"reserve":8882.54,"cur_in":"sbr","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"manual","comission":5,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"vtb_xlm":{"value":0.1352256,"man_value":0,"min_amount":300,"max_amount":2500,"reserve":8882.54,"cur_in":"vtb","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"manual","comission":5,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"sbr_ltc":{"value":0.00023000000000000003,"man_value":0.000258803,"min_amount":350,"max_amount":19000,"reserve":1.4641,"cur_in":"sbr","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"manual","comission":0,"comission_in":115,"comission_in_percent":0,"comission_percent":0},"payeer_eth":{"value":0.006953600000000001,"man_value":0.007045285,"min_amount":13,"max_amount":300,"reserve":15.3622,"cur_in":"payeer","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0,"comission_in":3,"comission_in_percent":0,"comission_percent":0},"sbr_eth":{"value":0.0001107334,"man_value":0.000110787,"min_amount":500,"max_amount":20000,"reserve":15.3622,"cur_in":"sbr","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"manual","comission":0,"comission_in":100,"comission_in_percent":0,"comission_percent":0},"yad_advcash_rub":{"value":0.9415,"man_value":0,"min_amount":200,"max_amount":25000,"reserve":52651.22,"cur_in":"yad","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"yad_eth":{"value":0.0001068,"man_value":0.000107604,"min_amount":300,"max_amount":13000,"reserve":15.3622,"cur_in":"yad","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.01,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_sbr":{"value":6.9179294,"man_value":6.3792356231,"min_amount":60,"max_amount":3000,"reserve":13050.52,"cur_in":"xlm","cur_out":"sbr","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +70000000000)","type":"manual","comission":0,"comission_in":20,"comission_in_percent":0,"comission_percent":1},"vtb_ltc":{"value":0.00022250000000000004,"man_value":0.000259276,"min_amount":450,"max_amount":15000,"reserve":1.4641,"cur_in":"vtb","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"manual","comission":0,"comission_in":115,"comission_in_percent":0,"comission_percent":0},"advcash_xlm":{"value":7.808142800000001,"man_value":0,"min_amount":5,"max_amount":400,"reserve":8882.54,"cur_in":"advcash","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_ltc":{"value":0.0002425,"man_value":0.000260255,"min_amount":150,"max_amount":13000,"reserve":1.4641,"cur_in":"advcash_rub","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0.03,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"vtb_eth":{"value":0.00010829999999999999,"man_value":0.000110121,"min_amount":500,"max_amount":18500,"reserve":15.3622,"cur_in":"vtb","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"manual","comission":0,"comission_in":175,"comission_in_percent":0,"comission_percent":0},"yad_xlm":{"value":0.1152256,"man_value":0,"min_amount":100,"max_amount":15000,"reserve":8882.54,"cur_in":"yad","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_btc":{"value":3.46e-6,"man_value":3.767e-6,"min_amount":700,"max_amount":20000,"reserve":0.0027,"cur_in":"payeer_rub","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.00073,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_pm":{"value":0.013494700000000002,"man_value":0.015308182,"min_amount":50,"max_amount":25000,"reserve":442.63,"cur_in":"payeer_rub","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"payeer_rub_yad":{"value":0.987,"man_value":0,"min_amount":100,"max_amount":15000,"reserve":957.41,"cur_in":"payeer_rub","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"payeer_rub_advcash_rub":{"value":0.95,"man_value":0,"min_amount":10,"max_amount":25000,"reserve":52651.22,"cur_in":"payeer_rub","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_payeer":{"value":0.014229700000000001,"man_value":0.014972628,"min_amount":100,"max_amount":25000,"reserve":0,"cur_in":"payeer_rub","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_advcash":{"value":0.014229700000000001,"man_value":0.0147801,"min_amount":50,"max_amount":25000,"reserve":0,"cur_in":"payeer_rub","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_payeer_rub":{"value":61.470603399999995,"man_value":61.65854151241,"min_amount":3,"max_amount":500,"reserve":498,"cur_in":"payeer","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_nixmoney":{"value":0.0141297,"man_value":0,"min_amount":750,"max_amount":15000,"reserve":10.85,"cur_in":"payeer_rub","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_advcash_rub":{"value":64.6006034,"man_value":61.99254151241,"min_amount":1,"max_amount":500,"reserve":52651.22,"cur_in":"payeer","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_payeer_rub":{"value":63.4506034,"man_value":62.533094,"min_amount":5,"max_amount":500,"reserve":498,"cur_in":"pm","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_btc":{"value":2.044e-5,"man_value":0,"min_amount":13,"max_amount":25000,"reserve":0.0027,"cur_in":"xlm","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_xlm":{"value":0.1288856,"man_value":0,"min_amount":10,"max_amount":15000,"reserve":8882.54,"cur_in":"advcash_rub","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_xlm":{"value":8.1847428,"man_value":0,"min_amount":5,"max_amount":1000,"reserve":8882.54,"cur_in":"pm","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_xlm":{"value":0.1288856,"man_value":0,"min_amount":10,"max_amount":15000,"reserve":8882.54,"cur_in":"payeer_rub","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_xlm":{"value":8.038082800000002,"man_value":0,"min_amount":5,"max_amount":500,"reserve":8882.54,"cur_in":"payeer","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"nixmoney_btc":{"value":0.0001959,"man_value":0.00017488,"min_amount":10,"max_amount":300,"reserve":0.0027,"cur_in":"nixmoney","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0006,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"nixmoney_eth":{"value":0.0063647,"man_value":0,"min_amount":13,"max_amount":1000,"reserve":15.3622,"cur_in":"nixmoney","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"nixmoney_payeer":{"value":0.965,"man_value":0,"min_amount":3,"max_amount":3000,"reserve":0,"cur_in":"nixmoney","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"nixmoney_payeer_rub":{"value":57.9406034,"man_value":0,"min_amount":3,"max_amount":500,"reserve":498,"cur_in":"nixmoney","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"nixmoney_advcash_rub":{"value":54.9346034,"man_value":0,"min_amount":5,"max_amount":300,"reserve":52651.22,"cur_in":"nixmoney","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_payeer":{"value":0.1023349,"man_value":0,"min_amount":2,"max_amount":300,"reserve":0,"cur_in":"xlm","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"nixmoney_advcash":{"value":0.955,"man_value":0,"min_amount":1,"max_amount":1000,"reserve":0,"cur_in":"nixmoney","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_payeer_rub":{"value":3.0479294,"man_value":6.3792356231,"min_amount":2,"max_amount":300,"reserve":498,"cur_in":"xlm","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_advcash":{"value":0.1023349,"man_value":0,"min_amount":2,"max_amount":300,"reserve":0,"cur_in":"xlm","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_advcash_rub":{"value":3.0479294,"man_value":6.3792356231,"min_amount":2,"max_amount":500,"reserve":52651.22,"cur_in":"xlm","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xlm_yad":{"value":6.7349294,"man_value":6.3792356231,"min_amount":0.3,"max_amount":3000,"reserve":957.41,"cur_in":"xlm","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"advcash_rub_btc":{"value":3.47e-6,"man_value":3.839e-6,"min_amount":500,"max_amount":20000,"reserve":0.0027,"cur_in":"advcash_rub","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0013,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_pm":{"value":0.014229700000000001,"man_value":0.015434828,"min_amount":15,"max_amount":75000,"reserve":442.63,"cur_in":"advcash_rub","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"advcash_rub_yad":{"value":0.965,"man_value":0,"min_amount":100,"max_amount":15000,"reserve":957.41,"cur_in":"advcash_rub","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_payeer":{"value":0.0147297,"man_value":0.0147801,"min_amount":50,"max_amount":35000,"reserve":0,"cur_in":"advcash_rub","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_advcash":{"value":0.0144942,"man_value":0.0147801,"min_amount":10,"max_amount":75000,"reserve":0,"cur_in":"advcash_rub","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_eth":{"value":0.00010381,"man_value":0.00011086,"min_amount":390,"max_amount":19300,"reserve":15.3622,"cur_in":"advcash_rub","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0,"comission_in":100,"comission_in_percent":0,"comission_percent":0},"advcash_rub_payeer_rub":{"value":0.9615,"man_value":0,"min_amount":1,"max_amount":15000,"reserve":498,"cur_in":"advcash_rub","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_nixmoney":{"value":0.014229700000000001,"man_value":0,"min_amount":750,"max_amount":35000,"reserve":10.85,"cur_in":"advcash_rub","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_advcash_rub":{"value":63.1006134,"man_value":62.65854151241,"min_amount":1,"max_amount":3000,"reserve":52651.22,"cur_in":"advcash","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_btc":{"value":0.0129465,"man_value":0.013598954,"min_amount":0.1,"max_amount":150,"reserve":0.0027,"cur_in":"ltc","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0006,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_pm":{"value":58.1848121,"man_value":59.2958120742,"min_amount":0.05,"max_amount":30,"reserve":442.63,"cur_in":"ltc","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"ltc_yad":{"value":3869.1644539999998,"man_value":0,"min_amount":0.1,"max_amount":100,"reserve":957.41,"cur_in":"ltc","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"ltc_sbr":{"value":3816.217454,"man_value":3854.72306844,"min_amount":0.2,"max_amount":10,"reserve":13050.52,"cur_in":"ltc","cur_out":"sbr","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +70000000000)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":1,"comission_percent":1},"ltc_payeer":{"value":49.9628121,"man_value":59.9618120742,"min_amount":0.1,"max_amount":25,"reserve":0,"cur_in":"ltc","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_advcash":{"value":45.9618121,"man_value":54.9618120742,"min_amount":0.02,"max_amount":30,"reserve":0,"cur_in":"ltc","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_advcash_rub":{"value":3582.831454,"man_value":3718.77619844,"min_amount":0.05,"max_amount":20,"reserve":52651.22,"cur_in":"ltc","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_vtb":{"value":3716.230454,"man_value":0,"min_amount":0.1,"max_amount":5,"reserve":132096.32,"cur_in":"ltc","cur_out":"vtb","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +71234567890)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_payeer_rub":{"value":2883.830454,"man_value":3754.72319844,"min_amount":0.1,"max_amount":25,"reserve":498,"cur_in":"ltc","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_xlm":{"value":484.07967049999996,"man_value":0,"min_amount":0.05,"max_amount":10,"reserve":8882.54,"cur_in":"ltc","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_nixmoney":{"value":58.295812100000006,"man_value":0,"min_amount":0.3,"max_amount":35,"reserve":10.85,"cur_in":"ltc","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"eth_btc":{"value":0.029741399999999998,"man_value":0.030821571,"min_amount":0.03,"max_amount":10,"reserve":0.0027,"cur_in":"eth","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0.75,"comission_percent":0},"eth_pm":{"value":135.0746718,"man_value":132.913671849,"min_amount":0.01,"max_amount":3,"reserve":442.63,"cur_in":"eth","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_yad":{"value":8858.007504300002,"man_value":9026.84081119,"min_amount":0.03,"max_amount":10,"reserve":957.41,"cur_in":"eth","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":2,"comission_percent":0},"eth_sbr":{"value":9010.954504300002,"man_value":9087.2442,"min_amount":0.1,"max_amount":2,"reserve":13050.52,"cur_in":"eth","cur_out":"sbr","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +70000000000)","type":"manual","comission":145,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_payeer":{"value":136.5746718,"man_value":138.907671849,"min_amount":0.01,"max_amount":13,"reserve":0,"cur_in":"eth","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_advcash":{"value":136.5736718,"man_value":138.907671849,"min_amount":0.01,"max_amount":13,"reserve":0,"cur_in":"eth","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_vtb":{"value":8358.6205043,"man_value":9029.97081119,"min_amount":0.1,"max_amount":2,"reserve":132096.32,"cur_in":"eth","cur_out":"vtb","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +71234567890)","type":"manual","comission":100,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_payeer_rub":{"value":6024.620504300001,"man_value":8950.6217,"min_amount":0.01,"max_amount":10,"reserve":498,"cur_in":"eth","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_advcash_rub":{"value":8014.630504300001,"man_value":8818.438837,"min_amount":0.03,"max_amount":10,"reserve":52651.22,"cur_in":"eth","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":1,"comission_percent":0},"eth_ltc":{"value":2.0693753,"man_value":2.1937607971,"min_amount":0.02,"max_amount":3,"reserve":1.4641,"cur_in":"eth","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0.65,"comission_percent":0},"xrp_pm":{"value":0.2660459,"man_value":0,"min_amount":3,"max_amount":1000,"reserve":442.63,"cur_in":"xrp","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"yad_xrp":{"value":0.043914800000000004,"man_value":0.019819749,"min_amount":250,"max_amount":75000,"reserve":18810,"cur_in":"yad","cur_out":"xrp","wallet_out_field_name":" \u0410\u0434\u0440\u0435\u0441  Ripple (XRP)    Destination tag (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"manual","comission":0.3,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"xrp_yad":{"value":17.4437307,"man_value":0,"min_amount":1,"max_amount":500,"reserve":957.41,"cur_in":"xrp","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"xlm_ltc":{"value":0.0017495,"man_value":0,"min_amount":13,"max_amount":1000,"reserve":1.4641,"cur_in":"xlm","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0,"comission_in":6,"comission_in_percent":0,"comission_percent":0},"btc_zec":{"value":70.042839,"man_value":73.9790433865,"min_amount":0.001,"max_amount":1,"reserve":3.59,"cur_in":"btc","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.03,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"zec_btc":{"value":0.010504,"man_value":0.013048267,"min_amount":0.05,"max_amount":5.5,"reserve":0.0027,"cur_in":"zec","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0.0007,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"pm_zec":{"value":0.0181604,"man_value":0.017969902,"min_amount":5,"max_amount":1000,"reserve":3.59,"cur_in":"pm","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.003,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"zec_pm":{"value":49.2402749,"man_value":52.5686749011,"min_amount":0.5,"max_amount":100,"reserve":442.63,"cur_in":"zec","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"xlm_zec":{"value":0.0019432999999999998,"man_value":0,"min_amount":13,"max_amount":1000,"reserve":3.59,"cur_in":"xlm","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0,"comission_in":6,"comission_in_percent":0,"comission_percent":0},"yad_zec":{"value":0.00027,"man_value":0,"min_amount":250,"max_amount":35000,"reserve":3.59,"cur_in":"yad","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.008,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"sbr_zec":{"value":0.00028,"man_value":0.000284268,"min_amount":400,"max_amount":19000,"reserve":3.59,"cur_in":"sbr","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"manual","comission":0,"comission_in":135,"comission_in_percent":0,"comission_percent":0},"payeer_zec":{"value":0.0180884,"man_value":0.018031338,"min_amount":5,"max_amount":1000,"reserve":3.59,"cur_in":"payeer","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.005,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_zec":{"value":0.0179884,"man_value":0.018438388,"min_amount":5,"max_amount":300,"reserve":3.59,"cur_in":"advcash","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.01,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"vtb_zec":{"value":0.00027949999999999996,"man_value":0,"min_amount":500,"max_amount":8000,"reserve":3.59,"cur_in":"vtb","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"manual","comission":0.008,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"zec_vtb":{"value":3342.1143566,"man_value":0,"min_amount":0.25,"max_amount":10,"reserve":132096.32,"cur_in":"zec","cur_out":"vtb","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +71234567890)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"payeer_rub_zec":{"value":0.00028301,"man_value":0.000283547,"min_amount":500,"max_amount":13000,"reserve":3.59,"cur_in":"payeer_rub","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0,"comission_in":79,"comission_in_percent":0,"comission_percent":0},"nixmoney_zec":{"value":0.01744174,"man_value":0,"min_amount":3,"max_amount":1000,"reserve":3.59,"cur_in":"nixmoney","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"advcash_rub_zec":{"value":0.00028301,"man_value":0.00028465,"min_amount":300,"max_amount":35000,"reserve":3.59,"cur_in":"advcash_rub","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.005,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"ltc_zec":{"value":1.0768235,"man_value":0,"min_amount":0.1,"max_amount":10,"reserve":3.59,"cur_in":"ltc","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0.03,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"eth_zec":{"value":2.5373156,"man_value":2.4403818018,"min_amount":0.01,"max_amount":8,"reserve":3.59,"cur_in":"eth","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0.65,"comission_percent":0},"zec_eth":{"value":0.3756521,"man_value":0,"min_amount":0.01,"max_amount":6,"reserve":15.3622,"cur_in":"zec","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.008,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_pm":{"value":0.0006397,"man_value":0,"min_amount":300,"max_amount":10000,"reserve":442.63,"cur_in":"bcn","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_yad":{"value":0.040209299999999996,"man_value":0,"min_amount":200,"max_amount":100000,"reserve":957.41,"cur_in":"bcn","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":1},"bcn_payeer":{"value":0.0006397,"man_value":0,"min_amount":200,"max_amount":1000000,"reserve":0,"cur_in":"bcn","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_advcash":{"value":0.00063304,"man_value":0,"min_amount":300,"max_amount":100000,"reserve":0,"cur_in":"bcn","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_payeer_rub":{"value":0.040209299999999996,"man_value":0,"min_amount":500,"max_amount":10000000,"reserve":498,"cur_in":"bcn","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_advcash_rub":{"value":0.040209299999999996,"man_value":0,"min_amount":500,"max_amount":10000000,"reserve":52651.22,"cur_in":"bcn","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_ltc":{"value":3.6339999999999994e-6,"man_value":0,"min_amount":1000,"max_amount":10000000,"reserve":1.4641,"cur_in":"bcn","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_eth":{"value":3.834e-6,"man_value":0,"min_amount":3000,"max_amount":10000000,"reserve":15.3622,"cur_in":"bcn","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.005,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"bcn_zec":{"value":4.699999999999999e-6,"man_value":0,"min_amount":1000,"max_amount":500000,"reserve":3.59,"cur_in":"bcn","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"btc_xlm":{"value":33172.359193300006,"man_value":0,"min_amount":0.001,"max_amount":0.2,"reserve":8882.54,"cur_in":"btc","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_btc":{"value":0.0006181,"man_value":0,"min_amount":13,"max_amount":250,"reserve":0.0027,"cur_in":"waves","cur_out":"btc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 BTC (Bitcoin)","type":"auto","comission":0,"comission_in":3,"comission_in_percent":0,"comission_percent":0},"waves_pm":{"value":2.079846,"man_value":0,"min_amount":0.1,"max_amount":25,"reserve":442.63,"cur_in":"waves","cur_out":"pm","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a PM USD (\u041f\u0440\u0438\u043c\u0435\u0440 U1234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"yad_waves":{"value":0.0039551000000000005,"man_value":0,"min_amount":200,"max_amount":3000,"reserve":56.49,"cur_in":"yad","cur_out":"waves","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 WAVES","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_yad":{"value":111.28847390000001,"man_value":0,"min_amount":0.1,"max_amount":100,"reserve":957.41,"cur_in":"waves","cur_out":"yad","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a \u0438\u043b\u0438 \u0442\u0435\u043b\u0435\u0444\u043e\u043d \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u042f\u043d\u0434.\u0414\u0435\u043d\u044c\u0433\u0438","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0.5},"sbr_waves":{"value":0.0049551000000000005,"man_value":0,"min_amount":500,"max_amount":20000,"reserve":56.49,"cur_in":"sbr","cur_out":"waves","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 WAVES","type":"manual","comission":1,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_sbr":{"value":111.28847390000001,"man_value":0,"min_amount":5,"max_amount":500,"reserve":13050.52,"cur_in":"waves","cur_out":"sbr","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a  \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +70000000000)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_payeer":{"value":1.8691859999999998,"man_value":0,"min_amount":0.1,"max_amount":25,"reserve":0,"cur_in":"waves","cur_out":"payeer","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer USD (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_advcash":{"value":1.8691859999999998,"man_value":0,"min_amount":0.3,"max_amount":25,"reserve":0,"cur_in":"waves","cur_out":"advcash","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"vtb_waves":{"value":0.0049551000000000005,"man_value":0,"min_amount":500,"max_amount":15000,"reserve":56.49,"cur_in":"vtb","cur_out":"waves","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 WAVES","type":"manual","comission":1,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_vtb":{"value":111.28847390000001,"man_value":0,"min_amount":5,"max_amount":500,"reserve":132096.32,"cur_in":"waves","cur_out":"vtb","wallet_out_field_name":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d, \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u043a \u0432\u0430\u0448\u0435\u0439 \u043a\u0430\u0440\u0442\u0435 (\u041f\u0440\u0438\u043c\u0435\u0440 +71234567890)","type":"manual","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_payeer_rub":{"value":111.28847390000001,"man_value":0,"min_amount":0.3,"max_amount":20,"reserve":498,"cur_in":"waves","cur_out":"payeer_rub","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Payeer RUB (\u041f\u0440\u0438\u043c\u0435\u0440 \u04201234567)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_nixmoney":{"value":1.7792459999999997,"man_value":0,"min_amount":1,"max_amount":30,"reserve":10.85,"cur_in":"waves","cur_out":"nixmoney","wallet_out_field_name":"\u041a\u043e\u0448\u0435\u043b\u0435\u043a Nixmoney","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_advcash_rub":{"value":111.28847390000001,"man_value":0,"min_amount":0.1,"max_amount":25,"reserve":52651.22,"cur_in":"waves","cur_out":"advcash_rub","wallet_out_field_name":"Advcash  (\u0443\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u043e\u0447\u0442\u0443. \u041f\u0440\u0438\u043c\u0435\u0440: \u043c\u043e\u044f\u0440\u0435\u0433\u0430\u0410\u0434\u0432@gmail.com)","type":"auto","comission":0,"comission_in":0,"comission_in_percent":0,"comission_percent":0},"waves_ltc":{"value":0.0381376,"man_value":0,"min_amount":3,"max_amount":35,"reserve":1.4641,"cur_in":"waves","cur_out":"ltc","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 LTC (Litecoin)","type":"auto","comission":0,"comission_in":1,"comission_in_percent":0,"comission_percent":0},"waves_eth":{"value":0.016044100000000002,"man_value":0,"min_amount":3,"max_amount":35,"reserve":15.3622,"cur_in":"waves","cur_out":"eth","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0440\u0435\u0441 ETH (Ethereum)","type":"auto","comission":0.007,"comission_in":1,"comission_in_percent":0,"comission_percent":0},"waves_zec":{"value":0.0430234,"man_value":0,"min_amount":3,"max_amount":35,"reserve":3.59,"cur_in":"waves","cur_out":"zec","wallet_out_field_name":"\u0412\u0430\u0448  \u0430\u0434\u0440\u0435\u0441 Zcash (ZEC)","type":"auto","comission":0,"comission_in":1,"comission_in_percent":0,"comission_percent":0},"waves_xlm":{"value":18.560186,"man_value":0,"min_amount":5,"max_amount":100,"reserve":8882.54,"cur_in":"waves","cur_out":"xlm","wallet_out_field_name":"\u0412\u0430\u0448 \u0430\u0434\u0435\u0440\u0441 Stellar (XLM)  Memo text (\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435 \u043f\u0443\u0441\u0442\u044b\u043c, \u0435\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0437\u043d\u0430\u0435\u0442\u0435)","type":"auto","comission":0,"comission_in":1,"comission_in_percent":0,"comission_percent":0}};
+
+    var currencies = {"btc":"BTC (Bitcoin)","eth":"ETH (Ethereum)","xrp":"XRP (Ripple)","ltc":"LTC (Litecoin)","zec":"ZEC (Zcash)","bcn":" BCN (Bytecoin)","xlm":"XLM(Stellar)","waves":"Waves","pm":"Perfect Money USD","advcash":"Advanced Cash USD","advcash_rub":"Advanced Cash RUB","payeer":"Payeer USD","payeer_rub":"Payeer RUB","nixmoney":"NixMoney USD","yad":"\u042f\u043d\u0434\u0435\u043a\u0441.\u0414\u0435\u043d\u044c\u0433\u0438","sbr":"\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a","vtb":"\u0412\u0422\u041124"};
+
+    var user_wallets = [];
+
+    function updateCurIn() {
+        curin = $('select[name="OrderForm[cur_in]"]').val();
+        curout = $('select[name="OrderForm[cur_out]"]').val();
+
+        $("#orderform-cur_out").empty();
+
+        $.each(rates, function (key, value) {
+            if (value.cur_in == curin) {
+                $('#orderform-cur_out').append($(new Option(currencies[value.cur_out], value.cur_out)));
+            }
+
+        });
+
+        if (curout && curin != curout) {
+            $("#orderform-cur_out").val(curout).change();
+        }
+        updateForm();
+    }
+
+    function updateForm() {
+        curin = $('select[name="OrderForm[cur_in]"]').val();
+        curout = $('select[name="OrderForm[cur_out]"]').val();
+
+        $('#orderform-wallet_in').hide();
+        $('#orderform-wallet_in-label').hide();
+
+        $('#orderform-info-label').hide();
+        $('#orderform-info').hide();
+
+        $('#orderform-fio-label').hide();
+        $('#orderform-fio').hide();
+
+        $('#orderform-wallet_out').show();
+        $('#orderform-wallet_out-label').show();
+
+        $('#orderform-amount_in-label').html('Отдадите сумму (Минимум: ' + rates[curin + '_' + curout]['min_amount'] + ')');
+        $('#orderform-amount_out-label').html('Максимум : ' + rates[curin + '_' + curout]['reserve'] + '');
+
+        if (rates[curin + '_' + curout]['comission'] > 0 ) {
+            $('#orderform-amount_out-label').html('Максимум : ' + rates[curin + '_' + curout]['reserve'] + ', Доп. комиссия: '+rates[curin + '_' + curout]['comission']);
+        }
+
+        if (rates[curin + '_' + curout]['comission_percent'] > 0 ) {
+            $('#orderform-amount_out-label').html('Максимум : ' + rates[curin + '_' + curout]['reserve'] + ', Доп. комиссия: '+rates[curin + '_' + curout]['comission_percent']+' %');
+        }
+
+        if (rates[curin + '_' + curout]['comission_in'] > 0 ) {
+            $('#orderform-amount_in-label').html('Минимум : ' + rates[curin + '_' + curout]['min_amount'] + ', Доп. комиссия: '+rates[curin + '_' + curout]['comission_in']);
+        }
+
+        if (rates[curin + '_' + curout]['comission_in_percent'] > 0 ) {
+            $('#orderform-amount_in-label').html('Минимум : ' + rates[curin + '_' + curout]['min_amount'] + ', Доп. комиссия: '+rates[curin + '_' + curout]['comission_in_percent']+' %');
+        }
+
+        $('#orderform-wallet_out-label').html(rates[curin + '_' + curout]['wallet_out_field_name']);
+
+
+        $('#rate_comments').html('');
+        if (rates[curin + '_' + curout]['type'] == 'manual') {
+            $('#rate_comments').html('<div class="alert alert-dismissible alert-info"><strong>Важно! Тип обмена ручной, вы подтверждаете согласие на проведение ручной операции</strong></div>');
+        }
+
+        if (curin == 'yad') {
+            $('#rate_comments').append('<div class="alert alert-dismissible alert-info"><strong>Важно! Обмен проводится с задержкой от 48-72 часов. В соответствии с частью 11, 12, 13, 14 и 15 статьи 9 Федерального закона РФ о «Национальной платежной системе», вступившими в силу 1 января 2014 года (часть 4 статьи 39 данного документа), и п. 10.1.9. Соглашения об использовании сервиса «Яндекс.Деньги» прием платежей через систему Яндекс.Деньги будет проводиться с задержкой от 48-72 часов.</strong></div>');
+
+            $('#orderform-wallet_in').show();
+            $('#orderform-wallet_in-label').show();
+            $('#orderform-wallet_in-label').html('Телефон, привязанный к Яндекс.Деньгам');
+        }
+
+        if (curout == 'payeer' || curout == 'payeer_rub') {
+            $('#rate_comments').append('<div class="alert alert-dismissible alert-info"><strong>Учитывайте, что комиссию PAYEER берет с получателя, которая составит – 0.95%</strong></div>');
+        }
+
+        if (curin == 'wex-usd' || curin == 'wex-rub') {
+            $('#orderform-wallet_in').show();
+            $('#orderform-wallet_in-label').show();
+            $('#orderform-wallet_in-label').html('Ваш WEX-CODE');
+        }
+
+        if (curout == 'wex-usd' || curout == 'wex-rub') {
+            $('#orderform-wallet_out').show();
+            $('#orderform-wallet_out-label').show();
+            $('#orderform-wallet_out-label').html('Логин получателя');
+
+        }
+
+        if (curin == 'card' ||
+            curin == 'sbr' ||
+            curin == 'bank' ||
+            curin == 'vtb' ||
+            curin == 'alf' ||
+            curin == 'kukuruza' ||
+            curin == 'rs'
+        ) {
+            $('#orderform-fio').show();
+            $('#orderform-fio-label').html('ФИО владельца счета');
+            $('#orderform-fio-label').show();
+
+            $('#orderform-wallet_in').show();
+            $('#orderform-wallet_in-label').show();
+            $('#orderform-wallet_in-label').html('Телефон, привязанный к карте вашего банка');
+        }
+
+        if (curout == 'card' ||
+            curout == 'sbr' ||
+            curout == 'bank' ||
+            curout == 'vtb' ||
+            curout == 'alf' ||
+            curout == 'kukuruza' ||
+            curout == 'rs'
+        ) {
+            $('#orderform-fio').show();
+            $('#orderform-fio-label').html('ФИО владельца счета');
+            $('#orderform-fio-label').show();
+        }
+
+        if (curin=='sbr' || curout=='sbr' || curin=='card'){
+            $('#orderform-fio-label').html('ФИО + номер карты, пример: Иванов Иван Иванович 51234567890987');
+        }
+
+        if (curout == 'xmr' || curout == 'bcn' || curout == 'xmc') {
+            $('#orderform-info').show();
+            $('#orderform-info-label').html('Payment ID');
+            $('#orderform-info-label').show();
+        }
+
+        if (curout=='xrp'){
+            $('#orderform-info').show();
+            $('#orderform-info-label').html('Destination tag');
+            $('#orderform-info-label').show();
+        }
+
+        if (curout=='xlm'){
+            $('#orderform-info').show();
+            $('#orderform-info-label').html('Memo text');
+            $('#orderform-info-label').show();
+        }
+
+        $('#orderform-wallet_out').val(user_wallets[curout]);
+
+        $('#orderform-amount_in').val(rates[curin + '_' + curout]['min_amount']);
+        calc();
+    }
+
+    
+            
+             amount = 0;
+             
+             function roundM(x, n) {
+                var mult = Math.pow(10, n);
+                return Math.round(x*mult)/mult;
+             }
+
+             function calc() {
+                var curin = $('select[name="OrderForm[cur_in]"]').val();
+                var curout = $('select[name="OrderForm[cur_out]"]').val();
+                digit = 2;
+                
+                if (curout=='btc' || curout=='ltc' || curout=='xmr' || curout=='bcn' || curout=='zec' || curout=='xrp'){
+                    digit = 5;
+                }
+                
+                if (curout=='eth'){
+                    digit = 4;
+                }
+                
+                rate_value = rates[curin+'_'+curout]['value'];
+                rate_value_manual = rates[curin+'_'+curout]['man_value'];
+                if (rate_value_manual > 0){
+                    rate_value = rate_value_manual;
+                }
+                
+                
+                // Calculation begin
+                amount_in = $('#orderform-amount_in').val();
+                
+                comission_in = rates[curin+'_'+curout]['comission_in'];               
+                comission_in_percent = rates[curin+'_'+curout]['comission_in_percent'];               
+                
+                if (comission_in > 0 && comission_in_percent == 0) {
+                    console.log('comission_in triggered');
+                    amount_in = (amount_in-comission_in).toFixed(digit);                                      
+                }                
+                if (comission_in_percent > 0) {
+                    console.log('comission_in_percent triggered');
+                    //console.log(amount_in+'*'+comission_in_percent+'/100');
+                    percent_value = (amount_in * comission_in_percent)/100;
+                    amount_in = (amount_in-percent_value).toFixed(digit);
+                }
+                
+                //console.log(amount_in+'*'+rate_value);
+                amount = (amount_in * rate_value).toFixed(digit);                
+                
+                comission = rates[curin+'_'+curout]['comission'];                
+                comission_percent = rates[curin+'_'+curout]['comission_percent'];                
+                
+                if (comission > 0 && comission_percent == 0) {
+                    console.log('comission triggered');
+                    amount = (amount-comission).toFixed(digit);
+                }               
+                if (comission_percent > 0) {
+                    console.log('comission_percent triggered');
+                    //console.log(amount+'*'+comission_percent+'/100');
+                    percent_value = (amount * comission_percent)/100;
+                    amount = (amount-percent_value).toFixed(digit);                    
+                }
+                
+                amount = roundM(amount,digit);                         
+                $('#orderform-amount_out').val(amount);
+             }
+             
+             function calcReverse() {
+                var curin = $('select[name="OrderForm[cur_in]"]').val();
+                var curout = $('select[name="OrderForm[cur_out]"]').val();
+                digit = 2;
+                
+                if (curin=='btc' || curin=='ltc' || curin=='xmr' || curin=='bcn' || curin=='zec' || curin=='xrp'){
+                    digit = 5;
+                }
+                
+                if (curin=='eth'){
+                    digit = 2;
+                }
+                
+                rate_value = rates[curin+'_'+curout]['value'];
+                rate_value_manual = rates[curin+'_'+curout]['man_value'];
+                if (rate_value_manual > 0){
+                    rate_value = rate_value_manual;
+                }
+                
+                
+                // Calculation begin
+                amount = $('#orderform-amount_out').val();
+                
+                comission = rates[curin+'_'+curout]['comission'];    
+                comission_percent = rates[curin+'_'+curout]['comission_percent'];            
+                
+                if (comission > 0 && comission_percent == 0) {
+                    console.log('1) ' + amount+' + '+comission);
+                    amount = (+amount + +comission).toFixed(digit);
+                }
+                if (comission_percent > 0) {
+                    console.log('comission_percent triggered');                    
+                    percent_value = (amount * comission_percent)/100;
+                    amount = (+amount + +percent_value).toFixed(digit);
+                }
+                
+                amount_in = (amount / rate_value).toFixed(digit);
+                console.log('2) '+amount+' / '+rate_value);
+                
+                comission_in = rates[curin+'_'+curout]['comission_in'];    
+                comission_in_percent = rates[curin+'_'+curout]['comission_in_percent'];
+                           
+                if (comission_in > 0 && comission_in_percent == 0) {
+                    console.log('3) ' + amount_in+' / '+comission_in);
+                    amount_in = (+amount_in + +comission_in).toFixed(digit);
+                }
+                
+                if (comission_in_percent > 0) {
+                    console.log('comission_in_percent triggered');                
+                    percent_value = (amount_in * comission_in_percent)/100;
+                    amount_in = (+amount_in + +percent_value).toFixed(digit);
+                }
+                
+                $('#orderform-amount_in').val(amount_in);
+                
+             }           
+            calc();
+</script>
+<form id="order-form" action="/index" method="post">
+<input type="hidden" name="_csrf" value="YQIx0K83ozsaWJXABXuvCcjj94grzrgcxgCMf-ZBXLwtSmOlmnOWaXcp5aVkOOtEjYKdxRK5zU6rc_42ixAm1w==">
+<div class="row">
+<div class="col-md-12">
+<span id="rate_comments"></span>
+<div class="row">
+<div class="col-md-6">
+<div class="form-group field-orderform-cur_in">
+<label class="control-label" for="orderform-cur_in">Отдаете</label>
+<select id="orderform-cur_in" class="form-control" name="OrderForm[cur_in]" onChange="if (!window.__cfRLUnblockHandlers) return false; javascript: updateCurIn()" data-cf-modified-76e83fd966543d50da172ca0-="">
+<option value="btc">BTC (Bitcoin)</option>
+<option value="eth">ETH (Ethereum)</option>
+<option value="xrp">XRP (Ripple)</option>
+<option value="ltc">LTC (Litecoin)</option>
+<option value="zec">ZEC (Zcash)</option>
+<option value="bcn"> BCN (Bytecoin)</option>
+<option value="xlm">XLM(Stellar)</option>
+<option value="waves">Waves</option>
+<option value="pm">Perfect Money USD</option>
+<option value="advcash">Advanced Cash USD</option>
+<option value="advcash_rub">Advanced Cash RUB</option>
+<option value="payeer">Payeer USD</option>
+<option value="payeer_rub">Payeer RUB</option>
+<option value="nixmoney">NixMoney USD</option>
+<option value="yad">Яндекс.Деньги</option>
+<option value="sbr">Сбербанк</option>
+<option value="vtb">ВТБ24</option>
+</select>
+<div class="help-block"></div>
+</div> </div>
+<div class="col-md-6">
+<div class="form-group field-orderform-cur_out">
+<label class="control-label" for="orderform-cur_out">Вы получите</label>
+<select id="orderform-cur_out" class="form-control" name="OrderForm[cur_out]" onChange="if (!window.__cfRLUnblockHandlers) return false; javascript: updateForm()" data-cf-modified-76e83fd966543d50da172ca0-="">
+<option value="btc">BTC (Bitcoin)</option>
+<option value="eth">ETH (Ethereum)</option>
+<option value="xrp">XRP (Ripple)</option>
+<option value="ltc">LTC (Litecoin)</option>
+<option value="zec">ZEC (Zcash)</option>
+<option value="bcn"> BCN (Bytecoin)</option>
+<option value="xlm">XLM(Stellar)</option>
+<option value="waves">Waves</option>
+<option value="pm">Perfect Money USD</option>
+<option value="advcash">Advanced Cash USD</option>
+<option value="advcash_rub">Advanced Cash RUB</option>
+<option value="payeer">Payeer USD</option>
+<option value="payeer_rub">Payeer RUB</option>
+<option value="nixmoney">NixMoney USD</option>
+<option value="yad">Яндекс.Деньги</option>
+<option value="sbr">Сбербанк</option>
+<option value="vtb">ВТБ24</option>
+</select>
+<div class="help-block"></div>
+</div> </div>
+<div class="col-md-6">
+<div class="form-group field-orderform-amount_in">
+<label id="orderform-amount_in-label" class="control-label" for="orderform-amount_in">Отдадите сумму</label>
+<input type="text" id="orderform-amount_in" class="form-control" name="OrderForm[amount_in]" placeholder="Введите сумму" onKeyUp="if (!window.__cfRLUnblockHandlers) return false; javascript: calc()" data-cf-modified-76e83fd966543d50da172ca0-="">
+<div class="help-block"></div>
+</div> </div>
+<div class="col-md-6">
+<div class="form-group field-orderform-amount_out">
+<label id="orderform-amount_out-label" class="control-label" for="orderform-amount_out">Получите сумму</label>
+<input type="text" id="orderform-amount_out" class="form-control" name="OrderForm[amount_out]" placeholder="Вы получите" onKeyUp="if (!window.__cfRLUnblockHandlers) return false; javascript: calcReverse()" data-cf-modified-76e83fd966543d50da172ca0-="">
+<div class="help-block"></div>
+</div> </div>
+<div class="col-md-12">
+<div class="form-group field-orderform-wallet_in">
+<label id="orderform-wallet_in-label" class="control-label" for="orderform-wallet_in">BTC-E код</label>
+<input type="text" id="orderform-wallet_in" class="form-control" name="OrderForm[wallet_in]">
+<div class="help-block"></div>
+</div>
+<div class="form-group field-orderform-wallet_out">
+<label id="orderform-wallet_out-label" class="control-label" for="orderform-wallet_out">Receipt wallet</label>
+<input type="text" id="orderform-wallet_out" class="form-control" name="OrderForm[wallet_out]">
+<div class="help-block"></div>
+</div>
+<div class="form-group field-orderform-info">
+<label id="orderform-info-label" class="control-label" for="orderform-info">Name of account holder</label>
+<input type="text" id="orderform-info" class="form-control" name="OrderForm[info]">
+<div class="help-block"></div>
+</div>
+<div class="form-group field-orderform-fio">
+<label id="orderform-fio-label" class="control-label" for="orderform-fio"></label>
+<input type="text" id="orderform-fio" class="form-control" name="OrderForm[fio]">
+<div class="help-block"></div>
+</div>
+<div class="form-group field-orderform-email">
+<label class="control-label" for="orderform-email">Email</label>
+<input type="text" id="orderform-email" class="form-control" name="OrderForm[email]" placeholder="Your email">
+<div class="help-block"></div>
+</div>
+<div class="form-group field-orderform-agree">
+<label class="control-label" for="orderform-agree">Согласен с <a target="_blank" href="/rules">правилами сервиса</a> и типом обмена</label>
+<input type="hidden" name="OrderForm[agree]" value="0"><label><input type="checkbox" id="orderform-agree" class="input-d" name="OrderForm[agree]" value="1" template="&lt;tr&gt;&lt;td class=&quot;fr&quot;&gt; &lt;/td&gt;&lt;td&gt;{input} {label} {error}&lt;/td&gt;"> Согласен с правилами</label>
+<div class="help-block"></div>
+</div>
+<input type="submit" id="submit-button" class="btn btn-success btn-lg btn-block" value="Создать заявку">
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-2">
+<div class="panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Резервы</h3>
+</div>
+<div class="panel-body" style="font-weight: 100;">
+<img style="max-width: 30px" src="/images/icons/btc.png">
+0 BTC <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/eth.png">
+15.36 ETH <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/xrp.png">
+18810 XRP <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/ltc.png">
+1.46 LTC <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/zec.png">
+3.59 ZEC <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/bcn.png">
+0 BCN <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/xlm.png">
+8882.54 XLM <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/waves.png">
+56.49 WAVES <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/pm.png">
+442.63 USD <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/advcash.png">
+0 USD <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/advcash_rub.png">
+52651.22 RUB <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/payeer.png">
+0 USD <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/payeer_rub.png">
+498 RUB <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/nixmoney.png">
+10.85 USD <br />
+<br />
+<img style="max-width: 30px" src="/images/icons/yad.png">
+957.41 RUB <br />
+<br />
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-lg-12">
+<h3 class="page-header">Работаем с:</h3>
+</div>
+<div class="col-sm-2 col-xs-6">
+</div>
+<div class="col-sm-2 col-xs-6">
+<a href="#">
+<img class="img-responsive portfolio-item" src="/images/logos/payeer.png" alt="">
+</a>
+</div>
+<div class="col-sm-2 col-xs-6">
+<a href="#">
+<img class="img-responsive portfolio-item" src="/images/logos/ethereum.png" alt="">
+</a>
+</div>
+<div class="col-sm-2 col-xs-6">
+<a href="#">
+<img class="img-responsive portfolio-item" src="/images/logos/bitcoin.png" alt="">
+</a>
+</div>
+<div class="col-sm-2 col-xs-6">
+<a href="#">
+<img class="img-responsive portfolio-item" src="/images/logos/perfect-money.png" alt="">
+</a>
+</div>
+<div class="col-sm-2 col-xs-6">
+</div>
+</div>
+
+<hr>
+
+<footer>
+<div class="row">
+<div class="col-lg-12">
+<p>Copyright &copy; 24obmen.org</p>
+</div>
+</div>
+
+</footer>
+</div>
+
+<script type="76e83fd966543d50da172ca0-text/javascript" src="//consultsystems.ru/script/13397/hide/" charset="utf-8">
+</script>
+
+<script type="76e83fd966543d50da172ca0-text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter49161172 = new Ya.Metrika2({
+                    id: 49161172,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true
+                });
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/49161172" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+
+<script src="/assets/8ace901e/jquery.js" type="76e83fd966543d50da172ca0-text/javascript"></script>
+<script src="/assets/7ddfd705/yii.js" type="76e83fd966543d50da172ca0-text/javascript"></script>
+<script src="/assets/7ddfd705/yii.validation.js" type="76e83fd966543d50da172ca0-text/javascript"></script>
+<script src="/assets/7ddfd705/yii.activeForm.js" type="76e83fd966543d50da172ca0-text/javascript"></script>
+<script src="/assets/5e908f14/js/custom.js" type="76e83fd966543d50da172ca0-text/javascript"></script>
+<script src="/assets/dd0c1700/js/bootstrap.js" type="76e83fd966543d50da172ca0-text/javascript"></script>
+<script type="76e83fd966543d50da172ca0-text/javascript">jQuery(function ($) {
+
+        $('#orderform-wallet_in').hide();
+        $('#orderform-wallet_in-label').hide();
+
+        $('#orderform-info-label').hide();
+        $('#orderform-info').hide();
+        
+        updateCurIn();
+
+jQuery('#order-form').yiiActiveForm([{"id":"orderform-cur_in","name":"cur_in","container":".field-orderform-cur_in","input":"#orderform-cur_in","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Сумма входа» должно быть строкой.","max":150,"tooLong":"Значение «Сумма входа» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-cur_out","name":"cur_out","container":".field-orderform-cur_out","input":"#orderform-cur_out","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Сумма выхода» должно быть строкой.","max":150,"tooLong":"Значение «Сумма выхода» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-amount_in","name":"amount_in","container":".field-orderform-amount_in","input":"#orderform-amount_in","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/,"message":"Значение «Отдаете» должно быть числом.","skipOnEmpty":1});}},{"id":"orderform-amount_out","name":"amount_out","container":".field-orderform-amount_out","input":"#orderform-amount_out","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/,"message":"Значение «Получаете» должно быть числом.","skipOnEmpty":1});}},{"id":"orderform-wallet_in","name":"wallet_in","container":".field-orderform-wallet_in","input":"#orderform-wallet_in","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Кошелек оплаты» должно быть строкой.","max":150,"tooLong":"Значение «Кошелек оплаты» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-wallet_out","name":"wallet_out","container":".field-orderform-wallet_out","input":"#orderform-wallet_out","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Кошелек получения» должно быть строкой.","max":150,"tooLong":"Значение «Кошелек получения» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-info","name":"info","container":".field-orderform-info","input":"#orderform-info","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Доп информация» должно быть строкой.","max":150,"tooLong":"Значение «Доп информация» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-fio","name":"fio","container":".field-orderform-fio","input":"#orderform-fio","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Фамилия Имя Отчество» должно быть строкой.","max":150,"tooLong":"Значение «Фамилия Имя Отчество» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-email","name":"email","container":".field-orderform-email","input":"#orderform-email","validate":function (attribute, value, messages, deferred, $form) {yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Значение «Email» не является правильным email адресом.","enableIDN":false,"skipOnEmpty":1});yii.validation.string(value, messages, {"message":"Значение «Email» должно быть строкой.","max":150,"tooLong":"Значение «Email» должно содержать максимум 150 символов.","skipOnEmpty":1});}},{"id":"orderform-agree","name":"agree","container":".field-orderform-agree","input":"#orderform-agree","validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^\s*[+-]?\d+\s*$/,"message":"Значение «Согласен с правилами» должно быть целым числом.","skipOnEmpty":1});}}], []);
+});</script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="76e83fd966543d50da172ca0-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <title>Exchange Webmoney to PayPal </title>
+        <meta charset="UTF-8">
+        <meta name="yandex-verification" content="1f0812d7b828f000" />
+        <meta name="google-site-verification" content="YsCSBk2EouDGeaEeAwOen27i8kv5bpM5ISCx4gFIwTU" />
+        <meta name="viewport" content="width=device-width, initial-scale=0.0">    
+        <meta name='yandex-verification' content='4372967bde8b689e' />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="robots" content="all">
+        <meta name="description" content="Exchange my-Xchange allows you exchange Webmoney to PayPal. We’re official exchange of Webmoney. Fast and reliable exchange WM to PayPal is guaranteed">
+        <meta name="keywords" content="Exchange Webmoney to PayPal, exchange wm to paypal, withdraw web money with paypal">
+        <meta property="og:title" content="Exchange Webmoney to PayPal ">
+        <meta property="og:description" content="Exchange my-Xchange allows you exchange Webmoney to PayPal. We’re official exchange of Webmoney. Fast and reliable exchange WM to PayPal is guaranteed">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta name='yandex-verification' content='46d42dde9480e3e9'>
+        <META NAME="webmoney.attestation.label" CONTENT="webmoney attestation label#F074715B-CE84-44FE-893D-834BE0B9AB04" /> 
+        <link rel="icon" href="https://my-xchange.com/images/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="https://my-xchange.com/images/favicon.ico" type="image/x-icon" >
+        <link rel="alternate" hreflang="ru-ru" href="https://my-xchange.com/ru/?pid=C18048">
+<link rel="alternate" hreflang="en-us" href="https://my-xchange.com/en/?pid=C18048">
+        
+                
+        <link href="https://my-xchange.com/cache/css/aa1561c70c649f8167a82bfe2fb95bd6_compressed.css" media="screen" rel="stylesheet" type="text/css" />
+        <!--[if lt IE 9]>
+                <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> 
+        <![endif]-->
+    </head>
+       
+
+<body>
+
+    <div id="wrapper" class="default cf">
+        <div id="livechat_block">
+        <!-- LiveZilla Chat Button Link Code (ALWAYS PLACE IN BODY ELEMENT) --><!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
+        var script = document.createElement("script");
+        script.async = true;
+        script.type = "text/javascript";
+        var src = "https://support.my-xchange.com/livechat/server.php?a=9c9e0&rqst=track&output=jcrpt&fbpos=12&fbml=0&fbmt=0&fbmr=0&fbmb=0&fbw=54&fbh=100&nse=" + Math.random();
+        setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)", 1);</script><noscript><img src="https://support.my-xchange.com/livechat/server.php?a=9c9e0&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code --><div style="display:none;"><a href="javascript:void(window.open('https://support.my-xchange.com/livechat/chat.php?a=70190','','width=610,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_fl"><img id="chat_button_image" src="https://support.my-xchange.com/livechat/image.php?a=1a2de&amp;id=2&amp;type=overlay" width="54" height="100" style="border:0px;" alt="LiveZilla Live Chat Software"></a></div><!-- http://www.LiveZilla.net Chat Button Link Code -->
+        <!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"></div><script type="text/javascript">
+var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "https://support.my-xchange.com/livechat/server.php?a=5fbd5&rqst=track&output=jcrpt&ovlc=IzczYmUyOA__&ovloe=MQ__&ovlhm=MQ__&ovlapo=MQ__&eca=MQ__&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="https://support.my-xchange.com/livechat/server.php?a=5fbd5&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code -->
+</div>
+
+
+
+        <script type="text/javascript" src="https://my-xchange.com/cache/js/165a681ee1aef977769c285177c58737_compressed.js"></script><script type="text/javascript">
+   
+web_global = {};
+
+web_global.base_url = 'https://my-xchange.com';
+
+web_global.locale = 'en';
+
+web_global.base_rooturl = 'https://my-xchange.com';
+
+web_global.base_domain = 'my-xchange.com';
+
+web_global.controller = 'index';
+
+web_global.navtab_controller = 'index';
+
+web_global.ajax_timeout =  '140000';
+
+web_global.notice_refresh =  '10000';
+
+web_global.lang =  'en';
+
+web_global.visitor_detect_uri =  'https://my-xchange.com/en/visitor';
+
+web_global.protocol = "https://";
+
+web_global.uauth = "false";
+
+web_global.dialog_loaderscreen = 'ui-dialog-preloader';
+
+web_global.loader_local = 'loader-local';
+
+web_global.dialog_container_id = 'modal_dialog_container';
+
+web_global.dialog_container = '#modal_dialog_container';
+
+web_global.dialog_title = '#modal_dialog_container .modal-title';
+
+web_global.dialog_body = '#modal_dialog_container .modal-body';
+
+// класс присутствующий в слоях кнопок для загрузки файлов на сервер
+web_global.fileupload_class = 'file-uploader';
+// переменные связанные с загрузкой файлов на сервер
+web_global.upload = null;
+// класс используемый в родительском списке загружаемый файлов
+web_global.upload_listclass = 'qq-upload-list';
+// класс используемый в слое кнопки загрузки файлов
+web_global.upload_button = 'qq-upload-button';
+// класс элемента с ID загруженного файла
+web_global.upload_itemclass = 'qq-upload-item';
+// описание загружаемого файла
+web_global.file_description = null;
+
+web_global.server_time = {};
+
+
+event_messages = {
+'ajax_undefined_update_target' : "Undefined object updates",
+'chosen_no_matches' : "Nothing was found",
+
+
+'ajax_error' : "During the query fails, try the request later.",
+'ajax_timeout_over' : "Timeout from the server, repeat the request?",
+
+'ajax_action_confirm' : "Confirm the operation?",
+'ajax_action_noselected' : "Do not choose a single element",
+
+'ajax_upload_file_description' : "A brief description of the file",
+'ajax_upload_file_tags' : "Specify a tag for the file, separated by commas",
+'ajax_wait' : "Please wait...",
+'ajax_delete' : "Delete?",
+'ajax_download' : "Loading began",
+'ajax_phonestatus_error' : "When you receive a phone status test error occurred on the server side.",
+'ajax_confirm_changes' : "Save changes?",
+'ajax_opkey_expire' : "The timing of the transaction has expired",
+'ajax_connect_error' : "Unable to connect to the server"
+};
+
+upload_text = {
+'upload' : 'Upload file on server',
+'cancel' : 'Cancel',
+'failed' : 'Error',
+'remove' : 'Delete',
+'change' : 'Change',
+'download' : 'Download from server',
+'showimage' : 'Show picture',
+'typeError' : '{File} has invalid extension. Only {extensions} are allowed.',
+'sizeError' : '{File} is too large, maximum file size is {sizeLimit}.',
+'minSizeError' : '{File} is too small, minimum file size is {minSizeLimit}.',
+'emptyError' : '{File} is empty, please select files again without it.',
+'onLeave' : 'The files are being uploaded, if you leave now the upload will be cancelled.'
+};
+
+text_tips = {
+'refresh_title' : 'Refresh',
+'collapse_title' : 'Minimize/Maximize the window',
+'max_text_length' : 'The maximum length of text (characters)',
+'rest_text_length' : 'You can type still symbols',
+'min_fee_str' : 'min.',
+};
+</script>
+
+
+    
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1513030-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter29988384 = new Ya.Metrika({id:29988384,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29988384" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter29988399 = new Ya.Metrika({id:29988399,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29988399" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=1356371" type="text/javascript"></script>
+
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"6f2On1QolK10uW", domain:"my-xchange.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=6f2On1QolK10uW" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  <div class="modal fade" id="modal_dialog_container" aria-labelledby="modal_dialog_container" tabindex="-1" role="dialog" aria-hidden="true" style="z-index:10000;">
+    <div class="modal-dialog" style="width:600px;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <div class="modal-title"></div>
+            </div>
+            <div class="modal-body"></div>
+        </div>
+    </div>
+</div>
+
+
+<div id="header">
+    <div class="container cf">
+        <div class="logo-com-en">
+            <a href="/en"></a>
+          <!-- <i class="santa-cap"></i> -->
+        </div>
+        <div class="contacts-header">
+            <div>
+                <i class="icon icon-icq" als="Telegram" title="Telegram"></i>
+                Telegram: <a href="tg://resolve?domain=myXchange">myXchange</a>
+            </div>    
+            <div>
+                <i class="icon icon-skype" alt="S" title="Skype"></i>
+                Skype: <a href="skype:my-xchange?chat">my-xchange</a> <small>(chat only)</small>
+            </div>
+            <!---
+            <div>
+               <i class="icon icon-phone"></i>
+               +4 (202) 288-815-26               <small>Telephone customer support</small>
+           </div>
+           !-->
+        </div>
+        <div class="worktime">
+            <div>
+                <text id="server_time">05:46</text> <span>(-04:00 GMT)</span>
+                
+                                                <small class="">Office open  <i class="icon icon-worktime"></i></small>
+                            </div>	
+        </div>
+            
+
+          
+
+                <div class="right authorization">
+            <button type="button" class="btn btn-default" id="authorization-button" data-toggle="modal" data-target="#entermodal" style="width: 101px;">Login in</button>
+            <div class="lang">
+                <div class="flags en" id="selLang">
+                    <a href="javascript:void(0);" onclick="$(this).parent().hide();
+                            $('#langList').show();"><span></span> 
+                        <i class="icon icon-arr-sellang"></i>
+                    </a>
+                </div>
+                <ul class="hide" id="langList">
+                    
+<li class="flags en">
+    <a href="/en/?pid=C18048"><span></span></a> 
+        <i class="icon icon-arr-sellang"></i>
+</li>
+
+
+<li class="flags ru">
+    <a href="/ru/?pid=C18048"><span></span></a> 
+        <i class="icon icon-arr-sellang"></i>
+</li>
+
+                </ul>
+            </div>
+            <button type="button" class="btn btn-blue" data-toggle="modal" data-target="#registration" style="width:100%;margin-top:3px;">Create account</button>
+        </div>
+        <script type="text/javascript">
+    $(function() {
+        var signup_text;
+        $(document).on('change', '#signup_as', function(event) {
+            signup_text = '#signup_up_text_' + this.value;
+            $(':regex(id, ^signup_up_text_(.*)$)').hide();
+            $(signup_text).show();
+        });
+        
+            });
+</script>
+<div class="modal fade" id="entermodal" tabindex="-1" role="dialog" aria-labelledby="entermodal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" id="signin-restore-form">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <div class="modal-title">Login to your account</div>
+            </div>
+            <div class="modal-body">
+                <form id="signinForm" action="https://my-xchange.com/en/signin/auth" method="post" role="form">
+                    <input type="hidden" id="sign_notmodal" name="sign_notmodal" value="1" />
+                    <input type="hidden" id="return_ref" name="return_ref" value="" />
+                    <div class="form-group">
+                        <input type="text" id="signin_email" name="signin_email" class="form-control" value="" placeholder="E-mail:" />
+                    </div>
+                    <div class="password-row">
+                        <div class="form-group">
+                            <input type="password" class="form-control" name="signin_pass" id="signin_pass" value="" placeholder="password"  />
+                        </div>	
+                        <div class="pass-lock-unlock">
+                            <a href="javascript:void(0);" onclick="$('#pass').toggleClass('pass-locked');
+                                    $('#pass').toggleClass('pass-unlocked');
+                                    if ($('#signin_pass').get(0).type == 'password')
+                                        $('#signin_pass').get(0).type = 'text';
+                                    else
+                                        $('#signin_pass').get(0).type = 'password';"><i class="icon pass-locked" id="pass"></i></a>
+                        </div>
+                        <div id="singin-captcha-block">
+                                                    </div>
+                    </div>
+                    <button type="button" class="btn btn-default ajax-request serialize-form[this] target-update[#signin-restore-form] disable-item">Login in</button>
+                    <a href="javascript:void(0);" class="remember-pass" onclick="$('#modal-footer-default').toggle();
+                            $('#modal-footer-remember').toggle();">Forgot password?</a>
+                </form>
+            </div>
+            <div class="modal-footer" id="modal-footer-default">
+                <p>If you do not have an account, go through the simple registration process.</p>
+                <button type="button" id="signup-account-button" class="btn btn-default" data-toggle="modal" data-target="#registration" data-dismiss="modal" aria-hidden="true">Create account</button>
+            </div>
+            <div class="modal-footer hide" id="modal-footer-remember">
+                <div id="restoreForm" class="modal-title">Password recover</div>
+                <div id="restore-step">
+                    <form action="https://my-xchange.com/en/passwordrestore/confirm" role="form">
+                        <div class="form-group">
+                            <input type="email" class="form-control last" name="restore_email" id="restore_email" value="" placeholder="Provide the e-mail, specified during registration" />
+                        </div>
+                        <div id="restore-captcha-block">
+                                                    </div>
+                        <button type="button" class="btn btn-default ajax-request serialize-form[this] target-update[#restore-step] disable-item">Recover password</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="registration" tabindex="-1" role="dialog" aria-labelledby="registration" aria-hidden="true" blur="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <div class="modal-title">Registration</div>
+            </div>
+            <div class="modal-body">
+                <p>Service provides several types of accounts, select the suitable for 
+you and go through a simple registration procedure. If you plan to 
+make only automated exchanges between e-currencies, no registration required.</p>
+                <form action="https://my-xchange.com/en/signup/continue" method="post" role="form" id="signupForm1">
+                    <div class="form-group">
+                        <label for="signup_as" class="control-label">Account type</label>
+                        <select  class="form-control nochosen"  id="signup_as" name="signup_as"  >
+                                                <option value="0" selected >Initial account</option>
+                                                                <option value="1"  >Standard account</option>
+                                                                <option value="2"  >Webmaster-partner</option>
+                        </select>                    </div>
+                    <div class="spetial-offers green">
+                        <div class="spetial-offers-bg-top green"></div>
+                        <div class="spetial-offers-bg-right green"></div>
+                        <div id="signup_up_text_0">
+                            <p>The name of this account speaks for itself: You do not need to enter your personal details. With it's help you can make exchanges different electronic currencies, but will not be able to topup your wallets or withdraw funds.</p>
+                            <strong>Benefits of registration:</strong>
+                            <ul>
+                                <li><i class="icon icon-list-green"></i>Participation in promotions and prize draws;</li>
+                                <li><i class="icon icon-list-green"></i>Earning of bonus points;</li>
+                                <li><i class="icon icon-list-green"></i>Ability to view transaction history;</li>
+                                <li class="last"><i class="icon icon-list-green"></i>Saving billing details for quick place orders;</li>
+                            </ul>
+                        </div>
+                        <div id="signup_up_text_1" style="display:none;">
+                            <p>Signup this type of account, you can make not only autoexchanes also buy and sell e-currencies through bank transfers, visa/mastercard. Your personal information under maximum protection and is guaranteed not to fall into the hands of third parties.</p>
+                            <strong>Benefits of registration:</strong>
+                            <ul>
+                                <li><i class="icon icon-list-green"></i>Participation in promotions and prize draws;</li>
+                                <li><i class="icon icon-list-green"></i>Earning of bonus points;</li>
+                                <li><i class="icon icon-list-green"></i>Ability to view transaction history;</li>
+                                <li class="last"><i class="icon icon-list-green"></i>Saving billing details for quick place orders;</li>
+                            </ul>
+                        </div>
+                        <div id="signup_up_text_2" style="display:none;">
+                            <p>You have a site related subjects and you want to earn on it? Service My-Xchange offers you the best affiliate program with regular payouts! All of the proposed sites are manually moderated, promo materials are provided by us.</p>
+                            <strong>Benefits of registration:</strong>
+                            <ul>
+                                <li><i class="icon icon-list-green"></i>Participation in promotions and prize draws;</li>
+                                <li><i class="icon icon-list-green"></i>Earning of bonus points;</li>
+                                <li><i class="icon icon-list-green"></i>Ability to view transaction history;</li>
+                                <li class="last"><i class="icon icon-list-green"></i>Saving billing details for quick place orders;</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-default ajax-request serialize-form[this] target-update[#signup-step] disable-item" data-toggle="modal" data-target="#registration-step2" data-dismiss="modal" aria-hidden="true">Continue</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="registration-step2" tabindex="-1" role="dialog" aria-labelledby="registration-step2" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <div class="modal-title">Registration</div>
+            </div>
+            <div class="modal-body step2" id="signup-step"></div>
+        </div>
+    </div>
+</div>            </div>
+</div>        <script type="text/javascript">
+    $(function() {
+        if ($('#operation-dialog-view')) {
+            $('#operation-dialog-view').modal('show');
+        }
+
+                        var cnt = '#nav-index';
+                                $('#nav ' + cnt).addClass('active');
+    });
+</script>
+<div id="nav">
+    <div class="container">
+        <ul class="cf">
+            <li id="nav-index"><a href="/en">Home</a></li>
+            <li id="nav-services">
+                <a href="javascript:void(0);">Services</a> <i class="icon icon-arr-grey"></i>
+                <ul class="submenu hide"> 
+                    <li><a href="https://my-xchange.com/en/service/WEBMONEY/PAYPAL"><i class="icon operator-exchange-menu"></i>Exchange Webmoney to PayPal</a></li>
+                    <li><a href="https://my-xchange.com/en/service/BANK/WEBMONEY"><i class="icon in-exchange-menu"></i>Add Webmoney through the bank</a></li>
+                    <li><a href="https://my-xchange.com/en/service/WEBMONEY/BANK"><i class="icon out-exchange-menu"></i>Webmoney withdraq to a bank account</a></li>
+                </ul>
+            </li>
+            <li id="nav-fees"><a href="/en/fees">Rates</a></li>
+            <li id="nav-webmaster"><a href="/en/webmaster">Partners</a></li>
+            <li id="nav-help"><a href="/en/help">Help</a></li>
+            <li id="nav-contactus"><a href="/en/contactus">Contacts</a></li>
+        </ul>
+        <div class="addthis">
+            <div><a href="https://twitter.com/MyXchange" target="_blank"><img src="/images/twitter.png" alt="Twitter" title="Follow us on Twitter"/></a></div>
+            <div><a href="https://www.facebook.com/myxchange" target="_blank"><img src="/images/facebook.png" alt="Facebook" title="We\'re on Facebook"/></a></div>
+            <div><a href="http://www.youtube.com/user/myxchangeChanel" target="_blank"><img src="/images/youtube.png" alt="Youtube" title="Our channel on Youtube"/></a></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+            <div class="g-plusone" data-annotation="none"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function() {
+                    var po = document.createElement('script');
+                    po.type = 'text/javascript';
+                    po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <script type="application/ld+json">
+                {
+                "@context" : "http://schema.org",
+                "@type" : "Organization",
+                "name" : "my-Xchange",
+                "url" : "https://my-xchange.com/ru/",
+                "sameAs" : [
+                "http://vk.com/myxchange",
+                "https://www.facebook.com/myxchange",
+                "https://twitter.com/MyXchange",
+                "http://www.youtube.com/user/myxchangeChanel"
+                ]
+                }
+            </script>
+        </div>
+    </div>
+</div>        <script type="text/javascript">
+    $(function() {
+
+        $.fn.sliderToggle = function(status) {
+            $.cookie('slider_show', status, {expires: 10, path: '/'});
+        };
+
+        // скрываем слайдер
+        $.fn.sliderHide = function(status) {
+            var slider_show = $.cookie('slider_show');
+
+            if (slider_show == 'false') {
+                $('#slider').css('display', 'none');
+                $('#slider-hidden').css('display', 'block');
+            }
+
+        };
+        $(this).sliderHide();
+
+    });
+</script>
+<div id="slider">
+    <div class="container">
+
+        <div id="homeslider" class="carousel slide" data-ride="homeslider">
+            <ol class="carousel-indicators">
+                <li data-target="#homeslider" data-slide-to="0" class="active"></li>
+                <li data-target="#homeslider" data-slide-to="1"></li>
+                <li data-target="#homeslider" data-slide-to="2"></li>
+                <li data-target="#homeslider" data-slide-to="3"></li>
+            </ol>
+
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img src="/images/slide-1-en.png" alt="" />
+                    <div class="carousel-caption">
+                        <strong>Exchange center my-Xchange —  a proven and reliable partner in the market of e-currency exchanges.</strong>
+                        <p>For more than 8 years, we provide high-quality and fast service to tens ofthousands of our customers. Join now!</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="/images/slide-2.png" alt="" />
+                    <div class="carousel-caption">
+                        <strong>Fast and reliable is time tested</strong>
+                        <p>Time is money. We save you time by reducing the time constant processing exchange transactions!</p>
+                    </div>
+                </div>
+                <div class="item slide3">
+                    <img src="/images/slide-3.png" alt="" />
+                    <div class="carousel-caption">
+                        <strong>Large selection of supported e-currencies and payment methods</strong>
+                        <p>We do not stand still, and confidence to keep pace with the times. Offering popular products in the e-currency exchange market.</p>
+                    </div>
+                </div>
+                <div class="item slide4">
+                    <img src="/images/slide-4.png" alt="" />
+                    <div class="carousel-caption">
+                        <strong>Discounts, affiliate program and more</strong>
+                        <p>Earn bonuses with each exchange and save on the next! Owners of web sites and monitoring el.valyut can increase profits by connecting to our affiliate program.</p>
+                    </div>
+                </div>
+                            </div>
+
+            <a class="left carousel-control" href="#homeslider" data-slide="prev"></a>
+            <a class="right carousel-control" href="#homeslider" data-slide="next"></a>
+        </div>
+
+        <div class="slider-state"><a href="javascript:void(0);" onclick="$('#slider').slideToggle().toggleClass('');
+                $('#slider-hidden').slideToggle();
+                $(this).sliderToggle('false');">Hide</a> <i class="icon slider-hide"></i></div>
+
+    </div>
+</div>
+
+<div id="slider-hidden" class="hide">
+    <div class="container">
+        <p>Exchange center my-Xchange —  a proven and reliable partner in the market of e-currency exchanges.</p>
+        <div class="slider-state-hidden"><a href="javascript:void(0);" onclick="$('#slider').slideToggle().toggleClass('opened');
+                $('#slider-hidden').slideToggle();
+                $(this).sliderToggle('true');">Slider</a> <i class="icon slider-show"></i></div>
+    </div>
+</div>
+        
+        <div id="content">
+            <div class="container">
+    <div class="sideright">
+                <script type="text/javascript">
+    (function($) {
+        $(window).load(function() {
+            /* initialize scrollbar */
+            $("#twitter-widget-holder").mCustomScrollbar({
+                    theme: "dark-3",
+                    scrollButtons:{enable:true}
+                });
+                /* insert twitter widget js in window load fn */
+                !function(d, s, id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document, "script", "twitter-wjs")
+                ;
+            });
+        })(jQuery);
+</script>
+<style type="text/css">
+    #twitter-widget-holder{ 
+        max-height:250px; max-width:280px;background:#fff; border-radius:0px;
+    }
+</style>
+<div class="news">
+    <div class="news-title">
+        <a href="https://my-xchange.com/en/news/all"><span>News service</span> <i class="icon icon-important"></i></a>
+    </div>
+    <ul>
+        
+        <li  class="last" >
+            <a href="https://my-xchange.com/en/news/happy-new-2017-year" class="clickoff ajax-request">Работа в новогодние праздники</a>
+            <span>Wednesday, 27 December, 2017</span>
+        </li>
+            </ul>
+    <div id="twitter-widget-holder">
+        <a class="twitter-timeline" href="https://twitter.com/MyXchange" data-widget-id="699182361007804416"  width="300" height="300" data-chrome="transparent noscrollbar" data-lang="en">Твиты от @MyXchange</a>
+    </div>
+</div>    </div>
+    <div class="exchenge">
+        <script type="text/javascript">
+            $(function() {
+              $('li.operator-exchange').addClass('active');
+            });
+        </script>
+        <ul class="exchenge-nav">
+    <li class="operator-exchange">
+        <a href="https://my-xchange.com/en" data-toggle=""><i class="icon operator-exchange"></i>Exchange</a>
+    </li>
+    <li class="in-exchange">
+        <a href="https://my-xchange.com/en/buy" data-toggle=""><i class="icon in-exchange"></i>Topup</a>
+    </li>
+    <li class="out-exchange">
+        <a href="https://my-xchange.com/en/sell" data-toggle=""><i class="icon out-exchange"></i>Withdraw</a>
+    </li>
+
+</ul>        <div class="tab-content" id="tab-content">
+            <!-- operator-exchange -->
+<div class="tab-pane active" id="operator-exchange">
+    <script type="text/javascript">
+        $(function() {
+            $('#from_curr').on('change', function(event) {
+                // переход на другой домен для обмена других валют
+                if (this.value == 'another_currs')
+                        window.location.replace('https://my-xchange.biz/en/exchange' + '');
+            });
+        });
+    </script>
+    
+<script type="text/javascript">
+            $(function() {
+            var pairs = [];
+            var ps_logo = [];
+            var payin;
+            var payout;
+            var payin_payout;
+            
+            ps_logo = {
+                                    '2' : '<img src="https://my-xchange.com/images/pslogo/wm_88x31.png" width="88"  height="31" alt="" title="" />',    
+                                    '74' : '<img src="https://my-xchange.com/images/pslogo/paypal_88x31.png" width="88"  height="31" alt="" title="" />',    
+                            };
+                    // курсы валютных пар
+                    pairs = {
+                                            'WME' : {
+                                                                'PAYPALEUR' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WME',
+                                        'curr_out' : 'PayPal EUR',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '0.920',
+                                        'operation_fees' : "<strong>8.00% </strong>, but not less <strong>8.000</strong> WME",
+                                        'ps_curr_in' : 'WME',
+                                        'ps_curr_out' : 'EUR',
+                                        'reserve' : '10000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALGBP' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WME',
+                                        'curr_out' : 'PayPal GBP',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '0.756',
+                                        'operation_fees' : "<strong>10.70% </strong>, but not less <strong>8.000</strong> WME",
+                                        'ps_curr_in' : 'WME',
+                                        'ps_curr_out' : 'GBP',
+                                        'reserve' : '10000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALRUB' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WME',
+                                        'curr_out' : 'PayPal RUB',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '65.279',
+                                        'operation_fees' : "<strong>7.90% </strong>, but not less <strong>8.000</strong> WME",
+                                        'ps_curr_in' : 'WME',
+                                        'ps_curr_out' : 'RUB',
+                                        'reserve' : '50000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALUSD' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WME',
+                                        'curr_out' : 'PayPal USD',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '1.034',
+                                        'operation_fees' : "<strong>7.90% </strong>, but not less <strong>8.000</strong> WME",
+                                        'ps_curr_in' : 'WME',
+                                        'ps_curr_out' : 'USD',
+                                        'reserve' : '10000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'WMZ' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '2',
+                                        'curr_in' : 'Webmoney WME',
+                                        'curr_out' : 'Webmoney WMZ',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '1.107',
+                                        'operation_fees' : "<strong>3.50</strong> % ",
+                                        'ps_curr_in' : 'WME',
+                                        'ps_curr_out' : 'WMZ',
+                                        'reserve' : '15287.07',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'Webmoney',
+                                        'type' : 'Instant exchange. <br/>will take you less than a minute.',
+                                    },
+                            
+                                                    },
+                                            'WMR' : {
+                                                                'PAYPALEUR' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMR',
+                                        'curr_out' : 'PayPal EUR',
+                                        'rate_in' : '79.739',
+                                        'rate_out' : '1.000',
+                                        'operation_fees' : "<strong>8.00% </strong>, but not less <strong>500.000</strong> WMR",
+                                        'ps_curr_in' : 'WMR',
+                                        'ps_curr_out' : 'EUR',
+                                        'reserve' : '5000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALRUB' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMR',
+                                        'curr_out' : 'PayPal RUB',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '0.921',
+                                        'operation_fees' : "<strong>7.90% </strong>, but not less <strong>499.000</strong> WMR",
+                                        'ps_curr_in' : 'WMR',
+                                        'ps_curr_out' : 'RUB',
+                                        'reserve' : '50000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALUSD' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMR',
+                                        'curr_out' : 'PayPal USD',
+                                        'rate_in' : '70.288',
+                                        'rate_out' : '1.000',
+                                        'operation_fees' : "<strong>8.00% </strong>, but not less <strong>499.000</strong> WMR",
+                                        'ps_curr_in' : 'WMR',
+                                        'ps_curr_out' : 'USD',
+                                        'reserve' : '10000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'WMZ' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '2',
+                                        'curr_in' : 'Webmoney WMR',
+                                        'curr_out' : 'Webmoney WMZ',
+                                        'rate_in' : '67.010',
+                                        'rate_out' : '1.000',
+                                        'operation_fees' : "<strong>5.00</strong> % ",
+                                        'ps_curr_in' : 'WMR',
+                                        'ps_curr_out' : 'WMZ',
+                                        'reserve' : '15287.07',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'Webmoney',
+                                        'type' : 'Instant exchange. <br/>will take you less than a minute.',
+                                    },
+                            
+                                                    },
+                                            'WMZ' : {
+                                                                'PAYPALEUR' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMZ',
+                                        'curr_out' : 'PayPal EUR',
+                                        'rate_in' : '1.245',
+                                        'rate_out' : '1.000',
+                                        'operation_fees' : "<strong>8.00% </strong>, but not less <strong>8.000</strong> WMZ",
+                                        'ps_curr_in' : 'WMZ',
+                                        'ps_curr_out' : 'EUR',
+                                        'reserve' : '10000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALGBP' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMZ',
+                                        'curr_out' : 'PayPal GBP',
+                                        'rate_in' : '1.500',
+                                        'rate_out' : '1.000',
+                                        'operation_fees' : "<strong>10.70% </strong>, but not less <strong>8.000</strong> WMZ",
+                                        'ps_curr_in' : 'WMZ',
+                                        'ps_curr_out' : 'GBP',
+                                        'reserve' : '3000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALRUB' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMZ',
+                                        'curr_out' : 'PayPal RUB',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '57.542',
+                                        'operation_fees' : "<strong>7.90% </strong>, but not less <strong>8.000</strong> WMZ",
+                                        'ps_curr_in' : 'WMZ',
+                                        'ps_curr_out' : 'RUB',
+                                        'reserve' : '50000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'PAYPALUSD' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '74',
+                                        'curr_in' : 'Webmoney WMZ',
+                                        'curr_out' : 'PayPal USD',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '0.921',
+                                        'operation_fees' : "<strong>7.90% </strong>, but not less <strong>8.000</strong> WMZ",
+                                        'ps_curr_in' : 'WMZ',
+                                        'ps_curr_out' : 'USD',
+                                        'reserve' : '35000.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'PayPal',
+                                        'type' : 'Exchange through the operator for several hours.',
+                                    },
+                            
+                                                                'WME' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '2',
+                                        'curr_in' : 'Webmoney WMZ',
+                                        'curr_out' : 'Webmoney WME',
+                                        'rate_in' : '1.189',
+                                        'rate_out' : '1.000',
+                                        'operation_fees' : "<strong>3.50</strong> % ",
+                                        'ps_curr_in' : 'WMZ',
+                                        'ps_curr_out' : 'WME',
+                                        'reserve' : '15.79',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'Webmoney',
+                                        'type' : 'Instant exchange. <br/>will take you less than a minute.',
+                                    },
+                            
+                                                                'WMR' : {
+                                        'ps_in_id' : '2',
+                                        'ps_out_id' : '2',
+                                        'curr_in' : 'Webmoney WMZ',
+                                        'curr_out' : 'Webmoney WMR',
+                                        'rate_in' : '1.000',
+                                        'rate_out' : '63.404',
+                                        'operation_fees' : "<strong>1.50</strong> % ",
+                                        'ps_curr_in' : 'WMZ',
+                                        'ps_curr_out' : 'WMR',
+                                        'reserve' : '115849.00',
+                                        'ps_in_name' : 'Webmoney',
+                                        'ps_out_name' : 'Webmoney',
+                                        'type' : 'Instant exchange. <br/>will take you less than a minute.',
+                                    },
+                            
+                                                    },
+                                        };
+            
+                if(pairs.lenght == 0){
+                        $('#operator-exchange').html('<div class="exchanges-not-exist"><strong>Unfortunately you have chosen unavailable operation in the section «Manual exchange», please visit us later.</strong></div>');
+                }
+                
+                function setListToExchangeCurrency(){
+                    $('#to_curr').find('option').remove();
+                    $.each(pairs[$('#from_curr').val()], function(i, val) {
+                        $('#to_curr').append('<option value="' + i +'">' +  val.curr_out + '</option>').val(i);
+                    });
+                    var pair_item = pairs[$('#from_curr').val()][$('#to_curr').val()];
+
+                    if(pair_item.ps_in_id == pair_item.ps_out_id){
+                        $.each($('#to_curr').find('option'), function(i, val) {
+                            pair_item = pairs[$('#from_curr').val()][$(val).val()];
+                            if(pair_item.ps_in_id != pair_item.ps_out_id){
+                                $(val).prop('selected', true);
+                                return false;
+                           }
+                        });
+                    }
+                    // апдейт селекта в плагине chosen
+                    $('#to_curr').trigger("chosen:updated");
+                }
+
+            
+                function setExchangeParams(){
+                    payin = $('#from_curr').val();
+                    payout = $('#to_curr').val();
+                    pair = pairs[payin][payout];
+                    if(pair != undefined){
+                        initSystemLogo();
+                        $('#payin_rate').html(pair.rate_in);
+                        $('#payin_curr').html(pair.curr_in);
+                        $('#payout_rate').html(pair.rate_out);
+                        $('#payout_curr').html(pair.curr_out);
+                        $('#reserve').html(pair.reserve + ' ' + pair.ps_curr_out);
+                        $('#reserve_out_ps').html(pair.ps_out_name);
+                        $('#exchange_fee').html(pair.operation_fees);
+                        $('#type_terms').html(pair.type);
+                    }
+                }
+                
+                function initSystemLogo(){
+                    $('.logo-payin').html(ps_logo[pair.ps_in_id]);
+                    $('.logo-payout').html(ps_logo[pair.ps_out_id]);
+                }
+                
+                function setFormTarget(){
+                    var action = 'https://my-xchange.com/en/oprequest';
+                    action = action + '/' + payin + '/' + payout;
+                    $('#exchangeForm').prop('action', action)
+                }
+
+                $('body').on('change', '#from_curr', function(event){
+                    setListToExchangeCurrency();
+                    setExchangeParams();
+                    setFormTarget();
+                });  
+
+                $('body').on('change', '#to_curr', function(event){
+                    setExchangeParams();
+                    setFormTarget();
+                }); 
+                setListToExchangeCurrency();
+                setExchangeParams();
+                initSystemLogo();
+                setFormTarget();
+            });        
+        </script>
+
+<div class="exchange-cont">
+    <div class="exchange-right">
+        <div class="exchange-right-header">Information about exchange *</div>
+        <div class="exchange-calc">
+            <div class="exchange-calcleft">
+                <strong id="payin_rate"></strong>
+                <span id="payin_curr"></span>
+            </div>
+            <div class="exchange-calcright">
+                <strong id="payout_rate"></strong>
+                <span id="payout_curr"></span>
+            </div>
+            <div class="exchange-calccenter">
+                <i class="icon icon-equal"></i>
+            </div>
+        </div>
+        <div class="exchange-commission">
+                        <p>Reserves  <span id="reserve_out_ps"></span>: <strong id="reserve"></strong></p>
+            <p><span id="type_terms"></span></p>
+        </div>
+    </div>
+    <div class="exchange-left">
+        <form action="https://my-xchange.com/en/oprequest" method="post" id="exchangeForm">
+            <div class="form-group wicon">
+                <label for="payin" class="control-label">You pay</label>
+                <select data-placeholder="Select a currency..." class="nochosen form-control"  id="from_curr" name="from_curr"  >
+                                                <option value="WME"  >WME Webmoney</option>
+                                                                <option value="WMR"  >WMR Webmoney</option>
+                                                                <option value="WMZ"  >WMZ Webmoney</option>
+                        </select>                <div class="paysistem_v1 logo-payin"> </div>
+            </div>
+            <div class="form-group wicon">
+                <label for="payout" class="control-label">We will send you</label>
+                <select data-placeholder="Select a currency..." class="nochosen form-control"  id="to_curr" name="to_curr"  >
+                                                <option value="PAYPALEUR"  >EUR PayPal</option>
+                                                                <option value="PAYPALGBP"  >GBP PayPal</option>
+                                                                <option value="PAYPALRUB"  >RUB PayPal</option>
+                                                                <option value="PAYPALUSD"  >USD PayPal</option>
+                                                                <option value="WMZ"  >WMZ Webmoney</option>
+                                                                <option value="WME"  >WME Webmoney</option>
+                                                                <option value="WMR"  >WMR Webmoney</option>
+                        </select>                <div class="paysistem_v1 logo-payout"> </div>
+            </div>
+            <div class="overflow">
+                <button type="button" class="btn btn-default pull-left disable-item"  onclick="document.getElementById('exchangeForm').submit()" >Continue</button>
+                <div class="exchange-help-text">
+                    <i class="icon icon-help-round"></i>
+                    Make operation for the first time? Learn how to make this <a href="/en/help/services" target="_blank">correctly</a>                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="exchange-info">
+    The calculation is preliminary and does not account for the fee payment systems, the final payment will be given in the next step. .</div></div>
+        </div>
+    </div>
+</div>            <div id="advantage">
+                <div class="title">OUR ADVANTAGES</div>
+                <div class="container">
+                    <div style="text-align:center;margin-top:2em;">
+                        <h1 class ="info">Exchange WebMoney to PayPal</h1><br/><br/>
+                    </div>
+                    <div style="text-align:justify;">
+                        <p>Electronic payment systems have long been familiar. They are very popular because of its convenience and security. One of the leading electronic systems are WebMoney and PayPal. They provide users with a huge amount of features</p><br/><p>However before many question arises: How to do <b>exchange WebMoney to PayPal</b>? The issue of conversion of electronic currency is very relevant. Since many individuals and companies have accounts in both payment systems.</p><p>Earlier exchange one currency for another it was difficult. We had to make many operations and waste precious time and pay substantial commissions. Now the exchange can be done in minutes. This opportunity gives you the exchanger my-Xchange.com.</p><br/><p><h2 class ="info">How to make an exchange?</h2></p><br/><p>To perform <b>Webmoney exchange to PayPal</b> you can use our online service. This type of exchange is supported by the system Webmoney. However, to implement it without the support of our users are not able to. We work for you to be able to exchange e-currency easily, quickly and comfortable.</p><p> In order to make an exchange you must: </p><ul><li><i class = "icon icon-list-orange "></i>have accounts in both payment systems;</li><li><i class = "icon icon-list-orange "> </i>link <b> PayPal </b> account to your <b>Webmoney WMID</b>; </li><li><i class = "icon icon-list-orange "></i>place order for exchange WM to PayPal in our platform;</li><li><i class = "icon icon-list-orange "></i>pay for order with Webmoney Merchant</li></ul><p>It’s all! After payment from you we will complete your order within few hours and you will receive funds in your <b>PayPal</b> account.</p><br/><p><h3 class = "info">Why my-Xchange?</h3> </p><br/><p> Our Webmoney exchanger has been operating for more than 15 years. Our service has been appreciated by thousands of satisfied customers as webmaster, freelancers, advertisers. <br/>Among the main benefits that you get are the following: </p>                    </div>
+                    <ul class="cf" style="text-align:justify;">
+                        <li>
+                            <i class="icon-advantage speed"></i>
+                            <strong>Speed</strong>
+                            <div>All operations like exchange, buy or sell of electronic currencies we process quickly and accurately in a timely manner. Exchange Webmoney to PP will take from one to several hours (the maximum period of 24 hours).</div>
+                        </li>
+                        <li>
+                            <i class="icon-advantage reliability"></i>
+                            <strong>Reliability</strong>
+                            <div>We are an authorized exchange Webmoney payment system more than 15 years, our WMID has a high business level <img src ='https://bl.wmtransfer.com/img/bl/878525859540?w=45&h=18&bg=0xdbe2e9' border ="0"> and we follow all the rules of system Webmoney Transfer for the exchangers which gives a guarantee of safety and reliability.</div>
+                        </li>
+                        <li style="clear: both;">
+                            <i class="icon-advantage low-commission"></i>
+                            <strong>The fair fees</strong>
+                            <div>We offer low commission. Also our customers are able to use different benefits to save money like discounts and bonuses from us.</div>
+                        </li>
+                        <li>
+                            <i class="icon-advantage advanced"></i>
+                            <strong>Our principles</strong>
+                            <div>We do not work with payments to and on behalf of third parties and do not allow carrying out suspicious transactions. We do not exchange e-currencies which are forbidden to exchange by Webmoney Transfer system.</div>
+                        </li>
+                    </ul>
+                    <div style="text-align:justify;">
+                         <br/>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+    <div class="footer-nav">
+        <div class="container">
+            <ul class="cf">
+                <li class="first"><a href="/en">Home</a></li>
+                <li><a href="/en/webmaster">Partners</a></li> <li><a href="/en/help">Help</a></li>
+                <li><a href="/en/exchange">Exchange</a></li>
+                <li><a href="/en/autoexchange">Autoexchange</a></li>
+                <li><a href="/en/buy">Topup</a></li>
+                <li><a href="/en/sell">Withdraw</a></li>
+                <li><a href="/en/fees">Rates</a></li>
+                <li><a href="/en/about">About Us</a></li>
+                <li><a href="/en/contactus">Contacts</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <div class="counters">
+                        <div>
+                <a href="https://my-xchange.com/redirect?ref=http://webmoney.ru" target="_blank" title="Webmoney, WM Transfer, Вебмани, ВМ, WM"><div class="lessOpacity"><img src="https://my-xchange.com/images/pslogo/wm_88x31.png" width="88" height="31"  border="0" alt="Webmoney" title="Webmoney, WM Transfer, Вебмани, ВМ, WM"/></div></a>
+            </div>
+                        <div>
+                <a href="https://my-xchange.com/redirect?ref=http://www.westernunion.com" target="_blank" title="West Union"><div class="lessOpacity"><img src="https://my-xchange.com/images/pslogo/wu_88x31.png" width="88" height="31"  border="0" alt="West Union" title="West Union"/></div></a>
+            </div>
+                        <div>
+                <a href="https://my-xchange.com/redirect?ref=http://www.contact-sys.ru" target="_blank" title="Conact"><div class="lessOpacity"><img src="https://my-xchange.com/images/pslogo/paypal_88x31.png" width="88" height="31"  border="0" alt="Paypal" title="Conact"/></div></a>
+            </div>
+                        <div>
+                <a href="https://my-xchange.com/redirect?ref=http://www.swift.com" target="_blank" title="SWIFT Bank Wire Transfer"><div class="lessOpacity"><img src="https://my-xchange.com/images/pslogo/swift_88x31.png" width="88" height="31"  border="0" alt="SWIFT Bank Wire Transfer" title="SWIFT Bank Wire Transfer"/></div></a>
+            </div>
+                        <div>
+                <a href="javascript:;" target="_blank" title="SEPA Europa Bank Transfer"><div class="lessOpacity"><img src="https://my-xchange.com/images/pslogo/sepa_88x31.png" width="88" height="31"  border="0" alt="SEPA Europa Bank Transfer" title="SEPA Europa Bank Transfer"/></div></a>
+            </div>
+                        <div>
+                <div id="seal_block">
+        
+        <div>
+        <!-- begin WebMoney Transfer : attestation label --> 
+        <a href="/en/redirect?ref=http://passport.wmtransfer.com/asp/certview.asp?wmid=878525859540" target=_blank><img src="https://my-xchange.com/images/pslogo/wmseal_88x31_en.png" title="Here is the passport for our WM-identifier 704506936900" width="88" height="31" border="0" /></a>
+        <!-- end WebMoney Transfer : attestation label -->
+        <a href="https://my-xchange.com/en/redirect?ref=http://megastock.ru" target=_blank><img src="https://my-xchange.com/images/pslogo/88x31_wm_blue_en.png" title="We accept Webmoney" width="88" height="31" border="0" /></a>
+    </div>
+    </div>            </div>
+        </div>
+        <div class="copyright">
+            ©2005 — 2019 All rights reserved<br/>service operator Rock Planet inc.<br/> used on the website are trademarks of their respective owners.<br/>Resource registered in Megastock under number #3594<br/> Service does not provide services to citizens and residents of the United States, Germany.            <ul>
+                <li><a href="/en/terms">Terms of Use</a></li>
+                <li><a href="/en/aml">AML/KYC</a></li>
+                <li><a href="/en/privacypolicy">Privacy policy</a></li>
+                <br/>
+                                                <li><a href="/en/wmrisk">Disclaimer (Webmoney)</a></li>
+                            </ul>
+        </div>
+        <div class="footer-bg"></div>
+        <div class="rdesigner">
+            <a href="https://my-xchange.com/en/redirect?ref=http://rdesigner.ru" target="_blank">Design</a> &mdash;
+            <a href="https://my-xchange.com/en/redirect?ref=http://rdesigner.ru" target="_blank"><i class="icon-rdesigner"></i></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://my-xchange.com/cache/js/45bb1884a8e7a6f65761af0c327b5f1d_compressed.js"></script>
+</body>
+</html>

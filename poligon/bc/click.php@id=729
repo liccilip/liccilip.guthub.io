@@ -1,0 +1,258 @@
+
+    <!DOCTYPE html>
+    <html lang="ru_RU">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/png" href="/favicon.png" sizes="64x64">
+        <meta name="csrf-param" content="_csrf-frontend">
+    <meta name="csrf-token" content="WW_dAK3k97HCyMoGRAG5Cgl7E_g83JaVvGkFZcctSr0BCLFantGV-Y78k2g-ZYs7WxBisEi--OTuCFdcoX8_9w==">
+        <title>Кошелек криптовалют WALLBTC. Обмен криптовалют.</title>
+        <meta name="description" content="С помощью сервиса WALLBTC можно: купить и продать bitcoin, ethereum, dash и другие популярные криптовалюты. Онлайн обмен без % и комиссии.">
+<meta name="keywords" content="криптовалюты, btc, bitcoin, купить, продать, обменник, обмен, WALLBTC, wallbtc, wall">
+<link href="/css/bootstrap.css" rel="stylesheet">
+<link href="/css/styles.css?v=12" rel="stylesheet">
+<link href="/css/new_styles.css?v=9" rel="stylesheet">
+<link href="/assets/8b65426b/toastr.min.css" rel="stylesheet">
+<script src="/js/jquery-1.12.4.min.js"></script>
+<script src="/js/timezone.js?v=3"></script>
+<script src="/js/new_js.js?v=32"></script>
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-PZKZSG6');
+        </script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97730735-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+
+            gtag('config', 'UA-97730735-1');
+        </script>
+
+        ﻿<!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112651500-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+
+            gtag('config', 'UA-112651500-1');
+        </script>
+    </head>
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZKZSG6"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <body class="bgAuth">
+    <div id="noty-layer"></div>    <div class="auth-content">
+        <div class="row">
+            <div class="col-md-3">
+                <a href="/" class="logoJTS">
+                    <img src="/images/png/logo.png" alt="">
+                </a>
+            </div>
+            <div class="col-md-3">
+                <ul class="exchange-box">
+                                        <li  style="color: white; display: block">BTC / WRUB <span style="color: #00bf00">264582</span> | <span style="color: #ff312e">260853</span></li>
+                                        <li  style="color: white; display: block">BTC / WUSD <span style="color: #00bf00">4218</span> | <span style="color: #ff312e">3937</span></li>
+                                        <li  style="color: white; display: block">BTC / WEUR <span style="color: #00bf00">3748</span> | <span style="color: #ff312e">3683</span></li>
+                                        <li  style="color: white; display: none">ETH / WEUR <span style="color: #00bf00">128</span> | <span style="color: #ff312e">127</span></li>
+                                        <li  style="color: white; display: none">LTC / WRUB <span style="color: #00bf00">3856</span> | <span style="color: #ff312e">3775</span></li>
+                                        <li  style="color: white; display: none">ETH / WRUB <span style="color: #00bf00">9076</span> | <span style="color: #ff312e">8249</span></li>
+                                        <li  style="color: white; display: none">XRP / WRUB <span style="color: #00bf00">22</span> | <span style="color: #ff312e">17</span></li>
+                                        <li  style="color: white; display: none">LTC / WEUR <span style="color: #00bf00">55</span> | <span style="color: #ff312e">54</span></li>
+                                        <li  style="color: white; display: none">LTC / WUSD <span style="color: #00bf00">62.96</span> | <span style="color: #ff312e">53.52</span></li>
+                                        <li  style="color: white; display: none">XLM / WRUB <span style="color: #00bf00">8.37</span> | <span style="color: #ff312e">6.37</span></li>
+                                        <li  style="color: white; display: none">ETH / WUSD <span style="color: #00bf00">145</span> | <span style="color: #ff312e">136</span></li>
+                                        <li  style="color: white; display: none">DSH / WRUB <span style="color: #00bf00">6445</span> | <span style="color: #ff312e">5271</span></li>
+                                        <li  style="color: white; display: none">DSH / WUSD <span style="color: #00bf00">96</span> | <span style="color: #ff312e">92</span></li>
+                                        <li  style="color: white; display: none">BCC / WRUB <span style="color: #00bf00">12134</span> | <span style="color: #ff312e">9393</span></li>
+                                        <li  style="color: white; display: none">PPC / WRUB <span style="color: #00bf00">56</span> | <span style="color: #ff312e">28</span></li>
+                                </ul>
+            </div>
+             <div class="col-md-6">
+                <ul class="authMenu" style="text-transform: uppercase;">
+                    <li><a href="https://wallbtc.info" target="_blank"><span
+                                    class="lineMenuJTS"></span>Новости</a></li>
+                    <li><a href="/currency/courses"><span
+                                    class="lineMenuJTS"></span>Курсы</a></li>
+                    <li><a href="/page?param=help_center"><span
+                                    class="lineMenuJTS"></span>FAQ</a></li>
+                    <li>
+                        <span onclick="$('.langListItem').slideToggle(400);" class="lang-list">ru</span>
+                        <div class="langListItem">
+                                                            <a href="?lang=ru_RU"><span>RU</span></a>
+                                                            <a href="?lang=en_EN"><span>EN</span></a>
+                                                            <a href="?lang=cs_CS"><span>CS</span></a>
+                                                    </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+
+        </script>
+        
+<div class="mainAuthContent" style="padding-top: 0">
+    <div class="formContentMain">
+        <form id="w0" action="/auth/signup" method="post">
+<input type="hidden" name="_csrf-frontend" value="WW_dAK3k97HCyMoGRAG5Cgl7E_g83JaVvGkFZcctSr0BCLFantGV-Y78k2g-ZYs7WxBisEi--OTuCFdcoX8_9w==">        <div class="inputAuthItem">
+            <div class="form-group field-signupform-email required">
+<span class="icon-mail"></span><input type="text" id="signupform-email" class="form-control" name="SignupForm[email]" placeholder="Введите e-mail" aria-required="true"><div class="errorMessageInputJTS"></div>
+</div>        </div>
+        <div class="linkFormMain">
+            <a href="#" data-pjax="0" onclick="$(&#039;#patner-inp&#039;).slideToggle(400);">Вас привел партнер?</a>            <a href="/auth/repeat-mail" data-pjax="0">Не пришло письмо?</a>        </div>
+        <div class="inputAuthItem">
+            <div class="inputAuthItem" id="patner-inp">
+                <div class="form-group field-signupform-partner">
+<span class="icon-user"></span><input type="text" id="signupform-partner" class="form-control" name="SignupForm[partner]" value="bestchange" placeholder="Логин или email партнера"><div class="errorMessageInputJTS"></div>
+</div>            </div>
+        </div>
+        <div style="color: white; margin-bottom: 20px">
+            <input type="checkbox" id="check-1" class="licence-btn" name="license" value="1">            <label for="check-1"><a href="/page?param=terms-of-use" target="_blank">Согласен с пользовательским соглашением</a></label>
+        </div>
+        <div style="color: white; margin-bottom: 20px">
+            <input type="checkbox" id="check-2" class="licence-btn" name="return_policy" value="1">            <label for="check-2"><a href="/page?param=return_policy" target="_blank">Согласен с политикой возврата денег</a></label>
+        </div>
+        <div class="form-group field-signupform-recaptcha">
+<label for="signupform-recaptcha"></label>
+<input type="hidden" id="signupform-recaptcha" name="SignupForm[reCaptcha]"><div id="signupform-recaptcha-recaptcha-w0" class="g-recaptcha" data-sitekey="6LfzJlUUAAAAAI_uXXEX7a94DTE2Ik7VT2xnzG3n" data-input-id="signupform-recaptcha" data-form-id="w0"></div>
+
+
+
+<div class="errorMessageInputJTS"></div>
+</div>        <button type="submit" class="btnAuthMain" disabled="disabled">Зарегистрироваться</button>        </form>    </div>
+</div>
+
+        <div class="footerMain">
+            <ul class="navFooter" style="text-transform: uppercase">
+                <li><a href="/page?param=about">О нас</a></li>
+                <li><a href="/page?param=rates">Тарифы</a></li>
+                <li>
+                    <a href="/page?param=referral_program">Реферальная программа</a>
+                </li>
+                <li><a href="/page?param=contacts">Контакты</a>
+                <li>
+                    <a href="/page?param=documentation">Документация</a>
+                <li><a href="/calculator">Калькулятор</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    </body>
+    <!-- end preloader js -->
+    <script src="//www.google.com/recaptcha/api.js?hl=ru_RU&amp;render=explicit&amp;onload=recaptchaOnloadCallback" async defer></script>
+<script src="/assets/146073d/yii.js"></script>
+<script src="/assets/146073d/yii.validation.js"></script>
+<script src="/assets/146073d/yii.activeForm.js"></script>
+<script src="/assets/8b65426b/toastr.min.js"></script>
+<script>function recaptchaOnloadCallback() {
+    "use strict";
+    jQuery(".g-recaptcha").each(function () {
+        var reCaptcha = jQuery(this);
+        if (reCaptcha.data("recaptcha-client-id") === undefined) {
+            var recaptchaClientId = grecaptcha.render(reCaptcha.attr("id"), {
+                "callback": function (response) {
+                    if (reCaptcha.data("form-id") !== "") {
+                        jQuery("#" + reCaptcha.data("input-id"), "#" + reCaptcha.data("form-id")).val(response)
+                            .trigger("change");
+                    } else {
+                        jQuery("#" + reCaptcha.data("input-id")).val(response).trigger("change");
+                    }
+
+                    if (reCaptcha.attr("data-callback")) {
+                        eval("(" + reCaptcha.attr("data-callback") + ")(response)");
+                    }
+                },
+                "expired-callback": function () {
+                    if (reCaptcha.data("form-id") !== "") {
+                        jQuery("#" + reCaptcha.data("input-id"), "#" + reCaptcha.data("form-id")).val("");
+                    } else {
+                        jQuery("#" + reCaptcha.data("input-id")).val("");
+                    }
+
+                    if (reCaptcha.attr("data-expired-callback")) {
+                        eval("(" + reCaptcha.attr("data-expired-callback") + ")()");
+                    }
+                },
+            });
+            reCaptcha.data("recaptcha-client-id", recaptchaClientId);
+
+            if (reCaptcha.data("size") === "invisible") {
+                grecaptcha.execute(recaptchaClientId);
+            }
+        }
+    });
+}
+
+            $.ajaxSetup({
+                showNoty: true // default for all ajax calls
+            });
+            $(document).ajaxComplete(function (event, xhr, settings) {
+                if (settings.showNoty && (settings.type=='POST' || settings.container)) {
+                    $.ajax({
+                        url: '/noty/default/index',
+                        method: 'POST',
+                        cache: false,
+                        showNoty: false,
+                        global: false,
+                        data: {
+                            layerClass: '"lo\\modules\\noty\\layers\\Toastr"',
+                            config: '{"options":{"positionClass":"toast-top-left","progressBar":true,"timeOut":10000},"layerOptions":{"layerId":"noty-layer"}}'
+                        },
+                        success: function(data) {
+                           $('#noty-layer').html(data);
+                        }
+                    });
+                }
+            });
+        </script>
+<script>jQuery(function ($) {
+jQuery('#w0').yiiActiveForm([{"id":"signupform-email","name":"email","container":".field-signupform-email","input":"#signupform-email","error":".errorMessageInputJTS","validateOnChange":false,"validateOnBlur":false,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Email»."});value = yii.validation.trim($form, attribute, [], value);yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Значение «Email» не является правильным email адресом.","enableIDN":false,"skipOnEmpty":1});yii.validation.regularExpression(value, messages, {"pattern":/qip.ru|gmail.ru/i,"not":true,"message":"Регистрация email адреса с данного домена запрещена!","skipOnEmpty":1});}},{"id":"signupform-recaptcha","name":"reCaptcha","container":".field-signupform-recaptcha","input":"#signupform-recaptcha","error":".errorMessageInputJTS","validateOnChange":false,"validateOnBlur":false,"validate":function (attribute, value, messages, deferred, $form) {if (!value) {
+     messages.push("Необходимо заполнить «Re Captcha».");
+}}}], []);
+
+$(document).ready(function () {
+                $('#btnAuthTab').click(function () {
+                    $('.tabMainAuth').removeClass('activeAuth');
+                    $(this).addClass('activeAuth');
+                    $('#blockAuth').show();
+                    $('#blockReg').hide();
+                });
+                $('#btnRegTab').click(function () {
+                    $('.tabMainAuth').removeClass('activeAuth');
+                    $(this).addClass('activeAuth');
+                    $('#blockAuth').hide();
+                    $('#blockReg').show();
+                });
+            });
+
+
+});</script>    </html>

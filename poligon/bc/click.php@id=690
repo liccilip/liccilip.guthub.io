@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>Fair Exchange | Честный обмен валют</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://fair-exchange.ru/wp-content/themes/exchanger/style.css?ver=1.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=1552902461'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/themes/exchanger/js/jquery-select.js?ver=1.5'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/themes/exchanger/js/jquery-checkbox.js?ver=1.5'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/themes/exchanger/js/particles.js?ver=1.5'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/themes/exchanger/js/site.js?ver=1.5'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/wp-content/plugins/premiumbox/moduls/js_timer/js/jquery-timer.js?ver=1552902461'></script>
+<script type='text/javascript' src='https://fair-exchange.ru/premiumjs.js?lang=ru&#038;ver=1552913261'></script>
+	<link rel="shortcut icon" href="https://fair-exchange.ru/wp-content/uploads/favicon-1.png" type="image/png" />
+	<link rel="icon" href="https://fair-exchange.ru/wp-content/uploads/favicon-1.png" type="image/png" />
+	<link rel='canonical' href='https://fair-exchange.ru/' />
+<meta name="keywords" content="курс валют, курсы валют обменники, обменять валюту, курсы валют онлайн, курсы обмена валют, обменник валют онлайн, fair exchange обменник, интернет обменник валют, интернет обменники валют, лучшие курсы обмена валют, онлайн обменник, обменник вм, выгодные курсы обмена валют, обменник, пункты обмена валют, яндекс деньги, вебмани, обменник денег, выгодный обменник, честный обменник, честный обмен, обменники валют онлайн, обменник криптовалют, интернет обменник, яндекс обменник, выгодный курс валют, онлайн обменник webmoney, курс валют на сегодня, курс валют доллар, сайт обмена валют, курс валют в обменниках, qiwi обменник, обменник онлайн, ethereum , buy ethereum , sell ethereum , купить эфир, продать эфир, перевод с мастеркард, обмен с мастеркард" />
+<meta name="description" content="Fair-exchange предоставляет своим клиентам честный и выгодный обмен электронных валют (Ethereum | Qiwi | Яндекс.Деньги | Приват24 | Сбербанк | MasterCard | VISA | WebMoney)" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://fair-exchange.ru/?rid=178" />
+<meta property="og:site_name" content="Fair-exchange | Честный обмен электронной валюты." />
+<meta property="og:description" content="Fair-exchange предоставляет своим клиентам честный и выгодный обмен электронных валют (Ethereum | Qiwi | Яндекс.Деньги | Приват24 | Сбербанк | MasterCard | VISA | WebMoney)" />
+<meta property="og:title" content="Fair Exchange | Честный обмен валют" />
+<meta property="og:image" content="https://fair-exchange.ru/wp-content/uploads/Fair-Exchange-logo-1.png" />
+	
+</head>
+<body id="body" class="custom-background">
+<div id="container">
+
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" >
+		<div class="topbar_ins" >
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://fair-exchange.ru/?rid=178" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://fair-exchange.ru/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+				<a href="https://fair-exchange.ru/en/?rid=178" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://fair-exchange.ru/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+					</div>
+					English
+				</a>
+			</div>
+		</div></div>			
+								
+									<div class="topbar_icon telegram">
+						<a href="https://t.me/fairExchange">fairExchange</a>
+					</div>		
+				
+				
+				
+								
+				
+								
+									<div class="topbar_icon email">
+						<a href="mailto:&#102;&#97;ir&#45;ex&#99;&#104;&#97;n&#103;e&#64;&#105;&#110;&#98;o&#120;.r&#117;">fair&#45;&#101;xcha&#110;&#103;&#101;&#64;i&#110;&#98;&#111;x&#46;&#114;&#117;</a>
+					</div>		
+				
+									<div class="topbar_phone">
+						+380 99 755 45 65					</div>		
+								
+			
+									<a href="https://fair-exchange.ru/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://fair-exchange.ru/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" id="fix_div">
+		<div class="tophead_ins" id="fix_elem">
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://fair-exchange.ru">
+													
+															<img src="https://fair-exchange.ru/wp-content/uploads/Fair-Exchange-logo-1.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://fair-exchange.ru/"><span>Главная</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://fair-exchange.ru/news/"><span>Новости</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://fair-exchange.ru/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://fair-exchange.ru/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://fair-exchange.ru/feedback/"><span>Контакты</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+			
+		
+				<div class="homepage_wrap">
+
+		
+	<div class="xchange_table_wrap">
+		
+	<div class="xchange_type_table">
+		<div class="xchange_type_table_ins">	
+				<div class="xtt_icon_wrap">
+					<div class="xtt_left_col_icon">
+					
+						<div class="xtt_icon active js_icon_left" data-type="0"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>Все</div></div>
+						<div class="xtt_icon js_icon_left js_icon_left_UAH" style="display: none;" data-type="UAH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>UAH</div></div><div class="xtt_icon js_icon_left js_icon_left_RUB" style="display: none;" data-type="RUB"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>RUB</div></div><div class="xtt_icon js_icon_left js_icon_left_BCH" style="display: none;" data-type="BCH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BCH</div></div><div class="xtt_icon js_icon_left js_icon_left_BTC" style="display: none;" data-type="BTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BTC</div></div><div class="xtt_icon js_icon_left js_icon_left_ETH" style="display: none;" data-type="ETH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ETH</div></div><div class="xtt_icon js_icon_left js_icon_left_USD" style="display: none;" data-type="USD"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>USD</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt_right_col_icon">
+
+						<div class="xtt_icon active js_icon_right" data-type="0"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>Все</div></div>
+						<div class="xtt_icon js_icon_right js_icon_right_UAH" style="display: none;" data-type="UAH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>UAH</div></div><div class="xtt_icon js_icon_right js_icon_right_RUB" style="display: none;" data-type="RUB"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>RUB</div></div><div class="xtt_icon js_icon_right js_icon_right_BCH" style="display: none;" data-type="BCH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BCH</div></div><div class="xtt_icon js_icon_right js_icon_right_BTC" style="display: none;" data-type="BTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BTC</div></div><div class="xtt_icon js_icon_right js_icon_right_ETH" style="display: none;" data-type="ETH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ETH</div></div><div class="xtt_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>USD</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt_table_wrap">
+				<div class="xtt_table_title_wrap">
+					<div class="xtt_left_col_title">
+						<div class="xtt_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt_right_col_title">
+						<div class="xtt_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt_table_title3">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt_table_body_wrap">
+					<div class="xtt_html_abs"></div>
+						<div class="xtt_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="7" data-type="RUB">
+										    <svg height="60px" width="100%">
+												<rect id="shape" height="100%" width="100%"></rect>
+											</svg>
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Сбербанк RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														2.537
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_UAH  " data-id="5" data-type="UAH">
+										    <svg height="60px" width="100%">
+												<rect id="shape" height="100%" width="100%"></rect>
+											</svg>
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Приват24 UAH
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="17" data-type="RUB">
+										    <svg height="60px" width="100%">
+												<rect id="shape" height="100%" width="100%"></rect>
+											</svg>
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Qiwi RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														276700
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BTC  " data-id="10" data-type="BTC">
+										    <svg height="60px" width="100%">
+												<rect id="shape" height="100%" width="100%"></rect>
+											</svg>
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Bitcoin BTC
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt_right_col_table">
+						
+											<!-- tab currency -->
+											<div class="xtt_line_tab js_line_tab" id="js_tabnaps_7">
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_SBERRUB_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="6">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		25887.6402
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="6" data-title="Сбербанк RUB-Приват24 UAH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_SBER_to_BTC/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-direction-id="143">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Bitcoin BTC
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		0.00463204
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="143" data-title="Сбербанк RUB-Bitcoin BTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_SBERRUB_to_QWRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="153">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		7784.16
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="153" data-title="Сбербанк RUB-Qiwi RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt_line_tab js_line_tab" id="js_tabnaps_5">
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_P24UAH_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="151">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Сбербанк RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		2.39
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		93994.2691
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="151" data-title="Приват24 UAH-Сбербанк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_P24UAH_to_QWRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="154">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		2.3615
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		7784.16
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="154" data-title="Приват24 UAH-Qiwi RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt_line_tab js_line_tab" id="js_tabnaps_17">
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_QWRUB_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="152">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		25887.6402
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="152" data-title="Qiwi RUB-Приват24 UAH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_QWRUB_to_BTC/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-direction-id="156">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Bitcoin BTC
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		0.00463204
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="156" data-title="Qiwi RUB-Bitcoin BTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt_line_tab js_line_tab" id="js_tabnaps_10">
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_BTC_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="131">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Сбербанк RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		238400
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		93994.2691
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="131" data-title="Bitcoin BTC-Сбербанк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://fair-exchange.ru/exchange_BTC_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="132">
+														    <svg height="60px" width="100%">
+												                <rect id="shape" height="100%" width="100%"></rect>
+											                </svg>
+															<div class="xtt_one_line_right">
+														<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		103890
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		25887.6402
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="132" data-title="Bitcoin BTC-Приват24 UAH">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div>	</div>
+
+	<form method="post" class="ajax_post_bids" action="https://fair-exchange.ru/ajax-bidsform.html?meth=post&yid=50bcf152ba0b&lang=ru">
+	<div class="hexch_ajax_wrap">
+		<div class="hexch_ajax_wrap_abs"></div>
+		<div id="hexch_html"></div>
+	</div>
+</form>
+	
+	
+		<div class="home_text_wrap">
+		<div class="home_text_ins">
+			<div class="home_text_abs"></div>
+			<div class="home_text_block">
+				<div class="home_text_title">Плюсы нашего сервиса:</div>
+				<div class="home_text_div">
+					<div class="text">
+						<p>&nbsp;</p>
+<ol style="font-size: 15px;">
+<li>Усиленная безопасность ваших обменов, усиленная безопасность от мошенников!</li>
+<li>На сервисе работает партнерская программа , за каждый обмен приведенного вами клиента, вы получаете 0.5% с нашей прибыли.</li>
+<li><strong>FAIR EXCHANGE</strong> дорожит каждым клиентом, по этому на сервисе будут проводится акции и конкурсы. Требования: обязательная регистрация(настоящий e-mail).</li>
+<li>Четыре вида поддержки для наших клиентов: <strong>Онлайн чат</strong>, <strong>Телеграмм канал</strong>, <strong>E-mail поддержка</strong>, и <strong>мобильный номер</strong>.</li>
+</ol>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+			
+	
+		<div class="home_reviews_wrap">
+		<div class="home_reviews_ins">
+			<div class="home_reviews_abs"></div>
+			<div class="home_reviews_block">
+				<div class="home_reviews_title">Отзывы</div>
+				
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins">
+				
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Максим, 12.03.2019, 18:14</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Все очень быстро, не первый раз пользуюсь)</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Артём, 02.03.2019, 16:22</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Всё велеколепно. Советую.</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Даниил, 22.02.2019, 13:37</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Лучший обменный сервис в моей жизни. Оперативная поддержка, на 5++. Курс мог быть и по&hellip;</div>
+						</div>			
+					
+									
+						<div class="clear"></div>
+					</div>
+				</div>
+				
+				<a href="https://fair-exchange.ru/reviews/" class="home_reviews_more">Все отзывы</a>
+			</div>
+		</div>
+	</div>
+		
+	
+	
+		<div class="home_lchange_wrap">
+		<div class="home_lchange_wrap_ins">
+			<div class="home_lchange_block">
+				<div class="home_lchange_title">Последние обмены</div>
+				
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">18.03.2019, 12:42</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">1670</div>
+									<div class="home_lchange_name">RUB</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">0.00624533</div>
+									<div class="home_lchange_name">BTC</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">17.03.2019, 15:47</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">0.00120217</div>
+									<div class="home_lchange_name">BTC</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">120.217</div>
+									<div class="home_lchange_name">UAH</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="clear"></div>
+			</div>	
+		</div>
+	</div>	
+		
+			<div class="home_news_wrap">
+			<div class="home_news_wrap_ins">
+				<div class="home_news_abs"></div>
+				<div class="home_news_block">
+					<div class="home_news_title">Новости</div>
+					
+					<div class="home_news_div">
+						<div class="home_news_div_ins">
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">11.08.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://fair-exchange.ru/ethereum-classic-privlyok-institutsionalnogo-investora/">Ethereum Classic привлёк институционального инвестора</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">10.08.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://fair-exchange.ru/analiz-kursa-ethereum-na-10-avgusta/">Анализ курса Ethereum на 10 августа</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">10.08.2018</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://fair-exchange.ru/vosstanovlenie-pri-medvezhem-trende-analiz-kursa-bitkoina-na-segodnya/">Восстановление при медвежьем тренде: анализ курса биткоина на сегодня</a></div>
+								</div>
+							</div>			
+						
+											
+							<div class="clear"></div>
+						</div>
+					</div>
+					
+					<a href="https://fair-exchange.ru/news/" class="home_news_more">Все новости</a>
+				</div>
+			</div>
+		</div>
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Qiwi.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Qiwi RUB										</div>
+										<div class="one_home_reserv_sum">
+											7784.16										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Paypal.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											PayPal USD										</div>
+										<div class="one_home_reserv_sum">
+											5139.58										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Tinkoff.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Тинькофф RUB										</div>
+										<div class="one_home_reserv_sum">
+											92926.039										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Сбербанк RUB										</div>
+										<div class="one_home_reserv_sum">
+											93994.2691										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Приват24 UAH										</div>
+										<div class="one_home_reserv_sum">
+											25887.6402										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/eth-e1550863658864.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ethereum ETH										</div>
+										<div class="one_home_reserv_sum">
+											0.00000012										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://fair-exchange.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Bitcoin BTC										</div>
+										<div class="one_home_reserv_sum">
+											0.00463204										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																							
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins">
+			<div class="home_partner_block">
+				<div class="home_partner_title">Партнеры</div>
+
+										<div class="home_partner_one">
+							<a href="http://glazok.org/" target="_blank">								<img src="https://fair-exchange.ru/wp-content/uploads/1-2.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.secretovobmena.net/" target="_blank">								<img src="https://fair-exchange.ru/wp-content/uploads/1.jpg" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://pro-obmen.ru" target="_blank">								<img src="https://fair-exchange.ru/wp-content/uploads/88x31-1.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://kurs.expert" target="_blank">								<img src="https://fair-exchange.ru/wp-content/uploads/1.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.bestchange.ru/" target="_blank">								<img src="https://fair-exchange.ru/wp-content/uploads/bestchange1.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://kurses.com.ua" target="_blank">								<img src="https://fair-exchange.ru/wp-content/uploads/kurses.gif" alt="" />
+							</a>						</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>Все права защищены | fair-exchange.ru © 2017-2018</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://fair-exchange.ru/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://fair-exchange.ru/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://fair-exchange.ru/tos/"><span>Правила сайта</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+						
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://fair-exchange.ru/ajax-set_site_vers.html?meth=get&yid=50bcf152ba0b&lang=ru&set=mobile&return_url=%2F%3Frid%3D178">Мобильная версия</a></div>
+							</div>
+			
+			<div class="footer_right">
+			
+								<div class="footer_phone">
+					<span>+380 99 755 45 65</span>
+				</div>
+								
+								<div class="footer_timetable">
+					<p>Пн. — Пт. с 09:00 до 17:00 по МСК<br />
+Пн. — Пт. с 17:00 до 09:00 свободный график<br />
+Сб. — Вск. свободный график.</p>
+				</div>
+								
+			
+			</div>	
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D178&ltime=1552913261';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://fair-exchange.ru/ajax-globalajax_wp_check.html?meth=post&yid=50bcf152ba0b&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+	<div class="last_events_wrap ">
+		<div class="last_events_div">
+			<div id="last_events" class="last_events" ></div>
+			<div class="last_events_option">
+				<label><input type="checkbox" name="leven"  id="last_events_option" value="1" /> Отключить уведомления</label>
+			</div>
+		</div>
+	</div>
+		<div class="statuswork_div status_op1 toright">
+	<div class="statuswork_div_ins">
+		<div class="statuswork">
+			<div class="statuswork_ins">
+				<div class="statuswork_title"><span>Оператор в сети</span></div>
+				<div class="statuswork_date"><span>18.03.2019, 12:47</span></div>
+			</div>	
+		</div>
+	</div>
+	</div>
+
+		<div class="reserv_box_html" style="display: none;">
+			<div class="resultgo"></div>
+					
+			
+				<div class="form_field_line rb_line type_input  field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input  field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_text  field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+	<div class="captcha_div">
+		<div class="captcha_title">
+			Введите ответ
+		</div>
+		<div class="captcha_body">
+			<div class="captcha_divimg">
+				<img src="https://fair-exchange.ru/wp-content/uploads/captcha/1552902461559830.png" class="captcha1" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				<span class="captcha_sym">-</span>
+			</div>	
+			<div class="captcha_divimg">
+				<img src="https://fair-exchange.ru/wp-content/uploads/captcha/1552902461417862.png" class="captcha2" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				=
+			</div>
+			<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			<a href="#" class="captcha_reload" title="заменить задачу"></a>
+				<div class="clear"></div>
+		</div>
+	</div>		
+	
+					
+			<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+		</div>	
+		
+		<form method="post" class="ajax_post_form" action="https://fair-exchange.ru/ajax-reservform.html?meth=post&yid=50bcf152ba0b&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+			<div class="reserv_box"></div>
+		</form>
+		<!--Start of Tawk.to Script (0.3.3)-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{};
+var Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a040da9198bd56b8c03a1f7/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script (0.3.3)--><script type='text/javascript' src='https://fair-exchange.ru/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+</body>
+</html>

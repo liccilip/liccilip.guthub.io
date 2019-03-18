@@ -1,0 +1,1516 @@
+﻿
+
+
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>Change.AM - Ввод и вывод электронных валют.</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<!-- managing ads with Advanced Ads – https://wpadvancedads.com/ --><script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://www.change.am/wp-content/themes/exchanger/style.css?ver=1.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.change.am/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=1552902435'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/themes/exchanger/js/jquery-select.js?ver=1.5'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/themes/exchanger/js/jquery-checkbox.js?ver=1.5'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/themes/exchanger/js/site.js?ver=1.5'></script>
+<script type='text/javascript' src='https://www.change.am/wp-content/plugins/premiumbox/moduls/js_timer/js/jquery-timer.js?ver=1552902435'></script>
+<script type='text/javascript' src='https://www.change.am/premiumjs.js?lang=ru&#038;ver=1552916835'></script>
+	<link rel="shortcut icon" href="/icon.ico" type="image/x-icon" />
+	<link rel="icon" href="/icon.ico" type="image/x-icon" />
+	<link rel='canonical' href='https://www.change.am/' />
+<meta name="keywords" content="" />
+<meta name="description" content="Ввод и вывод электронных валют в городе Ереван (Армения)" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.change.am/?rid=10" />
+<meta property="og:site_name" content="Change.AM" />
+<meta property="og:description" content="Change.AM" />
+<meta property="og:title" content="Change.AM" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.change.am/wp-content/themes/exchanger/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4 custom-background ">
+<div id="container">
+
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://www.change.am/?rid=10" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://www.change.am/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+				<a href="https://www.change.am/en/?rid=10" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://www.change.am/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+					</div>
+					English
+				</a>
+			</div>
+		</div></div>			
+								
+				
+				
+				
+								
+				
+								
+				
+									<div class="topbar_phone">
+						Мы онлайн с 2007 года					</div>		
+								
+			
+									<a href="https://www.change.am/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://www.change.am/login-2/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://www.change.am">
+													
+															<img src="/wp-content/uploads/logo-very-little.jpg" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-786"><a href="https://www.change.am/"><span>Главная</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://www.change.am/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-232"><a href="#"><span>Инфо</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="https://www.change.am/news/"><span>Новости</span></a></li>
+	<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://www.change.am/politika-aml/"><span>Политика AML</span></a></li>
+	<li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-242"><a href="#"><span>Партнерская Программа</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://www.change.am/terms/"><span>Условия участия в партнерской программе</span></a></li>
+		<li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="https://www.change.am/partnersfaq/"><span>Партнёрский FAQ</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-498"><a href="https://www.change.am/notice/"><span>Предупреждение</span></a></li>
+</ul>
+</li>
+<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://www.change.am/faq/"><span>ЧАВО</span></a></li>
+<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="https://www.change.am/feedback/"><span>Контакты</span></a></li>
+<li id="menu-item-799" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-799"><a href="https://www.change.am/advertising/"><span>Реклама</span></a></li>
+</ul>			
+					<div class="clear"></div>
+				</div>	
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+			
+		
+				
+		
+
+	
+		<div class="home_wtext_ins">
+			
+								<div class="home_wtext_div">
+					<div class="text">
+						<div class="widget widget_lchange_div">
+<div class="widget_title">
+<div class="widget_titlevn">
+Реклама</div>
+</div>
+<p><center><a href="https://www.registrar.am/?language=Russian" target="_blank"><img width="728" height="90" src='https://www.change.am/wp-content/uploads/728x90-ru-white-anim.gif' alt=''  /></a></center>
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		
+	
+		
+	<div class="xchange_table_wrap">
+		
+	<div class="xchange_type_table4">
+		<div class="xchange_type_table4_ins">
+			<div class="xtt4_table_wrap">
+				<div class="xtt4_table_title_wrap">
+					<div class="xtt4_left_col_title">
+						<div class="xtt4_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt4_right_col_title">
+						<div class="xtt4_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt4_table_title3">
+							<span>Курс</span>
+						</div>						
+						<div class="xtt4_table_title4">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt4_table_body_wrap">
+					<div class="xtt4_html_abs"></div>
+						<div class="xtt4_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  active" data-id="13" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/cash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Наличные USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_AMD  " data-id="36" data-type="AMD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/cash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Наличные AMD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_AMD  " data-id="10" data-type="AMD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/idram-1.gif) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														IDram AMD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="22" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/cam.gif) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Внутренняя Валюта USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="1" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/perfectmoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Perfect Money USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="9" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/advcash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														AdvCash USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_EUR  " data-id="19" data-type="EUR">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/advcash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														AdvCash EUR
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="62" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/advcash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														AdvCash RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="11" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Payeer USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_EUR  " data-id="35" data-type="EUR">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Payeer EUR
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="52" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Payeer RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="40" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/epay.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														EPay USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="39" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														ExMo USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="68" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/livecoin.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Livecoin USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BTC  " data-id="17" data-type="BTC">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/btc.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														BitCoin BTC
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BCH  " data-id="37" data-type="BCH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/bitcoincash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														BitCoin Cash BCH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_ETH  " data-id="45" data-type="ETH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Ethereum ETH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_XRP  " data-id="69" data-type="XRP">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/ripple.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Ripple XRP
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_LTC  " data-id="59" data-type="LTC">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/ltc.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														LiteCoin LTC
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USDT  " data-id="46" data-type="USDT">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/tether.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Tether USDT
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_DASH  " data-id="55" data-type="DASH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/dash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Dash DASH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="32" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/card.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Visa/MasterCard RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="56" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/mir.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Мир RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="33" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/yandex.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Яндекс.Деньги RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="3" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/webmoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Webmoney USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_EUR  " data-id="50" data-type="EUR">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/webmoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Webmoney EUR
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="42" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/tbc.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														TBC Банк USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_EUR  " data-id="63" data-type="EUR">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/tbc.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														TBC Банк EUR
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="26" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/bankwire.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Банк. Пер./Swift USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt4_right_col_table">
+						
+								<div id="xtt4_right_col_html"></div>
+								
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div>	</div>
+
+		
+	
+			
+	
+		<div class="home_reviews_wrap">
+		<div class="home_reviews_ins">
+			<div class="home_reviews_abs"></div>
+			<div class="home_reviews_block">
+				<div class="home_reviews_title">Отзывы</div>
+				
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins">
+				
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Tamara, 17.03.2019, 16:20</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Замечательно! Быстро, четко и без заморочек! Я довольна и рада что узнала про такой обмен&hellip;</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Suresh Kumar, 17.03.2019, 09:19</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Very fast and instant exchange. Thankyou</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">okhyipeu, 09.03.2019, 07:12</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Super serwis wszystko szybko , automatycznie i TANIO !</div>
+						</div>			
+					
+									
+						<div class="clear"></div>
+					</div>
+				</div>
+				
+				<a href="https://www.change.am/reviews/" class="home_reviews_more">Все отзывы</a>
+			</div>
+		</div>
+	</div>
+		
+	
+	
+		<div class="home_lchange_wrap">
+		<div class="home_lchange_wrap_ins">
+			<div class="home_lchange_block">
+				<div class="home_lchange_title">Последние обмены</div>
+				
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">18.03.2019, 12:42</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">9.9</div>
+									<div class="home_lchange_name">USD</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/wp-content/uploads/perfectmoney.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">9.8703</div>
+									<div class="home_lchange_name">USD</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">18.03.2019, 08:54</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/wp-content/uploads/perfectmoney.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">30</div>
+									<div class="home_lchange_name">USD</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/wp-content/uploads/paypal.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">21.625</div>
+									<div class="home_lchange_name">USD</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="clear"></div>
+			</div>	
+		</div>
+	</div>	
+		
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/cash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Наличные USD										</div>
+										<div class="one_home_reserv_sum">
+											100										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/cash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Наличные AMD										</div>
+										<div class="one_home_reserv_sum">
+											27621.5612										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/webmoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney USD										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/webmoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Webmoney RUB										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/paypal.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											PayPal USD										</div>
+										<div class="one_home_reserv_sum">
+											105.9556										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/paypal.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											PayPal EUR										</div>
+										<div class="one_home_reserv_sum">
+											92.5454										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/paypal.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											PayPal GPB										</div>
+										<div class="one_home_reserv_sum">
+											177.6883										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/paypal.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											PayPal PLN										</div>
+										<div class="one_home_reserv_sum">
+											1012.4225										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/paypal.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											PayPal RUB										</div>
+										<div class="one_home_reserv_sum">
+											5480.5										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer USD										</div>
+										<div class="one_home_reserv_sum">
+											117.93										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer EUR										</div>
+										<div class="one_home_reserv_sum">
+											208.43										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer RUB										</div>
+										<div class="one_home_reserv_sum">
+											8.7										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/card.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MasterCard USD										</div>
+										<div class="one_home_reserv_sum">
+											467.416										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/card.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MasterCard EUR										</div>
+										<div class="one_home_reserv_sum">
+											803.07										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/card.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MasterCard RUB										</div>
+										<div class="one_home_reserv_sum">
+											5480.5										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/arca.gif) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MasterCard AMD										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/card.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Visa/MasterCard GEL										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/mir.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Мир RUB										</div>
+										<div class="one_home_reserv_sum">
+											8.7										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											ExMo USD										</div>
+										<div class="one_home_reserv_sum">
+											10616.3151										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/exmo.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											ExMo EUR										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											AdvCash USD										</div>
+										<div class="one_home_reserv_sum">
+											1874.99										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											AdvCash EUR										</div>
+										<div class="one_home_reserv_sum">
+											803.07										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											AdvCash RUB										</div>
+										<div class="one_home_reserv_sum">
+											133574.66										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/perfectmoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Perfect Money USD										</div>
+										<div class="one_home_reserv_sum">
+											5341.21										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/btc.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											BitCoin BTC										</div>
+										<div class="one_home_reserv_sum">
+											0.05750036										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/ltc.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											LiteCoin LTC										</div>
+										<div class="one_home_reserv_sum">
+											0.04258638										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/bitcoincash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											BitCoin Cash BCH										</div>
+										<div class="one_home_reserv_sum">
+											0.21271519										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/ethereum.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ethereum ETH										</div>
+										<div class="one_home_reserv_sum">
+											0.93377978										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/ripple.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ripple XRP										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/tether.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Tether USDT										</div>
+										<div class="one_home_reserv_sum">
+											47.59388694										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/zcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											ZCash ZEC										</div>
+										<div class="one_home_reserv_sum">
+											0.00172798										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/dash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Dash DASH										</div>
+										<div class="one_home_reserv_sum">
+											0.00000005										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/idram-1.gif) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											IDram AMD										</div>
+										<div class="one_home_reserv_sum">
+											0										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/yandex.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Яндекс.Деньги RUB										</div>
+										<div class="one_home_reserv_sum">
+											5480.5										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/tbc.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											TBC Банк USD										</div>
+										<div class="one_home_reserv_sum">
+											500										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/tbc.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											TBC Банк EUR										</div>
+										<div class="one_home_reserv_sum">
+											500										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/epay.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											EPay USD										</div>
+										<div class="one_home_reserv_sum">
+											53.37										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/qiwi.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Qiwi RUB										</div>
+										<div class="one_home_reserv_sum">
+											8.7										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/livecoin.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Livecoin USD										</div>
+										<div class="one_home_reserv_sum">
+											329.5221										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/instaforex.gif) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											ИнстаФорекс USD										</div>
+										<div class="one_home_reserv_sum">
+											10000										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>														
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins">
+			<div class="home_partner_block">
+				<div class="home_partner_title">Партнеры</div>
+
+										<div class="home_partner_one">
+							<a href="#" target="_blank">								<img src="/wp-content/uploads/idram.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://payeer.com/0976" target="_blank">								<img src="/wp-content/uploads/Payeer.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://perfectmoney.is/?ref=915963" target="_blank">								<img src="/wp-content/uploads/perfectmoney-1.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.epay.com/?ref=602533" target="_blank">								<img src="/wp-content/uploads/epay-1.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://wallet.advcash.com/referral/d375d14d-3bc7-49ac-8ea7-36ce6628b38c" target="_blank">								<img src="/wp-content/uploads/advcash-1.png" alt="" />
+							</a>						</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>© 2007 &#8212; 2019 &#8212; Change.AM <br />
+Сервис Обмена  Электронных Валют.</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://www.change.am/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://www.change.am/tos/"><span>Правила сайта</span></a></li>
+<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://www.change.am/politika-aml/"><span>Политика AML</span></a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-custom menu-item-object-custom  last_menu_li menu-item-227"><a href="https://www.change.am/request-exportxml.xml"><span>XML &#8212; Курсы</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="http://vk.com/share.php?url=https%3A%2F%2Fwww.change.am%2F%3Frid%3D10" class="social_link" target="_blank" rel="nofollow"><img src="https://www.change.am/wp-content/themes/exchanger/images/vk-ico.png" alt="" /></a>
+													<a href="https://www.facebook.com/Change.AM" class="" target="_blank" rel="nofollow"><img src="https://www.change.am/wp-content/themes/exchanger/images/fb-ico.png" alt="" /></a>
+													<a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.change.am%2F%3Frid%3D10" class="social_link" target="_blank" rel="nofollow"><img src="https://www.change.am/wp-content/themes/exchanger/images/gp-ico.png" alt="" /></a>
+													<a href="http://twitter.com/share?url=https%3A%2F%2Fwww.change.am%2F%3Frid%3D10" class="social_link" target="_blank" rel="nofollow"><img src="https://www.change.am/wp-content/themes/exchanger/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://www.change.am/ajax-set_site_vers.html?meth=get&yid=006ef0d92a07&lang=ru&set=mobile&return_url=%2F%3Frid%3D10">Мобильная версия</a></div>
+							</div>
+			
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p>График работы &#8212; свободный график.<br />
+Обычно с 13:00 по 02:00<br />
+Заявки проверяются несколько раз в день и обрабатываются.</p>
+				</div>
+								
+			
+			</div>	
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D10';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://www.change.am/ajax-globalajax_wp_check.html?meth=post&yid=006ef0d92a07&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+				
+			var res_content = res2;
+		
+	$(document).JsWindow('show', {
+		id: 'js_error_window',
+		div_class: 'error_window',
+		title: 'Произошла ошибка',
+		content: res_content,
+		shadow: 1
+	});	
+	
+			},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+									}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 120000);
+	globalajax_timer();
+});	
+</script>
+
+		<div class="reserv_box_html" style="display: none;">
+			<div class="resultgo"></div>
+					
+			
+				<div class="form_field_line rb_line type_input  field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input  field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_text  field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+					
+			<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+		</div>	
+		
+		<form method="post" class="ajax_post_form" action="https://www.change.am/ajax-reservform.html?meth=post&yid=006ef0d92a07&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+			<div class="reserv_box"></div>
+		</form>
+		<a href="https://static.siteheart.com/widget/sh/3/html/popup.html?sh_mode=chatpopup&amp;widget_id=269481&amp;ent_id=269481" onclick="o=window.open;o('https://static.siteheart.com/widget/sh/3/html/popup.html?sh_mode=chatpopup&amp;widget_id=269481&amp;ent_id=269481','siteheart_sitewindow_269481', 'width=550,height=400,top=30,left=30,resizable=yes'); return false;" class="statuswork_div status_op1 toright">
+	<div class="statuswork_div_ins">
+		<div class="statuswork">
+			<div class="statuswork_ins">
+				<div class="statuswork_title"><span>Оператор online</span></div>
+				<div class="statuswork_date"><span>18.03.2019, 13:47</span></div>
+			</div>	
+		</div>
+	</div>
+	</a>
+<script type='text/javascript' src='https://www.change.am/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+
+
+
+<!-- Start SiteHeart code -->
+<script>
+(function(){
+var widget_id = 269481;
+_shcp =[{widget_id : widget_id}];
+var lang =(navigator.language || navigator.systemLanguage 
+|| navigator.userLanguage ||"en")
+.substr(0,2).toLowerCase();
+var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+var hcc = document.createElement("script");
+hcc.type ="text/javascript";
+hcc.async =true;
+hcc.src =("https:"== document.location.protocol ?"https":"http")
++"://"+ url;
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>
+<!-- End SiteHeart code -->
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+	<meta charset="UTF-8">
+	<title>kapysta.online &#8212; Сервис обмена электронных валют</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='roboto-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%3A300%2C400%2C700%7CRoboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i&#038;subset=cyrillic%2Ccyrillic-ext&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://kapysta.online/wp-content/themes/kapysta/style.css?ver=6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://kapysta.online/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://kapysta.online/wp-content/themes/kapysta/js/jquery-1.8.3.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://kapysta.online/wp-content/plugins/bcbroker/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kapysta.online/wp-content/plugins/bcbroker/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://kapysta.online/wp-content/plugins/bcbroker/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://kapysta.online/wp-content/themes/kapysta/js/jquery-ui-1.9.2.custom.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://kapysta.online/wp-content/themes/kapysta/js/all.js?ver=6.1'></script>
+<script type='text/javascript' src='https://kapysta.online/premiumjs.js?lang=ru&#038;ver=1.6'></script>
+<link rel="shortcut icon" href="https://kapysta.online/wp-content/uploads/logo.png" type="image/png" />
+<link rel="icon" href="https://kapysta.online/wp-content/uploads/logo.png" type="image/png" />
+<link rel='canonical' href='https://kapysta.online/' />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+	
+	
+		
+	
+</head>
+
+<body class="home page-template page-template-exb-pluginpage page-template-exb-pluginpage-php page page-id-151">
+<div id="container">
+	<div class="headline"></div>
+
+		
+    <div id="header">
+	    <div class="header">
+			<div class="header_im"></div>
+			<div class="header_in">
+				<div class="logo">
+											<a href="https://kapysta.online" title="kapysta.online"><img src="/wp-content/themes/kapysta/logo.png" alt="kapysta.online" /></a>
+									</div>
+				
+								
+				<div class="hright">
+					
+					<div class="hicon_tel">+38 050 80 535 80</div>					<div class="hicon_email"><a href="mailto:i&#110;f&#111;&#64;&#107;&#97;&#112;&#121;st&#97;.on&#108;i&#110;e">&#105;&#110;f&#111;&#64;k&#97;p&#121;sta&#46;o&#110;l&#105;ne</a></div>
+					<div class="hworktime"><p>Работаем без выходных<br />
+с 08:00 до 24:00 МСК</p>
+</div>
+				</div>
+				
+					<div class="clear"></div>
+			</div>	
+		</div>
+	</div>	
+	
+	<div id="cwrap">
+		<div id="menutopped">
+			<div id="topmenu">
+				<div class="topmenu_wrap">
+					<div class="topmenu_in">
+						<div class="topmenu">
+							<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom  first_menu_li menu-item-130"><a href="/"><span>Обмен</span></a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://kapysta.online/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://kapysta.online/tos/"><span>Правила</span></a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-171"><a href="#"><span>Кабинет</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://kapysta.online/login/"><span>Авторизация</span></a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://kapysta.online/register/"><span>Условия и регистрации</span></a></li>
+</ul>
+</li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://kapysta.online/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-169"><a href="https://kapysta.online/feedback/"><span>Контакты</span></a></li>
+</ul>								<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>	
+	
+		<div class="content">
+			<div class="contentzone">		
+		<div class="hometexttop">
+	    <div class="text">
+			<p><strong>ВНИМАНИЕ</strong>!<br />
+Операции по обмену производятся оператором в ручном режиме и занимают от 5 до 30 минут в online-режиме и до 3-х часов в статусе offline с 08.00 до 24.00 МСК (см. статус оператора).</p>
+		</div>
+	</div>	
+    	
+	    		
+
+		
+		<div class="homeobmentable">
+	
+	<div class="lefthomecol">
+		<div class="lefthomecolvn"><div class="widgethometitle"><div class="widt">Отдаете</div></div>
+				<div class="onehline leftgo act first" id="napobmen-16">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Приват24 UAH
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-13">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(https://kapysta.online/wp-content/uploads/Qiwi-e1500835311843.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						QIWI RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-12">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Сбербанк RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-18">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Яндекс.Деньги RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-20">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						WebMoney RUB
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo" id="napobmen-17">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						WebMoney USD
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="onehline leftgo last" id="napobmen-21">
+					<div class="onehlug"></div>
+					<div class="onehldopug"></div>
+					<div class="onehlineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						WebMoney UAH
+					</div>
+						<div class="clear"></div>
+				</div>
+		</div>
+	</div>
+	<div class="righthomecol">
+		<div class="righthomecolvn">
+	<div class="widgethometitle2">
+		<div class="widt1">Получаете</div>
+		<div class="widt2">Резерв</div>
+			<div class="clear"></div>
+	</div>
+	<div class="tabhome act" id="napobmento-16">
+								<a href="https://kapysta.online/xchange_P24UAH_to_SBERRUB/" data-xname1="P24UAH" data-xname2="SBERRUB" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Сбербанк RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Сбербанк RUB" data-id="12">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										167495.45
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_P24UAH_to_YAMRUB/" data-xname1="P24UAH" data-xname2="YAMRUB" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Яндекс.Деньги RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" data-id="18">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										26200.41
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_P24UAH_to_WMR/" data-xname1="P24UAH" data-xname2="WMR" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney RUB" data-id="20">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										11769.99
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_P24UAH_to_WMZ/" data-xname1="P24UAH" data-xname2="WMZ" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney USD
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney USD" data-id="17">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										908.31
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_P24UAH_to_WMU/" data-xname1="P24UAH" data-xname2="WMU" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney UAH" data-id="21">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										166.46
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-13">
+								<a href="https://kapysta.online/xchange_QWRUB_to_P24UAH/" data-xname1="QWRUB" data-xname2="P24UAH" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										140575.31
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_QWRUB_to_WMR/" data-xname1="QWRUB" data-xname2="WMR" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney RUB" data-id="20">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										11769.99
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-12">
+								<a href="https://kapysta.online/xchange_SBERRUB_to_WMR/" data-xname1="SBERRUB" data-xname2="WMR" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney RUB" data-id="20">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										11769.99
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_SBERRUB_to_WMZ/" data-xname1="SBERRUB" data-xname2="WMZ" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney USD
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney USD" data-id="17">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										908.31
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-18">
+								<a href="https://kapysta.online/xchange_YAMRUB_to_P24UAH/" data-xname1="YAMRUB" data-xname2="P24UAH" class="onehrine first last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										140575.31
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-20">
+								<a href="https://kapysta.online/xchange_WMR_to_P24UAH/" data-xname1="WMR" data-xname2="P24UAH" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										140575.31
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_WMR_to_YAMRUB/" data-xname1="WMR" data-xname2="YAMRUB" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Яндекс.Деньги RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" data-id="18">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										26200.41
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_WMR_to_WMZ/" data-xname1="WMR" data-xname2="WMZ" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney USD
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney USD" data-id="17">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										908.31
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_WMR_to_WMU/" data-xname1="WMR" data-xname2="WMU" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney UAH" data-id="21">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										166.46
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-17">
+								<a href="https://kapysta.online/xchange_WMZ_to_P24UAH/" data-xname1="WMZ" data-xname2="P24UAH" class="onehrine first">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										140575.31
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_WMZ_to_YAMRUB/" data-xname1="WMZ" data-xname2="YAMRUB" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Яндекс.Деньги RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" data-id="18">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										26200.41
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_WMZ_to_WMR/" data-xname1="WMZ" data-xname2="WMR" class="onehrine">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney RUB
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney RUB" data-id="20">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										11769.99
+									</div>
+									<div class="clear"></div>
+								</a>
+								<a href="https://kapysta.online/xchange_WMZ_to_WMU/" data-xname1="WMZ" data-xname2="WMU" class="onehrine last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(https://kapysta.online/wp-content/uploads/WebMoney.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										WebMoney UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="WebMoney UAH" data-id="21">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										166.46
+									</div>
+									<div class="clear"></div>
+								</a></div><div class="tabhome " id="napobmento-21">
+								<a href="https://kapysta.online/xchange_WMU_to_P24UAH/" data-xname1="WMU" data-xname2="P24UAH" class="onehrine first last">
+									<div class="onehrug"></div>
+									<div class="onehrdopug"></div>
+								
+									<div class="onehrineico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+									<div class="onehrinetext">
+										Приват24 UAH
+									</div>
+									<div class="onehrinerezerv">
+										<div class="zaprosvalutrelvn" title="Приват24 UAH" data-id="16">
+											<div class="zaprosvalutrel">
+												Не хватает?
+											</div>
+										</div>
+										140575.31
+									</div>
+									<div class="clear"></div>
+								</a></div>
+		</div>
+	</div>
+		<div class="clear"></div>
+			<div class="clear"></div>
+		</div>
+	
+				
+		
+	    			
+	
+	<div class="clear"></div>
+				<div class="hometext">
+				<div class="hometext_ins">
+					<div class="hometext_title">
+						<div class="hometext_title_ins">
+							Приветствуем на сайте обменного пункта Kapysta.online!						</div>
+					</div>
+						<p>Наш On-line сервис предназначен для тех, кто хочет быстро, безопасно и по выгодному курсу обменять такие виды электронных валют: Приват 24, Сбербанк, Qiwi, Яндекс.Деньги, Webmoney.</p>
+<p>Этим возможности нашего сервиса не ограничиваются. В рамках проекта действуют программа лояльности, накопительная скидка и партнерская программа, воспользовавшись преимуществами которых, вы сможете совершать обмен электронных валют на более выгодных условиях. Для этого нужно просто зарегистрироваться на сайте.</p>
+<p>Наш пункт обмена электронных валют – система, созданная на базе современного программного обеспечения и содержащая весь набор необходимых функций для удобной и безопасной конвертации наиболее распространенных видов электронных денег. За время работы мы приобрели репутацию проверенного партнера и делаем все возможное, чтобы ваши впечатления от нашего сервиса были только благоприятными.</p>
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+	
+			</div>
+			<div class="sidebar">
+				
+	<div class="statuswork_widget online"><div class="statuswork_widgetvn">
+		<div class="statuswork_widget_text">Оператор <span class="opstatus">online</span></div><div class="statuswork_widget_time">18.03.2019 12:47:28</div>
+	</div></div>
+	
+			<div class="login_widget">
+				<div class="login_widgetvn login_widget_ins">
+				<div class="loginwidget_title login_widget_title">
+					<div class="loginwidget_titlevn login_widget_title_ins">Авторизация</div>
+				</div>
+					<form method="post" class="ajax_post_form" action="https://kapysta.online/ajax-loginform.html?meth=post&yid=23d37d8ab433">
+		<div class="resultgo"></div>
+		<div class="wline">
+			<input type="text" name="logmail" placeholder="Логин" value="" />
+		</div>
+		<div class="wline">
+			<input type="password" name="pass" placeholder="Пароль" value="" />
+		</div>	
+					
+		
+		<div class="captchablock">
+			<div class="captcha_body">
+				<div class="captcha_divimg">
+					<img src="https://kapysta.online/wp-content/uploads/captcha/1552902448292028.png" class="captcha1" alt="" />
+				</div>
+				<div class="captcha_divznak">
+					<span class="captcha_sym">+</span>
+				</div>	
+				<div class="captcha_divimg">
+					<img src="https://kapysta.online/wp-content/uploads/captcha/1552902448320541.png" class="captcha2" alt="" />
+				</div>
+				<div class="captcha_divznak">
+					=
+				</div>
+
+				<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			
+				<a href="#" class="captcha_reload" title="replace task?"></a>
+					<div class="clear"></div>
+			</div>
+		</div>	
+	
+					
+		<div class="wlineleft">
+			<p><a href="https://kapysta.online/register/">Регистрация</a></p>
+		</div>
+		<div class="wlineright">
+			<p><a href="https://kapysta.online/lostpass/">Забыли пароль?</a></p>
+		</div>                    				
+			<div class="clear"></div>
+		<div class="wlinesubmit">
+			<input type="submit" formtarget="_top" name="" value="Войти" />
+		</div>  		
+	
+					</form>
+				</div>
+			</div>
+			
+	<div class="lobmen_widget">
+		<div class="lobmenwidget_title">Последний обмен</div>
+		
+		<div class="lobmendate">18.03.2019, 12:39</div>
+		<div class="lobmentable">
+			<div class="lobmline">
+				<div class="lobmlineico">
+					<div class="lobmenlinewico" style="background: url(https://kapysta.online/wp-content/uploads/Qiwi-e1500835311843.png) no-repeat center center"></div>
+						<div class="clear"></div>
+				</div>
+				<div class="lobmlinebac">
+					4500&nbsp;RUB
+				</div>
+					<div class="clear"></div>
+			</div>
+							
+			<div class="lobmlinepr"></div>
+							
+			<div class="lobmline">
+				<div class="lobmlineico">
+					<div class="lobmenlinewico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center"></div>
+						<div class="clear"></div>
+				</div>
+				<div class="lobmlinebac">
+					1715.73&nbsp;UAH
+				</div>
+					<div class="clear"></div>
+			</div>	
+				<div class="clear"></div>
+		</div>		
+	</div>	
+	
+	<div class="widget widget_reviews_div">
+		<div class="widget_title">
+			<div class="widget_title_ins">
+				Отзывы
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div class="widget_reviews_line ">
+		<div class="widget_reviews_author">Анна,</div>
+		<div class="widget_reviews_date">16.03.2019, 19:02</div>
+			<div class="clear"></div>
+			
+		<div class="widget_reviews_content">
+			Странный сервис. Сумма в заявке была одна, 6 472 а&hellip;
+		</div>
+	</div><div class="widget_reviews_line odd">
+		<div class="widget_reviews_author">Андрей,</div>
+		<div class="widget_reviews_date">16.03.2019, 15:55</div>
+			<div class="clear"></div>
+			
+		<div class="widget_reviews_content">
+			В очередной раз всё прошло отлично, спасибо!
+		</div>
+	</div><div class="widget_reviews_line ">
+		<div class="widget_reviews_author">Максим,</div>
+		<div class="widget_reviews_date">16.03.2019, 13:15</div>
+			<div class="clear"></div>
+			
+		<div class="widget_reviews_content">
+			Спасибо за низкий лимит перевода денег с киви на приват&hellip;
+		</div>
+	</div>
+	
+		<div class="widget_news_more_div">
+			<a href="https://kapysta.online/reviews/" class="widget_reviews_more">Все отзывы</a>
+			<div class="clear"></div>
+		</div>
+	</div>
+	
+	<div class="widget widget_news_div">
+		<div class="widget_title">
+			<div class="widget_title_ins">
+				Новости
+			</div>	
+		</div>
+			<div class="clear"></div>
+		<div class="widget_news_line">
+		<div class="widget_news_date">
+			07.03.2019
+		</div>
+		<div class="widget_news_content">
+			<div class="widget_news_text">
+				Проверенной считается банковская платежная карта в случае если она: прикреплена&hellip;
+			</div>
+			<a href="https://kapysta.online/kak-privyazat-kartu-k-webmoney-v-ukraine/" class="widget_news_more">Подробнее</a>
+		</div>
+			<div class="clear"></div>
+	</div>
+	    
+		<div class="widget_news_more_div">
+			<a href="https://kapysta.online/news/">Все новости</a>
+				<div class="clear"></div>
+		</div>		
+	</div>
+				</div>
+				<div class="clear"></div>
+		</div>
+	</div>
+	
+		<div class="partners_wrap">
+		<div class="partners_div">
+	        <div class="partners_div_ins">
+								<div class="partners_title">
+					Партнеры				</div>
+					
+								<div class="partners_one">
+					<a href="https://www.bestchange.ru/?p=107467" target="_blank" title="Мониторинг обменных пунктов BestChange.ru">						<img src="https://kapysta.online/wp-content/uploads/best-change.jpg" alt="Мониторинг обменных пунктов BestChange.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://kurs.expert/ru/obmen/visa.mastercard.rub/bitcoin/4405" target="_blank" title="Мониторинг обменников, анализатор валют КурсЕксперт">						<img src="https://kapysta.online/wp-content/uploads/buttonY.png" alt="Мониторинг обменников, анализатор валют КурсЕксперт" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="http://kurses.com.ua" target="_blank" title="Мониторинг обменников kurses.com.ua">						<img src="https://kapysta.online/wp-content/uploads/benefits-logo.gif" alt="Мониторинг обменников kurses.com.ua" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://glazok.org/?id=132" target="_blank" title="Мониторинг обменных пунктов GLAZOK">						<img src="https://kapysta.online/wp-content/uploads/88x31-1.gif" alt="Мониторинг обменных пунктов GLAZOK" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="http://kurs.com.ua/webmoney" target="_blank" title="Мониторинг обменных пунктов Kurs">						<img src="https://kapysta.online/wp-content/uploads/Bez-nazvaniya.png" alt="Мониторинг обменных пунктов Kurs" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://okku.ru/" target="_blank" title="Мониторинг обменников OKKU.ru">						<img src="https://kapysta.online/wp-content/uploads/88-31-okku-3.gif" alt="Мониторинг обменников OKKU.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://pro-obmen.ru" target="_blank" title="Мониторинг обменников Pro-Obmen.ru">						<img src="https://kapysta.online/wp-content/uploads/88x31-1-1.gif" alt="Мониторинг обменников Pro-Obmen.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://www.megastock.com" target="_blank" title="Мы принимаем WebMoney">						<img src="https://kapysta.online/wp-content/uploads/wm-botton.png" alt="Мы принимаем WebMoney" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://exchangesumo.com" target="_blank" title="Сервис поиска выгодного курса обмена ExchangeSumo">						<img src="https://kapysta.online/wp-content/uploads/1.png" alt="Сервис поиска выгодного курса обмена ExchangeSumo" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="http://wmgood.ru/" target="_blank" title="Мониторинг обменных пунктов wmgood.ru">						<img src="https://kapysta.online/wp-content/uploads/88x31-1.png" alt="Мониторинг обменных пунктов wmgood.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="http://www.okchanger.ru/?a=147608" target="_blank" title="Мониторинг обменных пунктов OKchanger">						<img src="https://kapysta.online/wp-content/uploads/90x32.png" alt="Мониторинг обменных пунктов OKchanger" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://cryptobrokers.ru" target="_blank" title="Мониторинг обменников cryptobrokers.ru">						<img src="https://kapysta.online/wp-content/uploads/88x31.png" alt="Мониторинг обменников cryptobrokers.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="http://obmenvse.ru" target="_blank" title="Мониторинг обменных пунктов Obmenvse.ru">						<img src="https://kapysta.online/wp-content/uploads/obmenvse-5.gif" alt="Мониторинг обменных пунктов Obmenvse.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://bestexchangers.ru/" target="_blank" title="Мониторинг обменников BestExchangers.ru">						<img src="https://kapysta.online/wp-content/uploads/88x31.gif" alt="Мониторинг обменников BestExchangers.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://good-kurs.ru" target="_blank" title="Мониторинг обменников good-kurs.ru">						<img src="https://kapysta.online/wp-content/uploads/88x31-4.gif" alt="Мониторинг обменников good-kurs.ru" />
+					</a>				</div>
+								<div class="partners_one">
+					<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=181897906569" target="_blank" title="Аттестован WebMoney">						<img src="https://kapysta.online/wp-content/uploads/v-blue-on-transp-ru.png" alt="Аттестован WebMoney" />
+					</a>				</div>
+										
+				
+				<div class="clear"></div>
+	        </div>
+	    </div>	
+	</div>	
+		
+	
+    <div id="footer">
+		<div class="footer_wrap">
+			<div class="footer">
+				<div class="fleft">
+									© 2017-2019 Kapysta.online - сервис обмена Приват 24, Сбербанк, Qiwi, Яндекс.Деньги, Webmoney.								</div>
+
+				<div class="fright">
+					<ul id="menu-nizhnee-menyu" class="tmenu"><li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-221"><a href="https://kapysta.online/preduprezhdenie/"><span>Уведомление об ответственности</span></a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://kapysta.online/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-493"><a href="https://kapysta.online/politika-konfidentsialnosti/"><span>Политика конфиденциальности</span></a></li>
+</ul>						<div class="clear"></div>
+				</div> 
+					<div class="clear"></div>			
+			</div>
+		</div>
+	</div>	
+	
+</div>
+
+
+		<div id="exbprezshadow"></div> 
+		<div class="exbprezbox">
+			<div class="exbprezboxvn">
+				<div class="exbprezboxtitle">Запрос резерва "<span id="rezerv_titls"></span>"</div>
+				<div class="exbprezboxclose"></div>
+				<form method="post" class="ajax_post_form" action="https://kapysta.online/ajax-reservform.html?meth=post&yid=23d37d8ab433"><input type="hidden" name="id" id="rezerv_ids" value="0" />
+					<div class="resultgo"></div>
+					
+					
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_text ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="rb_id-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+		<div class="captchablock">
+			<div class="captcha_body">
+				<div class="captcha_divimg">
+					<img src="https://kapysta.online/wp-content/uploads/captcha/1552902448577818.png" class="captcha1" alt="" />
+				</div>
+				<div class="captcha_divznak">
+					<span class="captcha_sym">+</span>
+				</div>	
+				<div class="captcha_divimg">
+					<img src="https://kapysta.online/wp-content/uploads/captcha/1552902448516900.png" class="captcha2" alt="" />
+				</div>
+				<div class="captcha_divznak">
+					=
+				</div>
+
+				<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			
+				<a href="#" class="captcha_reload" title="replace task?"></a>
+					<div class="clear"></div>
+			</div>
+		</div>	
+	
+					
+					<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>		
+		<script type='text/javascript' src='https://kapysta.online/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'dDOJHIYzci';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+			<div id="the_shadow" class="js_techwindow"></div>
+			</body>
+</html>

@@ -1,0 +1,1749 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="rlD4pNnDvGsZMBaxi0kKBwNo1oa4Jwmg6gjCrcvrPCA" />
+<link rel="sitemap" type="application/xml" title="Sitemap" href="https://paybis.com/ru/sitemap.xml" />
+<link rel="icon" type="image/ico" href="/favicon.ico">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NZTTKV4');</script>
+
+<script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-60533097-1', 'auto');
+        ga('require', 'linkid', 'linkid.js');
+                ga(function(tracker) {
+            var csrf = 'czBOX2tTbHpAdyMbJh8BHkIDOzoaMC5PQUc/Dg9iP0wRexkGHzEqSA==';
+            var clientId = tracker.get('clientId');
+            var currentId = 'd136c319-d66c-43a0-b6c5-ec1c753fc5c4';
+
+            if (currentId === clientId) {
+                return;
+            }
+
+            $.ajax({
+                method: "POST",
+                url: 'https://paybis.com/ru/site/client-id/',
+                data: {
+                    id: clientId,
+                    _csrf: csrf
+                }
+            })
+        });
+        ga('send', 'pageview');
+
+    </script>
+<title>Купить биткойн за 15 минут с помощью кредитных / дебетовых карт - PayBis</title>
+<meta name="webmoney" content="42CEE4D9-B709-49C5-94DD-DAE4462EBB65" />
+<meta name="wot-verification" content="fbccbd832ba80ab68c60" />
+<meta name="wot-verification" content="65c80cc66951dc4cef42" />
+<meta name="description" content="Купите популярные криптовалюты мгновенно на Paybis.com, используя обычные кредитные / дебетовые карты и другие популярные способы оплаты! 24/7 Онлайн поддержка! Отличные отзывы от клиентов на Trustpilot.">
+<meta property="og:image" content="https://paybis.com/resources/paybis_logo_340x340.png">
+<link href="https://paybis.com/ru/" rel="canonical">
+<link href="https://plus.google.com/117059001053486970904" rel="publisher">
+<link href="/assets/all-31fb9860e0d75f8c63026dc572b5b85c.css" rel="stylesheet">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800,300italic&amp;subset=cyrillic,latin" rel="stylesheet">
+<link href="/assets/eb16b3c6291414bd2ad8db9cc98f82d2/css/flag-icon.min.css" rel="stylesheet">
+<script src="/assets/9db333b08a66e9eb79cc702f64f583f8/raven.min.js"></script>
+<script src="/assets/all-17007c18e758ecaf24536ff71e83bea8.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js"></script>
+<script src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+<script type="text/javascript">Raven.config("https://29ed2360295c4151996cf66a6a7d30c7@st.paybis.com/6", {"whitelistUrls":["paybis.com"],"release":"35515735f5afbe04b3f9858719b4cdf12ab23a01","environment":"prod"}).install();</script> <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="czBOX2tTbHpAdyMbJh8BHkIDOzoaMC5PQUc/Dg9iP0wRexkGHzEqSA==">
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZTTKV4"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header>
+<div class="container">
+<div class="col-md-3 hidden-xs hidden-sm">
+<a href="https://paybis.com/ru/" id="cex-logo" rel="home">
+<img src="/resources/paybisLogoLarge.svg" alt="Обмен виртуальной и криптовалюты!" title="PayBis - Digital and Crypto currency exchange!"> </a>
+</div>
+<div class="col-sm-7 col-md-9 text-right hidden-xs hidden-sm">
+<ul class="user-menu">
+<li role="presentation">
+<a href="/ru/verification/"><i class="fa fa-fw fa-shield"></i><span class="visible-md-inline visible-lg-inline">Верификация &amp; лимиты</span></a>
+</li>
+<li role="presentation">
+<a href="/ru/card/"><i class="fa fa-fw fa-credit-card"></i><span class="visible-md-inline visible-lg-inline">Карта Paybis</span></a>
+</li>
+<li role="presentation">
+<a href="/ru/referral-program/"><i class="fa fa-fw fa-users"></i><span class="visible-md-inline visible-lg-inline">Реферальная программа</span></a>
+</li>
+</ul>
+<div class="user-login-buttons hidden-xs hidden-sm">
+<div class="dropdown pull-right ">
+<button class="btn btn-default dropdown-toggle btn-sm" type="button" id="lang-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+<span class="flag-icon flag-icon-ru"></span> ru <span class="caret"></span>
+</button>
+<ul class="dropdown-menu" aria-labelledby="lang-dropdow">
+<li><a href='/'><span class="flag-icon flag-icon-us"></span> English</a></li><li><a href='/ru/'><span class="flag-icon flag-icon-ru"></span> Русский</a></li> </ul>
+</div>
+<div class="dropdown pull-right default-currency">
+<button class="btn btn-default dropdown-toggle btn-sm" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+USD <span class="caret"></span>
+</button>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a href="?currency=USD">USD</a></li><li><a href="?currency=EUR">EUR</a></li><li><a href="?currency=GBP">GBP</a></li><li><a href="?currency=RUB">RUB</a></li> </ul>
+</div>
+<a class="btn btn-primary btn-sm pull-right hidden_link" href="#" data-link="/ru/user/login/" onClick=""><i class="fa fa-fw fa-sign-in"></i> Войти / Зарегистрироваться</a> </div>
+</div>
+</div>
+<nav class="navbar navbar-default">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target="#main-navbar-collapse" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<div class="user-login-buttons visible-xs visible-sm pull-left">
+<a class="btn btn-primary btn-sm pull-right hidden_link" href="#" data-link="/ru/user/login/" onClick=""><i class="fa fa-fw fa-sign-in"></i> Войти / Зарегистрироваться</a> </div>
+<a class="visible-xs-inline-block visible-sm-inline-block pull-right" id="mobile-logo" href="https://paybis.com/ru/">
+<img src="/resources/paybisLogoNoText.svg" alt=""> </a>
+</div>
+
+<nav class="collapse navbar-collapse" id="main-navbar-collapse">
+
+<ul class="nav navbar-nav navbar-right">
+<li class="visible-xs visible-sm"><a href="/ru/"><i class="fa fa-fw fa-exchange"></i> Начало</span></a></li>
+<li class="visible-xs visible-sm" "><a href="/ru/verification/"><i class="fa fa-fw fa-shield"></i> Верификация &amp; лимиты</a></li>
+<li class="visible-xs visible-sm" "><a href="/ru/card/"><i class="fa fa-fw fa-credit-card"></i> Карта Paybis</a></li>
+<li class="visible-xs visible-sm" "><a href="/ru/referral-program/"><i class="fa fa-fw fa-users"></i> Реферальная программа</a></li>
+</ul>
+<div class="currency-selector visible-xs visible-sm" ">
+<div class="dropdown default-currency">
+<button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+USD <span class="caret"></span>
+</button>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li><a href="?currency=USD">USD</a></li><li><a href="?currency=EUR">EUR</a></li><li><a href="?currency=GBP">GBP</a></li><li><a href="?currency=RUB">RUB</a></li> </ul>
+</div>
+Выберите валюту по умолчанию </div>
+<div class="language-selector visible-xs visible-sm" ">
+<div class="dropdown user-language">
+<button class="btn btn-default dropdown-toggle" type="button" id="lang-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+<span class="flag-icon flag-icon-ru"></span> ru <span class="caret"></span>
+</button>
+<ul class="dropdown-menu" aria-labelledby="lang-dropdow">
+<li><a href='/'><span class="flag-icon flag-icon-us"></span> English</a></li><li><a href='/ru/'><span class="flag-icon flag-icon-ru"></span> Русский</a></li> </ul>
+</div>
+Выберите язык
+</div>
+</nav>
+</div>
+
+
+<div class="trustpilot-widget" data-locale="en-GB" data-template-id="5419b637fa0340045cd0c936" data-businessunit-id="5577004d0000ff000580102b" data-style-height="20px" data-style-width="100%" data-theme="light">
+<a href="#" target="_blank" data-link="https://uk.trustpilot.com/review/paybis.com">Trustpilot</a>
+</div>
+
+</nav>
+<div class="exchange-rates hidden-xs">
+<div class="container">
+<div class="row">
+<div class="dropdown col-md-3 col-sm-3 text-center" id="ratesDropdown">
+<div class="btn-group btn-group-xs dropdown-toggle" role="group" aria-haspopup="true" aria-expanded="false">
+<button type="button" class="btn btn-default" data-crypto="btc">
+BTC </button>
+ <button type="button" class="btn btn-link" data-crypto="ltc">
+LTC </button>
+<button type="button" class="btn btn-link" data-crypto="bch">
+BCH </button>
+<button type="button" class="btn btn-link" data-crypto="eth">
+ETH </button>
+<button type="button" class="btn btn-link" data-crypto="xrp">
+XRP </button>
+<button type="button" class="btn btn-link" data-crypto="neo">
+NEO </button>
+</div>
+<ul class="dropdown-menu">
+<li class="col-md-3 col-sm-4" id="rates-btc">
+<a href="#">
+<span class="rates-label">BTC</span>
+<ul class="rates">
+<li class="price btc-to-usd" data-price="0" data-currency-to="usd" data-currency-from="btc">
+BTC/<strong>USD</strong> <span>0.00</span>
+</li>
+<li class="price btc-to-eur" data-price="0" data-currency-to="eur" data-currency-from="btc">
+BTC/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price btc-to-rub" data-price="0" data-currency-to="rub" data-currency-from="btc">
+BTC/<strong>RUB</strong> <span>0.00</span>
+</li>
+<li class="price btc-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="btc">
+BTC/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</a>
+</li>
+<li class="col-md-3 col-sm-4" id="rates-ltc">
+<a href="#">
+<span class="rates-label">LTC</span>
+<ul class="rates">
+<li class="price ltc-to-usd" data-price="0" data-currency-to="usd" data-currency-from="ltc">
+LTC/<strong>USD</strong> <span>0.00</span>
+</li>
+<li class="price ltc-to-eur" data-price="0" data-currency-to="eur" data-currency-from="ltc">
+LTC/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price ltc-to-rub" data-price="0" data-currency-to="rub" data-currency-from="ltc">
+LTC/<strong>RUB</strong> <span>0.00</span>
+</li>
+<li class="price ltc-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="ltc">
+LTC/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</a>
+</li>
+<li class="col-md-3 col-sm-4" id="rates-bch">
+<a href="#">
+<span class="rates-label">BCH</span>
+<ul class="rates">
+<li class="price bch-to-usd" data-price="0" data-currency-to="usd" data-currency-from="bch">
+BCH/<strong>USD</strong> <span>0.00</span>
+</li>
+<li class="price bch-to-eur" data-price="0" data-currency-to="eur" data-currency-from="bch">
+BCH/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price bch-to-rub" data-price="0" data-currency-to="rub" data-currency-from="bch">
+BCH/<strong>RUB</strong> <span>0.00</span>
+</li>
+<li class="price bch-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="bch">
+BCH/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</a>
+</li>
+<li class="col-md-3 col-sm-4" id="rates-eth">
+<a href="#">
+<span class="rates-label">ETH</span>
+<ul class="rates">
+<li class="price eth-to-usd" data-price="0" data-currency-to="usd" data-currency-from="eth">
+ETH/<strong>USD</strong> <span>0.00</span>
+</li>
+ <li class="price eth-to-eur" data-price="0" data-currency-to="eur" data-currency-from="eth">
+ETH/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price eth-to-rub" data-price="0" data-currency-to="rub" data-currency-from="eth">
+ETH/<strong>RUB</strong> <span>0.00</span>
+</li>
+<li class="price eth-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="eth">
+ETH/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</a>
+</li>
+<li class="col-md-3 col-sm-4" id="rates-xrp">
+<a href="#">
+<span class="rates-label">XRP</span>
+<ul class="rates">
+<li class="price xrp-to-usd" data-price="0" data-currency-to="usd" data-currency-from="xrp">
+XRP/<strong>USD</strong> <span>0.00</span>
+</li>
+<li class="price xrp-to-eur" data-price="0" data-currency-to="eur" data-currency-from="xrp">
+XRP/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price xrp-to-rub" data-price="0" data-currency-to="rub" data-currency-from="xrp">
+XRP/<strong>RUB</strong> <span>0.00</span>
+</li>
+<li class="price xrp-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="xrp">
+XRP/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</a>
+</li>
+<li class="col-md-3 col-sm-4" id="rates-neo">
+<a href="#">
+<span class="rates-label">NEO</span>
+<ul class="rates">
+<li class="price neo-to-usd" data-price="0" data-currency-to="usd" data-currency-from="neo">
+NEO/<strong>USD</strong> <span>0.00</span>
+</li>
+<li class="price neo-to-eur" data-price="0" data-currency-to="eur" data-currency-from="neo">
+NEO/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price neo-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="neo">
+NEO/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</a>
+</li>
+</ul>
+</div>
+<ul class="rates-selected col-md-6  col-sm-9 text-center">
+<li class="price btc-to-usd" data-price="0" data-currency-to="usd" data-currency-from="btc">
+BTC/<strong>USD</strong> <span>0.00</span>
+</li>
+<li class="price btc-to-eur" data-price="0" data-currency-to="eur" data-currency-from="btc">
+BTC/<strong>EUR</strong> <span>0.00</span>
+</li>
+<li class="price btc-to-rub" data-price="0" data-currency-to="rub" data-currency-from="btc">
+BTC/<strong>RUB</strong> <span>0.00</span>
+</li>
+<li class="price btc-to-gbp" data-price="0" data-currency-to="gbp" data-currency-from="btc">
+BTC/<strong>GBP</strong> <span>0.00</span>
+</li>
+</ul>
+</div>
+</div>
+</div> </header>
+<div class="container">
+<div class="main-content">
+<div id="payment-systems-list" class="row">
+<div id="services-from" class="col-md-3 hidden-xs hidden-sm">
+<h3 class="exchange-direction-title"><i class="fa fa-angle-double-down"></i> Вы тратите</h3>
+<div class="list">
+<a id="receive-crypto" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#crypto-from" aria-expanded="true" aria-controls="crypto-from">
+<span class="caret"></span>
+Криптовалюта </a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="crypto-from">
+<li class="clearfix disabled money-service" data-id="15">
+<a href="/ru/buy-amazoncom-egift-card-with-bitcoin-btc/">
+<img src="/images/1434438389-1434030674-BitcoinLogo.png" alt="Bitcoin (BTC)"> <span class="service-name">
+<span>Bitcoin (BTC)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+</ul>
+<a id="receive-online" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#online-from" aria-expanded="true" aria-controls="online-from">
+<span class="caret"></span>
+Виртуальная валюта </a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="online-from">
+<li class="clearfix disabled money-service" data-id="52">
+<a href="/ru/">
+<img src="/images/1478541033-Credit-Card.png" alt="Credit Card"> <span class="service-name">
+<span>Credit Card</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="2">
+<a href="/ru/buy-bitcoin-with-perfectmoney/">
+<img src="/images/1434438430-1434030586-PerfectMoneyLogo.png" alt="PerfectMoney"> <span class="service-name">
+<span>PerfectMoney</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="39">
+<a href="/ru/buy-bitcoin-with-payeer/">
+<img src="/images/1467714407-Payeer.png" alt="Payeer"> <span class="service-name">
+<span>Payeer</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="35">
+<a href="/ru/buy-bitcoin-with-advanced-cash/">
+<img src="/images/1467362056-Advanced-Cash.png" alt="Advanced Cash"> <span class="service-name">
+<span>Advanced Cash</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="51">
+<a href="/ru/buy-bitcoin-with-skrill/">
+<img src="/images/1478010208-Skrill.png" alt="Skrill"> <span class="service-name">
+<span>Skrill</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="79">
+<a href="/ru/buy-bitcoin-with-neteller/">
+<img src="/images/1533032540-Neteller.jpg" alt="Neteller"> <span class="service-name">
+<span>Neteller</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+</ul>
+<a id="receive-bank" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#bank-from" aria-expanded="true" aria-controls="bank-from">
+<span class="caret"></span>
+Банковские переводы </a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="bank-from">
+<li class="clearfix disabled money-service" data-id="9">
+<a href="/ru/buy-bitcoin-with-sepa-bank-transfer/">
+<img src="/images/1534859975-Bank-Transfer-EUR.png" alt="Bank Transfer EUR"> <span class="service-name">
+<span>Bank Transfer EUR</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="34">
+<a href="/ru/buy-bitcoin-with-wire-bank-transfer/">
+<img src="/images/1534860009-Bank-Transfer-USD.png" alt="Bank Transfer USD"> <span class="service-name">
+<span>Bank Transfer USD</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="23">
+<a href="/ru/buy-bitcoin-btc-with-mistertango/">
+<img src="/images/1545400062-Mistertango.png" alt="MisterTango SEPA Instant"> <span class="service-name">
+<span>MisterTango SEPA Instant</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="exchange-form col-md-6 col-sm-12 form-loading" id="basic-exchange-form">
+<div class="row" id="form-container">
+<h1 id="exchange-link" data-text="Купить {service_to}, заплатив {service_from}">Купить биткоин с кредитной или дебетовой карты онлайн</h1>
+<div class="form-container">
+<form id="exchange-form" class="panel-body clearfix" action="/ru/transaction/new/" method="post" enctype="multipart/form-data">
+<input type="hidden" name="_csrf" value="czBOX2tTbHpAdyMbJh8BHkIDOzoaMC5PQUc/Dg9iP0wRexkGHzEqSA==">
+<input type="hidden" name="new_transaction" value="1" />
+<input type="hidden" id="user_country" value="" />
+<input type="hidden" id="exchange_direction" value="sell" />
+<input type="hidden" id="user_input_amount" name="Input[amount]" value="0"><input type="hidden" id="user_input_type" name="Input[type]" value="0"><input type="hidden" id="user_input_direction" name="Input[direction]" value="0"><input type="hidden" id="user_input_currency" name="Input[currency]" value="USD"><input type="hidden" id="sell-fiat-currency" name="fiat_currency" value="USD"><ul class="instant-exchange-widget-currencies row" data-selector="iexb-currencies"></ul>
+<div class="clearfix">
+<div class="form-input-group form-group from-group col-lg-6 col-md-12 col-sm-6" data-sell-label="" data-buy-label="">
+<label for="amount-from" class="control-label">
+<div class="dropdown ex-services-dropdown visible-xs-inline-block visible-sm-inline-block" id="from-collapse-parent">
+<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" data-target="#" aria-expanded="false">
+<span class="from-name"></span>
+<i class="fa fa-angle-down"></i>
+</button>
+<div class="dropdown-menu col-xs-12" id="services-from-dropdown"></div>
+</div>
+<span class="hidden-sm hidden-xs from-name"></span>
+<span class="label-text">Сумма, которую вы тратите:</span>
+</label>
+<input type="hidden" id="sell-service" name="sell[service]" value="52"> <div id="sell-service-em" class="errorMessage"></div> <div class="input-group amount-field">
+<input type="number" class="form-control you-give has-focus" id="sell-fiat-amount" pattern="[0-9]+([\.][0-9]+)?" inputmode="numeric" placeholder="0.00" step="0.01" tabindex="1" value="0">
+<span class="input-group-addon choose-currency"></span>
+</div>
+<div class="input-group exchange-crypto-amount">
+<input id="crypto-amount" type="number" class="form-control you-give amount-crypto" pattern="[0-9]+([\.][0-9]+)?" inputmode="numeric" placeholder="0.00000" tabindex="2" step="0.00001">
+<span class="input-group-addon choose-currency"><span>BTC</span></span>
+</div>
+<div id="sell-fiat-amount-em" class="errorMessage"></div> <p class="help-block min-max">Мин: <span class="min-amount"></span>; Макс <span class="max-amount"></span></p>
+</div>
+<div class="form-input-group form-group to-group col-lg-6 col-md-12 col-sm-6">
+ <label for="amount-to" class="control-label">
+<div class="dropdown ex-services-dropdown visible-xs-inline-block visible-sm-inline-block" id="to-collapse-parent">
+<button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" data-target="#" aria-expanded="false">
+<span class="to-name"></span>
+<i class="fa fa-angle-down"></i>
+</button>
+<div class="dropdown-menu col-xs-12" id="services-to-dropdown"></div>
+</div>
+<span class="hidden-sm hidden-xs to-name"></span>
+<span class="label-text">Сумма, которую вы получите:</span>
+</label>
+<input type="hidden" id="buy-service" name="buy[service]" value="15"> <div id="buy-service-em" class="errorMessage"></div> <div class="input-group amount-field">
+<input type="number" class="form-control" id="amount-to" pattern="[0-9]+([\.][0-9]+)?" inputmode="numeric" placeholder="0.00" step="0.01" tabindex="3" value="">
+<span class="input-group-addon choose-currency"></span>
+</div>
+<div class="input-group exchange-crypto-amount">
+<input type="number" class="form-control amount-crypto" id="crypto-amount-receive" pattern="[0-9]+([\.][0-9]+)?" inputmode="numeric" placeholder="0.00000" step="0.00001" tabindex="4">
+<span class="input-group-addon choose-currency"><span>BTC</span></span>
+</div>
+<p class="help-block our-reserve">Наш резерв: <span></span></p>
+</div>
+</div>
+<div class="clearfix commission-details">
+<div class="col-xs-12">
+Детали комиссии:
+</div>
+<div class="col-sm-4 text-center from-commission">
+<span class="help-block"><span class="service-name"></span></span>
+<br class="hidden-xs" />
+<span class="commission-text">0%</span>
+</div>
+<div class="col-sm-4 text-center our-commission">
+<span class="help-block">PayBis</span>
+<br class="hidden-xs" />
+<span class="commission-text">0%</span>
+</div>
+<div class="col-sm-4 text-center to-commission">
+<span class="help-block"><span class="service-name"></span></span>
+<br class="hidden-xs" />
+<span class="commission-text">0%</span>
+</div>
+</div>
+<div class="clearfix text-center">
+<div id="ajax-form-loader">
+<button class="btn btn-defaultw" disabled="disabled">
+<i class="fa fa-cog fa-spin"></i> Форма загружается... </button>
+</div>
+<button type="button" id="expand-form" class="btn btn-primary" tabindex="5" data-url="https://paybis.com/ru/user/login/" data-tabindex="5" data-verify="" onClick="">Начать транзакцию</button></div>
+<div class="clearfix" id="form-user-info">
+<div id="warning-messages">
+<div class="alert alert-warning max-reserve" role="alert">
+Вы можете подать заявку, но вам придется связаться с нашей службой поддержки и обсудить время выполнения заявки. Добавление средств в резерв может занять некоторое время. </div>
+<div class="alert alert-warning max-amount" role="alert">
+Максимальный лимит превышен, но можно оформить заявку. Наши операторы рассмотрят ее и отправят вам инструкции по электронной почте. </div>
+<div class="alert alert-warning exchange-limit" role="alert">
+<p><strong>Ваш <span class="limit-type"></span></strong><strong> лимит для <span class="limited-system"></span> превышен на <span class="amount-exceeded"></span>. </strong></p>
+<hr /><p>Ваш текущий <span class="limit-type"></span> Лимит <span class="max-limit"></span>. Вы уже использовали <span class="amount-used"></span> и можете открыть заказ только на <span class="amount-left"></span>.</p>
+<hr /><p><strong><em>Вы всё равно можете создать заказ без платежа, и он будет рассмотрен нашими операторами вручную.</em></strong></p>
+<div class="exceeds-message">
+Ваш лимит будет повышен с <span class="exceeds-by-amount"></span> на <span class="exceeds-on"></span>. </div>
+</div>
+</div>
+<div id="gift-card-inputs">
+<div class="clearfix">
+<div class="form-group col-lg-6 col-md-12 col-sm-6 giftcard-number">
+<label for="gift_card-card_number">Номер карты
+</label><input type="text" id="gift_card-card_number" class="form-control" name="sell[data][gift_card][card_number]" value="" placeholder="Введите номер карты в этой поле" tabindex="6"><div id="gift_card-card_number-em" class="errorMessage"></div> </div>
+<div class="col-lg-6 col-md-12 col-sm-6 cardnumber-preview text-center">
+<a id="gift-card-preview-image" class="btn btn-link preview-btn" href="/resources/card_number_preview_new.png" role="button" tabindex="-1" data-html="true" data-trigger="hover" data-content="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt; Пример" data-toggle="popover" data-placement="bottom"><img src="/resources/card_number_preview_new.png" height="150" alt="Gift card number preview"></a> </div>
+<div class="form-group col-lg-6 col-md-12 col-sm-6 giftcard-pin">
+<input type="text" id="gift_card-card_pin" class="form-control" name="sell[data][gift_card][card_pin]" value="" tabindex="7" placeholder="ПИН-код вашей карты"> <div id="gift_card-card_pin-em" class="errorMessage"></div> </div>
+</div>
+<div class="form-group col-md-12">
+<label for="gift_card-front">Загрузить фотографию карты (максимальный размер файла 5 Мб)</label> <input type="hidden" id="gift_card-front" name="sell[data][gift_card][front]"> <div class="input-group">
+<div class="input-group-addon">
+<span class="btn btn-default fileinput-button" tabindex="8">
+<i class="fa fa-upload"></i>
+<input type="file" id="gift_card-front-file" name="front"> </span>
+</div>
+<div class="form-control file-upload">
+<span class="upload-status">Выберите файл...</span>
+<span class="upload-status-wait" style="display:none;">Пожалуйста, подождите окончания загрузки файла...</span>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+</div>
+</div>
+</div>
+</div>
+<div id="gift_card-front-file-em" class="errorMessage"></div> <div id="gift_card-front-em" class="errorMessage"></div></div>
+<div class="form-group col-md-12 giftcard-backside">
+<label for="gift_card-backside">Обратная сторона карты</label> <input type="hidden" id="gift_card-backside" name="sell[data][gift_card][backside]"> <div class="input-group">
+<div class="input-group-addon">
+<span class="btn btn-default fileinput-button" tabindex="9">
+<i class="fa fa-upload"></i>
+<input type="file" id="gift_card-backside-file" name="backside"> </span>
+</div>
+<div class="form-control file-upload">
+<span class="upload-status">Выберите файл...</span>
+<span class="upload-status-wait" style="display:none;">Пожалуйста, подождите окончания загрузки файла...</span>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+</div>
+</div>
+</div>
+</div>
+<div id="gift_card-backside-file-em" class="errorMessage"></div> <div id="gift_card-backside-em" class="errorMessage"></div></div>
+<div class="form-group col-md-12 giftcard-receipt">
+<label for="gift_card-receipt">Кассовый чек. Если есть чек активации, то загрузите его вместе с кассовым.</label> <input type="hidden" id="gift_card-receipt" name="sell[data][gift_card][receipt]"> <div class="input-group">
+<div class="input-group-addon">
+<span class="btn btn-default fileinput-button" tabindex="9">
+<i class="fa fa-upload"></i>
+<input type="file" id="gift_card-receipt-file" name="receipt"> </span>
+</div>
+<div class="form-control file-upload">
+<span class="upload-status">Выберите файл...</span>
+<span class="upload-status-wait" style="display:none;">Пожалуйста, подождите окончания загрузки файла...</span>
+<div class="progress">
+<div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;">
+</div>
+</div>
+</div>
+</div>
+<div id="gift_card-receipt-file-em" class="errorMessage"></div> <div id="gift_card-receipt-em" class="errorMessage"></div></div>
+</div>
+<div class="user-data-field user-account-field clearfix">
+<div class="form-group show-input col-xs-12" id="user-account">
+<label for="buy-data-account">Ваш <span id='recipient-account-name'></span> счет</label> <input type="text" id="buy-data-account" class="form-control" name="buy[data][account]" value="" maxlength="100" tabindex="10" placeholder="Информация о вашей учетной записи" autocomplete="off"> <div id="buy-data-account-em" class="errorMessage"></div> </div>
+<div class="form-group col-xs-12" id="user-country">
+<label for="sell-data-country">Ваша страна</label> <input type="text" id="sell-data-country" name="sell[data][country]" tabindex="11"> <div id="sell-data-country-em" class="errorMessage"></div> </div>
+</div>
+<div class="col-xs-12" id="verification-contents">
+<div class="verification-loading">
+<div class="cssload-container">
+<div class="cssload-speeding-wheel blue"></div>
+</div>
+<p class="lead">
+Пожалуйста, подождите, пока форма для нужной верификации будет подготовлена... </p>
+</div>
+<div class="verification-form"></div>
+</div>
+<div class="col-xs-12" id="custom-fields-block-sell"></div>
+<div class="col-xs-12" id="custom-fields-block-buy"></div>
+<div class="form-group col-xs-12" id="agree-crypto">
+<label><input type="checkbox" id="data-agree_to_crypto_terms" name="data[agree_to_crypto_terms]" value="1" tabindex="100"> Важно: пожалуйста, прочитайте и согласитесь с условиями <a href="/ru/about-us/crypto-price-terms/" target="_blank">Условия динамического подсчета криптовалюты</a></label> <div id="data-agree_to_crypto_terms-em" class="errorMessage"></div> </div>
+<div class="form-group col-xs-12">
+<label><input type="checkbox" id="data-agree_to_terms" name="data[agree_to_terms]" value="1" tabindex="101"> Внимательно прочтите и согласитесь с нашими <a href="/about-us/terms-of-service/">условиями использования</a>, <a href="/ru/about-us/aml-policy/">АМЛ политикой</a> и <a href="/ru/rates/">курсами валют</a>. Затем поставьте галочку, прежде чем нажать кнопку «Продолжить». </label> <div id="data-agree_to_terms-em" class="errorMessage"></div> </div>
+<div class="col-xs-12 help-block">
+Пожалуйста, проверьте все еще раз и помните, что все поля, помеченные (*), должны быть заполнены. Обратите внимание, что подача неверной информации может вызвать задержку в выплате. </div>
+<div class="col-xs-12 text-right">
+<div id="ajax-loader">
+<button class="btn btn-defaultw" disabled="disabled">
+<i class="fa fa-cog fa-spin"></i> Проверяем </button>
+</div>
+<input type="hidden" id="agree_warnings" name="data[agree_warnings]" value="0"> <button type="button" id="exchange-validate" class="btn btn-primary" data-action="/ru/transaction/ajax-validate/" tabindex="101">Продолжить</button> <a id="exchange-collapse" class="btn btn-link" href="/ru/">Назад</a> </div>
+</div>
+</form> </div>
+<div class="form-loading-wait">
+<div class="cssload-container">
+<div class="cssload-speeding-wheel blue"></div>
+</div>
+<p class="lead">
+Пожалуйста, подождите, идет обработка данных... </p>
+</div>
+</div>
+<div class="row instant-exchange-widget" data-selector="iexb-container" style="display:block">
+<ul class="exchange-blocks clearfix">
+<li class="col-sm-3 col-xs-6" data-selector="iexb-block">
+<div class="exchange-block">
+<div class="tooltip top" role="tooltip" data-selector="iexb-promo-hint">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner">
+От нашей комиссии </div>
+</div>
+<div class="ribbon-wrapper-green promo" data-selector="iexb-promo">
+<div class="ribbon-green" title="Скидка на нашу комиссию"></div>
+</div>
+Платите <div>
+<i data-selector="iexb-currencyFrom" class="fa fa-usd"></i>
+<span data-selector="iexb-summFrom" data-amount="1000">
+1000 </span>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-primary" role="progressbar"></div>
+</div>
+Получите <div class="crypto-sum">
+<i data-selector="iexb-currencyTo" class="fa fa-btc"></i>
+<span data-amount="1000" data-selector="iexb-summTo">
+0.2521 </span>
+</div>
+<div class="btn-row">
+<div class="ajax-loader">
+<button class="btn btn-default btn-xs" disabled="disabled">
+<i class="fa fa-cog fa-spin"></i> Загружается... </button>
+</div>
+<a class="btn btn-primary btn-sm btn-block" href="https://paybis.com/ru/buy-bitcoin-with-credit-card/?amount=1000&amp;currency=USD" data-action="apply-exchange" data-initial-link="https://paybis.com/ru/buy-bitcoin-with-credit-card/" data-amount="1000">Kупить</a> </div>
+</div>
+</li>
+<li class="col-sm-3 col-xs-6" data-selector="iexb-block">
+<div class="exchange-block">
+<div class="tooltip top" role="tooltip" data-selector="iexb-promo-hint">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner">
+От нашей комиссии </div>
+</div>
+<div class="ribbon-wrapper-green promo" data-selector="iexb-promo">
+<div class="ribbon-green" title="Скидка на нашу комиссию"></div>
+</div>
+Платите <div>
+<i data-selector="iexb-currencyFrom" class="fa fa-usd"></i>
+<span data-selector="iexb-summFrom" data-amount="5000">
+5000 </span>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-primary" role="progressbar"></div>
+</div>
+Получите <div class="crypto-sum">
+<i data-selector="iexb-currencyTo" class="fa fa-btc"></i>
+<span data-amount="5000" data-selector="iexb-summTo">
+1.2604 </span>
+</div>
+<div class="btn-row">
+<div class="ajax-loader">
+<button class="btn btn-default btn-xs" disabled="disabled">
+<i class="fa fa-cog fa-spin"></i> Загружается... </button>
+</div>
+<a class="btn btn-primary btn-sm btn-block" href="https://paybis.com/ru/buy-bitcoin-with-credit-card/?amount=5000&amp;currency=USD" data-action="apply-exchange" data-initial-link="https://paybis.com/ru/buy-bitcoin-with-credit-card/" data-amount="5000">Kупить</a> </div>
+</div>
+</li>
+<li class="col-sm-3 col-xs-6" data-selector="iexb-block">
+<div class="exchange-block">
+<div class="tooltip top" role="tooltip" data-selector="iexb-promo-hint">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner">
+От нашей комиссии </div>
+</div>
+<div class="ribbon-wrapper-green promo" data-selector="iexb-promo">
+<div class="ribbon-green" title="Скидка на нашу комиссию"></div>
+</div>
+Платите <div>
+<i data-selector="iexb-currencyFrom" class="fa fa-usd"></i>
+<span data-selector="iexb-summFrom" data-amount="10000">
+10000 </span>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-primary" role="progressbar"></div>
+</div>
+Получите <div class="crypto-sum">
+<i data-selector="iexb-currencyTo" class="fa fa-btc"></i>
+<span data-amount="10000" data-selector="iexb-summTo">
+2.5208 </span>
+</div>
+ <div class="btn-row">
+<div class="ajax-loader">
+<button class="btn btn-default btn-xs" disabled="disabled">
+<i class="fa fa-cog fa-spin"></i> Загружается... </button>
+</div>
+<a class="btn btn-primary btn-sm btn-block" href="https://paybis.com/ru/buy-bitcoin-with-credit-card/?amount=10000&amp;currency=USD" data-action="apply-exchange" data-initial-link="https://paybis.com/ru/buy-bitcoin-with-credit-card/" data-amount="10000">Kупить</a> </div>
+</div>
+</li>
+<li class="col-sm-3 col-xs-6" data-selector="iexb-block">
+<div class="exchange-block">
+<div class="tooltip top" role="tooltip" data-selector="iexb-promo-hint">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner">
+От нашей комиссии </div>
+</div>
+<div class="ribbon-wrapper-green promo" data-selector="iexb-promo">
+<div class="ribbon-green" title="Скидка на нашу комиссию"></div>
+</div>
+Платите <div>
+<i data-selector="iexb-currencyFrom" class="fa fa-usd"></i>
+<span data-selector="iexb-summFrom" data-amount="20000">
+20000 </span>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-primary" role="progressbar"></div>
+</div>
+Получите <div class="crypto-sum">
+<i data-selector="iexb-currencyTo" class="fa fa-btc"></i>
+<span data-amount="20000" data-selector="iexb-summTo">
+5.0416 </span>
+</div>
+<div class="btn-row">
+<div class="ajax-loader">
+<button class="btn btn-default btn-xs" disabled="disabled">
+<i class="fa fa-cog fa-spin"></i> Загружается... </button>
+</div>
+<a class="btn btn-primary btn-sm btn-block" href="https://paybis.com/ru/buy-bitcoin-with-credit-card/?amount=20000&amp;currency=USD" data-action="apply-exchange" data-initial-link="https://paybis.com/ru/buy-bitcoin-with-credit-card/" data-amount="20000">Kупить</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div id="restrictions-block" class="warning-message clearfix">
+<div class="col-xs-2 text-center icon">
+<i class="fa fa-exclamation-triangle"></i>
+</div>
+<div class="col-xs-10 message">
+<div class="message-container">
+<div class="verification-from"><span class="name"></span> необходима верификация!</div>
+<div class="verification-to"><span class="name"></span> необходима верификация!</div>
+<div class="restriction-from"></div>
+<div class="restriction-to"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="services-to" class="col-md-3 hidden-sm hidden-xs">
+<h3 class="exchange-direction-title"><i class="fa fa-angle-double-up"></i> Вы получаете</h3>
+<div class="list">
+<a id="spend-crypto" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#crypto-to" aria-expanded="true" aria-controls="crypto-to">
+<span class="caret"></span>
+Криптовалюта</a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="crypto-to">
+<li class="clearfix disabled money-service" data-id="15">
+<a href="/ru/">
+<img src="/images/1434438389-1434030674-BitcoinLogo.png" alt="Bitcoin (BTC)"> <span class="service-name">
+<span>Bitcoin (BTC)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="71">
+<a href="/ru/buy-ethereum-with-credit-card/">
+<img src="/images/1526995761-Ethereum.png" alt="Ethereum (ETH)"> <span class="service-name">
+<span>Ethereum (ETH)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="65">
+<a href="/ru/buy-litecoin-with-credit-card/">
+<img src="/images/1550654172-Litecoin-(LTC).png" alt="Litecoin (LTC)"> <span class="service-name">
+<span>Litecoin (LTC)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="78">
+<a href="/ru/buy-xrp-with-credit-card/">
+<img src="/images/1531321478-Ripple.png" alt="Ripple (XRP)"> <span class="service-name">
+<span>Ripple (XRP)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="68">
+<a href="/ru/buy-bitcoin-cash-with-credit-card/">
+<img src="/images/1526997675-Bitcoin-Cash.png" alt="Bitcoin Cash (BCH)"> <span class="service-name">
+<span>Bitcoin Cash (BCH)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+<li class="clearfix disabled money-service" data-id="88">
+<a href="/ru/buy-neo-with-credit-card/">
+<img src="/images/1547212947-NEO.png" alt="NEO (NEO)"> <span class="service-name">
+<span>NEO (NEO)</span>
+</span>
+<div class="hover-indicator"></div>
+</a>
+</li>
+</ul>
+<a id="spend-online" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#online-to" aria-expanded="true" aria-controls="online-to">
+<span class="caret"></span>
+Виртуальная валюта</a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="online-to">
+<li class="clearfix disabled money-service" data-id="2">
+<img src="/images/1434438430-1434030586-PerfectMoneyLogo.png" alt="PerfectMoney"> <span class="service-name">
+<span>PerfectMoney</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+<li class="clearfix disabled money-service" data-id="39">
+<img src="/images/1467714407-Payeer.png" alt="Payeer"> <span class="service-name">
+<span>Payeer</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+<li class="clearfix disabled money-service" data-id="35">
+<img src="/images/1467362056-Advanced-Cash.png" alt="Advanced Cash"> <span class="service-name">
+<span>Advanced Cash</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+<li class="clearfix disabled money-service" data-id="51">
+<img src="/images/1478010208-Skrill.png" alt="Skrill"> <span class="service-name">
+<span>Skrill</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+<li class="clearfix disabled money-service" data-id="79">
+<img src="/images/1533032540-Neteller.jpg" alt="Neteller"> <span class="service-name">
+<span>Neteller</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+</ul>
+<a id="spend-bank" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#bank-to" aria-expanded="true" aria-controls="bank-to">
+<span class="caret"></span>
+Банковские переводы</a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="bank-to">
+<li class="clearfix disabled money-service" data-id="70">
+<img src="/images/1541583061-EUR-Bank-Transfer.png" alt="EUR Bank Transfer"> <span class="service-name">
+<span>EUR Bank Transfer</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+<li class="clearfix disabled money-service" data-id="87">
+<img src="/images/1541582999-USD-Bank-Transfer.png" alt="USD Bank Transfer"> <span class="service-name">
+<span>USD Bank Transfer</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+</ul>
+<a id="spend-gift" class="btn btn-default payment-group" role="button" data-toggle="collapse" href="#gift-to" aria-expanded="true" aria-controls="gift-to">
+<span class="caret"></span>
+Подарочные карты</a>
+<ul class="collapse in exchange-services" role="tablist" aria-multiselectable="true" id="gift-to">
+<li class="clearfix disabled money-service" data-id="63">
+<img src="/images/1526996599-Amazon.com-eGift-Card.png" alt="Amazon.com eGift Card"> <span class="service-name">
+<span>Amazon.com eGift Card</span>
+</span>
+<div class="hover-indicator"></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div> 
+<div class="dark-bg main-page-blocks trustpilot">
+<div class="container">
+<h3>
+<i class="fa fa-comments fa-fw"></i>&nbsp;Отзывы пользователей </h3>
+
+<div class="trustpilot-widget" data-locale="en-US" data-template-id="54ad5defc6454f065c28af8b" data-businessunit-id="5577004d0000ff000580102b" data-style-height="220px" data-style-width="100%" data-theme="light" data-stars="4,5" data-schema-type="Organization">
+</div>
+</div>
+</div>
+<div class="img-bg main-page-blocks" id="our-features" style="display: block">
+<div class="container ">
+<h2 class="big-section"><i class="fa fa-rocket fa-fw"></i>&nbsp;Особенности
+</h2>
+<div class="row text-center about-us-features">
+<div class="col-md-3">
+<div class="well">
+<div class="feature-icon">
+<i class="fa fa-usd"></i>
+</div>
+<div class="feature-title">Рекордно высокие лимиты</div>
+<div class="feature-description">
+Вы можете совершить покупку на 20 000 долларов США за раз и до 50 000 долларов США в месяц </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="well">
+<div class="feature-icon">
+<i class="fa fa-flash"></i>
+</div>
+<div class="feature-title">БЫСТРЫЕ ВЫПЛАТЫ</div>
+<div class="feature-description">
+Мгновенная выплата Bitcoin, Litecoin, Ethereum, BitcoinCash, Ripple  - без времени ожидания </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="well">
+<div class="feature-icon">
+<i class="fa fa-globe"></i>
+</div>
+<div class="feature-title">ДЕЛАЙТЕ ПЛАТЕЖИ ИЗ ЛЮБОЙ ТОЧКИ МИРА</div>
+<div class="feature-description">
+Мы принимаем платежи практически со всего мира, включая США, Европу, Азию, Южную Америку и Африку </div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="well">
+<div class="feature-icon">
+<i class="fa fa-star"></i>
+</div>
+<div class="feature-title">24/7 ПОДДЕРЖКА ОНЛАЙН</div>
+<div class="feature-description">
+Paybis.com не имеет себе равных в поддержке клиентов c оценкой 9.3, согласно независимому опросу <a href="https://www.trustpilot.com/review/paybis.com">Trustpilot </a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dark-bg main-page-blocks" id="how-does-it-work" style="display: block">
+<div class="loading-description">
+<div class="cssload-container">
+<div class="cssload-speeding-wheel blue"></div>
+</div>
+<p class="lead">
+Пожалуйста, подождите, идет обработка данных... </p>
+</div>
+<div class="container ">
+<h2 class="dsc-title"><i class="fa fa-question fa-fw"></i>&nbsp;Как это работает?</h2>
+<div class="dsc-body">
+Как купить биткойны с кредитной или дебетовой карты онлайн:
+<ol><li>Пожалуйста, убедитесь, что вы имеете доступ к кошельку, на который хотите получить биткойны. Если у вас еще нет кошелька, необходимо создать его. Paybis.com настоятельно рекомендует использовать кошельки Electrum, Blockchain либо <a href="https://shop.trezor.io/?offer_id=10&amp;aff_id=1171">Trezor</a>, <a href="https://www.ledgerwallet.com/r/2565">Ledger </a>или <a href="https://coolwallet.io/product/coolwallet/?ref=paybis&amp;tap_s=307776-e95077">CoolWallet S</a> кошельки. После создания биткойн-кошелька нужно получить его адрес. Биткойн-адреса выглядят следующим образом: «1Jn5ZsGV4w1q5fySq7GrpjzrvRyuMLneAB» (обратите внимание, что это всего лишь пример, и он не является адресом вашего кошелька).</li>
+<li>После того как адрес кошелька получен и проверен, вы можете приобрести биткойны. Мы принимаем VISA и MasterCard.<br />
+Сначала введите сумму, которую хотите купить. Она может быть указана как в биткойнах, так и в долларовом эквиваленте. Аналогично вы можете указать и сумму, которую хотите потратить с помощью кредитной или дебетовой карты.</li>
+<li>Если вы выполняете транзакцию на Paybis.com впервые, необходимо завершить процесс верификации личных данных. Пожалуйста, укажите свою личную информацию и адрес, а также загрузите удостоверение личности. Проверка данных обычно занимает не более 15 минут. При выполнении повторной транзакции верификация не требуется. Все последующие сделки будут происходить мгновенно.</li>
+<li>Будьте уверены, что все ваши данные надежно защищены. После загрузки документов они недоступны для просмотра даже вам.<br />
+Как только верификация будет подтверждена, вы сможете совершить платеж и мгновенно получить биткойны.</li>
+</ol></div> </div>
+</div>
+<div class="ligh-bg main-page-blocks" id="quick-guide" style="display: block">
+<div class="container">
+<h2><i class="fa fa-list-ol fa-fw"></i>&nbsp;Краткая пошаговая инструкция как купить криптовалюту (для зарегистрированных клиентов) </h2>
+<div class="panel-group" id="guideAccordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="guideHeading1">
+<h4 class="panel-title">
+<a role="button" data-toggle="collapse" data-parent="#guideAccordion" href="#guideCollapse1" aria-expanded="true" aria-controls="guideCollapse1">
+<i class="fa fa-fw"></i>
+<span class="label label-primary">Шаг 1</span>
+<span class="hidden-xs">Создайте акаунт на Paybis.com и откройте транзакцию</span>
+</a>
+</h4>
+</div>
+<div id="guideCollapse1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="guideHeading1">
+<div class="panel-body">
+<div class="row">
+<img alt="" src="https://paybis.com/resources/guide/step-by-step-1.png" style="float:right;height:334px;width:589px;" />Выберите "Credit Card" в левой колонке на главной странице сайта и впишите в поле "Cумма, которую вы тратите" сумму, которую Вы хотите заплатить. </div>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="guideHeading2">
+<h4 class="panel-title">
+<a class="collapsed" role="button" data-toggle="collapse" data-parent="#guideAccordion" href="#guideCollapse2" aria-expanded="false" aria-controls="guideCollapse2">
+<i class="fa fa-fw"></i>
+<span class="label label-primary">Шаг 2</span>
+<span class="hidden-xs">Введите Ваши персональные данные для прохождения верификации (KYC- ЗнайСвоегоКлиента)</span>
+</a>
+</h4>
+</div>
+<div id="guideCollapse2" class="panel-collapse collapse " role="tabpanel" aria-labelledby="guideHeading2">
+<div class="panel-body">
+<div class="row">
+<img alt="" src="https://paybis.com/resources/guide/step-by-step-2.png" style="float:right;height:933px;width:578px;" /><p>Нажмите «Начать транзакцию» и введите следующие данные в форму: </p>
+<ul><li>Ваш биткойн-адрес - пожалуйста, убедитесь, что ваш биткойн-адрес верный, так как все транзакции невозвратны. Изменение биткойн адреса в дальнейшем невозможно.</li>
+<li>Имя и фамилия – укажите Ваши данные точно так же, как они указаны на кредитной или дебетовой карте. Если имя или фамилия  не совпадают, Ваша транзакция будет отклонена. </li>
+<li>Дата рождения – мы предоставляем услуги только людям, достигшим 18 лет.</li>
+<li>Укажите свой адрес - просим обратить внимание, что мы не можем предоставить наш сервис резидентам некоторых стран/штатов.</li>
+<li>Загрузите Ваше удостоверение личности в хорошем качестве. Все 4 угла документа и вся информация на нем должны быть хорошо видны. Чем лучше качество, тем выше вероятность автоматического подтверждения в течение 5 минут. </li>
+<li>Отметьте галочкой, что вы согласны с нашими Условиями обслуживания и нажмите «Продолжить».</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="guideHeading3">
+<h4 class="panel-title">
+<a class="collapsed" role="button" data-toggle="collapse" data-parent="#guideAccordion" href="#guideCollapse3" aria-expanded="false" aria-controls="guideCollapse3">
+<i class="fa fa-fw"></i>
+<span class="label label-primary">Шаг 3</span>
+<span class="hidden-xs">Заверифицировать свой аккаунт</span>
+</a>
+</h4>
+</div>
+<div id="guideCollapse3" class="panel-collapse collapse " role="tabpanel" aria-labelledby="guideHeading3">
+<div class="panel-body">
+<div class="row">
+<img alt="" src="https://paybis.com/resources/guide/step-by-step-3.png" style="float:right;height:300px;width:624px;" /><br />
+Далее Вы будете перенаправлены на страницу Детали Транзакции.
+<ul><li>Пожалуйста, подождите, Ваша верификация находится на рассмотрении. Это может занять от 15 минут до 2-ух часов. </li>
+<li>Пожалуйста, проверяйте свою электронную почту. Если верификация будет отклонена, Вы получите е-mail c подробным описанием ошибки.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="guideHeading4">
+<h4 class="panel-title">
+<a class="collapsed" role="button" data-toggle="collapse" data-parent="#guideAccordion" href="#guideCollapse4" aria-expanded="false" aria-controls="guideCollapse4">
+<i class="fa fa-fw"></i>
+<span class="label label-primary">Шаг 4</span>
+<span class="hidden-xs">Совершить платеж</span>
+</a>
+</h4>
+</div>
+<div id="guideCollapse4" class="panel-collapse collapse " role="tabpanel" aria-labelledby="guideHeading4">
+<div class="panel-body">
+<div class="row">
+<img alt="" src="https://paybis.com/resources/guide/step-by-step-4.png" style="float:right;height:189px;width:600px;" /><img alt="" src="https://paybis.com/resources/guide/step-by-step-5.png" style="float:right;height:307px;width:600px;" /><img alt="" src="https://paybis.com/resources/guide/step-by-step-6.png" style="float:right;height:265px;width:600px;" />Если Ваша верификация одобрена, нажмите, пожалуйста, на кнопку "Перейти к оплате". Вы будете перенаправлены на безопасную страницу нашего партнера по обработке платежей.
+<ul><li>Введите Ваше имя, фамилия и дату рождения.</li>
+<li>Убедитесь в  правильности написания вашего номера телефона (Вам придет СМС) и электронной почты ( Вы получите ссылку, по которой нужно перейти)</li>
+<li>Введите номер кредитной/дебетовой карты (16 цифр)</li>
+<li>Введите имя и фамилия с карты, которые должны совпадать с указанными выше</li>
+<li>Введите срок действия карты</li>
+<li>Введите код безопасности ( 3 цифры , указанные на  обратной стороне карты)</li>
+<li>Нажмите кнопку  "Pay Now" </li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="guideHeading5">
+<h4 class="panel-title">
+<a class="collapsed" role="button" data-toggle="collapse" data-parent="#guideAccordion" href="#guideCollapse5" aria-expanded="false" aria-controls="guideCollapse5">
+<i class="fa fa-fw"></i>
+<span class="label label-primary">Шаг 5</span>
+<span class="hidden-xs">Получить Bitcoin</span>
+</a>
+</h4>
+</div>
+<div id="guideCollapse5" class="panel-collapse collapse " role="tabpanel" aria-labelledby="guideHeading5">
+<div class="panel-body">
+<div class="row">
+<img alt="" src="https://paybis.com/resources/guide/step-by-step-7.png" style="float:right;height:210px;width:600px;" /><img alt="" src="https://paybis.com/resources/guide/step-by-step-8.png" style="float:right;height:177px;width:600px;" />Транзакция окончена, как только Ваша банковская карта обработана. Верификация и обработка карты обычно занимают от 5 до 120 минут.
+<ul><li>Пожалуйста, примите во внимание, что при совершении оплаты может понадобиться ручная проверка, поэтому просим вас проверять свою электронную почту на наличие дополнительных писем по верификации от Simplex.</li>
+<li>Если Ваша транзакция заняла больше времени, просим связаться с нашими агентами службы поддержки по онлайн чату или эл. почте <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="30434540405f4244704051495259431e535f5d1e">[email&#160;protected]</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="img-bg main-page-blocks" id="popular-faq" style="display: block">
+<div class="container">
+<h2 class="big-section"><a href="/ru/faq/" title="Просмотреть все часто задаваемые вопросы"><i class="fa fa-question-circle fa-fw"></i>&nbsp;Вопросы-ответы&nbsp;<i class="read-more fa fa-angle-double-right"></i></a></h2>
+<div class="panel-group" id="faqAccordion" role="tablist" aria-multiselectable="true">
+<div id="faq-list" class="list-view"><div data-key="33"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Поддерживаемые-страны" aria-expanded="false" aria-controls="#Поддерживаемые-страны">
+<i class="fa fa-angle-down"></i> Поддерживаемые страны </a>
+</h4>
+</div>
+<div id="Поддерживаемые-страны" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Поддерживаемые-страны">
+<div class="panel-body">
+<ul><li>Поддерживаются все страны, кроме указанных <a href="https://paybis.com/ru/about-us/terms-of-service/#toc-12">здесь</a>.</li>
+<li>В число поддерживаемых стран входят США, Германия, Канада, Россия, Украина, Великобритания, Индия, Беларусь, Австралия, Франция.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="34"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Существуют-ли-какиелибо-комиссии-за-использование-этой-услуги" aria-expanded="false" aria-controls="#Существуют-ли-какиелибо-комиссии-за-использование-этой-услуги">
+<i class="fa fa-angle-down"></i> Существуют ли какие-либо комиссии за использование этой услуги? </a>
+</h4>
+</div>
+<div id="Существуют-ли-какиелибо-комиссии-за-использование-этой-услуги" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Существуют-ли-какиелибо-комиссии-за-использование-этой-услуги">
+<div class="panel-body">
+Да, есть 3 типа комиссий:
+<ul><li>комиссия за прием платежей (которую платежная система берет у Paybis за обработку вашего платежа);</li>
+<li>комиссия Paybis (наша комиссия за предоставление услуги — наш доход);</li>
+<li>комиссия за отправку платежных средств (комиссия, которую Paybis платит за отправку средств вам).</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="35"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Сколько-времени-обычно-требуется-для-завершения-транзакции" aria-expanded="false" aria-controls="#Сколько-времени-обычно-требуется-для-завершения-транзакции">
+<i class="fa fa-angle-down"></i> Сколько времени обычно требуется для завершения транзакции? </a>
+</h4>
+</div>
+<div id="Сколько-времени-обычно-требуется-для-завершения-транзакции" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Сколько-времени-обычно-требуется-для-завершения-транзакции">
+<div class="panel-body">
+<ul><li>Обычно около 5–30 минут с использованием кредитной/дебетовой карты, однако это зависит от конкретного способа оплаты. Например, банковский перевод занимает 1–3 рабочих дня.</li>
+<li>Также имейте в виду, что в сети Bitcoin могут быть задержки, что может привести к увеличению времени подтверждения.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="36"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Могу-ли-я-купить-биткойны-мгновенно" aria-expanded="false" aria-controls="#Могу-ли-я-купить-биткойны-мгновенно">
+<i class="fa fa-angle-down"></i> Могу ли я купить биткойны мгновенно? </a>
+</h4>
+</div>
+<div id="Могу-ли-я-купить-биткойны-мгновенно" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Могу-ли-я-купить-биткойны-мгновенно">
+<div class="panel-body">
+<ul><li>Да, с помощью дебетовой или кредитной карты. Обычно процесс занимает 5–30 минут, если всё сделано правильно с первой попытки (большинство людей не считают это сложным).</li>
+<li>Во время транзакции вы можете указать любой биткойн-кошелек, например, свой собственный кошелек или кошелек на веб-сайте, на котором вы делаете платеж с помощью биткойнов.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="37"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Лимиты" aria-expanded="false" aria-controls="#Лимиты">
+<i class="fa fa-angle-down"></i> Лимиты </a>
+</h4>
+</div>
+<div id="Лимиты" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Лимиты">
+<div class="panel-body">
+<ul><li>Лимиты зависят от используемого метода оплаты. Например, для кредитных карт лимиты 20 000 в день и 50 000 в месяц в ЕВРО / ДОЛЛАРАХ США / ФУНТАХ СТЕРЛИНГОВ.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="38"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Конфиденциальность" aria-expanded="false" aria-controls="#Конфиденциальность">
+<i class="fa fa-angle-down"></i> Конфиденциальность </a>
+</h4>
+</div>
+<div id="Конфиденциальность" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Конфиденциальность">
+<div class="panel-body">
+<ul><li>Мы очень серьезно относимся к соблюдению конфиденциальности. Пожалуйста, ознакомьтесь с нашей <a href="https://paybis.com/ru/about-us/privacy-policy/">политикой конфиденциальности</a>.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="39"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Верификация" aria-expanded="false" aria-controls="#Верификация">
+<i class="fa fa-angle-down"></i> Верификация </a>
+</h4>
+</div>
+<div id="Верификация" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Верификация">
+<div class="panel-body">
+<ul><li>Для некоторых способов оплаты мы требуем от наших клиентов пройти процесс KYC (знайте вашего клиента).</li>
+<li>Процесс проверки прост. Вам нужно просто загрузить свой государственный документ, удостоверяющий личность (паспорт, удостоверение личности или водительское удостоверение) в хорошем качестве, чтобы наша автоматическая система могла обрабатывать и утверждать его в течение 5 минут.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="40"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Репутация" aria-expanded="false" aria-controls="#Репутация">
+<i class="fa fa-angle-down"></i> Репутация </a>
+</h4>
+</div>
+<div id="Репутация" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Репутация">
+<div class="panel-body">
+<ul><li>Paybis имеет отличную репутацию, что подтверждается отзывами наших клиентов. Средняя оценка 9.3 на Trustpilot, независимой и проверенной на внешнем уровне обзорной платформе.</li>
+</ul> </div>
+</div>
+</div>
+</div>
+<div data-key="42"><div class="panel panel-default">
+<div role="tab" class="panel-heading">
+<h4 class="panel-title">
+<a class="btn-block" role="button" data-toggle="collapse" data-parent="#faq-list" href="#Вы-принимаете-предоплаченные-visa-mastercard-карты" aria-expanded="false" aria-controls="#Вы-принимаете-предоплаченные-visa-mastercard-карты">
+<i class="fa fa-angle-down"></i> Вы принимаете предоплаченные Visa/Mastercard карты? </a>
+</h4>
+</div>
+<div id="Вы-принимаете-предоплаченные-visa-mastercard-карты" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="Вы-принимаете-предоплаченные-visa-mastercard-карты">
+<div class="panel-body">
+<ul><li>Да, если на карте есть логотип Visa или MasterCard, и она допускает международные платежи.</li>
+</ul> </div>
+</div>
+</div>
+</div></div></div>
+</div>
+</div>
+<div class="dark-bg main-page-blocks" id="about-paybis" style="display: block">
+<div class="container">
+<h2><i class="fa fa-info fa-fw"></i>&nbsp;О нашем сервисе</h2>
+<div class="container">
+<p>Сервис Paybis – выгодный электронный обменник, основанный в 2014 году Иннокентием Исерс и Артуром  Маркевичс. Позднее к ним присоединился Константин Василенко, который занимал должность сертифицированного PMP менеджера проектов в компании Accenture и присоединился к компании в качестве главного операционного директора на ранних этапах.<br /><br />
+Наша цель - позволить любому человеку по всему миру поменять виртуальную валюту на криптовалюту и обратно. Мы стремимся дать каждому большие возможности для работы с цифровыми, фиат и криптовалютами. Наши клиенты могут воспользоваться обширным списком поддерживаемых валют для депозита и снятия средств, а также мы работаем над списком дополнительных функций, таких как платежные карты, наша реферальная программа и т. д. Наша онлайн площадка имеет частично автоматизированную систему, отличается большим резервом для обмена валюты, предлагает выгодный курс. При необходимости пользователь может поменять Bitcoin на такую виртуальную валюту, как: </p>
+<ul><li>Perfect Money; </li>
+<li>Payeer; </li>
+<li>PayPal; </li>
+<li>Advanced Cash; </li>
+<li>WebMoney; </li>
+<li>Qiwi; </li>
+<li>Яндекс.Деньги; </li>
+<li>Epay;</li>
+<li>Amazon.com eGift card.  </li>
+</ul>
+Также возможно поменять наличные деньги, хранящиеся в одной из вышеуказанных виртуальных валют, на следующие криптовалюты: биткоин (BTC), Ethereum (ETH), Bitcoin Cash (BCH), Litecoin (LTC).  <br /><br />
+Биткоин (BTC) – одна из самых востребованных систем, работающих на основе технологии блокчейн. Появилась в 2009 году, со временем ее стоимость только возрастает. Ethereum – является самой молодой денежной системой, однако капитализация превышает уровень биткоина. Третье место занимает Bitcoin Cash. Что касается Litecoin, то эта система отличается высокой скоростью проводимых транзакций.  
+<h2>Как происходит обмен криптовалют </h2>
+Каждый обладатель денежных средств, стремится их приумножить, то есть выгодно купить или продать. Используя наш сервис, вы также можете обменять криптовалюту по выгодному курсу. Что для этого нужно?  <br /><br />
+Прежде всего, зарегистрироваться или зайти на сайт обменника. Для этого можно использовать учетную запись одной из соцсетей. В зависимости от того, какую виртуальную валюту вы используете, может потребоваться верификация (не требуется она только в случае перевода денежных средств с WebMoney). Также необходимо пройти процесс подтверждения, если для платежа вы планируете применить банковский перевод SEPA Bank Transfer.  <br /><br />
+Далее необходимо задать направление транзакции и указать сумму. Минимальный депозит составляет 50 USD либо 1000 рублей, после чего следует нажать кнопку «начать транзакцию». Заявки обрабатывают быстро, и уже в течении 5 минут средства поступят на указанный счет.  
+<h2>Преимущества Paybis </h2>
+<p>Мы имеем конкурентное преимущество благодаря нашему широкому спектру функций. Они включают простой и доступный пользовательский интерфейс, безопасность, минимальное время обработки транзакций и верификаций, платежную карту для снятия любой из ваших цифровых или криптовалют, поддержка самых популярных подарочных карт и многие другие интересные опции.<br /><br />
+Наш сервис находится на первых позициях в рейтинге надежных обменников. Помимо этого, мы располагаем большим резервом криптовалюты.  <br /><br />
+Для создания комфортных условий и поддержки пользователей, круглосуточно работает наша служба. Также на нашем ресурсе функционирует реферальная программа со множеством промо-инструментов. Ваши друзья и знакомые также вносят деньги в обменники? Вышлите им приглашение и получите процент с каждой их сделки (10% от прибыли сервиса)!  <br /><br />
+Наши дружелюбные агенты помогут Вам на протяжении всего процесса, от выбора Биткойн кошелька до выбора наилучшего способа оплаты. Наши клиенты оценивают нас на «отлично» на Trustpilot.<br /><br />
+Чтобы ваш опыт на нашем веб-сайте был максимально комфортным и полностью соответствовал требуемым правилам, мы сотрудничаем с ключевыми игроками в области обработки платежей, а также с автоматизированными производственными мощностями AML (БОД) и KYC (ЗСК).<br />
+Необходимо поменять рубль на доллар? Ищите, где лучше вариант онлайн обмена без комиссий? Хотите обменять криптовалюту, а затем вывести наличные? Воспользуйтесь нашим сервисом и оцените его преимущества! </p>
+</div>
+</div>
+</div>
+<div class="light-bg main-page-blocks">
+<div class="container">
+<h3 id="latest-transactions" class="col-xs-12">
+<i class="fa fa-exchange fa-fw"></i>&nbsp;Последние транзакции </h3>
+<table class="latest-transactions table table-striped table-hover">
+<thead>
+<tr>
+<th>Bремя</th>
+<th class="hidden-xs">Депозит</th>
+<th></th>
+<th class="hidden-xs">К выплате</th>
+<th class="hidden-xs">Сумма</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="hidden-xs transaction-date">42 мин назад</td>
+<td class="service-name"><img class="service-logo" src="/images/1434438389-1434030674-BitcoinLogo.png" width="25" alt="Bitcoin (BTC)"> <a href='/ru/buy-skrill-with-bitcoin-btc/' class='hidden-xs'>Bitcoin (BTC)</a>
+</td>
+<td><i class="fa fa-angle-right"></i></td>
+<td class="service-name"><img class="service-logo" src="/images/1478010208-Skrill.png" width="25" alt="Skrill"> <a href='/ru/buy-skrill-with-bitcoin-btc/' class='hidden-xs'>Skrill</a>
+</td>
+<td>
+<i class="fa fa-usd"></i>
+50.00 </td>
+</tr>
+<tr>
+<td class="hidden-xs transaction-date">49 мин назад</td>
+<td class="service-name"><img class="service-logo" src="/images/1478541033-Credit-Card.png" width="25" alt="Credit Card"> <a href='/ru/buy-bitcoin-with-credit-card/' class='hidden-xs'>Credit Card</a>
+</td>
+<td><i class="fa fa-angle-right"></i></td>
+<td class="service-name"><img class="service-logo" src="/images/1434438389-1434030674-BitcoinLogo.png" width="25" alt="Bitcoin (BTC)"> <a href='/ru/buy-bitcoin-with-credit-card/' class='hidden-xs'>Bitcoin (BTC)</a>
+</td>
+<td>
+<i class="fa fa-usd"></i>
+260.00 </td>
+</tr>
+<tr>
+<td class="hidden-xs transaction-date">49 мин назад</td>
+<td class="service-name"><img class="service-logo" src="/images/1534859975-Bank-Transfer-EUR.png" width="25" alt="Bank Transfer EUR"> <a href='/ru/buy-litecoin-with-sepa-bank-transfer/' class='hidden-xs'>Bank Transfer EUR</a>
+</td>
+<td><i class="fa fa-angle-right"></i></td>
+<td class="service-name"><img class="service-logo" src="/images/1550654172-Litecoin-(LTC).png" width="25" alt="Litecoin (LTC)"> <a href='/ru/buy-litecoin-with-sepa-bank-transfer/' class='hidden-xs'>Litecoin (LTC)</a>
+</td>
+<td>
+<i class="fa fa-eur"></i>
+20000.00 </td>
+</tr>
+<tr>
+<td class="hidden-xs transaction-date">50 мин назад</td>
+<td class="service-name"><img class="service-logo" src="/images/1434438430-1434030586-PerfectMoneyLogo.png" width="25" alt="PerfectMoney"> <a href='/ru/buy-skrill-with-perfectmoney/' class='hidden-xs'>PerfectMoney</a>
+</td>
+<td><i class="fa fa-angle-right"></i></td>
+<td class="service-name"><img class="service-logo" src="/images/1478010208-Skrill.png" width="25" alt="Skrill"> <a href='/ru/buy-skrill-with-perfectmoney/' class='hidden-xs'>Skrill</a>
+</td>
+<td>
+<i class="fa fa-usd"></i>
+271.39 </td>
+</tr>
+<tr>
+<td class="hidden-xs transaction-date">59 мин назад</td>
+<td class="service-name"><img class="service-logo" src="/images/1533032540-Neteller.jpg" width="25" alt="Neteller"> <a href='/ru/buy-bitcoin-with-neteller/' class='hidden-xs'>Neteller</a>
+</td>
+<td><i class="fa fa-angle-right"></i></td>
+<td class="service-name"><img class="service-logo" src="/images/1434438389-1434030674-BitcoinLogo.png" width="25" alt="Bitcoin (BTC)"> <a href='/ru/buy-bitcoin-with-neteller/' class='hidden-xs'>Bitcoin (BTC)</a>
+</td>
+<td>
+<i class="fa fa-usd"></i>
+300.00 </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="light-bg main-page-blocks">
+<div class="container">
+<h3 class="big-section"><a href="/ru/news/" title="Прочитать все новости"><i class="fa fa-newspaper-o fa-fw"></i>&nbsp;Последние новости&nbsp;<i class="read-more fa fa-angle-double-right"></i></a></h3>
+<div id="w0" class="list-view"><div data-key="0"><a title="Счастливого Рождества и веселого Нового Года!" class="read-more-link col-md-3 col-sm-6 col-xs-12" href="/ru/news/merry-cryptxmas-and-a-happy-new-year/">
+<article role="article">
+<h4 class="news-author">Счастливого Рождества и веселого Нового Года!</h4>
+<time datetime="2019-01-15">Jan 15, 2019 @ 16:44 UTC</time>
+<p data-title="(читать далее)">
+Дорогие клиенты,
+Начинается сезон праздников, а это означает, что очередной напряженный год подходит к концу.
+2018ый год в ... <span class="read-more">(читать далее)</span>
+</p>
+</article>
+</a>
+</div>
+<div data-key="1"><a title="Bitcoin Cash вновь доступен" class="read-more-link col-md-3 col-sm-6 col-xs-12" href="/ru/news/update-on-bitcoin-cash/">
+<article role="article">
+<h4 class="news-author">Bitcoin Cash вновь доступен</h4>
+<time datetime="2018-12-21">Dec 21, 2018 @ 09:32 UTC</time>
+<p data-title="(читать далее)">
+Уважаемые клиенты,
+ 
+Мы рады сообщить вам, что мы снова включаем продажу Bitcoin Cash (BCH).
+ 
+15 ноября 2018 года ... <span class="read-more">(читать далее)</span>
+</p>
+</article>
+</a>
+</div>
+<div data-key="2"><a title="Bitcoin Cash хард форк 15го ноября" class="read-more-link col-md-3 col-sm-6 col-xs-12" href="/ru/news/november-bch-hardfork/">
+<article role="article">
+<h4 class="news-author">Bitcoin Cash хард форк 15го ноября</h4>
+<time datetime="2018-11-23">Nov 23, 2018 @ 08:24 UTC</time>
+<p data-title="(читать далее)">
+Дорогие клиенты,
+Из-за предстоящего хард форка Bitcoin Cash сети, BCH транзакции будут временно приостановлены 15 ноября 2018 года с ... <span class="read-more">(читать далее)</span>
+</p>
+</article>
+</a>
+</div>
+<div data-key="3"><a title="Выпущены подарочные карты Paybis!" class="read-more-link col-md-3 col-sm-6 col-xs-12" href="/ru/news/paybis-gift-cards-are-now-available/">
+<article role="article">
+<h4 class="news-author">Выпущены подарочные карты Paybis!</h4>
+<time datetime="2019-01-15">Jan 15, 2019 @ 11:02 UTC</time>
+<p data-title="(читать далее)">
+Дорогие клиенты,
+Мы рады сообщить, что мы выпустили наши собственные электронные подарочные карты Paybis!
+Подарочная карта Paybis может ... <span class="read-more">(читать далее)</span>
+</p>
+</article>
+</a>
+</div></div> </div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">var site_language = 'ru';
+     var default_exchange = 'buy-bitcoin-with-credit-card';
+     var index_url = 'https://paybis.com/ru/';
+     var iconFolder = '/images/';
+     var redirect_confirmation_message_url = '/ru/site/get-confirmation-msg/';
+     var over_limit_error_message = '<div class="over-limit-err">' + "\u0412\u0430\u0448 \u0442\u0435\u043a\u0443\u0449\u0438\u0439 {\u0442\u0438\u043f} \u043b\u0438\u043c\u0438\u0442 <span id=\"limit_err_msg_limit\"><\/span>" + '</div>';
+     var min_transactions_error_message = "\u042d\u0442\u0430 \u0441\u0443\u043c\u043c\u0430 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 <span id=\"limit_err_min_transactions\"><\/span> \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0445 \u0442\u0440\u0430\u043d\u0437\u0430\u043a\u0446\u0438\u0439.";
+     var openForm = 1;
+     var msg_not_available_title = "\u0412 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e!";
+     var msg_not_available_body = "\u0418\u0437\u0432\u0438\u043d\u0438\u0442\u0435, \u043d\u043e \u043e\u0431\u043c\u0435\u043d <span class=\"from-name\"><\/span> \u043d\u0430 <span class=\"to-name\"><\/span> \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d";
+     var msg_server_error_title = "\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0430";
+     var msg_server_error_body = "\u0427\u0442\u043e-\u0442\u043e \u043f\u043e\u0448\u043b\u043e \u043d\u0435 \u0442\u0430\u043a! \u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u0438\u043b\u0438 \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u0435\u0441\u044c \u0432 \u043d\u0430\u0448\u0443 \u0441\u043b\u0443\u0436\u0431\u0443 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438.";
+     var msg_warning_title = "\u0412\u043d\u0438\u043c\u0430\u043d\u0438\u0435!";
+     var titleSuffix = " - PayBis";
+     var gift_card_upload_options = {
+        url: '/ru/transaction/upload/',
+        dataType: "json",
+        dropZone: false,
+        singleFileUploads: true,
+        acceptFileTypes: "/(\.|\/)(jpe?g|png)$/i",
+        maxFileSize: (1024 * 1024 * 8),
+        formData: fileUpload_giftCard_formData,
+        done: fileUpload_giftCard_done,
+        submit: fileUpload_submit,
+        fail: fileUpload_fail,
+        always: fileUpload_complete,
+        progress: fileUpload_progress,
+        add: fileUpload_giftCard_add
+     };
+     $(function(){ getRequiredJSON('/ru/get-required-json/?buyLink=buy-bitcoin-with-credit-card'); });
+var externalServiceWarningUrl = '/ru/site/get-warning/';
+var popOverSettings = {
+        placement: 'top',
+        container: 'body',
+        trigger: 'focus',
+        html: true,
+        selector: 'span.input-group-addon' //Sepcify the selector here
+    };
+    $('body').popover(popOverSettings);
+
+    $(document).bind("drop dragover", function (e) { e.preventDefault() });
+    $(".cardnumber-preview a").popover()
+var locale = "ru";
+     var site_currency = "USD";
+     var crsf_token = "czBOX2tTbHpAdyMbJh8BHkIDOzoaMC5PQUc/Dg9iP0wRexkGHzEqSA==";</script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#exchange-form').yiiActiveForm([], []);
+});</script>
+</div>
+<hr />
+<ul class="container available-payment-systems row-centered">
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/visa-mastercard.png" title="Visa/MasterCard" alt="Visa/MasterCard on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/bitcoin.png" title="Bitcoin" alt="Bitcoin on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/litecoin.png" title="Litecoin" alt="Litecoin on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/sepa.png" title="SEPA" alt="SEPA on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/advcash.png" title="AdvancedCash" alt="AdvancedCash on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/amazon.png" title="Amazon" alt="Amazon on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/ethereum.png" title="Ethereum" alt="Ethereum on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/payeer.png" title="Payeer" alt="Payeer on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/perfectmoney.png" title="PerfectMoney" alt="PerfectMoney on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/webmoney.png" title="WebMoney" alt="WebMoney on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/okpay.png" title="OKPAY" alt="OKPAY on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/yandex.png" title="Yandex" alt="Yandex on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/skrill.png" title="Skrill" alt="Skrill on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/btcCash.png" title="BitcoinCash" alt="BitcoinCash on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/xrp.png" title="Ripple" alt="Ripple on Paybis.com" class="img-responsive" />
+</li>
+<li class="col-xs-6 col-sm-3 col-md-2">
+<img src="/resources/brands/neteller.png" title="Neteller" alt="Neteller on Paybis.com" class="img-responsive" />
+</li>
+</ul>
+<footer>
+<div class="container">
+<nav class="row footer-quick-links">
+<div class="col-md-3 col-sm-6">
+<span class="footer-quick-link">Обмен</span>
+<ul class="link-list">
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="https://support.paybis.com/">Портал поддержки</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/rates/">Курсы</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/#latest-transactions">Последние транзакции</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/crypto-price-terms/">Условия динамического подсчета криптовалюты</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/buy-bitcoin/">Как купить биткойны</a> </li>
+<li role="presentation" class="dropdown buy-dropdown mega-menu">
+<a href="#buy" id="buy-dropdown" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+<i class="fa fa-fw fa-angle-double-right"></i>
+Kупить <span class="caret"></span>
+</a>
+<ul class="dropdown-menu" aria-labelledby="buy-dropdown">
+<li class="exchange-link"><a href="/ru/buy-amazoncom-egift-card-with-bitcoin-btc/" title="Kупить Amazon.com eGift Card"><img src="/images/1526996599-Amazon.com-eGift-Card.png" width="40" alt="Amazon.com eGift Card"></a></li>
+<li class="exchange-link"><a href="/ru/" title="Kупить Bitcoin (BTC)"><img src="/images/1434438389-1434030674-BitcoinLogo.png" width="40" alt="Bitcoin (BTC)"></a></li>
+<li class="exchange-link"><a href="/ru/buy-ethereum-with-credit-card/" title="Kупить Ethereum (ETH)"><img src="/images/1526995761-Ethereum.png" width="40" alt="Ethereum (ETH)"></a></li>
+<li class="exchange-link"><a href="/ru/buy-eur-bank-transfer-with-bitcoin-btc/" title="Kупить EUR Bank Transfer"><img src="/images/1541583061-EUR-Bank-Transfer.png" width="40" alt="EUR Bank Transfer"></a></li>
+<li class="exchange-link"><a href="/ru/buy-perfectmoney-with-sepa-bank-transfer/" title="Kупить PerfectMoney"><img src="/images/1434438430-1434030586-PerfectMoneyLogo.png" width="40" alt="PerfectMoney"></a></li>
+<li class="exchange-link"><a href="/ru/buy-payeer-with-sepa-bank-transfer/" title="Kупить Payeer"><img src="/images/1467714407-Payeer.png" width="40" alt="Payeer"></a></li>
+<li class="exchange-link"><a href="/ru/buy-litecoin-with-credit-card/" title="Kупить Litecoin (LTC)"><img src="/images/1550654172-Litecoin-(LTC).png" width="40" alt="Litecoin (LTC)"></a></li>
+<li class="exchange-link"><a href="/ru/buy-xrp-with-credit-card/" title="Kупить Ripple (XRP)"><img src="/images/1531321478-Ripple.png" width="40" alt="Ripple (XRP)"></a></li>
+<li class="exchange-link"><a href="/ru/buy-bitcoin-cash-with-credit-card/" title="Kупить Bitcoin Cash (BCH)"><img src="/images/1526997675-Bitcoin-Cash.png" width="40" alt="Bitcoin Cash (BCH)"></a></li>
+<li class="exchange-link"><a href="/ru/buy-usd-bank-transfer-with-bitcoin-btc/" title="Kупить USD Bank Transfer"><img src="/images/1541582999-USD-Bank-Transfer.png" width="40" alt="USD Bank Transfer"></a></li>
+<li class="exchange-link"><a href="/ru/buy-neo-with-credit-card/" title="Kупить NEO (NEO)"><img src="/images/1547212947-NEO.png" width="40" alt="NEO (NEO)"></a></li>
+<li class="exchange-link"><a href="/ru/buy-advanced-cash-with-sepa-bank-transfer/" title="Kупить Advanced Cash"><img src="/images/1467362056-Advanced-Cash.png" width="40" alt="Advanced Cash"></a></li>
+<li class="exchange-link"><a href="/ru/buy-skrill-with-sepa-bank-transfer/" title="Kупить Skrill"><img src="/images/1478010208-Skrill.png" width="40" alt="Skrill"></a></li>
+<li class="exchange-link"><a href="/ru/buy-neteller-with-sepa-bank-transfer/" title="Kупить Neteller"><img src="/images/1533032540-Neteller.jpg" width="40" alt="Neteller"></a></li>
+</ul>
+</li>
+<li role="presentation" class="dropdown sell-dropdown mega-menu">
+<a href="#sell" id="sell-dropdown" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+<i class="fa fa-fw fa-angle-double-right"></i>
+Продать <span class="caret"></span>
+</a>
+<ul class="dropdown-menu" aria-labelledby="sell-dropdown">
+<li class="exchange-link"><a href="/ru/" title="Продать Credit Card"><img src="/images/1478541033-Credit-Card.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-bitcoin-with-sepa-bank-transfer/" title="Продать Bank Transfer EUR"><img src="/images/1534859975-Bank-Transfer-EUR.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-amazoncom-egift-card-with-bitcoin-btc/" title="Продать Bitcoin (BTC)"><img src="/images/1434438389-1434030674-BitcoinLogo.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-bitcoin-with-wire-bank-transfer/" title="Продать Bank Transfer USD"><img src="/images/1534860009-Bank-Transfer-USD.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-amazoncom-gift-card-with-perfectmoney-usd/" title="Продать PerfectMoney"><img src="/images/1434438430-1434030586-PerfectMoneyLogo.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-amazoncom-gift-card-with-payeer/" title="Продать Payeer"><img src="/images/1467714407-Payeer.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-amazoncom-gift-card-with-advanced-cash-usd/" title="Продать Advanced Cash"><img src="/images/1467362056-Advanced-Cash.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-amazoncom-egift-card-with-skrill/" title="Продать Skrill"><img src="/images/1478010208-Skrill.png" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-amazoncom-egift-card-with-neteller/" title="Продать Neteller"><img src="/images/1533032540-Neteller.jpg" width="40" alt=""></a></li>
+<li class="exchange-link"><a href="/ru/buy-bitcoin-btc-with-mistertango/" title="Продать MisterTango SEPA Instant"><img src="/images/1545400062-Mistertango.png" width="40" alt=""></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<span class="footer-quick-link">Наша компания</span>
+<ul class="link-list">
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/our-company--mission/">Миссия компании</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/terms-of-service/">Пользовательское соглашение</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/aml-policy/">Политика AML и идентификация клиента</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/payment-systems/">Платежные системы</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/working-times/">Рабочее время</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/privacy-policy/">Политика конфиденциальности</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/about-us/refund-policy/">Политика рефандов</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/site/partners/">Наши партнеры</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/career/">Наши вакансии</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/news/">Новости</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/faq/">Вопросы-ответы</a> </li>
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/contacts/">Kонтакты</a> </li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<span class="footer-quick-link">PayBis MasterCard</span>
+<ul class="link-list">
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/card/">PayBis MasterCard</a> </li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-6">
+<span class="footer-quick-link">Реферальная программа</span>
+<ul class="link-list">
+<li>
+<i class="fa fa-fw fa-angle-double-right"></i>
+<a href="/ru/referral-program/">Как это работает</a> </li>
+</ul>
+</div>
+</nav> <div class="clearfix contact-row text-center">
+<div class="col-sm-4 social-links">
+<a href="https://www.facebook.com/PayBis/" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook fa-fw"></i></a>
+<a href="https://plus.google.com/+PaybisSupport" target="_blank" rel="noopener noreferrer"><i class="fa fa-google-plus fa-fw"></i></a>
+<a href="https://twitter.com/PayBis_com" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter fa-fw"></i></a>
+</div>
+<div class="col-sm-4 social-buttons clearfix">
+<div class="social-button">
+<div class="fb-like" data-href="https://paybis.com" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+<div class="social-button">
+<div class="twitter_box"><span id="twitter-followers"></span></div>
+<a href="https://twitter.com/Paybis_com" rel="nofollow" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+</div>
+</div>
+<div class="col-sm-4 quick-contacts">
+<ul class="center-block">
+<li><i class="fa fa-fw fa-envelope-square"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4e3d3b3e3e213c3a0e3e2f372c273d602d2123">[email&#160;protected]</a></li>
+<li><i class="fa fa-fw fa-phone-square"></i> LV: <a href="tel:+371-24813381">+371-24813381</a></li>
+<li><i class="fa fa-fw fa-phone-square"></i> USA: <a href="tel:+1-248-480-7383">+1-248-480-7383</a></li>
+</ul>
+</div>
+</div>
+<div class="legal-info clearfix row">
+<div class="disclaimer col-xs-12">
+<p class="text-center">Компания Paybis и ее ассоциированные компании не имеют отношения к Paypal, Amazon, Perfect Money, WebMoney или к другим платежным инструментам. Мы не делаем заявления, что поддерживаем или нас поддерживают данные сервисы. Их торговые марки принадлежат только им.</p>
+</div>
+<div class="col-xs-12">
+<a href="https://paybis.com/ru/" class="visible-xs text-center"><img src="/resources/paybis_logo.png" alt=""></a>
+<a href="https://paybis.com/ru/" class="pull-left hidden-xs"><img src="/resources/paybis_logo.png" alt=""></a>
+<p class="text-xs-center text-sm-left">
+PayBis LTD, 35/3 Buchanan Street, Edinburgh, EH6 8RB, UK (Эдинбург, Великобритания)<br />
+&copy; 2014-2019 Paybis.com, все права защищены. </p>
+</div>
+</div>
+</div>
+</footer>
+<div class="modal fade" tabindex="-1" role="dialog" id="generalPupUpModal">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<button type="button" class="close" data-dismiss="modal" data-target="#generalPupUpModal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" tabindex="-1" role="dialog" id="warningPopUpModal">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<button type="button" class="close" data-dismiss="modal" data-target="#warningPopUpModal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-primary" id="warningPopupModalContinueBtn">Продолжить</button>
+<button type="button" class="btn btn-secondary" data-dismiss="modal">Назад</button>
+</div>
+</div>
+</div>
+</div>
+<noscript>
+    <div class="modal fade in" tabindex="-1" role="dialog" style="display: block;">
+        <div class="modal-dialog">
+            <div class="modal-content text-center">
+                <div class="modal-header">
+                    <h3 class="modal-title text-danger">Не включен JavaScript!</h3>
+                </div>
+                <div class="modal-body">
+                    <p>Чтобы воспользоваться нашими услугами, вам надо разрешить использование JavaScript в вашем браузере.</p>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <div class="modal-backdrop fade in"></div>
+</noscript>
+<div class="modal fade" tabindex="-1" role="dialog" id="problemModal">
+<div class="modal-dialog">
+<div class="modal-content text-center">
+<div class="modal-header">
+<h3 class="modal-title text-danger">Обнаружен плагин блокировки рекламы!</h3>
+</div>
+<div class="modal-body">
+<p><strong>Блокировщик рекламы, установленный на вашем компьютере, не позволяет нашему сайту корректно работать (рекламные объявления и программы по блокировке рекламы конфликтуют с некоторыми нашими кодами, которые не позволяют пользователям производить платежи)</strong>.<br />
+Пожалуйста, отключите (AdBlock, Ad Muncher, AdwCleaner, PopupBlocker и т. д.) плагин в вашем браузере.</p>
+<p>После того как вы отключили блокиратор рекламы, перезагрузите страницу, чтобы продолжить корректную работу. Спасибо.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="cookie-popup">
+Мы используем cookies-файлы для того, чтобы нашим сайтом было удобнее пользоваться. <a class="btn btn-xs btn-link" href="/ru/about-us/privacy-policy/#toc-4/">Наша политика куки-файлов</a><br /><a class="btn btn-xs btn-success" href="/ru/site/hide-cookie-popup/">Закрыть</a> </div>
+<img alt="PayBis Logo" rel="Facebook image" src="https://paybis.com/resources/PayBisLogo-SmallRing.png" style="display: none;">
+<div id="cex-back-to-top" class="hidden-xs hide-on-print" title="Вернуться к началу"><i class="fa fa-angle-double-up"></i></div>
+<div id="breaking-news" class="hide-on-print">
+<div id="breaking-news-close">×</div>
+<ul id="breaking-news-list">
+<li><a href="/ru/news/video-guide-on-buying-bitcoin-with-credit-card/">Видео-гид по покупке Биткойна с помощью кредитной карты</a></li>
+</ul>
+</div>
+<style type="text/css">body{padding-top: 34px}</style>
+<div id="fb-root"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//apis.google.com/js/platform.js" async defer></script>
+
+<script type="text/javascript">
+(function(d, src, c) { var t=d.scripts[d.scripts.length - 1],s=d.createElement('script');s.id='la_x2s6df8d';s.async=true;s.src=src;s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs&&(rs!='complete')&&(rs!='loaded')){return;}c(this);};t.parentElement.insertBefore(s,t.nextSibling);})(document,
+'https://paybis.ladesk.com/scripts/track.js',
+        function(e){ LiveAgent.createButton('31e6df9e', e); });
+</script>
+<script type='text/javascript'>
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=830232613697077";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    !function(d,s,id){
+        var js,fjs=d.getElementsByTagName(s)[0];
+        if(!d.getElementById(id)){
+            js=d.createElement(s);js.id=id;
+            js.src="//platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js,fjs);
+        }
+    }(document,"script","twitter-wjs");
+    (function() {
+        $.getJSON('/twitter-count/', function(data) {
+             $('#twitter-followers').text(data);
+        });
+    }());
+    // IMPORTANT! If the user is logged in, set to user_id; else, set to ''
+    var _user_id = '';
+
+    // IMPORTANT! Set to a unique session ID for the visitor's current browsing session.
+    var _session_id = '2blicjtil3ivjvf11pjihom1q3';
+
+    var _sift = window._sift = window._sift || [];
+
+    // IMPORTANT! Insert your JavaScript snippet key here!
+    _sift.push(['_setAccount', '678a35dc36']);
+
+    _sift.push(['_setUserId', _user_id]);
+    _sift.push(['_setSessionId', _session_id]);
+    _sift.push(['_trackPageview']);
+
+    (function() {
+        function ls() {
+            var src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'cdn.siftscience.com/s.js';
+            $.getScript( src )
+                .fail(function( jqxhr, settings, exception ) {
+                    if (typeof fuckAdBlock === 'undefined') {
+                        // adblocker detected, show fallback
+                        $('#problemModal').modal({
+                            backdrop: 'static'
+                        });
+                    }
+                });
+        }
+        if (window.attachEvent) {
+            window.attachEvent('onload', ls);
+        } else {
+            window.addEventListener('load', ls, false);
+        }
+    }());
+</script>
+
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+
+</body>
+</html>

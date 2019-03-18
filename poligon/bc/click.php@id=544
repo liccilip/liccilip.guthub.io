@@ -1,0 +1,1421 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Обменник Биткоин и электронных денег</title>
+    <meta name="description" content="Обменник Биткоин и электронных денег Bankcomat.com является лучшим в области качественных услуг обмена онлайн. Провести быстрый и выгодный обмен в нашем сервисе очень легко." />
+    <meta name="keywords" content="обменник биткоин, обменник bitcoin, обмен btc, обмен электронных денег, онлайн обменник, быстрый обменник, лучший обменник" />
+    <link href="/res/bankomat/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/res/bankomat/css/style_v.0.9.5.css" rel="stylesheet"/>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="apple-touch-icon" sizes="76x76" href="/res/bankomat/i/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" href="/res/bankomat/i/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="/res/bankomat/i/favicon-16x16.png" sizes="16x16"/>
+    <link rel="manifest" href="/res/bankomat/i/manifest.json"/>
+    <link rel="mask-icon" href="/res/bankomat/i/safari-pinned-tab.svg" color="#000000"/>
+    <meta name="theme-color" content="#ffffff"/>
+    <script type="text/javascript">if(window.parent.frames.length > 0){window.stop();}</script>
+  </head>
+  <body class="home">
+  <div id="wrapper">
+    <header>
+  <div id="box">
+    <div class="col-sm-6">
+      <div class="row">
+        <a href="/" title="bankcomat.com - обменный сервис">
+          <img src="/res/bankomat/i/logo.png" class="logoh" alt="bankcomat.com - обменный сервис" />
+        </a>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="row">
+        <span class="work-time text-right">
+          Режим работы: круглосуточно        </span>
+        <div id="google_translate_element" class="google_translate"></div>
+        <script type="text/javascript">
+          function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'ru', includedLanguages: 'ar,de,en,fr,it,ru,sv,uk,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+          }
+          </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
+        <div class="user-box">
+            <a href="/register/" rel="nofollow" class="reg">Регистрация</a>
+  <a class="ent" id="popup-auth-show-btn">Войти</a>
+
+<!--testproverka-->
+
+<div class="vr-modal none" id="popup-auth-wrapper">
+  <div class="vr-modal-dialog dialog popup-auth">
+    <div class="vr-modal-content">
+      <div class="vr-modal-header">
+        <button type="button" class="close" data-dismiss="vr-modal">×</button>
+        <div class="vr-modal-title">Вход</div>
+      </div>
+      <div class="vr-modal-body">
+        <div class="popup-auth-form">
+          <div class="form" id="auth-form">
+            <label>
+              Логин:<br>
+              <input type="text" name="email" class="f-input form-control" placeholder="mail@yourbox.com" />
+            </label>
+            <label>
+              Пароль:<br>
+              <input type="password" name="password" class="f-input form-control" placeholder="*****" />
+            </label>
+            <div id="captcha-container" class="" style="transform:scale(0.9);transform-origin:0;-webkit-transform:scale(0.9);transform:scale(0.9);-webkit-transform-origin:0 0;transform-origin:0 0;display:none;">
+              <div id="auth-recaptcha"></div>            </div>
+            <div class="text-center">
+              <input type="submit" class="sub btn btn-success" id="auth-form-btn" data-for="auth-form" value="Войти" />
+            </div>
+            <input type="hidden" name="action" class="f-input" value="authorize" />
+            <div class="links text-center">
+              <a href="/lostpass/" rel="nofollow" class="forg btn btn-link">Забыли пароль?</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="vr-modal-footer"></div>
+    </div>
+  </div>
+</div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id='exchange_start'><a href='/'>Начать обмен</a></div></header>		<main>
+			<nav class="rlnav" >
+			  <div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle is_home" data-toggle="collapse" data-target="#header-nav">
+            <span class="sr-only">Главное меню</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="header-nav">
+          <div class="row">
+            <ul class="nav navbar-nav leftnav">
+            <li class=""><a href="/reserve/">Резервы</a></li>
+            <li class=""><a href="/partners/">Партнёрам</a></li>
+            <li class=""><a href="/rules/">Правила</a></li>
+            <li class=""><a href="/contacts/">Контакты</a></li>
+            </ul>
+          
+            <div id="nav-more" class="dropdown" style="display: inline-block;">
+              <a href="#" class="dropdown-toggle hidde" data-toggle="dropdown">Показать еще <b class="caret"></b></a>
+              <ul class="nav navbar-nav rightnav navbar-right">
+                <li class=""><a href="/reviews/">Отзывы</a></li>
+                <li class=""><a href="/about/">Гарантии</a></li>
+                <li class=""><a href="/news/">Новости</a></li>
+                <li class=""><a href="/faq/"><span class="ctr">FAQ</span></a></li>
+                <li class=""><a href="/search/">Поиск&nbsp;&nbsp;</a></li>
+              </ul>
+            </div>
+          </div>
+				</div><!-- /.navbar-collapse -->
+			  </div><!-- /.container-fluid -->
+			</nav>
+			<div id="content">
+        <div class="einfo hs1">
+  <div class="col-sm-4 text-center">
+    <a href="/partners/" title="Скидка" target="_blank" >Скидка</a>:
+    <span id="discount">0%</span>
+  </div>
+  <div class="col-sm-4 text-center">
+    Курс:
+    <span id="xc-com"></span>
+  </div>
+  <div class="col-sm-4 text-center">
+    Резерв:
+    <span id="xc-reserve"></span> <span id="xc-reserve-valute"></span>
+  </div>
+</div>
+<div class="stext show1">Обменная площадка bankcomat.com – это надежный финансовый партнер, совершаем обмены <span class="bold">в течение 5-15 минут.</span></div>
+<div id="calc" data-step="1" data-show-text='Показать все валюты'>
+  <div class="col-sm-3 col-xs-12">
+    <div class="row">
+      <span class="green-title text-center">Вы отдаете</span>
+      <div class="ps-select">
+        <span data-target="CRYPTO" class="active">Coin</span>
+        <span data-target="RUR" class="">RUR</span>
+        <span data-target="USD" class="">USD</span>
+        <span data-target="EUR" class="">EUR</span>
+        <span data-target="SNG" class="">СНГ</span>
+      </div>
+      <ul id="from" class="ps-list" data-psid="" data-psid-set="" data-seo-set="">
+        <li
+  data-group="CRYPTO"
+  data-psid="12"
+  data-seo="bitcoin"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="bitcoin" src="/res/exchangebox/uploads/svg/bitcoin.svg">Bitcoin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="65"
+  data-seo="exmo-btc"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="exmo-btc" src="/res/exchangebox/uploads/svg/exmo.svg">Exmo BTC</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="42"
+  data-seo="ethereum"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="ethereum" src="/res/exchangebox/uploads/svg/ethereum.svg">Ethereum</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="13"
+  data-seo="litecoin"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="litecoin" src="/res/exchangebox/uploads/svg/litecoin.svg">Litecoin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="70"
+  data-seo="ripple"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="ripple" src="/res/exchangebox/uploads/svg/ripple.svg">Ripple</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="55"
+  data-seo="zcash"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="zcash" src="/res/exchangebox/uploads/svg/zcash.svg">ZCash</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="72"
+  data-seo="monero"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="monero" src="/res/exchangebox/uploads/svg/monero.svg">Monero</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="52"
+  data-seo="dogecoin"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="dogecoin" src="/res/exchangebox/uploads/svg/dogecoin.svg">Dogecoin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="90"
+  data-seo="bnb"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="bnb" src="/res/exchangebox/uploads/svg/bnb.svg">Binance Coin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="73"
+  data-seo="tether"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="tether" src="/res/exchangebox/uploads/svg/tether.svg">Tether</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="46"
+  data-seo="dash"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="dash" src="/res/exchangebox/uploads/svg/dash.svg">Dash</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="83"
+  data-seo="waves"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="waves" src="/res/exchangebox/uploads/svg/waves.svg">Waves</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="118"
+  data-seo="bitcoin-abc"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="bitcoin-abc" src="/res/exchangebox/uploads/ps/ps-bitcoin_abc.png">Bitcoin Cash ABC</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="85"
+  data-seo="eos"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="eos" src="/res/exchangebox/uploads/svg/eos.svg">EOS</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="84"
+  data-seo="tron"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="tron" src="/res/exchangebox/uploads/svg/tron.svg">Tron</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="80"
+  data-seo="stellar"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="stellar" src="/res/exchangebox/uploads/svg/stellar.svg">Stellar</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="116"
+  data-seo="trueusd"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="trueusd" src="/res/exchangebox/uploads/ps/ps-tusd.png">TrueUSD</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="117"
+  data-seo="usdcoin"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="usdcoin" src="/res/exchangebox/uploads/ps/ps-usdc.png">USD Coin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="79"
+  data-seo="nem"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="nem" src="/res/exchangebox/uploads/svg/nem.svg">NEM</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="71"
+  data-seo="neo"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="neo" src="/res/exchangebox/uploads/svg/neo.svg">Neo</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="119"
+  data-seo="bitcoin-sv"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="bitcoin-sv" src="/res/exchangebox/uploads/ps/ps-bitcoin_abc.png">Bitcoin Cash SV</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="82"
+  data-seo="cardano"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="cardano" src="/res/exchangebox/uploads/svg/cardano.svg">Cardano</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="9"
+  data-seo="qiwi"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="qiwi" src="/res/exchangebox/uploads/ps/ps-qiwi_rub.png">QIWI RUB</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="8"
+  data-seo="sberbank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="sberbank" src="/res/exchangebox/uploads/svg/sberbank.svg">Сбербанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="18"
+  data-seo="tinkoff"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="tinkoff" src="/res/exchangebox/uploads/ps/ps-tcsbank.png">Тинькофф</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="26"
+  data-seo="visa-mastercard-rur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="visa-mastercard-rur" src="/res/exchangebox/uploads/ps/ps-visamc.png">Visa/MasterCard RUB</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="108"
+  data-seo="mir"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="mir" src="/res/exchangebox/uploads/svg/mir.svg">МИР</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="3"
+  data-seo="vtb24"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="vtb24" src="/res/exchangebox/uploads/svg/vtb24.svg">ВТБ</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="7"
+  data-seo="alfabank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="alfabank" src="/res/exchangebox/uploads/svg/alphabank.svg">Альфа Банк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="32"
+  data-seo="binbank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="binbank" src="/res/exchangebox/uploads/svg/binbank.svg">Бинбанк</a>
+</li>
+<li
+  data-group="RUR"
+  data-psid="58"
+  data-seo="raiffeisen"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="raiffeisen" src="/res/exchangebox/uploads/svg/raiffeisen.svg">Райффайзенбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="2"
+  data-seo="russtandart"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="russtandart" src="/res/exchangebox/uploads/ps/ps-ruskiystandart.png">Русский стандарт</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="24"
+  data-seo="promsvyazbank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="promsvyazbank" src="/res/exchangebox/uploads/svg/promsvyazbank.svg">Промсвязьбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="17"
+  data-seo="gazprombank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="gazprombank" src="/res/exchangebox/uploads/ps/ps-gazprombank.png">Газпромбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="11"
+  data-seo="avangard"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="avangard" src="/res/exchangebox/uploads/svg/avangard_bank.svg">Авангард</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="37"
+  data-seo="russia-mobile"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="russia-mobile" src="/res/exchangebox/uploads/ps/ps-mobile_russia.png">Мобильная связь РФ</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="15"
+  data-seo="yandex-money"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="yandex-money" src="/res/exchangebox/uploads/svg/yandex.svg">Яндекс.Деньги</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="76"
+  data-seo="qiwi-kzt"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="qiwi-kzt" src="/res/exchangebox/uploads/svg/qiwi.svg">QIWI KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="86"
+  data-seo="visa-mastercard-kzt"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="visa-mastercard-kzt" src="/res/exchangebox/uploads/ps/ps-visamc.png">Visa/MasterCard KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="111"
+  data-seo="wire-rub"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="wire-rub" src="/res/exchangebox/uploads/ps/ps-bank.png">Любой банк KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="110"
+  data-seo="sberbank-kzt"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="sberbank-kzt" src="/res/exchangebox/uploads/ps/ps-sberbank.png">Сбербанк KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="106"
+  data-seo="halykbank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="halykbank" src="/res/exchangebox/uploads/ps/ps-halykbank.png">HalykBank</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="105"
+  data-seo="kaspi-bank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="kaspi-bank" src="/res/exchangebox/uploads/ps/ps-kaspi_bank.png">Kaspi Bank</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="107"
+  data-seo="kazkombank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="kazkombank" src="/res/exchangebox/uploads/svg/kazkombank.svg">Казкоммерцбанк</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="22"
+  data-seo="payeer"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="payeer" src="/res/exchangebox/uploads/svg/payeer.svg">Payeer USD</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="41"
+  data-seo="payeer-rub"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="payeer-rub" src="/res/exchangebox/uploads/svg/payeer.svg">Payeer RUB</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="1"
+  data-seo="perfectmoney-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="perfectmoney-usd" src="/res/exchangebox/uploads/svg/perfect_money.svg">Perfect Money USD</a>
+</li>
+
+<li
+  data-group="EUR"
+  data-psid="49"
+  data-seo="perfectmoney-eur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="perfectmoney-eur" src="/res/exchangebox/uploads/svg/perfect_money.svg">Perfect Money EUR</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="120"
+  data-seo="perfectmoney-btc"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="perfectmoney-btc" src="/res/exchangebox/uploads/svg/perfect_money.svg">Perfect Money BTC</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="28"
+  data-seo="advcash"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="advcash" src="/res/exchangebox/uploads/svg/advcash.svg">Advanced Cash USD</a>
+</li>
+
+<li
+  data-group="EUR"
+  data-psid="48"
+  data-seo="advcash-eur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="advcash-eur" src="/res/exchangebox/uploads/svg/advcash.svg">Advanced Cash EUR</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="57"
+  data-seo="advcash-rur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="advcash-rur" src="/res/exchangebox/uploads/svg/advcash.svg">Advanced Cash RUR</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="59"
+  data-seo="exmo-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="exmo-usd" src="/res/exchangebox/uploads/svg/exmo.svg">Exmo USD</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="60"
+  data-seo="exmo-rur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="exmo-rur" src="/res/exchangebox/uploads/svg/exmo.svg">Exmo RUR</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="66"
+  data-seo="epayments-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="epayments-usd" src="/res/exchangebox/uploads/svg/epayments.svg">ePayments USD</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="43"
+  data-seo="capitalist"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="capitalist" src="/res/exchangebox/uploads/ps/ps-capitalist.png">Capitalist</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="47"
+  data-seo="livecoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="livecoin" src="/res/exchangebox/uploads/svg/livecoin.svg">Livecoin USD</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="16"
+  data-seo="e-voucher"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="e-voucher" src="/res/exchangebox/uploads/svg/perfect_money.svg">e-Voucher</a>
+</li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-sm-6 col-xs-12" id="fBox">
+    <div class="row">
+      <span class="green-title text-center">Режим работы: круглосуточно</span>
+      <div id="exchange" data-toggle='tooltip' title='Пожалуйста, выберите направление обмена'>
+        <div class="finfo">
+  Пожалуйста, выберите направление обмена  <div class='tg_bot_button' style="display:none">
+    <a title="@Bot_bankcomat_bot" target="_blank" href='https://telegram.me/Bot_bankcomat_bot'>
+      Telegram бот <img src='/res/bankomat/i/Telegram.svg' alt='tg'/>
+    </a><br>
+    <small>Совершай обмен прямо с приложения</small>
+  </div>
+</div>
+
+<div class="form-group"><label>Отдаете сумму</label><div class="input-group"><span class="input-group-addon ico1"></span><input type="text" id="give_col" value="" class="form-control f-input" placeholder="" name="summ1"></div></div>
+<div class="form-group"><label>Получаете сумму</label><div class="input-group"><span class="input-group-addon ico2"></span><input type="text" id="get_col" class="form-control f-input" placeholder="" name="summ2"></div></div>
+<div id="display_errors"></div>
+<div id="extra-commission" class="text-center cw"></div>
+<div id="props"></div>
+<div class="form-group hidden ">
+  <label><input type="checkbox" name="save_props" /> Сохранить реквизиты</label>
+</div>
+<div class="form-group hidden">
+  <label><input type="checkbox" name="subscription" class="f-input" checked /> Получать уведомления об акциях и скидках</label>
+</div>
+<span class="rules-info">Нажимая кнопку «Обменять», я соглашаюсь с <a href="/rules/" target="_blank">правилами обмена</a></span>
+<input type="hidden" id="c1" class="give_val f-input" name="c1" />
+<input type="hidden" id="c2" class="take_val f-input" name="c2" />
+<input type="hidden" id="cui" class="take_val f-input" name="card_upload_info" value="" />
+<input type="hidden" id="xc-direct" name="direct" value="0" class="f-input" />
+<input type="hidden" id="xc-id" name="id" value="15529024842991" class="f-input"/>
+<input type="submit" id="goto-payment" data-error="Кнопка заблокирована до окончания обратного отсчета" data-wait="Ждите" data-for="exchange" value="Обменять" class="btn-go " />      </div>
+    </div>
+  </div>
+  <div class="col-sm-3 col-xs-12">
+    <div class="row">
+      <span class="green-title text-center">Вы получаете</span>
+      <div class="ps-select to text-right">
+        <span data-target="CRYPTO" class="">Coin</span>
+        <span data-target="RUR" class="active">RUR</span>
+        <span data-target="USD" class="">USD</span>
+        <span data-target="EUR" class="">EUR</span>
+        <span data-target="SNG" class="">СНГ</span>
+      </div>
+      <ul id="to" class="ps-list" data-psid="" data-psid-set="" data-seo-set="">
+        <li
+  data-group="CRYPTO"
+  data-psid="12"
+  data-seo="bitcoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="bitcoin" src="/res/exchangebox/uploads/svg/bitcoin.svg">Bitcoin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="65"
+  data-seo="exmo-btc"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="exmo-btc" src="/res/exchangebox/uploads/svg/exmo.svg">Exmo BTC</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="42"
+  data-seo="ethereum"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="ethereum" src="/res/exchangebox/uploads/svg/ethereum.svg">Ethereum</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="13"
+  data-seo="litecoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="litecoin" src="/res/exchangebox/uploads/svg/litecoin.svg">Litecoin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="70"
+  data-seo="ripple"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="ripple" src="/res/exchangebox/uploads/svg/ripple.svg">Ripple</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="55"
+  data-seo="zcash"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="zcash" src="/res/exchangebox/uploads/svg/zcash.svg">ZCash</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="72"
+  data-seo="monero"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="monero" src="/res/exchangebox/uploads/svg/monero.svg">Monero</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="52"
+  data-seo="dogecoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="dogecoin" src="/res/exchangebox/uploads/svg/dogecoin.svg">Dogecoin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="90"
+  data-seo="bnb"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="bnb" src="/res/exchangebox/uploads/svg/bnb.svg">Binance Coin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="73"
+  data-seo="tether"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="tether" src="/res/exchangebox/uploads/svg/tether.svg">Tether</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="46"
+  data-seo="dash"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="dash" src="/res/exchangebox/uploads/svg/dash.svg">Dash</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="83"
+  data-seo="waves"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="waves" src="/res/exchangebox/uploads/svg/waves.svg">Waves</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="118"
+  data-seo="bitcoin-abc"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="bitcoin-abc" src="/res/exchangebox/uploads/ps/ps-bitcoin_abc.png">Bitcoin Cash ABC</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="85"
+  data-seo="eos"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="eos" src="/res/exchangebox/uploads/svg/eos.svg">EOS</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="84"
+  data-seo="tron"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="tron" src="/res/exchangebox/uploads/svg/tron.svg">Tron</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="80"
+  data-seo="stellar"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="stellar" src="/res/exchangebox/uploads/svg/stellar.svg">Stellar</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="116"
+  data-seo="trueusd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="trueusd" src="/res/exchangebox/uploads/ps/ps-tusd.png">TrueUSD</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="117"
+  data-seo="usdcoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="usdcoin" src="/res/exchangebox/uploads/ps/ps-usdc.png">USD Coin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="79"
+  data-seo="nem"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="nem" src="/res/exchangebox/uploads/svg/nem.svg">NEM</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="71"
+  data-seo="neo"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="neo" src="/res/exchangebox/uploads/svg/neo.svg">Neo</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="119"
+  data-seo="bitcoin-sv"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="bitcoin-sv" src="/res/exchangebox/uploads/ps/ps-bitcoin_abc.png">Bitcoin Cash SV</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="91"
+  data-seo="omg"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="omg" src="/res/exchangebox/uploads/svg/omg.svg">OmiseGO</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="82"
+  data-seo="cardano"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="cardano" src="/res/exchangebox/uploads/svg/cardano.svg">Cardano</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="9"
+  data-seo="qiwi"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="qiwi" src="/res/exchangebox/uploads/ps/ps-qiwi_rub.png">QIWI RUB</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="8"
+  data-seo="sberbank"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="sberbank" src="/res/exchangebox/uploads/svg/sberbank.svg">Сбербанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="18"
+  data-seo="tinkoff"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="tinkoff" src="/res/exchangebox/uploads/ps/ps-tcsbank.png">Тинькофф</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="26"
+  data-seo="visa-mastercard-rur"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="visa-mastercard-rur" src="/res/exchangebox/uploads/ps/ps-visamc.png">Visa/MasterCard RUB</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="108"
+  data-seo="mir"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="mir" src="/res/exchangebox/uploads/svg/mir.svg">МИР</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="3"
+  data-seo="vtb24"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="vtb24" src="/res/exchangebox/uploads/svg/vtb24.svg">ВТБ</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="7"
+  data-seo="alfabank"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="alfabank" src="/res/exchangebox/uploads/svg/alphabank.svg">Альфа Банк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="32"
+  data-seo="binbank"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="binbank" src="/res/exchangebox/uploads/svg/binbank.svg">Бинбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="58"
+  data-seo="raiffeisen"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="raiffeisen" src="/res/exchangebox/uploads/svg/raiffeisen.svg">Райффайзенбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="2"
+  data-seo="russtandart"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="russtandart" src="/res/exchangebox/uploads/ps/ps-ruskiystandart.png">Русский стандарт</a>
+</li>
+<li
+  data-group="RUR"
+  data-psid="24"
+  data-seo="promsvyazbank"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="promsvyazbank" src="/res/exchangebox/uploads/svg/promsvyazbank.svg">Промсвязьбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="17"
+  data-seo="gazprombank"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="gazprombank" src="/res/exchangebox/uploads/ps/ps-gazprombank.png">Газпромбанк</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="11"
+  data-seo="avangard"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="avangard" src="/res/exchangebox/uploads/svg/avangard_bank.svg">Авангард</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="37"
+  data-seo="russia-mobile"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="russia-mobile" src="/res/exchangebox/uploads/ps/ps-mobile_russia.png">Мобильная связь РФ</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="15"
+  data-seo="yandex-money"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="yandex-money" src="/res/exchangebox/uploads/svg/yandex.svg">Яндекс.Деньги</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="76"
+  data-seo="qiwi-kzt"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="qiwi-kzt" src="/res/exchangebox/uploads/svg/qiwi.svg">QIWI KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="86"
+  data-seo="visa-mastercard-kzt"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="visa-mastercard-kzt" src="/res/exchangebox/uploads/ps/ps-visamc.png">Visa/MasterCard KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="111"
+  data-seo="wire-rub"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="wire-rub" src="/res/exchangebox/uploads/ps/ps-bank.png">Любой банк KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="110"
+  data-seo="sberbank-kzt"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="sberbank-kzt" src="/res/exchangebox/uploads/ps/ps-sberbank.png">Сбербанк KZT</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="106"
+  data-seo="halykbank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="halykbank" src="/res/exchangebox/uploads/ps/ps-halykbank.png">HalykBank</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="105"
+  data-seo="kaspi-bank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="kaspi-bank" src="/res/exchangebox/uploads/ps/ps-kaspi_bank.png">Kaspi Bank</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="107"
+  data-seo="kazkombank"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="kazkombank" src="/res/exchangebox/uploads/svg/kazkombank.svg">Казкоммерцбанк</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="87"
+  data-seo="visa-mastercard-uah"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="visa-mastercard-uah" src="/res/exchangebox/uploads/ps/ps-visamc.png">Visa/MasterCard UAH</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="101"
+  data-seo="privat24-uah"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="privat24-uah" src="/res/exchangebox/uploads/svg/privat24.svg">Приват 24 UAH</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="104"
+  data-seo="raiffeisen-uah"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="raiffeisen-uah" src="/res/exchangebox/uploads/svg/raiffeisen.svg">Райффайзен UAH</a>
+</li>
+
+<li
+  data-group="SNG"
+  data-psid="88"
+  data-seo="visa-mastercard-byn"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="visa-mastercard-byn" src="/res/exchangebox/uploads/ps/ps-visamc.png">Visa/MasterCard BYN</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="22"
+  data-seo="payeer"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="payeer" src="/res/exchangebox/uploads/svg/payeer.svg">Payeer USD</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="41"
+  data-seo="payeer-rub"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="payeer-rub" src="/res/exchangebox/uploads/svg/payeer.svg">Payeer RUB</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="1"
+  data-seo="perfectmoney-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="perfectmoney-usd" src="/res/exchangebox/uploads/svg/perfect_money.svg">Perfect Money USD</a>
+</li>
+
+<li
+  data-group="EUR"
+  data-psid="49"
+  data-seo="perfectmoney-eur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="perfectmoney-eur" src="/res/exchangebox/uploads/svg/perfect_money.svg">Perfect Money EUR</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="120"
+  data-seo="perfectmoney-btc"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="perfectmoney-btc" src="/res/exchangebox/uploads/svg/perfect_money.svg">Perfect Money BTC</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="28"
+  data-seo="advcash"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="advcash" src="/res/exchangebox/uploads/svg/advcash.svg">Advanced Cash USD</a>
+</li>
+
+<li
+  data-group="EUR"
+  data-psid="48"
+  data-seo="advcash-eur"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="advcash-eur" src="/res/exchangebox/uploads/svg/advcash.svg">Advanced Cash EUR</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="57"
+  data-seo="advcash-rur"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="advcash-rur" src="/res/exchangebox/uploads/svg/advcash.svg">Advanced Cash RUR</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="59"
+  data-seo="exmo-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="exmo-usd" src="/res/exchangebox/uploads/svg/exmo.svg">Exmo USD</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="60"
+  data-seo="exmo-rur"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="exmo-rur" src="/res/exchangebox/uploads/svg/exmo.svg">Exmo RUR</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="66"
+  data-seo="epayments-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="epayments-usd" src="/res/exchangebox/uploads/svg/epayments.svg">ePayments USD</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="43"
+  data-seo="capitalist"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="capitalist" src="/res/exchangebox/uploads/ps/ps-capitalist.png">Capitalist</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="47"
+  data-seo="livecoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="livecoin" src="/res/exchangebox/uploads/svg/livecoin.svg">Livecoin USD</a>
+</li>
+
+<li
+  data-group="RUR"
+  data-psid="124"
+  data-seo="maincash-rur"
+  data-direct=""
+  class="" >
+<a href="#"><img alt="maincash-rur" src="/res/exchangebox/uploads/ps/ps-maincash.png">Maincash RUR</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="123"
+  data-seo="maincash-usd"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="maincash-usd" src="/res/exchangebox/uploads/ps/ps-maincash.png">Maincash USD</a>
+</li>
+
+<li
+  data-group="USD"
+  data-psid="16"
+  data-seo="e-voucher"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="e-voucher" src="/res/exchangebox/uploads/svg/perfect_money.svg">e-Voucher</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="121"
+  data-seo="e-dinarcoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="e-dinarcoin" src="/res/exchangebox/uploads/ps/ps-e-dinar-coin.png">E-Dinar Coin</a>
+</li>
+
+<li
+  data-group="CRYPTO"
+  data-psid="122"
+  data-seo="maincoin"
+  data-direct=""
+  class=""  style="display:none">
+<a href="#"><img alt="maincoin" src="/res/exchangebox/uploads/ps/ps-maincoin.png">Maincoin</a>
+</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="vr-modal none" id="hwnd-autocomplete">
+  <div class="vr-modal-dialog dialog">
+    <div class="vr-modal-content rounded">
+      <div class="vr-modal-header">
+        <button type="button" class="close" data-dismiss="vr-modal">×</button>
+        <div class="vr-modal-title">Автозаполнение</div>
+      </div>
+      <div class="vr-modal-body">
+        <span class="text-center">Пожалуйста, выберите реквизиты для автозаполнения:</span>
+        <div id="props-list" class="list-group"></div>
+      </div>
+      <div class="vr-modal-footer"></div>
+    </div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<br><div class='col-sm-12 for_index_text'><h1>Обменник Bitcoin – это не просто купить или продать биткоины!</h1>
+<p>Надежный обменник Bitcoin и других электронных валют bankcomat.com – это не просто место в сети, где можно купить биткоины или продать биткоины. Наш сервис включает в себя большое число направлений обмена электронных денег.</p>
+<p>Вот наиболее популярные направления:</p>
+<ul>
+<li><a href="/bitcoin-na-qiwi.html">Обмен Bitcoin на Qiwi</a>.</li>
+<li><a href="/bitcoin-na-sberbank.html">Обмен Bitcoin на Сбербанк</a>.</li>
+<li><a href="/bitcoin-na-yandex-money.html">Обмен Bitcoin на Яндекс деньги</a>.</li>
+<li><a href="/visa-mastercard-rur-na-bitcoin.html">Visa/MasterCard на Bitcoin</a> и т.д.</li>
+</ul>
+<h2>Почему пользователи выбирают именно наш онлайн обменник?</h2>
+<ul>
+<li>Обработка заявки до 15 минут в ручном режиме, что уменьшает вероятность ошибки или других негативных последствий.</li>
+<li>Мы единственные, кто гарантирует поступления средств при условии правильного использования сервиса.</li>
+<li>Курс обмена Bitcoin или других электронных средств всегда только актуальный.</li>
+<li>В сервисе работают грамотные специалисты готовые в любое время суток прийти к Вам на помощь.</li>
+<li>Мы работаем с широким ассортиментом направлений обмена.</li>
+<li>В нашем сервисе реализована <a href="/partners/">партнерская программа</a> в нескольких уровнях, что позволяет не только менять, но и зарабатывать.</li>
+<li>Нужен дисконт на обмены? Не вопрос! Постоянным клиентам сервис предоставляет скидки.</li>
+</ul>
+<p>Мы могли бы много и долго говорить о сервисе, но лучше Вам один раз попробовать, чтобы самостоятельно оценить его качество.</p></div>        <div class="col-sm-6 floatnone"></div>
+        <script async type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnloadCallback&render=explicit"></script>
+<script type="text/javascript">
+var multirecaptcha = {};
+var recaptchaOnloadCallback = function() {
+      multirecaptcha["auth-recaptcha"] = grecaptcha.render("auth-recaptcha", { sitekey: "6LecYAgUAAAAABpg1QM7I8zAC6kzVuNco-U9SYSn" });    };
+</script>        <div class="clearfix"></div>
+			</div>
+		</main>
+	</div>
+	<footer>
+	<div class="pull-left">
+		<a href="/" title="2016-2019 bankcomat.com">
+			<img src="/res/bankomat/i/flogo.png" alt="2016-2019 bankcomat.com" />
+		</a>
+		<span class="copyright">© 2016-2019 bankcomat.com</span>
+	</div>
+	<div class="pull-right">
+		<nav class="fnavbar">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#footer-nav">
+					<span class="sr-only">Меню</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+			</div>
+			<div class="collapse navbar-collapse row" id="footer-nav">
+				<ul>
+					<li><a href="/wiki/">Вики</a></li>
+					<li><a href="/faq/">FAQ</a></li>
+					<li><a href="/sitemap/">Карта сайта</a></li>
+					<li><a href="/reviews/">Отзывы</a></li>
+					<li><a href="/news/">Новости</a></li>
+          <li><a href="/zaderzhka-v-cepi-bitkoin/">Комиссия Биткойн</a></li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</nav>
+	</div>
+	<a href="https://vk.com/official_bankcomat" target="_blank" rel="nofollow" class="vk-spec"><span><img src="/res/bankomat/i/vk.svg" alt="1"></span></a>
+</footer>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = '9frdMySc3A';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/res/bankomat/js/bootstrap.min.js"></script>
+    <script src="/javascript/?"></script>
+    <div class="vr-modal none" role="dialog" id="errorModal"><div class="vr-modal-dialog dialog"><div class="vr-modal-content rounded"><div class="vr-modal-header"><button type="button" class="close" data-dismiss="vr-modal">×</button><div class="vr-modal-title" id="errorModalTitle">Ошибка</div></div><div class="vr-modal-body"></div><div class="vr-modal-footer"><button type="button" id="errorModalBtn" class="vr-btn vr-btn-default btn btn-default" data-dismiss="vr-modal">Закрыть</button></div></div></div></div>
+  <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=78472623';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>Обменный пункт электронных валют &#8212;   Обмен</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='yanone-sans-css'  href='https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A300%2C400%2C700&#038;subset=cyrillic%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://hotexchange.ru/wp-content/themes/hotexchange/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/plugins/premiumbox/premium/js/jquery.min.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/plugins/premiumbox/premium/js/jquery.form.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/plugins/premiumbox/premium/js/jcook.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/plugins/premiumbox/premium/js/jquery-window.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/themes/hotexchange/js/jquery-select.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/themes/hotexchange/js/jquery-checkbox.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/themes/hotexchange/js/site.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/wp-content/plugins/premiumbox/moduls/js_timer/js/jquery-timer.js'></script>
+<script type='text/javascript' src='https://hotexchange.ru/premiumjs.js?lang=ru'></script>
+<link rel="canonical" href="https://hotexchange.ru/exchange/" />
+	<link rel="shortcut icon" href="https://hotexchange.ru/wp-content/uploads/83708dd7252757a5a118b249fd1929ff5a32722118be671e40f33ea5ab07f38d-1.jpg" type="image/jpeg" />
+	<link rel="icon" href="https://hotexchange.ru/wp-content/uploads/83708dd7252757a5a118b249fd1929ff5a32722118be671e40f33ea5ab07f38d-1.jpg" type="image/jpeg" />
+		
+</head>
+<body class="page-template page-template-pn-pluginpage page-template-pn-pluginpage-php page page-id-216">
+<div id="container">
+
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://hotexchange.ru/exchange_ETH_to_SBERRUB237599/" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://hotexchange.ru/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+			</div>
+		</div></div>			
+									<div class="topbar_icon telegram">
+						<a href="https://t.me/Hotexchange_telegram_bot">Hotexchange_telegram_bot</a>
+					</div>		
+				
+									<div class="topbar_icon email">
+						<a href="mailto:&#104;&#111;t&#101;&#120;chan&#103;&#101;&#105;d&#64;gm&#97;il&#46;c&#111;m">&#104;&#111;&#116;&#101;&#120;&#99;&#104;a&#110;g&#101;&#105;&#100;&#64;&#103;&#109;&#97;il&#46;c&#111;&#109;</a>
+					</div>		
+								
+			
+									<a href="https://hotexchange.ru/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://hotexchange.ru/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://hotexchange.ru">
+													
+															<img src="/wp-content/themes/hotexchange/logo.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  first_menu_li menu-item-30"><a href="https://hotexchange.ru/"><span>Главная</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://hotexchange.ru/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://hotexchange.ru/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://hotexchange.ru/feedback/"><span>Контакты</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+				<div class="breadcrumb_wrap">
+			<div class="breadcrumb_div">
+				<div class="breadcrumb_ins" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+			
+					<h1 class="breadcrumb_title" id="the_title_page" itemprop="title">
+						Обмен Ethereum ETH на Сбербанк RUB											</h1>
+			
+				</div>
+			</div>
+		</div>	
+			
+		
+			
+		<div class="contentwrap">
+						<div class="thecontent">
+							
+	    		
+
+		
+	<form method="post" class="ajax_post_bids" action="https://hotexchange.ru/ajax-bidsform.html?meth=post&yid=ce3f885362da&lang=ru">
+		<div class="exch_ajax_wrap">
+			<div class="exch_ajax_wrap_abs"></div>
+			<div id="exch_html"><input type="hidden" name="direction_id" class="js_direction_id" value="205" />
+			
+			
+			<div class="notice_message">
+				<div class="notice_message_ins">
+					<div class="notice_message_abs"></div>
+					<div class="notice_message_close"></div>
+					<div class="notice_message_title">
+						<div class="notice_message_title_ins">
+							<span>Внимание!</span>
+						</div>
+					</div>
+					<div class="notice_message_text">
+						<div class="notice_message_text_ins">
+							<p>Данная операция производится в <strong>Ручном режиме и занимает от 5 минут до 12 часов</strong>. </p>
+<p>Если заявка не получила 6го подтверждения с момента создания заявки в течении 30 минут и курс эфира снизился, то она будет пересчитана на момент 6го подтверждения!</p>
+<p><strong> Обратите внимание</strong>, что наши оплаты производятся с карты сбербанка на карту сбербанка, а не с QIWI как в других обменных пунктах (по этому можно указывать карты мастер и маэстро и перевод будет выполнен согласно регламенту)! Мы не поддерживаем generated транзакции с таких пулов как Eligius, P2Pool и др. </p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+	
+			<div class="xchange_div">
+				<div class="xchange_div_ins">
+					<div class="xchange_data_title otd">
+						<div class="xchange_data_title_ins">
+							<span>Отдаете</span>
+						</div>	
+					</div>
+					<div class="xchange_data_div">
+						<div class="xchange_data_ins">
+							<div class="xchange_data_left">
+								<div class="xchange_info_line"></div>
+							</div>	
+							<div class="xchange_data_right">
+								<div class="xchange_info_line"><p class="span_give_max">min.: <span class="js_amount" data-id="sum1">10</span> ETH, max.: <span class="js_amount" data-id="sum1">500</span> ETH</p></div>
+							</div>
+								<div class="clear"></div>
+					
+							<div class="xchange_data_left">
+								<div class="xchange_select">
+									
+		<select name="" class="imager" autocomplete="off" id="select_give"><option value="28"  data-img="https://hotexchange.ru/wp-content/uploads/btc-e1540473902786.png">BitCoin BTC</option><option value="25"  data-img="https://hotexchange.ru/wp-content/uploads/sberbank-icon-icons.com-71976-e1540474483688.png">Сбербанк RUB</option><option value="38"  selected='selected' data-img="https://hotexchange.ru/wp-content/uploads/ethereum-logo-e1504544435256.png">Ethereum ETH</option><option value="50"  data-img="https://hotexchange.ru/wp-content/uploads/usdt-e1542906895845.png">Tether USDT</option><option value="48"  data-img="https://hotexchange.ru/wp-content/uploads/monero-e1533883056836.png">Monero XMR</option><option value="44"  data-img="https://hotexchange.ru/wp-content/uploads/ripple-e1533815652921.png">Ripple XRP</option><option value="49"  data-img="https://hotexchange.ru/wp-content/uploads/660-e1540475310524.png">Dashcoin DASH</option><option value="39"  data-img="https://hotexchange.ru/wp-content/uploads/lite-e1540474794709.png">LiteCoin LTC</option><option value="45"  data-img="https://hotexchange.ru/wp-content/uploads/zec-e1533815616357.png">Zcash ZEC</option>
+		</select>						
+								</div>
+							</div>	
+							<div class="xchange_data_right">
+								<div class="xchange_sum_line">
+									<div class="xchange_sum_label">
+										Сумма<span class="req">*</span>:
+									</div>
+									
+		<div class="xchange_sum_input js_wrap_error js_wrap_error_br error"><input type="text" name="sum1"  autocomplete="off" cash-id="sum1" data-decimal="6" class="js_decimal js_sum1 cache_data" value="1" />
+			<div class="js_error js_sum1_error">min.: <span class="js_amount" data-id="sum1">10</span> ETH</div>
+		</div>
+		
+										<div class="clear"></div>
+								</div>
+							</div>
+								<div class="clear"></div>										
+							<div class="xchange_data_left">
+								
+		<div class="xchange_sumandcom js_viv_com1" style="display: none;">
+			<span class="js_comis_text1"></span>
+		</div>
+							</div>	
+							<div class="xchange_data_right">
+								<div class="xchange_sum_line js_viv_com1" style="display: none;">
+									<div class="xchange_sum_label">
+										Сумма<span class="req">*</span>:
+									</div>
+									
+		<div class="xchange_sum_input js_wrap_error js_wrap_error_br "><input type="text" name=""  autocomplete="off" class="js_decimal js_sum1c" data-decimal="6" value="1" />
+			<div class="js_error js_sum1c_error"></div>
+		</div>
+										<div class="clear"></div>
+								</div>
+							</div>
+								<div class="clear"></div>										
+							<div class="xchange_data_left">
+								
+	<div class="xchange_curs_line" style="display: none">
+		<div class="xchange_curs_line_ins">
+			<div class="xchange_curs_label">
+				<div class="xchange_curs_label_ins">
+					<label for="account1"><span class="xchange_label">Ваш Кошелек Ethereum<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+				</div>
+			</div>	
+		</div>
+		<div class="xchange_curs_input js_wrap_error js_wrap_error_br js_window_wrap">
+	<input type="text" name="account1" cash-id="account38" id="account1" class="js_account1 js_help cache_data check_cache" placeholder="" value="" />
+		<div class="js_error js_account1_error"></div>
+			
+		<div class="info_window js_window">
+			<div class="info_window_ins">
+				<div class="info_window_abs"></div>
+				<p>Введите ваш Кошелек Ethereum, пример : 0x8980956c712aad010a120c42a2d0886b77860626 ;<br />
+Или укажите название биржи, с которой выводите средства;</p>
+
+			</div>
+		</div>															
+		
+		</div>
+			<div class="clear"></div>
+	
+	</div>	
+	
+								
+							</div>	
+								<div class="clear"></div>
+						</div>
+					</div>					
+					<div class="xchange_data_title pol">
+						<div class="xchange_data_title_ins">
+							<span>Получаете</span>
+						</div>	
+					</div>
+					<div class="xchange_data_div">
+						<div class="xchange_data_ins">					
+							<div class="xchange_data_left">
+								<div class="xchange_info_line"></div>
+							</div>
+							<div class="xchange_data_right">
+								<div class="xchange_info_line"><span class="span_get_max">min.: <span class="js_amount" data-id="sum2">99000</span> RUB, max.: <span class="js_amount" data-id="sum2">1013743.39905</span> RUB</span></div>
+							</div>
+								<div class="clear"></div>
+								
+							<div class="xchange_data_left">
+								<div class="xchange_select">
+									
+		<select name="" class="imager" autocomplete="off" id="select_get"><option value="25"  selected='selected' data-img="https://hotexchange.ru/wp-content/uploads/sberbank-icon-icons.com-71976-e1540474483688.png">Сбербанк RUB</option><option value="28"  data-img="https://hotexchange.ru/wp-content/uploads/btc-e1540473902786.png">BitCoin BTC</option><option value="51"  data-img="https://hotexchange.ru/wp-content/uploads/advcash-app-e1551707047245.png">Advanced Cash USD</option>
+		</select>						
+								</div>									
+							</div>
+							<div class="xchange_data_right">
+								<div class="xchange_sum_line">
+									<div class="xchange_sum_label">
+										Сумма<span class="req">*</span>:
+									</div>
+									
+		<div class="xchange_sum_input js_wrap_error js_wrap_error_br error"><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2" data-decimal="5" value="8894.9768" />
+			<div class="js_error js_sum2_error">min.: <span class="js_amount" data-id="sum2">99000</span> RUB</div>
+		</div>
+		
+										<div class="clear"></div>
+									</div>									
+								</div>
+									<div class="clear"></div>
+							<div class="xchange_data_left">
+								
+		<div class="xchange_sumandcom js_viv_com2" style="display: none;">
+			<span class="js_comis_text2"></span>
+		</div>
+							</div>
+							<div class="xchange_data_right">
+								<div class="xchange_sum_line js_viv_com2" style="display: none;">
+									<div class="xchange_sum_label">
+										Сумма<span class="req">*</span>:
+									</div>
+									
+		<div class="xchange_sum_input js_wrap_error js_wrap_error_br "><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2c" data-decimal="5" value="8894.9768" /> 
+			<div class="js_error js_sum2c_error"></div>
+		</div>
+										<div class="clear"></div>
+								</div>									
+							</div>
+								<div class="clear"></div>
+							<div class="xchange_data_left">	
+								
+	<div class="xchange_curs_line" >
+		<div class="xchange_curs_line_ins">
+			<div class="xchange_curs_label">
+				<div class="xchange_curs_label_ins">
+					<label for="account2"><span class="xchange_label">Введите номер карты без пробелов<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+				</div>
+			</div>	
+		</div>
+		<div class="xchange_curs_input js_wrap_error js_wrap_error_br js_window_wrap">
+	<input type="text" name="account2" cash-id="account25" id="account2" class="js_account2 js_help cache_data check_cache" placeholder="" value="" />
+		<div class="js_error js_account2_error"></div>
+			
+		<div class="info_window js_window">
+			<div class="info_window_ins">
+				<div class="info_window_abs"></div>
+				<p>Введите номер карты без пробелов</p>
+
+			</div>
+		</div>															
+		
+		</div>
+			<div class="clear"></div>
+	
+	</div>	
+	
+								
+							 </div>					
+								<div class="clear"></div>	
+						</div>
+					</div>			
+					
+		<div class="xchange_pers">
+			<div class="xchange_pers_ins">
+													
+				<div class="xchange_pers_title">
+					<div class="xchange_pers_title_ins">
+						<span>Личные данные</span>
+					</div>
+				</div>
+				<div class="xchange_pers_div">
+					<div class="xchange_pers_div_ins">
+						<div class="xchange_pers_line has_help">
+							<div class="xchange_pers_label">
+								<div class="xchange_pers_label_ins">
+									<label for="cf1"><span class="xchange_label">Фамилия<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+								</div>	
+							</div>
+							<div class="xchange_pers_input">
+								<div class="js_wrap_error js_wrap_error_br js_window_wrap">
+									<input type="text" name="cf1" cash-id="cf1" id="cf1" class="cache_data check_cache js_cf1 js_help" placeholder="" value="" />
+									
+										<div class="info_window js_window">
+											<div class="info_window_ins">
+												<div class="info_window_abs"></div>
+												<p>Введите фамилию держателя карты как в паспорте</p>
+
+											</div>
+										</div>															
+																		
+									
+									<div class="js_error js_cf1_error"></div>
+								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+						<div class="xchange_pers_line has_help">
+							<div class="xchange_pers_label">
+								<div class="xchange_pers_label_ins">
+									<label for="cf2"><span class="xchange_label">Имя<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+								</div>	
+							</div>
+							<div class="xchange_pers_input">
+								<div class="js_wrap_error js_wrap_error_br js_window_wrap">
+									<input type="text" name="cf2" cash-id="cf2" id="cf2" class="cache_data check_cache js_cf2 js_help" placeholder="" value="" />
+									
+										<div class="info_window js_window">
+											<div class="info_window_ins">
+												<div class="info_window_abs"></div>
+												<p>Введите имя держателя карты как в паспорте</p>
+
+											</div>
+										</div>															
+																		
+									
+									<div class="js_error js_cf2_error"></div>
+								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+						<div class="xchange_pers_line has_help">
+							<div class="xchange_pers_label">
+								<div class="xchange_pers_label_ins">
+									<label for="cf3"><span class="xchange_label">Отчество<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+								</div>	
+							</div>
+							<div class="xchange_pers_input">
+								<div class="js_wrap_error js_wrap_error_br js_window_wrap">
+									<input type="text" name="cf3" cash-id="cf3" id="cf3" class="cache_data check_cache js_cf3 js_help" placeholder="" value="" />
+									
+										<div class="info_window js_window">
+											<div class="info_window_ins">
+												<div class="info_window_abs"></div>
+												<p>Введите отчество держателя карты как в паспорте</p>
+
+											</div>
+										</div>															
+																		
+									
+									<div class="js_error js_cf3_error"></div>
+								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+						<div class="xchange_pers_line has_help">
+							<div class="xchange_pers_label">
+								<div class="xchange_pers_label_ins">
+									<label for="cf6"><span class="xchange_label">E-mail<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+								</div>	
+							</div>
+							<div class="xchange_pers_input">
+								<div class="js_wrap_error js_wrap_error_br js_window_wrap">
+									<input type="text" name="cf6" cash-id="cf6" id="cf6" class="cache_data check_cache js_cf6 js_help" placeholder="" value="" />
+									
+										<div class="info_window js_window">
+											<div class="info_window_ins">
+												<div class="info_window_abs"></div>
+												<p>Введите свой e-mail</p>
+
+											</div>
+										</div>															
+																		
+									
+									<div class="js_error js_cf6_error"></div>
+								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+						<div class="xchange_pers_line has_help">
+							<div class="xchange_pers_label">
+								<div class="xchange_pers_label_ins">
+									<label for="cf4"><span class="xchange_label">Телефон<span class="req">*</span>: <span class="help_tooltip_label"></span></span></label>
+								</div>	
+							</div>
+							<div class="xchange_pers_input">
+								<div class="js_wrap_error js_wrap_error_br js_window_wrap">
+									<input type="text" name="cf4" cash-id="cf4" id="cf4" class="cache_data check_cache js_cf4 js_help" placeholder="" value="" />
+									
+										<div class="info_window js_window">
+											<div class="info_window_ins">
+												<div class="info_window_abs"></div>
+												<p>Укажите свой действующий номер телефона или номер к которому привязан viber/whatsapp/telegram</p>
+
+											</div>
+										</div>															
+																		
+									
+									<div class="js_error js_cf4_error"></div>
+								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>											
+			</div>
+		</div>
+		
+						<div class="clear"></div>
+					
+					
+		<div class="xchange_submit_div">
+			<input type="submit" formtarget="_top" class="xchange_submit" name="" value="Обменять" /> 
+				<div class="clear"></div>
+		</div>
+						
+			<div class="xchange_checkdata_div">
+				<label><input type="checkbox" name="check_rule" value="1" /> С <a href="https://hotexchange.ru/tos/" target="_blank">правилами сервиса</a> ознакомлен и согласен</label>
+			</div>
+			
+					
+		<div class="xchange_checkdata_div">
+			<label><input type="checkbox" id="check_data" name="check_data"  value="1" /> Запомнить введенные данные</label>
+		</div>
+		
+					<div class="ajax_post_bids_res"></div>
+				</div>
+			</div>
+			
+			
+			<div class="warning_message" itemscope itemtype="http://schema.org/Article">
+				<div class="warning_message_ins">
+					<div class="warning_message_abs"></div>
+					<div class="warning_message_close"></div>
+					<div class="warning_message_title">
+						<div class="warning_message_title_ins" itemprop="name">
+							<span>Обмен Ethereum ETH на Сбербанк RUB</span>
+						</div>
+					</div>
+					<div class="warning_message_text">
+						<div class="warning_message_text_ins" itemprop="articleBody">
+							<p>Для обмена Вам необходимо выполнить несколько шагов:</p>
+<ol>
+<li>Заполните все поля представленной формы. Нажмите кнопку «Обменять».</li>
+<li>Ознакомьтесь с условиями договора на оказание услуг обмена, если вы принимаете их, поставьте галочку в соответствующем поле и нажмите кнопку «Создать заявку».</li>
+<li>Оплатите заявку.  Для этого следует совершить перевод необходимой суммы, следуя инструкциям на нашем сайте.</li>
+<li>После выполнения указанных действий, система переместит Вас на страницу «Состояние заявки», где будет указан статус вашего перевода.</li>
+</ol>
+<p><strong>Внимание</strong>: для выполнения данной операции потребуется участие оператора (см. статус оператора).</p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</form>
+	
+				
+		
+	    			
+	
+	<div class="clear"></div>
+		
+
+								</div>
+			<div class="sidebar">
+					
+
+			<div class="login_widget">
+				<div class="login_widget_ins">
+				<form method="post" class="ajax_post_form" action="https://hotexchange.ru/ajax-loginform.html?meth=post&yid=ce3f885362da&lang=ru">
+				
+					<div class="login_widget_title">
+						<div class="login_widget_title_ins">
+							Авторизация
+						</div>
+					</div>
+					
+					<div class="resultgo"></div>
+			
+					<div class="login_widget_body">
+						<div class="login_widget_body_ins">
+						
+							
+				<div class="form_field_line widget_log_line type_input  field_name_logmail">
+					<div class="form_field_ins widget_log_line_ins">
+				
+					<input type="text" id="form_field_id-1-logmail" class="widget_log_input "  placeholder="Логин или e-mail"  name="logmail" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear widget_log_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line widget_log_line type_password  field_name_pass">
+					<div class="form_field_ins widget_log_line_ins">
+				
+					<input type="password" id="form_field_id-1-pass" class="widget_log_input "  placeholder="Пароль"  name="pass" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear widget_log_line_clear"></div>
+				</div>
+				
+							
+							<div class="widget_log_line_text">
+								<div class="login_widget_subm_left">
+									<a href="https://hotexchange.ru/register/">Регистрация</a>
+								</div>
+								<div class="login_widget_subm_right">
+									<a href="https://hotexchange.ru/lostpass/">Забыли пароль?</a>
+								</div>
+								
+								<div class="clear"></div>
+							</div>	
+
+							<div class="widget_log_line_subm">
+								<input type="submit" formtarget="_top" name="submit" class="widget_reg_submit" value="Войти" />
+							</div>							
+	 
+						</div>
+					</div>			
+
+				</form>
+				</div>
+			</div>
+						</div>
+							<div class="clear"></div>
+		</div>	
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>Обменный пункт электронных валют.<br />
+Все права защищены © 2019</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://hotexchange.ru/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://hotexchange.ru/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://hotexchange.ru/tos/"><span>Правила сайта</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="http://vk.com/share.php?url=https%3A%2F%2Fhotexchange.ru%2Fexchange_ETH_to_SBERRUB237599%2F" class="social_link" target="_blank" rel="nofollow"><img src="https://hotexchange.ru/wp-content/themes/hotexchange/images/vk-ico.png" alt="" /></a>
+													<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhotexchange.ru%2Fexchange_ETH_to_SBERRUB237599%2F" class="social_link" target="_blank" rel="nofollow"><img src="https://hotexchange.ru/wp-content/themes/hotexchange/images/fb-ico.png" alt="" /></a>
+													<a href="https://plus.google.com/share?url=https%3A%2F%2Fhotexchange.ru%2Fexchange_ETH_to_SBERRUB237599%2F" class="social_link" target="_blank" rel="nofollow"><img src="https://hotexchange.ru/wp-content/themes/hotexchange/images/gp-ico.png" alt="" /></a>
+													<a href="http://twitter.com/share?url=https%3A%2F%2Fhotexchange.ru%2Fexchange_ETH_to_SBERRUB237599%2F" class="social_link" target="_blank" rel="nofollow"><img src="https://hotexchange.ru/wp-content/themes/hotexchange/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://hotexchange.ru/ajax-set_site_vers.html?meth=get&yid=ce3f885362da&lang=ru&set=mobile&return_url=%2Fexchange_ETH_to_SBERRUB237599%2F">Мобильная версия</a></div>
+							</div>
+			
+			<div class="footer_right">
+				<div class="footer_right_top">
+				
+										
+										
+				
+						<div class="clear"></div>
+				</div>
+				
+								<div class="footer_timetable">
+					<p>Пн. — Пт. с 6:00 до 24:00.<br />
+Сб. — Вск. свободный график.</p>
+				</div>
+								
+			
+			</div>	
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+<script type='text/javascript' src='https://hotexchange.ru/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+    (function(){ var widget_id = 'jiM8sx89I3';
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id+'?plugin=wp'; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+</script>
+</body>
+</html>

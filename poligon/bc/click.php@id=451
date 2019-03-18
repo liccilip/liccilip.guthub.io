@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+<title>AlfaWM — вывод Webmoney в Альфа-банк</title>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+ <style type="text/css">
+        small{color:gray;}
+        .bank_block{border-radius: 10px;
+        -webkit-border-radius: 10px;
+         -moz-border-radius: 10px;
+        -khtml-border-radius: 10px;
+         border: 1px solid #c0c0c0;
+        width:570px;
+        margin:0px auto;
+       
+         margin-top:20px;
+        padding: 20px;text-align:center;}
+    </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.selectbox.min.js"></script>
+<script type="text/javascript">
+	var wmz=64.00 ;
+	var wme=73.00 ;
+
+</script>
+<script type="text/javascript" src="js/automat.js?v6"></script>
+   
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('select').selectbox();
+                 var newval = format.call($('#get').val().split(' ').join(''),' ','.');
+    		$('#get').val(newval);
+                var newval1 = format.call($('#summ').val().split(' ').join(''),' ','.');
+    		$('#summ').val(newval1);
+	})
+</script>
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6268356-7', 'alfawm.ru');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- begin spexe code --> <script type="text/javascript" >/*<![CDATA[*/var sPx={ssl:"https:"==document.location.protocol?true:false,mAtt:5,tout:0,wait:350,suc:false,rnd:(Date.parse(new Date().toUTCString())/1E5|0),md:"https://www.spexe.com",cd:".spexe.net",init:function(){sPx.test(0)},test:function(a){if(sPx.ssl)sPx.mAtt=3;if(a>=sPx.mAtt)return false;sPx.ssl?sPx.crfr(sPx.md+"/p.gif?"+sPx.rnd,a):sPx.crfr("http://g"+a+sPx.cd+"/p.gif?"+sPx.rnd,a);sPx.tout=setTimeout(function(){if(!sPx.suc){sPx.clrAll(a);sPx.test(++a);if(sPx.ssl)sPx.wait*=3;sPx.wait*=a}},sPx.wait)},crfr:function(a,c){var b=document.createElement("iframe");b.style.display="none";b.width=0;b.height=0;b.id="spxifr_"+c;document.body.appendChild(b);sPx.getIframeDocument(b).write('<html><body><img src="'+a+'" onload="parent.sPx.success('+c+')"/></body></html>');return b},clrAll:function(a){clearTimeout(sPx.tout);a=document.getElementById("spxifr_"+a);a.parentNode.removeChild(a)},success:function(a){sPx.suc=true;sPx.clrAll(a);var c=document.createElement("script");c.type="text/javascript";c.charset="utf-8";c.async=true;if(sPx.ssl)var b=sPx.md,d="on";else b="http://g"+a+sPx.cd;c.src=b+"/go.js?id="+a+"&name=cashinout&online=stand&offline=stand&color=lred&ident=&ssl="+d+"&lng=ru&place=left&css=&btnid=cashinout&bti=&fbc=&fbci=&fbct=&skype=alfawm.ru&trk=::UA-6268356-7&clr="+sPx.rnd;a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(c,a)},getIframeDocument:function(a){if(a.contentDocument)return a.contentDocument;if(a.contentWindow)return a.contentWindow.document;return a.document}};if(document.addEventListener)window.addEventListener("load",sPx.init,false);else document.attachEvent&&window.attachEvent("onload",sPx.init);/*]]*/</script><!-- end spexe code -->
+
+<script type="text/javascript">
+    var reformalOptions = {
+        project_id: 220549,
+        project_host: "alfawm.reformal.ru",
+        tab_orientation: "right",
+        tab_indent: "50%",
+        tab_bg_color: "#f50a0a",
+        tab_border_color: "#FFFFFF",
+        tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/88128dfd6ca0743b5ccc2f8afed9f3b1/right/0/tab.png",
+        tab_border_width: 2
+    };
+    
+    (function() {
+        var script = document.createElement('script');
+        script.type = 'text/javascript'; script.async = true;
+        script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+        document.getElementsByTagName('head')[0].appendChild(script);
+    })();
+</script><noscript><a href="http://reformal.ru"><img src="http://media.reformal.ru/reformal.png" /></a><a href="http://alfawm.reformal.ru">Oтзывы и предложения для AlfaWM</a></noscript>
+
+<div class="head-wrap">
+	<div class="line"></div>
+	<header>
+		<h1>
+			<a href="" class="logo"><img src="img/logo.png" alt="logo"/></a>
+		</h1>
+		<div class="wm-top"></div>
+		<div class="transfer-arrow"></div>
+		<div class="alpha-top"></div>
+	</header>
+</div>
+
+<div class="contacts-wrap">
+	<div class="contacts">
+			<ul class="contacts-nav">
+			<li class="phone">8 (800) 555-80-67</li>
+			<li class="skype">alfawm.ru</li>
+			<li class="icq">411382873</li>	
+			<li class="mail">admin@alfawm.ru</li>			
+		</ul>
+	</div>
+</div>
+<div class="wrapper">
+	<div class="content">
+		<div class="text-wrap">
+		<h2>Оформление заявки на вывод Webmoney в Альфа-банк</h2>
+			<p class="descr">Минимальная сумма вывода 10 000 руб. Сумма к получению должна быть кратна 500 руб.<br>
+			Вывод WMR — 3.5%, вывод WMZ — 2%, вывод WME — 3%. Конвертация в рубли осуществляется по внутреннему курсу.</p>
+		</div>
+		<form method="POST" onsubmit='document.getElementById("currency_n").value=document.getElementById("cur_txt").innerHTML;'>
+			<div class="l-col">
+				<div class="textfield">
+					<label for="text-1">Получаете:</label><input type="text" oninput="change_cur(0);calc(1)" onchange="change_cur(0);calc(0);" id="get"  name="get" autofocus value=""/>
+				</div>
+				<div class="textfield">
+					<label for="text-2">Отдаёте:</label><input onclick="change_cur(1);" readonly onchange="change_cur(1);calc2()" id="summ" name="summ" type="text" value="" class="dropdown-text"/><!--  
+				--><div class="select-wrap">
+						<select  id="currency" name="currency1" onchange=";calc(undefined, event)">
+							<option value="WMZ">WMZ</option>
+							<option value="WMR" >WMR</option>
+							<option value="WME" >WME</option>
+						</select>
+					</div>
+                                <input type="hidden" id="currency_n" name="currency" value="">
+				</div>
+				<div class="textfield">
+					<label for="text-3">Комиссия WM 0.8%:</label><input id="comission" name="comission" readonly type="text" value="" class="mb"/>
+				</div>
+				<div class="textfield">
+					<label for="text-4">Ваш WMID:</label><input name="wmid" type="text" value="" maxlength="12"/>
+				</div>
+				<div class="textfield">
+					<label for="text-5">E-mail:</label><input name="email" type="text" value=""/>
+				</div>
+			</div>
+			<div class="card">
+				<div class="logo-2"></div>
+				<div class="textfield-2">
+					<label for="text-6">Счет (RUR):</label><input name="bank_account" type="text" value="" maxlength="20"/>
+				</div>
+				<p class="current-acc">Текущий счет в Альфабанке, например, 4081781010000000000</p>
+				<div class="textfield-2">
+					<label for="text-7">ФИО:</label><input name="fio" type="text" value="" class="border"/>
+				</div>
+				<p class="info">ФИО указывайте полностью, точно, как в вашем WM-аттестате, например, Иванов Иван Иванович</p>
+			</div>
+			
+			<p class="continue-info">Нажимая кнопку "Продолжить" вы подтверждаете свое согласие с
+<a class="osx">Правилами предоставления услуг</a></p>
+			<input type="submit" name="out_cash" value="Продолжить" class="continue-button"/>
+		</form>
+            
+                 
+        <div class="rules tc">
+            <h2>Уведомление о рисках</h2>
+
+            <p>Предлагаемые товары и услуги предоставляются не по заказу лица либо предприятия, эксплуатирующего систему WebMoney Transfer. Мы являемся независимым предприятием, оказывающим услуги, и самостоятельно принимаем решения о ценах и предложениях. Предприятия, эксплуатирующие систему WebMoney Transfer, не получают комиссионных вознаграждений или иных вознаграждений за участие в предоставлении услуг и не несут никакой ответственности за нашу деятельность. Аттестация, произведенная со стороны WebMoney Transfer, лишь подтверждает наши реквизиты для связи и удостоверяет личность. Она осуществляется по нашему желанию и не означает, что мы каким-либо образом связаны с продажами операторов системы WebMoney.</p>
+        </div>
+	</div>
+</div>
+
+<div id="osx-modal-content">
+    <div id="osx-modal-title">Правила предоставления услуг сервисом AlfaWM</div>
+    <div class="close"><a href="#" class="simplemodal-close">x</a></div>
+    <div id="osx-modal-data">
+        <ol>
+            <li>Сервис AlfaWM оказывает услуги по выводу титульных знаков Webmoney на счета физ. лиц в «Альфа-банке».
+            <li>Вывод Webmoney возможен только на счет владельца WMID с аттестатом не ниже формального, переводы в пользу третьих лиц запрещены.
+            <li>Платежи на банковские счета обрабатываются в ручном режиме, зачисление происходит в течение рабочего дня. Платежи, поступившие после 18 часов по московскому времени, зачисляются на следующий рабочий день.
+            <li>Лимитов по суммам вывода нет. Платежи от 1 млн. руб. необходимо согласовывать с оператором.
+			<li>Мы гарантируем безопасность платежей с точки зрения контролирующих органов и службы безопасности банка.
+			<li>Тарифы: вывод WMR — 2.5%, вывод WMZ — 2%, вывод WME — 3%. Конвертация в рубли осуществляется по внутреннему курсу.
+            </ol>
+        <p><button class="simplemodal-close">Закрыть</button> <span>(или нажмите ESC)</span></p>
+    </div>
+</div>
+
+<div class="foot-wrap">
+	<footer>
+		<ul class="counters">
+			<li><a rel="nofollow" target="_blank" href="//www.webmoney.ru/">
+          <img alt="www.webmoney.ru" src="//webmoney.ru/img/icons/88x31_wm_blue_on_white_ru.png"></a></li><!--  
+		 --><li>
+<a rel="nofollow" target="_blank" href="//passport.webmoney.ru/asp/certview.asp?wmid=397123883693">
+          <img alt="Здесь находится аттестат нашего WM идентификатора 397123883693" src="//webmoney.ru/img/icons/88x31_wm_v_blue_on_white_ru.png"></li><!--  
+		 --><li><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t21.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet--></li><!--->
+		<!--WebMoney TOP--><script language="JavaScript"><!--
+document.write('<a href="https://top.owebmoney.ru" target="_blank">'+'<img src="https://top.owebmoney.ru/counter.php?site_id=1845&from='+escape(document.referrer)+'&host='+location.hostname+'&rand='+Math.random()+'" alt="WebMoney TOP" '+'border=0 width=88 height=31></a>')//--></script>
+<noscript><a href="https://top.owebmoney.ru" target="_blank">
+<img src="https://top.owebmoney.ru/counter.php?site_id=1845"
+width=88 height=31 alt="WebMoney TOP" border=0></a></noscript>
+<!--/WebMoney TOP--></li>
+		</ul>
+		<div class="copyright">© <a href="https://www.alfawm.ru">AlfaWM</a> 2013-2019. Регистрационный номер в каталоге <a rel="nofollow" target="_blank" href="https://www.megastock.ru/Resource.aspx?id=92285">MegaStock</a> — 92285.</a>
+	</footer>
+</div>
+<script src="js/inputseparator.js"></script>
+<script src='js/jquery.simplemodal.js'></script>
+<script src='js/osx.js'></script>
+</body>
+</html>

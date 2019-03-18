@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100407484-6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-100407484-6');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf-frontend">
+    <meta name="csrf-token" content="iEv6ppucmhBhqyhT-yFRgNg4BcBQ6CtRxJspYTmvnqzrConL4amrPSbmGiaXWxblu3dEnyWMdGigokM7V-6o3Q==">
+    <title>Онлайн обменник валют PayBTC.pro - Выгодные курсы обмена валют на сегодня</title>
+    <meta property="og:title" content="payBTC">    <meta property="og:description" content="">    <meta property="og:image" content="https://paybtc.pro/img/logo.png">    <meta property="og:url" content="https://paybtc.pro/">    <meta name="description" content="Обменник валют PayBTC.pro предлагает Вам выгодные курсы обмена валют на сегодня. Если Вы искали обменник криптовалют, Вы нашли то, что искали! Быстрый, надёжный и выгодный обмен валюты  в любой точке мира">
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/main.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet"></head>
+<body>
+
+   <div class="heading">
+        <div class="upper">
+            <div class="container">
+                <div class="row justify-content-md-between justify-content-around">
+                    <div class="col col-auto header-contacts">
+                        
+<span class="contact-item"><i class="icon-telegram"></i>@btc377</span><span class="contact-item"><i class="icon-jabber"></i><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0536323236323245607d75696a6c712b6c68">[email&#160;protected]</a></span><span class="contact-item"><i class="icon-email-variant"></i><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f8999c959196b88899819a8c9bd6888a97">[email&#160;protected]</a></span>                    </div>
+                    
+                    <div class="col col-auto header-socials">
+                        <a href="https://www.facebook.com/paybtc.pro" class="social-link">
+                            <span class="icon-facebook"></span>
+                        </a>
+                        <a href="https://twitter.com/PayBTCpro" class="social-link">
+                            <span class="icon-twitter"></span>
+                        </a>
+                        <a href="https://vk.com/online_paybtc" class="social-link">
+                            <span class="icon-vk"></span>
+                        </a>
+                    </div>
+                    <div class="col col-auto">
+                        
+<span class="active_language">Ру</span> | <a class="language-link" href="/index.php/?refId=e3xJTcy6T6&amp;language=en-US">Eng</a>
+<!--
+<a role="button" class="dropdown-toggle language-button" id="langButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?//= Html::encode($current) ?> <i class="icon-chevron-down"></i></a>
+
+<div class="dark dropdown-menu" aria-labelledby="langButton">
+    <?//php foreach ($items as $item) : ?>
+    <?//= Html::a($item['label'], $item['url'], ['class' => 'language-link']) ?> 
+	<?//php endforeach; ?>
+</div>
+-->
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="lower">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col col-auto py-10p">
+                       <a class="logo-link" href="/index.php/"><img src="/img/logo.png" alt=""></a> 
+                    </div>
+                    <div class="col col-auto d-none d-lg-block py-10p">
+                       <ul class="main-menu"><li class="menu-link active"><a href="/index.php/">Обмен</a></li>
+<li class="menu-link"><a href="/page/terms/">Правила</a></li>
+<li class="menu-link"><a href="/about/">О нас</a></li>
+<li class="menu-link"><a href="/feedback/">Отзывы</a></li>
+<li class="menu-link"><a href="/faq/">FAQ</a></li>
+<li class="menu-link"><a href="/news/">Блог</a></li>
+<li class="menu-link"><a href="/contact/">Контакты</a></li></ul>                    </div>
+                    <div class="col col-auto colored-stretch-block bg-darkblue">
+                           <a href="https://paybtc.pro/signin/" id="login" class="icon-linked" role="button" onclick="modalOpen(event)">
+        <span class="icon-account"></span>
+        <!--<span class="user-name">Вы</span>-->
+        <span class="user-name">Вход</span>
+    </a>
+                        
+                        
+                    </div>
+                    <div class="col col-auto tuggle-burger d-lg-none d-block py-10p">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#header-menu" aria-controls="header-menu" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="icon-menu"></span>
+                        </button>
+                    </div>
+                    <div class="col-12  d-lg-none d-block" >
+                       <div class="collapse" id="header-menu">
+                           <ul class="main-menu"><li class="menu-link active"><a href="/index.php/">Обмен</a></li>
+<li class="menu-link"><a href="/page/terms/">Правила</a></li>
+<li class="menu-link"><a href="/about/">О нас</a></li>
+<li class="menu-link"><a href="/feedback/">Отзывы</a></li>
+<li class="menu-link"><a href="/faq/">FAQ</a></li>
+<li class="menu-link"><a href="/news/">Блог</a></li>
+<li class="menu-link"><a href="/contact/">Контакты</a></li></ul>                       </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
+            <div class="main-heading-container">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <p class="main-heading white lined-title lined-left">
+payBTC.pro - ваш надёжный сервис по обмену электронных валют!</p>
+                    <p class="main-description">
+<p>Купить/Продать/Обменять Bitcoin, Litecoin, Ethereum, Ethereum Classic, Bitcoin Cash, Dash, Monero, Ripple, Zcash быстро, выгодно, безопасно!</p>
+<p align="center"> </p>
+<p align="center"><font size="4"><strong>ВРЕМЯ РАБОТЫ: ПОНЕДЕЛЬНИК - СУББОТА С 11:00 ДО 21:00 (МСК)! ВОСКРЕСЕНЬЕ - ВЫХОДНОЙ!</strong></font></p></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="calculator">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-4 give-column order-1 order-md-1">
+                    <div id="give" class="flying-block">
+                        <div class="flying-header">
+                            <span class="icon-arrow-diagonal-down"></span> Отдам                        </div>
+                        <div class="flying-content">
+                            <div class="row currencies m-0">
+                                                                <div class="col-6 currency-item has" data-id="BTC" data-name="Bitcoin" data-code="BTC" data-lim="0.013" onclick="setGive(this)">
+                                    <img src="/img/currencies/-oSh51ScaGQ9wsDU7FLq.png" alt="">                                    Bitcoin                                    BTC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="LTC" data-name="Litecoin" data-code="LTC" data-lim="1.5" onclick="setGive(this)">
+                                    <img src="/img/currencies/hSsHwuu-BtQzLognDBgu.png" alt="">                                    Litecoin                                    LTC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ETH" data-name="Ethereum" data-code="ETH" data-lim="0.33" onclick="setGive(this)">
+                                    <img src="/img/currencies/OzGWVlGqYqH2EIGo-1bt.png" alt="">                                    Ethereum                                    ETH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ETC" data-name="Ether Classic" data-code="ETC" data-lim="10" onclick="setGive(this)">
+                                    <img src="/img/currencies/T1pG2hMOlTJY0CaDlCaJ.png" alt="">                                    Ether Classic                                    ETC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="DASH" data-name="Dash" data-code="DSH" data-lim="0.7" onclick="setGive(this)">
+                                    <img src="/img/currencies/JYhmxQEIW9CYxG0PnTTi.png" alt="">                                    Dash                                    DSH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="XMR" data-name="Monero" data-code="XMR" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/VEYGync1Y9rLhdMK4vSW.png" alt="">                                    Monero                                    XMR                                </div>
+                                                                <div class="col-6 currency-item has" data-id="XRP" data-name="Ripple" data-code="XRP" data-lim="150" onclick="setGive(this)">
+                                    <img src="/img/currencies/LQhjCpadeNPesVHUJl6e.png" alt="">                                    Ripple                                    XRP                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ZEC" data-name="Zcash" data-code="ZEC" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/T48ttfo9gaUYxmg6AwJc.png" alt="">                                    Zcash                                    ZEC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="QWRUB" data-name="QIWI" data-code="RUB" data-lim="2999" onclick="setGive(this)">
+                                    <img src="/img/currencies/X_AEBFVVOM5SdGT3_pA3.png" alt="">                                    QIWI                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="YAMRUB" data-name="ЯД" data-code="RUB" data-lim="5000" onclick="setGive(this)">
+                                    <img src="/img/currencies/FQsI5JgnA9d83F4QnmV4.png" alt="">                                    ЯД                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="USDT" data-name="Tether" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/6OQi4xbdBGdAGqWxeMRG.png" alt="">                                    Tether                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="EXMUSD" data-name="EXMO" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/SR3mCHbXV9X3Jk9AjED0.png" alt="">                                    EXMO                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="TUSD" data-name="TrueUSD" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/_kwWcGk3a1rTOwE6dycA.png" alt="">                                    TrueUSD                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="USDC" data-name="USD Coin" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/xj65FCPnaxctDSdrAf_Z.png" alt="">                                    USD Coin                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ADVCUSD" data-name="ADV Cash" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/JombbniRSlqtHzoJQ3CD.png" alt="">                                    ADV Cash                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="PMUSD" data-name="PM" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/h1Tn3xsh0wz0RDru31HZ.png" alt="">                                    PM                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="PRUSD" data-name="Payeer" data-code="USD" data-lim="50" onclick="setGive(this)">
+                                    <img src="/img/currencies/_JPr9PXv3xLLMwQS4UPd.png" alt="">                                    Payeer                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CASHUSD" data-name="Наличные" data-code="USD" data-lim="1000" onclick="setGive(this)">
+                                    <img src="/img/currencies/wVYAowRKqT9xbLHwGjqL.png" alt="">                                    Наличные                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CASHRUB" data-name="Наличные" data-code="RUB" data-lim="50000" onclick="setGive(this)">
+                                    <img src="/img/currencies/iGWQK_NPWgfM9eNN4GUo.png" alt="">                                    Наличные                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CASHUAH" data-name="Наличные" data-code="UAH" data-lim="20000" onclick="setGive(this)">
+                                    <img src="/img/currencies/GKnAc8H6DWwH0TicFEMV.png" alt="">                                    Наличные                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ACRUB" data-name="Альфа" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/-yapFXjti9yan4XO99SF.png" alt="">                                    Альфа                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ACCRUB" data-name="Cash-in" data-code="RUB" data-lim="65000" onclick="setGive(this)">
+                                    <img src="/img/currencies/JzjygZZ_kbrA5fKuEm0k.png" alt="">                                    Cash-in                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="ACCUSD" data-name="Cash-in" data-code="USD" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/abC0axGGJTdxx8hb-RE8.png" alt="">                                    Cash-in                                    USD                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="SBERRUB" data-name="Сбербанк" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/8jaEDIKsMlTOYvFl_23a.png" alt="">                                    Сбербанк                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="TCSBRUB" data-name="Тинькофф" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/wte528JO-eY-6riwY4Vv.png" alt="">                                    Тинькофф                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="RUSSTRUB" data-name="РС" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/VmFAn1D1Sy5P6zm8VhP_.png" alt="">                                    РС                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="TBRUB" data-name="ВТБ24" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/WnTzpvoKHcPZ0I7Ygesk.png" alt="">                                    ВТБ24                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="PSBRUB" data-name="ПСБ Банк" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/wBmE9mE9FQt2FW-oJpdy.png" alt="">                                    ПСБ Банк                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="AVBRUB" data-name="Авангард" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/BjqlXmGu5mLm_4hcGggb.png" alt="">                                    Авангард                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="CARDRUB" data-name="Visa/MC" data-code="RUB" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/lERzFK4HsUyrTofgzMP3.png" alt="">                                    Visa/MC                                    RUB                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="P24UAH" data-name="Приват24" data-code="UAH" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/f_TfUnvMdrV3y3banhbR.png" alt="">                                    Приват24                                    UAH                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="OSHBUAH" data-name="ОщадБанк" data-code="UAH" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/xJ8ga-PoB2u03sS0hS2-.png" alt="">                                    ОщадБанк                                    UAH                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="PMBBUAH" data-name="ПУМБ" data-code="UAH" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/4vNQaMK4q9XUDdypCuGi.png" alt="">                                    ПУМБ                                    UAH                                </div>
+                                                                <div class="col-6 currency-item disabled" data-id="CARDUAH" data-name="Visa/MC" data-code="UAH" data-lim="1" onclick="setGive(this)">
+                                    <img src="/img/currencies/oacgjYXlDEbOTBfkR0qy.png" alt="">                                    Visa/MC                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="WUUSD" data-name="WU" data-code="USD" data-lim="700" onclick="setGive(this)">
+                                    <img src="/img/currencies/SUYFnXGNRvWtnrlgiDMw.png" alt="">                                    WU                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="MGUSD" data-name="MG" data-code="USD" data-lim="700" onclick="setGive(this)">
+                                    <img src="/img/currencies/SgpR40s5L-CzbUcMKBxh.png" alt="">                                    MG                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="GCMTUSD" data-name="Золотая Корона " data-code="USD" data-lim="700" onclick="setGive(this)">
+                                    <img src="/img/currencies/EYCTK9a7jie6Z3FfCqF8.png" alt="">                                    Золотая Корона                                     USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="GCMTRUB" data-name="Золотая Корона " data-code="RUB" data-lim="50000" onclick="setGive(this)">
+                                    <img src="/img/currencies/LGbe-kK-W82WRXpUCs79.png" alt="">                                    Золотая Корона                                     RUB                                </div>
+                                                                <div class="col-12 currency-item d-none text-center">
+                                   Извините, нет подходящей пары.                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4 result order-3 order-md-2">
+                    <!--<form action="/exchange/new-bid/" method="post" id="result" class="flying-block ">-->
+                    <form action="/" method="post" id="result" class="flying-block ">
+                        <input type="hidden" name="_csrf-frontend" value="iEv6ppucmhBhqyhT-yFRgNg4BcBQ6CtRxJspYTmvnqzrConL4amrPSbmGiaXWxblu3dEnyWMdGigokM7V-6o3Q==">
+                        <input type="hidden" name="Bid[rate]" id="rate">
+                        <input type="hidden" name="Bid[area]" id="area">
+                            <div class="waiter_container">
+                                <img src="/img/waiter.png" class="waiter" alt="waiter">
+                            </div>
+                            <div class="flying-header">
+                                Калькулятор обмена                            </div>
+                            <div class="flying-content">
+                                <div class="calculator-container">
+                                    <div class="row">
+                                        <div class="col col-12  bold">
+                                            Вы отдаете:
+                                        </div>
+                                        <div class="col col-12">
+
+                                            <div class="input-wrapper noclick-select">
+                                                <div class="curr-icon-block"></div>
+                                                <select id="giver" name="Bid[give]" onchange="mainpageSelectOnchange(this)">
+<option value="">Выберите валюту</option>
+<option value="BTC">Bitcoin BTC</option>
+<option value="LTC">Litecoin LTC</option>
+<option value="ETH">Ethereum ETH</option>
+<option value="ETC">Ether Classic ETC</option>
+<option value="DASH">Dash DSH</option>
+<option value="XMR">Monero XMR</option>
+<option value="XRP">Ripple XRP</option>
+<option value="ZEC">Zcash ZEC</option>
+<option value="QWRUB">QIWI RUB</option>
+<option value="YAMRUB">ЯД RUB</option>
+<option value="USDT">Tether USD</option>
+<option value="EXMUSD">EXMO USD</option>
+<option value="TUSD">TrueUSD USD</option>
+<option value="USDC">USD Coin USD</option>
+<option value="ADVCUSD">ADV Cash USD</option>
+<option value="PMUSD">PM USD</option>
+<option value="PRUSD">Payeer USD</option>
+<option value="CASHUSD">Наличные USD</option>
+<option value="CASHRUB">Наличные RUB</option>
+<option value="CASHUAH">Наличные UAH</option>
+<option value="ACRUB">Альфа RUB</option>
+<option value="ACCRUB">Cash-in RUB</option>
+<option value="ACCUSD">Cash-in USD</option>
+<option value="SBERRUB">Сбербанк RUB</option>
+<option value="TCSBRUB">Тинькофф RUB</option>
+<option value="RUSSTRUB">РС RUB</option>
+<option value="TBRUB">ВТБ24 RUB</option>
+<option value="PSBRUB">ПСБ Банк RUB</option>
+<option value="AVBRUB">Авангард RUB</option>
+<option value="CARDRUB">Visa/MC RUB</option>
+<option value="P24UAH">Приват24 UAH</option>
+<option value="OSHBUAH">ОщадБанк UAH</option>
+<option value="PMBBUAH">ПУМБ UAH</option>
+<option value="CARDUAH">Visa/MC UAH</option>
+<option value="WUUSD">WU USD</option>
+<option value="MGUSD">MG USD</option>
+<option value="GCMTUSD">Золотая Корона  USD</option>
+<option value="GCMTRUB">Золотая Корона  RUB</option>
+</select>                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col">
+                                            <input type="number" id="give-value" name="Bid[give]"  placeholder="Введите сумму. Пример: 0,001" oninput="amountOnchange(this)" step="any" data-trigger="manual" data-toggle="tooltip" data-placement="bottom" title="Введенная сумма ниже лимита!">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="calculator-container">
+                                    <div class="row">
+                                        <div class="col col-12 bold">
+                                            Вы получаете:
+                                        </div>
+                                        <div class="col col-12">
+                                            <div class="input-wrapper noclick-select">
+                                                <div class="curr-icon-block"></div>
+                                                <select id="reciever" name="Bid[recieve]" onchange="mainpageSelectOnchange(this)">
+<option value="">Выберите валюту</option>
+<option value="BTC">Bitcoin BTC</option>
+<option value="LTC">Litecoin LTC</option>
+<option value="ETH">Ethereum ETH</option>
+<option value="ETC">Ether Classic ETC</option>
+<option value="DASH">Dash DSH</option>
+<option value="XMR">Monero XMR</option>
+<option value="XRP">Ripple XRP</option>
+<option value="ZEC">Zcash ZEC</option>
+<option value="QWRUB">QIWI RUB</option>
+<option value="YAMRUB">ЯД RUB</option>
+<option value="USDT">Tether USD</option>
+<option value="EXMUSD">EXMO USD</option>
+<option value="TUSD">TrueUSD USD</option>
+<option value="USDC">USD Coin USD</option>
+<option value="ADVCUSD">ADV Cash USD</option>
+<option value="PMUSD">PM USD</option>
+<option value="PRUSD">Payeer USD</option>
+<option value="CASHUSD">Наличные USD</option>
+<option value="CASHRUB">Наличные RUB</option>
+<option value="CASHUAH">Наличные UAH</option>
+<option value="ACRUB">Альфа RUB</option>
+<option value="ACCRUB">Cash-in RUB</option>
+<option value="ACCUSD">Cash-in USD</option>
+<option value="SBERRUB">Сбербанк RUB</option>
+<option value="TCSBRUB">Тинькофф RUB</option>
+<option value="RUSSTRUB">РС RUB</option>
+<option value="TBRUB">ВТБ24 RUB</option>
+<option value="PSBRUB">ПСБ Банк RUB</option>
+<option value="AVBRUB">Авангард RUB</option>
+<option value="CARDRUB">Visa/MC RUB</option>
+<option value="P24UAH">Приват24 UAH</option>
+<option value="OSHBUAH">ОщадБанк UAH</option>
+<option value="PMBBUAH">ПУМБ UAH</option>
+<option value="CARDUAH">Visa/MC UAH</option>
+<option value="WUUSD">WU USD</option>
+<option value="MGUSD">MG USD</option>
+<option value="GCMTUSD">Золотая Корона  USD</option>
+<option value="GCMTRUB">Золотая Корона  RUB</option>
+</select>                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col">
+                                            <input type="number" id="recieve-value" placeholder="Введите сумму. Пример: 0,001" name="Bid[recieve]" step="any" oninput="amountOnchange(this)">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <button class="bordered white bg_blue" data-toggle="tooltip" data-trigger="manual" data-placement="bottom" title="This pair is not available now.">
+                                            <span class="icon-arrow-exchange"></span> Обмен                                        </button>
+                                        </div>
+                                        <div class="col-12 py-3">
+                                            <button type="button" class="w-100 button bordered " onclick="location.reload()">
+                                                 Сброс
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="calculator-container">
+                                    <div class="row summary">
+                                        <div class="col-12 ">
+                                            Резерв: <span class="bold" style="color: #fff;" id="reserve">-</span>
+                                        </div>
+                                        <div class="col-12 ">
+                                            Мин. сумма: <span class="bold" style="color: #fff;" id="limit">-</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                    </form>
+                </div>
+                <div class="col-12 col-md-4 recive-column order-2 order-md-3">
+                    <div id="recieve" class="flying-block">
+                        <div class="flying-header">
+                            <span class="icon-arrow-diagonal-up"></span> Получу                        </div>
+                        <div class="flying-content">
+                            <div class="row currencies m-0">
+                                                                <div class="col-6 currency-item has" data-id="BTC" data-name="Bitcoin" data-code="BTC" data-lim="0.013" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/-oSh51ScaGQ9wsDU7FLq.png" alt="">                                    Bitcoin                                    BTC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="LTC" data-name="Litecoin" data-code="LTC" data-lim="1.5" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/hSsHwuu-BtQzLognDBgu.png" alt="">                                    Litecoin                                    LTC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ETH" data-name="Ethereum" data-code="ETH" data-lim="0.33" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/OzGWVlGqYqH2EIGo-1bt.png" alt="">                                    Ethereum                                    ETH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ETC" data-name="Ether Classic" data-code="ETC" data-lim="10" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/T1pG2hMOlTJY0CaDlCaJ.png" alt="">                                    Ether Classic                                    ETC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="DASH" data-name="Dash" data-code="DSH" data-lim="0.7" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/JYhmxQEIW9CYxG0PnTTi.png" alt="">                                    Dash                                    DSH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="XMR" data-name="Monero" data-code="XMR" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/VEYGync1Y9rLhdMK4vSW.png" alt="">                                    Monero                                    XMR                                </div>
+                                                                <div class="col-6 currency-item has" data-id="XRP" data-name="Ripple" data-code="XRP" data-lim="150" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/LQhjCpadeNPesVHUJl6e.png" alt="">                                    Ripple                                    XRP                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ZEC" data-name="Zcash" data-code="ZEC" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/T48ttfo9gaUYxmg6AwJc.png" alt="">                                    Zcash                                    ZEC                                </div>
+                                                                <div class="col-6 currency-item has" data-id="QWRUB" data-name="QIWI" data-code="RUB" data-lim="2999" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/X_AEBFVVOM5SdGT3_pA3.png" alt="">                                    QIWI                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="YAMRUB" data-name="ЯД" data-code="RUB" data-lim="5000" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/FQsI5JgnA9d83F4QnmV4.png" alt="">                                    ЯД                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="USDT" data-name="Tether" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/6OQi4xbdBGdAGqWxeMRG.png" alt="">                                    Tether                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="EXMUSD" data-name="EXMO" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/SR3mCHbXV9X3Jk9AjED0.png" alt="">                                    EXMO                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="TUSD" data-name="TrueUSD" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/_kwWcGk3a1rTOwE6dycA.png" alt="">                                    TrueUSD                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="USDC" data-name="USD Coin" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/xj65FCPnaxctDSdrAf_Z.png" alt="">                                    USD Coin                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ADVCUSD" data-name="ADV Cash" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/JombbniRSlqtHzoJQ3CD.png" alt="">                                    ADV Cash                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="PMUSD" data-name="PM" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/h1Tn3xsh0wz0RDru31HZ.png" alt="">                                    PM                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="PRUSD" data-name="Payeer" data-code="USD" data-lim="50" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/_JPr9PXv3xLLMwQS4UPd.png" alt="">                                    Payeer                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CASHUSD" data-name="Наличные" data-code="USD" data-lim="1000" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/wVYAowRKqT9xbLHwGjqL.png" alt="">                                    Наличные                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CASHRUB" data-name="Наличные" data-code="RUB" data-lim="50000" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/iGWQK_NPWgfM9eNN4GUo.png" alt="">                                    Наличные                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CASHUAH" data-name="Наличные" data-code="UAH" data-lim="20000" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/GKnAc8H6DWwH0TicFEMV.png" alt="">                                    Наличные                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ACRUB" data-name="Альфа" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/-yapFXjti9yan4XO99SF.png" alt="">                                    Альфа                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ACCRUB" data-name="Cash-in" data-code="RUB" data-lim="65000" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/JzjygZZ_kbrA5fKuEm0k.png" alt="">                                    Cash-in                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="ACCUSD" data-name="Cash-in" data-code="USD" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/abC0axGGJTdxx8hb-RE8.png" alt="">                                    Cash-in                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="SBERRUB" data-name="Сбербанк" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/8jaEDIKsMlTOYvFl_23a.png" alt="">                                    Сбербанк                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="TCSBRUB" data-name="Тинькофф" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/wte528JO-eY-6riwY4Vv.png" alt="">                                    Тинькофф                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="RUSSTRUB" data-name="РС" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/VmFAn1D1Sy5P6zm8VhP_.png" alt="">                                    РС                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="TBRUB" data-name="ВТБ24" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/WnTzpvoKHcPZ0I7Ygesk.png" alt="">                                    ВТБ24                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="PSBRUB" data-name="ПСБ Банк" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/wBmE9mE9FQt2FW-oJpdy.png" alt="">                                    ПСБ Банк                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="AVBRUB" data-name="Авангард" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/BjqlXmGu5mLm_4hcGggb.png" alt="">                                    Авангард                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CARDRUB" data-name="Visa/MC" data-code="RUB" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/lERzFK4HsUyrTofgzMP3.png" alt="">                                    Visa/MC                                    RUB                                </div>
+                                                                <div class="col-6 currency-item has" data-id="P24UAH" data-name="Приват24" data-code="UAH" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/f_TfUnvMdrV3y3banhbR.png" alt="">                                    Приват24                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="OSHBUAH" data-name="ОщадБанк" data-code="UAH" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/xJ8ga-PoB2u03sS0hS2-.png" alt="">                                    ОщадБанк                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="PMBBUAH" data-name="ПУМБ" data-code="UAH" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/4vNQaMK4q9XUDdypCuGi.png" alt="">                                    ПУМБ                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="CARDUAH" data-name="Visa/MC" data-code="UAH" data-lim="1" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/oacgjYXlDEbOTBfkR0qy.png" alt="">                                    Visa/MC                                    UAH                                </div>
+                                                                <div class="col-6 currency-item has" data-id="WUUSD" data-name="WU" data-code="USD" data-lim="700" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/SUYFnXGNRvWtnrlgiDMw.png" alt="">                                    WU                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="MGUSD" data-name="MG" data-code="USD" data-lim="700" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/SgpR40s5L-CzbUcMKBxh.png" alt="">                                    MG                                    USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="GCMTUSD" data-name="Золотая Корона " data-code="USD" data-lim="700" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/EYCTK9a7jie6Z3FfCqF8.png" alt="">                                    Золотая Корона                                     USD                                </div>
+                                                                <div class="col-6 currency-item has" data-id="GCMTRUB" data-name="Золотая Корона " data-code="RUB" data-lim="50000" onclick="setRecieve(this)">
+                                    <img src="/img/currencies/LGbe-kK-W82WRXpUCs79.png" alt="">                                    Золотая Корона                                     RUB                                </div>
+                                                                <div class="col-12 currency-item d-none text-center">
+                                     Извините, нет подходящей пары.                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="whyWe gray-bg">
+        <div class="container">
+            <div class="heading-title-container text-center">
+                <div class="h3 main-title">Почему мы?</div>
+            </div>
+            <div class="row align-items-start justify-content-center">
+                <div class="col-12 col-sm-6 col-md-4 we-item">
+                    <div class="we-icon">
+                        <span class="icon-security"></span>
+                    </div>
+                    <div class="we-title">
+Защита</div>
+                    <div class="we-decription">
+                        
+<p><span lang="ru-ru" xml:lang="ru-ru">Сервис обмена, купли и продажи электронной валюты PayBTC.pro гарантирует максимально безопасное проведение транзакции с </span><span lang="en-us" xml:lang="en-us">Bitcoin</span><span lang="ru-ru" xml:lang="ru-ru">, </span><span lang="en-us" xml:lang="en-us">Ethereum</span><span lang="ru-ru" xml:lang="ru-ru">, </span><span lang="en-us" xml:lang="en-us">Litecoin</span><span lang="ru-ru" xml:lang="ru-ru"> и многими другими доступными электронными валютами/криптовалютами. Мы можем гарантировать 100% уровень безопасности и защиты конфиденциальности всех ваших данных.</span></p>                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 we-item">
+                    <div class="we-icon">
+                        <span class="icon-fast"></span>
+                    </div>
+                    <div class="we-title">
+Быстрый обмен</div>
+                    <div class="we-decription">
+                        
+<p><span lang="ru-ru" xml:lang="ru-ru">Сервис PayBTC.pro поможет Вам быстро и удобно провести необходимые транзакции с любой из криптовалют, представленных на нашем сервисе, исключая исключая лишние шаги и выполнение ненужных действий, для того, чтобы сэкономить такой ценный ресурс, как Ваше время.</span></p>                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 we-item">
+                    <div class="we-icon">
+                        <span class=" icon-safety"></span>
+                    </div>
+                    <div class="we-title">
+Надёжность</div>
+                    <div class="we-decription">
+                        
+<p><span lang="ru-ru" xml:lang="ru-ru">Сервис обмена электронных валют PayBTC.pro гарантирует высокий уровень безопасности при проведении каждой транзакции, которую вы осуществляете посредством нашего сервиса. Вы можете быть спокойны, ведь изо дня в день, мы работаем над повышением качества обслуживания наших клиентов.</span></p>                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 we-item">
+                    <div class="we-icon">
+                        <span class="icon-support"></span>
+                    </div>
+                    <div class="we-title">
+Техническая поддержка</div>
+                    <div class="we-decription">
+                        
+<p><span lang="ru-ru" xml:lang="ru-ru">Специалисты и менеджеры команды сервиса PayBTC.pro всегда готовы в кратчайшие сроки помочь Вам в любой ситуации, которая вызвала у Вас затруднения при проведении транзакции, для того, чтобы избежать и предотвратить все возможные ошибки и ответить на все Ваши вопросы.</span></p>                    </div>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4 we-item">
+                    <div class="we-icon">
+                        <span class="icon-easy"></span>
+                    </div>
+                    <div class="we-title">
+Удобство</div>
+                    <div class="we-decription">
+                        
+<p><span lang="ru-ru" xml:lang="ru-ru">Простой и удобный интерфейс поможет Вам провести все необходимые транзакции в кратчайшее время, даже если вы проводите свой первый в жизни обмен. </span></p>                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="partners white-bg">
+        <div class="container">
+            <div class="heading-title-container text-center pb-5">
+                <div class="h3 main-title">Партнеры</div>
+            </div>
+            <div id="partners" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators ">
+                                                                        <li data-target="#partners" data-slide-to="0" class="active"></li>                                                                                                                                                                                                                                                                    <li data-target="#partners" data-slide-to="1" class=""></li>                                                                                                                </ol>
+                <div class="carousel-inner ">
+                                                                        <div class="carousel-item active"><div class="flexible-slide-inner">
+                                                        <div class="partners-item-slide">
+					<a href="https://bitjournal.media/31-07-2018/vyvesti-bitkoin-na-kartu-alfa-bank-tinkoff-sberbank-vtb24-russkij-standart-promsvyazbank/" target="_blank">
+				    <p>BitJournal</p>
+				    <img class="partners-img" src="/img/partner/otFoyDM8v6PMjKt6DdfV.jpg" alt="First slide">
+				    </a>
+                                </div>
+                                                                                                        <div class="partners-item-slide">
+					<a href="https://bitexpert.io/pr/kupit-bitcoin-litecoin-ethereum-bitcoin-cash-dash-monero-ripple-zcash-za-nalichnye-v-rossii-moskva-piter-aeroporty-drugih-gorodov/" target="_blank">
+				    <p>BitExpert</p>
+				    <img class="partners-img" src="/img/partner/UDDxyArioDva7nXeEoNO.jpg" alt="First slide">
+				    </a>
+                                </div>
+                                                                                                        <div class="partners-item-slide">
+					<a href="https://prostocoin.com/x/paybtc" target="_blank">
+				    <p>ProstoCoin</p>
+				    <img class="partners-img" src="/img/partner/rbZxrPEIasL6jCVL5Zng.png" alt="First slide">
+				    </a>
+                                </div>
+                                                                                                        <div class="partners-item-slide">
+					<a href="https://cryptonovosti.com/obmen-kivi-na-bitkoin" target="_blank">
+				    <p>CryptoNovosti</p>
+				    <img class="partners-img" src="/img/partner/gAoG5s2RSbu7naYxfJna.png" alt="First slide">
+				    </a>
+                                </div>
+                                                                                                        <div class="partners-item-slide">
+					<a href="https://coinspot.io/company/prodat-bitcoin-litecoin-ethereum-bitcoin-cash-dash-monero-ripple-zcash-za-nalichnye-v-rossii-moskva-piter-aeroporty-drugih-gorodov/" target="_blank">
+				    <p>CoinSpot</p>
+				    <img class="partners-img" src="/img/partner/4r8v9XfmXaNXhqsOgqWU.jpeg" alt="First slide">
+				    </a>
+                                </div>
+                                                            </div></div>
+                                                                    <div class="carousel-item"><div class="flexible-slide-inner">                                                                                                                                        <div class="partners-item-slide">
+					<a href="https://ktonanovenkogo.ru/zarabotok_na_saite/dengi/kriptovalyutnyj-obmennik-paybtc-pro.html" target="_blank">
+				    <p>KtoNaNovenkogo</p>
+				    <img class="partners-img" src="/img/partner/eoS9OdjmuVaNlkYKAGBx.jpg" alt="First slide">
+				    </a>
+                                </div>
+                                                                                                        <div class="partners-item-slide">
+					<a href="http://great-world.ru/paybtc-reviews/" target="_blank">
+				    <p>Great-World</p>
+				    <img class="partners-img" src="/img/partner/siTsfAJLykCeo83uPxgW.jpg" alt="First slide">
+				    </a>
+                                </div>
+                                                            </div></div>
+                                                                                                </div>
+            </div>
+        </div>
+    </section>
+            <section class="social-networks white-bg">
+        <div class="container">
+            <div class="heading-title-container text-center">
+                <div class="h4 sub-title">НАШИ СОЦИАЛЬНЫЕ СЕТИ</div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col col-auto sn-flexed-block">
+                    <a href="https://www.facebook.com/paybtc.pro" class="social-network-btn">
+                        <span class="icon-facebook"></span> facebook
+                    </a>
+                    <a href="https://vk.com/online_paybtc" class="social-network-btn ">
+                        <span class="icon-vk"></span> vkontakte
+                    </a>
+                    <a href="https://twitter.com/PayBTCpro" class="social-network-btn ">
+                        <span class="icon-twitter"></span> twitter
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="reviews blue-bg">
+        <div class="container">
+            <div class="heading-title-container text-center">
+                <div class="h3 main-title _white">Отзывы</div>
+            </div>
+            <div id="reviews_carousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators ">
+                                                                        <li data-target="#reviews_carousel" data-slide-to="0" class="active"></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="1" ></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="2" ></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="3" ></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="4" ></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="5" ></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="6" ></li>
+                                                    <li data-target="#reviews_carousel" data-slide-to="7" ></li>
+                                                            </ol>
+                <div class="carousel-inner ">
+                                            <div class="carousel-item active">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    Обмен происходит быстро, курс действительно самый высокий из общедоступных и простых, хотелось бы меньше порог обмена для частых мелких обменов, вот единственное пожелание                                </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    Взял XRP на 2400 $ всё чётко!                                 </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    обмен киви на ПМ быстро провели, спасибо!                                </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    Ровный обменник, всё сделали честно!                                </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    Провели сделку с битка на наличные в Москве, всё отлично!                                </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    Обменял киви на биток, всё прошло отлично, спасибо сервису за отличную работу                                </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    вывел немного денег на карту, всё ок                                </div>
+                            </div>
+                        </div>
+                                            <div class="carousel-item ">
+                            <div class="flexible-slide-inner ">
+                                <div class="description text-center">
+                                    обменяли мне рипл на наличные, в офисе, я остался очень доволен                                </div>
+                            </div>
+                        </div>
+                                    </div>
+                <a class="carousel-control-prev" href="#reviews_carousel" role="button" data-slide="prev">
+                    <span class="icon-arrow-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#reviews_carousel" role="button" data-slide="next">
+                    <span class="icon-arrow-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </section>
+    <section class="seo_block">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-8">
+                    <div class="heading-title-container text-center mb-5">
+                        <h1 class="h3 main-title no-underline">
+Обменник валют PayBTC.pro - Только выгодные курсы обмена валют на сегодня</h1>
+                    </div>
+                    <div class="decription">
+                        
+<p><font face="Roboto"><span style="font-weight:400;">Сложно представить современный мир без интернета. </span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Интернет – это одно из величайших достижений человечества. Благодаря всемирной сети, можно найти ответы практически на любые вопросы, обучаться, совершать покупки и многое другое.</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Для покупок и торгов в интернете человечество изобрело <b>электронные деньги, криптовалюты,</b> а также целый ряд сервисов, позволяющих осуществлять платежи в режиме онлайн</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Для удобства перевода или обмена одной валюты на другую появились сервисы, позволяющие конвертировать валюту А в валюту Б, которые в народе принято называть </span><strong>обменники валют</strong><span style="font-weight:400;">.</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Если Вы ищите </span><strong>обменник криптовалют</strong><span style="font-weight:400;"> или же просто </span><strong>выгодный обмен валюты</strong><span style="font-weight:400;">, то вы обратились точно по адресу. </span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Вы посетили </span><strong>обменник валют PayBTC.pro</strong><span style="font-weight:400;">, где наши специалисты помогут вам совершить сделку по обмену выбранной вами валюты в кратчайшие сроки.</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Наш обменный пункт предоставляет своим клиентам </span><strong>выгодные курсы обмена валют на сегодня</strong><span style="font-weight:400;">, гарантирует выполнение каждого перевода, обмена, конвертации, обналичивания криптовалюты и электронных денег в кратчайшие сроки. Клиент получает стабильную, высококвалифицированную поддержку в рабочее время операторов. Каждый клиент, совершающий операцию по обмену валют, полностью сохраняет свою анонимность, а наш механизм защиты практически сводит к нулю риски утери персональных данных.</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Наш сервис предоставляет </span><b>выгодный курс обмена электронных денег и криптовалют</b><span style="font-weight:400;">, совершенствуясь изо дня в день. Вы и Ваше удобство – это наш главный приоритет!</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">На сегодняшний день </span><strong>обменный пункт</strong> <strong>PayBTC.pro </strong><span style="font-weight:400;">предоставляет возможность обмена в более чем 500 направлений. Мы работаем с такими платежными системами как: </span><strong>QIWI, Perfect Money, Advanced Cash, Яндекс.Деньги</strong><span style="font-weight:400;"> и многие другие. </span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Также мы работаем практически со всеми популярными банками на территории России – это </span><strong>Тинькофф, Альфа Банк, Сбербанк, Промсвязьбанк, Русский Стандарт, ВТБ24 и другие,</strong><span style="font-weight:400;"> а также Украины, среди которых: </span><strong>Приват24, ПУМБ</strong><span style="font-weight:400;"> и </span><strong>Ощадбанк</strong><span style="font-weight:400;">.</span></font></p>
+<p><font face="Roboto"><strong>PayBTC.pro</strong><span style="font-weight:400;"> зарекомендовал себя как быстрый и </span><strong>надёжный обменник криптовалют</strong><span style="font-weight:400;">. Наших валютных резервов всегда достаточно для проведения обмена на любую, даже самую крупную сумму. Обмен будет произведен в кратчайшие сроки</span></font><span style="font-weight:400;"> и с оплатой минимальной комиссии. Мы всегда честны со своими клиентами, а наши условия работы на 100% прозрачны.</span><font face="Roboto"><span style="font-weight:400;"><br /></span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Наш сервис предоставляет услуги по обмену наличных денег: долларов USD, рублей RUB, гривен UAH. После того как Вы оставите заявку, заполнив форму на сайте – наш оператор свяжется с Вами, чтобы назначить передачу в любое удобное для Вас время.</span></font></p>
+<p><strong><font face="Roboto">Обмен наличных денег на криптовалюты и обратно доступен на территории:</font></strong></p>
+<p><font face="Roboto"><span style="font-weight:400;">- Украины (Киев, Харьков, Днепр, Одесса, Львов и другие города - наш курьер доставит/заберёт наличные в/из аэропорта вашего города)</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">- Россия (Москва, Питер и другие города - наш курьер доставит/заберёт наличные в/из аэропорта вашего города)</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Используя услуги обменного пункта </span><strong>PayBTC.pro</strong><span style="font-weight:400;">, Вы можете принять участие в нашей партнерской программе и зарабатывать вместе с нами. Пройдите регистрацию на сайте, получите свою реферальную ссылку, размещайте ее на форумах, социальных сетях привлекая тем самым себе рефералов и зарабатывайте процент от суммы каждой транзакции. Более подробнее о партнёрской программе вы можете узнать по данной ссылке.</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">В разделе FAQ, Вы отыщите ответы на самые распатроненные вопросы касательно темы обмена валют. Если, посетив данный раздел Вы не нашли ответа на свой вопрос, обязательно обратитесь к нашим менеджерам.</span></font></p>
+<p><font face="Roboto"><span style="font-weight:400;">Желаем вам хорошего дня и выгодных обменов!</span></font></p>                    </div>
+                </div>
+            </div>
+        </div>
+    </section> 
+    <section class="blog_block">
+        <div class="container">
+            <div class="heading-title-container text-center">
+                <div class="h3 main-title">Блог</div>
+            </div>
+            <div class="row justify-content-center">
+                                <div class="col-12 col-md-4 blog-item">
+                    <div class="img_block">
+                        <a href="/news/41/"><img src="/img/blog/resize_VReMSCOjioqCvVPum_i5.jpg" alt="" class="auto_resized-img"></a>
+                    </div>
+                    <h2 class="h6 blog-title">
+                        <a href="/news/41/">Как вывести деньги с Payeer на карту?</a>
+                    </h2>
+                    <div class="blog_information">
+                        <span class="date">14.03.2019</span>
+                        <span class="other_inform">
+                            <span class="seen icon-eye">31</span>
+                        </span>
+                    </div>
+                    <div class="description">
+                        Преимущества платежной системы
+Прежде чем перейти к вопросу &ldquo;как вывести деньги с payeer?&rdquo; нужно более подробно разобраться в возможностях ЭПС. Основной особенностью Пайер можно назвать анонимность. Это значит, что пользователи системы могут проводить переводы, получать...                    </div>
+                </div>
+                                <div class="col-12 col-md-4 blog-item">
+                    <div class="img_block">
+                        <a href="/news/40/"><img src="/img/blog/resize_s2RzLp7Y2G5WsS5kPdsx.png" alt="" class="auto_resized-img"></a>
+                    </div>
+                    <h2 class="h6 blog-title">
+                        <a href="/news/40/">Как пополнить Payeer?</a>
+                    </h2>
+                    <div class="blog_information">
+                        <span class="date">12.03.2019</span>
+                        <span class="other_inform">
+                            <span class="seen icon-eye">29</span>
+                        </span>
+                    </div>
+                    <div class="description">
+                        Что такое Payeer?
+Работа данной платежной системы почти ничем не отличается от работы похожих сервисов. С помощью Пайер можно проводить разноплановые валютные операции, такие как перевод, вывод, обмен средств, пополнение счета. Своим клиентам Payeer гарантирует...                    </div>
+                </div>
+                                <div class="col-12 col-md-4 blog-item">
+                    <div class="img_block">
+                        <a href="/news/39/"><img src="/img/blog/resize_6YRNRInEJqScz89uws-9.jpg" alt="" class="auto_resized-img"></a>
+                    </div>
+                    <h2 class="h6 blog-title">
+                        <a href="/news/39/">Как купить Ripple?</a>
+                    </h2>
+                    <div class="blog_information">
+                        <span class="date">11.03.2019</span>
+                        <span class="other_inform">
+                            <span class="seen icon-eye">28</span>
+                        </span>
+                    </div>
+                    <div class="description">
+                        Где можно купить ripple?
+Специалисты пророчат большие перспективы этой криптовалюте, вопросы &ldquo;сколько ripple находится в обороте?&rdquo; и &ldquo;где купить ripple?&rdquo; актуальны как никогда. Достать данную криптовалютную единицу вы можете несколькими способами:
+
+приобретение с помощью банковской...                    </div>
+                </div>
+                            </div>
+            <div class="text-center pt-5">
+                <a href="/news/" class="social-network-btn ">
+                    Посмотреть все                </a>
+            </div>
+        </div>
+    </section>
+ 
+     <section class="footer py-5">
+        <div class="container-fluid footer-container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col col-12 col-md-3 pb-4 pb-md-0">
+                    <a href="#" class="logo-link md-text-center">
+                            <img src="/img/logo.png" alt="">
+                    </a>
+                </div>
+                <div class="col col-12 col-md-9 px-4">
+                    <div class="row justify-content-between">
+                        <div class="col col-12 ">
+                            <div class="footer-menu">
+                                <ul class="main-menu"><li class="menu-link"><a href="/about/">О нас</a></li>
+<li class="menu-link"><a href="/page/terms/">Правила</a></li>
+<li class="menu-link"><a href="/feedback/">Отзывы</a></li>
+<li class="menu-link"><a href="/faq/">FAQ</a></li>
+<li class="menu-link"><a href="/news/">Блог</a></li>
+<li class="menu-link"><a href="/contact/">Контакты</a></li>
+<li class="menu-link"><a href="/referal-program/">Реферальная программа</a></li></ul>                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="row justify-content-between mt-4">
+                        <div class="col-8 col-auto header-contacts justify-content-start">
+                            
+<span class="contact-item"><i class="icon-telegram"></i>@btc377</span><span class="contact-item"><i class="icon-jabber"></i><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9eada9a9ada9a9defbe6eef2f1f7eab0f7f3">[email&#160;protected]</a></span><span class="contact-item"><i class="icon-email-variant"></i><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e58481888c8ba595849c879186cb95978a">[email&#160;protected]</a></span>                        </div>
+                        <div class="col-4 col-auto header-contacts justify-content-start">
+                            <i class="icon-clock icon-fast"></i>
+                            
+<p>Пн. - Сб. с 10:00 до 20:00 (МСК)</p>                        </div>
+                    </div>
+                    <footer class="row mt-4 mx-0 copywrite w-100 text-left justify-content-between">
+                          <div class="col col-12 pl-0">
+			                  <div class="row justify-content-between">
+			                      <div class="col col-12 col-md-8 ">
+                                      <span class="copywrite"> &copy; 2019 payBTC.pro – надёжный обмен электронных и наличных валют</span>
+                                  </div>
+                                  <div class="col col-12 col-md-4 pt-md-0 pt-lg-0 text-center">
+                                        <a href="https://www.facebook.com/paybtc.pro" class="social-link">
+                                            <span class="icon-facebook"></span>
+                                        </a>
+                                        <a href="https://twitter.com/PayBTCpro" class="social-link">
+                                            <span class="icon-twitter"></span>
+                                        </a>
+                                        <a href="https://vk.com/online_paybtc" class="social-link">
+                                            <span class="icon-vk"></span>
+                                        </a>
+                                    </div>
+			                  </div>
+                          </div>
+                         <div class="col col-auto pl-0 pt-3 informer_links">   
+                            <!-- Yandex.Metrika informer --> 
+                               <a href="https://metrika.yandex.ru/stat/?id=49154956&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/49154956/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: дані за сьогодні (перегляди, візити та унікальні відвідувачі)" class="ym-advanced-informer" data-cid="49154956" data-lang="ua" /></a> 
+                               <!-- /Yandex.Metrika informer -->
+                               <noindex>
+                                   <a href="https://perfectmoney.is" title="Perfect Money - новое поколение платежных систем Интернета" target="_blank" rel="nofollow" >
+                                <img hspace="5" src="https://perfectmoney.is/img/banners/ru_RU/88-31-8.jpg" width="88" height="31"></a>
+                               </noindex>
+<!-- BestChange.ru --> 
+<a href="https://www.bestchange.ru/"><img 
+src="https://www.bestchange.ru/bestchange.gif" 
+title="Обмен Bitcoin, Perfect Money, Ethereum" 
+alt="Мониторинг обменных пунктов BestChange.ru" 
+width="88" height="31" border="0" /></a> 
+<!-- BestChange.ru -->
+                               <noindex>
+                                   <a href="https://pro-obmen.ru" target="_blank" rel="nofollow" ><img src="https://pro-obmen.ru/img/bn/88x31_1.gif" alt="Мониторинг обменников Pro-Obmen.ru" title="Мониторинг обменников Pro-Obmen.ru"></a>
+                               </noindex>
+                               <noindex>
+                                   <a href="https://cryptobrokers.ru/?id=12" target="_blank" rel="nofollow" ><img src="https://cryptobrokers.ru/wp-content/plugins/exchangers-monitor/images/banners/88x31.png" alt="Лучший курс валюты" title="Мониторинг обменников" border="0" /></a>
+                               </noindex>
+                               <noindex>
+                                    <a href="http://e-mon.ru/" target="_blank"  rel="nofollow" ><img src="https://paybtc.pro/b88x31.png" alt="Выгодный курс обмена валют" title="Выгодный курс обмена валют" border="0"></a>
+                               </noindex>
+                               <noindex>
+                                   <a href="http://eobmen-obmen.ru"  target="_blank" rel="nofollow" title="Мониторинг обменников eobmen-obmen.ru"><img src="https://paybtc.pro/inform5.gif" alt="eobmen-obmen.ru"></a>
+                               </noindex>
+                               <noindex>
+                                   <a target="_blank" href="https://24kurs.com/?id=1" target="_blank" rel="nofollow" ><img src="https://24kurs.com/wp-content/plugins/exchangers-monitor/images/88x31_4.gif" alt="Лучшийкурсвалюты" title="Мониторингобменников" width="88" height="31" border="0" /></a>
+                               </noindex>
+                               <noindex>
+                                   <a href="http://wmgood.ru/"  target="_blank" rel="nofollow" ><img src="https://paybtc.pro/wmg88x31_1.png" alt="Выгодный обмен электронных валют" title="Выгодный обмен электронных валют"></a>
+                               </noindex>
+                               <noindex>
+                                   <a href="https://askoin.com/index.php" target="_blank"  rel="nofollow"  title="Askoin.com - Мониторинг обменников криптовалют, выбор лучшего курса!"><img src="https://askoin.com/askoin.jpg" alt="Askoin.com - Мониторинг обменников криптовалют, выбор лучшего курса!"></a>
+                               </noindex>
+                               <noindex>
+                                   <a href="https://bestcurs.org" target="_blank" rel="nofollow" ><img src="https://bestcurs.org/wp-content/plugins/exchangers-monitor/images/bestkurs_88x31k.png" alt="Обмен валют по лучшему курсу" title="Мониторинг обменников" width="88" height="31" border="0" /></a>
+                               </noindex>
+                               <noindex>
+                                   <a href="http://glazok.org/" target="_blank"  rel="nofollow" title="Мониторинг обменных пунктов GLAZOK"><img border=0 src="https://glazok.org/88x31.gif" width="88" height="31" ></a>
+                               </noindex>
+                                <noindex>
+                                    <a href="http://kurs.com.ua/webmoney" target="_blank" rel="nofollow"  title="Мониторинг обменников электронных валют"><img src="https://kurs.com.ua/static/images/banner/88x31.png" width="88" height="31" alt="kurs.com.ua" /></a>
+                     <a href="https://fincompas.ru" target="_blank" title="Fincompas.ru - мониторинг обменников"><img src="https://fincompas.ru/images/inf_fincompas3.png" alt="Fincompas.ru - мониторинг обменников"></a>           </noindex>
+                          </div>
+                       </footer>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body p-0">
+                </div>
+            </div>
+        </div>
+    </div>
+<!— BEGIN JIVOSITE CODE {literal} —>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+(function(){ var widget_id = 'SsJclWwVNK';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!— {/literal} END JIVOSITE CODE —>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter49154956 = new Ya.Metrika2({ id:49154956, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/49154956" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+<script src="/assets/af62a6e5/jquery.js"></script>
+<script src="/assets/ebd8d96f/yii.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/lib.js"></script></body>
+</html>

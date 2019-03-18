@@ -1,0 +1,2841 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<meta charset="UTF-8">
+	<title>Real-exchange.ru - Автоматический обмен валют</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='roboto-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C300italic%2C400italic%2C500%2C500italic&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://real-exchange.ru/wp-content/themes/realexchange/style.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/themes/realexchange/js/jquery-select.js?ver=1.4'></script>
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/themes/realexchange/js/jquery-checkbox.js?ver=1.4'></script>
+<script type='text/javascript' src='https://real-exchange.ru/wp-content/themes/realexchange/js/site.js?ver=1.4'></script>
+<script type='text/javascript' src='https://real-exchange.ru/premiumjs.js?lang=ru&#038;ver=1.7'></script>
+	<link rel="shortcut icon" href="https://real-exchange.ru/wp-content/uploads/cropped-upload.png" type="image/png" />
+	<link rel="icon" href="https://real-exchange.ru/wp-content/uploads/cropped-upload.png" type="image/png" />
+	<link rel='canonical' href='https://real-exchange.ru/' />
+<meta name="keywords" content="вывод киви, qiwi вывод, qiwi на сбербанк, qiwi на приватбанк, кошелек qiwi, деньги киви, обменять qiwi, оплатить с киви, вывести qiwi, wmr на карту, вывод с qiwi на карту, альфабанк на приватбанк, приватбанк на сбербанк, вывести деньги с qiwi ,qiwi на приват, пополнить qiwi, сбербанк на приватбанк, qiwi wallet, как вывести деньги с qiwi, qiwi на карту сбербанк, вывод webmoney,вывод wmr,вывод wmz,вывод webmoney на карту приватбанка, обменять вебмани, пополнить webmoney, киви Украина, visa qiwi wallet украина, wmr на сбербанк, киви украина, qiwi вывод, qiwi вывод денег, qiwi вывод на карту, qiwi кошелек вывод, qiwi вывести, как вывести деньги с qiwi, вывести киви, как вывести деньги с киви, киви кошелек вывести, вывести деньги с киви кошелька, вывод киви , киви кошелек вывод , вывод денег с киви, киви кошелек вывод денег, приватбанк киви, приватбанк qiwi, qiwi украина, qiwi кошелек украина, qiwi wallet в украине, qiwi visa virtual украина, visa qiwi wallet украина,  qiwi com украина, киви украина, киви кошелек украина, украина киви оплата" />
+<meta name="description" content="Real-exchange.ru предлагает быстро и выгодно произвести обмен, вывод Qiwi, Webmoney, Приват24, Сбербанк. Лучший курс и накопительная скидка нашим клиентам." />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://real-exchange.ru/?rid=92" />
+<meta property="og:site_name" content="Автоматический обменник электронных валют" />
+<meta property="og:description" content="Real-exchange.ru предлагает быстро и выгодно произвести обмен, вывод Qiwi, Webmoney, Приват24, Сбербанк. Лучший курс и накопительная скидка нашим клиентам." />
+<meta property="og:title" content="Real-exchange.ru - Автоматический обмен валют" />
+<meta property="og:image" content="https://real-exchange.ru/wp-content/uploads/upload.png" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://real-exchange.ru/wp-content/themes/realexchange/images/bg_jz.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="https://real-exchange.ru/wp-content/uploads/cropped-upload-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://real-exchange.ru/wp-content/uploads/cropped-upload-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://real-exchange.ru/wp-content/uploads/cropped-upload-180x180.png" />
+<meta name="msapplication-TileImage" content="https://real-exchange.ru/wp-content/uploads/cropped-upload-270x270.png" />
+	
+	
+</head>
+
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4 custom-background">
+<div id="container">
+
+
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://real-exchange.ru/?rid=92" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://real-exchange.ru/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+			</div>
+		</div></div>			
+								
+									<div class="topbar_email">
+						<a href="mailto:supp&#111;rt&#64;&#114;eal-&#101;&#120;&#99;ha&#110;ge.r&#117;">&#115;&#117;ppo&#114;&#116;&#64;real-ex&#99;han&#103;e.&#114;u</a>
+					</div>		
+								
+			
+									<a href="https://real-exchange.ru/register/" class="toplink">Регистрация</a>
+					<a href="https://real-exchange.ru/login/" class="toplink">Авторизация</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+	
+	<!-- top menu -->
+	<div class="tophead_wrap">
+		<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://real-exchange.ru">
+													
+															<img src="/wp-content/themes/realexchange/logo.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+					<div class="logoblock_descr">Мгновенный вывод QIWI в ПриватБанк</div>
+				</div>
+				
+								
+				
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end top menu -->
+	
+	<div class="topmenu">
+		<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://real-exchange.ru/"><span>Главная</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://real-exchange.ru/news/"><span>Новости</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://real-exchange.ru/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://real-exchange.ru/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://real-exchange.ru/feedback/"><span>Контакты</span></a></li>
+</ul>				
+			<div class="clear"></div>
+	</div>
+		<div class="clear"></div>	
+	
+	<div class="wrapper">
+	
+			
+
+						<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85169773-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter40015090 = new Ya.Metrika({
+                    id:40015090,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/40015090" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<div class="home_div">
+
+
+<div class="xchange_table_wrap">
+	
+	<div class="xchange_type_table4">
+		<div class="xchange_type_table4_ins">	
+				<div class="xtt4_icon_wrap">
+					<div class="xtt4_left_col_icon">
+					
+						<div class="xtt4_icon active js_icon_left" data-type="0"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>Все</div></div>
+						<div class="xtt4_icon js_icon_left js_icon_left_USD" style="display: none;" data-type="USD"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>USD</div></div><div class="xtt4_icon js_icon_left js_icon_left_RUB" style="display: none;" data-type="RUB"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>RUB</div></div><div class="xtt4_icon js_icon_left js_icon_left_UAH" style="display: none;" data-type="UAH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>UAH</div></div><div class="xtt4_icon js_icon_left js_icon_left_EUR" style="display: none;" data-type="EUR"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>EUR</div></div><div class="xtt4_icon js_icon_left js_icon_left_WMX" style="display: none;" data-type="WMX"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>WMX</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt4_right_col_icon">
+
+						<div class="xtt4_icon active js_icon_right" data-type="0"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>Все</div></div>
+						<div class="xtt4_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>USD</div></div><div class="xtt4_icon js_icon_right js_icon_right_RUB" style="display: none;" data-type="RUB"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>RUB</div></div><div class="xtt4_icon js_icon_right js_icon_right_UAH" style="display: none;" data-type="UAH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>UAH</div></div><div class="xtt4_icon js_icon_right js_icon_right_EUR" style="display: none;" data-type="EUR"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>EUR</div></div><div class="xtt4_icon js_icon_right js_icon_right_WMX" style="display: none;" data-type="WMX"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>WMX</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt4_table_wrap">
+				<div class="xtt4_table_title_wrap">
+					<div class="xtt4_left_col_title">
+						<div class="xtt4_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt4_right_col_title">
+						<div class="xtt4_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt4_table_title3">
+							<span>Курс</span>
+						</div>						
+						<div class="xtt4_table_title4">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt4_table_body_wrap">
+					<div class="xtt4_html_abs"></div>
+						<div class="xtt4_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="32" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/4546.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Qiwi RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="13" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Qiwi RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_UAH  " data-id="16" data-type="UAH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Приват24 UAH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="12" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Сбербанк Онлайн RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="18" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/images/payment_icons/yd.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Яндекс.Деньги RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="17" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/images/payment_icons/wm.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														WebMoney USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="19" data-type="RUB">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														WebMoney RUB
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_UAH  " data-id="20" data-type="UAH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														WebMoney UAH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_EUR  " data-id="23" data-type="EUR">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														WebMoney EUR
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_WMX  " data-id="30" data-type="WMX">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/webmoney.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														WebMoney WMX
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt4_right_col_table">
+						
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_32">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_QWRUB_to_P24UAH_/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="138">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		2.6457 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="138" data-title="Qiwi RUB-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_QWRUB_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="139">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0464 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1155456.6052
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="139" data-title="Qiwi RUB-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_13">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_QWRUB_to_P24UAH2/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="27">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		2.6457 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="27" data-title="Qiwi RUB-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_QWRUB_to_SBERRUB2/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="44">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0464 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1155456.6052
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="44" data-title="Qiwi RUB-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_QWRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="132">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		81.75 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		17.0037
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="132" data-title="Qiwi RUB-WebMoney USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_QWRUB_to_WMR/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="133">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0898 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		624820.4672
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="133" data-title="Qiwi RUB-WebMoney RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_16">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_QWRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="140">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/4546.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.31
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		4008031.56
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="140" data-title="Приват24 UAH-Qiwi RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_QWRUB_2/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="47">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.31
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		2709821.1698
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="47" data-title="Приват24 UAH-Qiwi RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="53">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		26.8878 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		17.0037
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="53" data-title="Приват24 UAH-WebMoney USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_WMR/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="50">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		624820.4672
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="50" data-title="Приват24 UAH-WebMoney RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_WMU/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="57">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.378 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		222376.9266
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="57" data-title="Приват24 UAH-WebMoney UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_WME/" class="js_exchange_link js_item_right js_item_right_EUR" data-type="EUR" data-direction-id="117">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney EUR
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		37.9704 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		4302.0037
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="117" data-title="Приват24 UAH-WebMoney EUR">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="105">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/yd.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Яндекс.Деньги RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 1.705
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		167594.104
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="105" data-title="Приват24 UAH-Яндекс.Деньги RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="41">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.2
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1155456.6052
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="41" data-title="Приват24 UAH-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_ACRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="56">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/ac.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Альфа-Клик RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.2
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1406753.2752
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="56" data-title="Приват24 UAH-Альфа-Клик RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="114">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/jCPkTg8MN6I.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		ВТБ 24 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.2
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1306337.2883
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="114" data-title="Приват24 UAH-ВТБ 24 RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_RUSSTRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="115">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/russian-standart.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Русский Стандарт RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.3463
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1238774.67
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="115" data-title="Приват24 UAH-Русский Стандарт RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_RNKBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="122">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/RNKB-Bank.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		РНКБ Банк RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.0093
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		710089.7653
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="122" data-title="Приват24 UAH-РНКБ Банк RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_PSBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="116">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/promsvyazbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Промсвязьбанк RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.0444
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		749572.71
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="116" data-title="Приват24 UAH-Промсвязьбанк RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_P24UAH_to_WIRERUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="94">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/banki-rf.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Любой банк РФ(банковский счет) RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 2.2301
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1784519.1578
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="94" data-title="Приват24 UAH-Любой банк РФ(банковский счет) RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_12">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_SBERRUB_to_WMR/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="96">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 0.91
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		624820.4672
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="96" data-title="Сбербанк Онлайн RUB-WebMoney RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_SBERRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="99">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		75.8 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		17.0037
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="99" data-title="Сбербанк Онлайн RUB-WebMoney USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_18">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_YAMRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="103">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		74.58 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		17.0037
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="103" data-title="Яндекс.Деньги RUB-WebMoney USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_YAMRUB_to_WMR/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="104">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.08 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		624820.4672
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="104" data-title="Яндекс.Деньги RUB-WebMoney RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_YAMRUB_to_WMU/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="112">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		WebMoney UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		2.845 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		222376.9266
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="112" data-title="Яндекс.Деньги RUB-WebMoney UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_17">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="40">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 22.85
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="40" data-title="WebMoney USD-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="70">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 58.16
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1155456.6052
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="70" data-title="WebMoney USD-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_QWRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="135">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 59.37
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		2709821.1698
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="135" data-title="WebMoney USD-Qiwi RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_ACRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="68">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/ac.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Альфа-Клик RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 58.16
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1406753.2752
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="68" data-title="WebMoney USD-Альфа-Клик RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="69">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/jCPkTg8MN6I.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		ВТБ 24 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 58.16
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1306337.2883
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="69" data-title="WebMoney USD-ВТБ 24 RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_RUSSTRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="119">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/russian-standart.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Русский Стандарт RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 58.16
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1238774.67
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="119" data-title="WebMoney USD-Русский Стандарт RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="130">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/yd.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Яндекс.Деньги RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 58.16
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		167594.104
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="130" data-title="WebMoney USD-Яндекс.Деньги RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMZ_to_WIRERUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="87">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/banki-rf.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Любой банк РФ(банковский счет) RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 58.16
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1784519.1578
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="87" data-title="WebMoney USD-Любой банк РФ(банковский счет) RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_19">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_QWRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="136">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0295 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		2709821.1698
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="136" data-title="WebMoney RUB-Qiwi RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="37">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		2.9995 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="37" data-title="WebMoney RUB-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="95">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.029 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1167011.1713
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="95" data-title="WebMoney RUB-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_ACRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="67">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/ac.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Альфа-Клик RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0345 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1406753.2752
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="67" data-title="WebMoney RUB-Альфа-Клик RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="66">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/jCPkTg8MN6I.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		ВТБ 24 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0345 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1306337.2883
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="66" data-title="WebMoney RUB-ВТБ 24 RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_RUSSTRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="120">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/russian-standart.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Русский Стандарт RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0345 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1238774.67
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="120" data-title="WebMoney RUB-Русский Стандарт RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMR_to_WIRERUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="86">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/banki-rf.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Любой банк РФ(банковский счет) RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.0345 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1784519.1578
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="86" data-title="WebMoney RUB-Любой банк РФ(банковский счет) RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_20">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMU_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="38">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.9691 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="38" data-title="WebMoney UAH-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMU_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="71">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 1.11
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1167011.1713
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="71" data-title="WebMoney UAH-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_23">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WME_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="80">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 20.0812
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="80" data-title="WebMoney EUR-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_30">
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_P24UAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="118">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Приват24 UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 70.142
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1095660.0243
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="118" data-title="WebMoney WMX-Приват24 UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="123">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Сбербанк Онлайн RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 235.856
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1155456.6052
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="123" data-title="WebMoney WMX-Сбербанк Онлайн RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_ACRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="124">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/images/payment_icons/ac.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Альфа-Клик RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 238.2384
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1406753.2752
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="124" data-title="WebMoney WMX-Альфа-Клик RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="126">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/jCPkTg8MN6I.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		ВТБ 24 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 125.15
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1306337.2883
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="126" data-title="WebMoney WMX-ВТБ 24 RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_RUSSTRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="127">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/russian-standart.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Русский Стандарт RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 125.15
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1238774.67
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="127" data-title="WebMoney WMX-Русский Стандарт RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_WIRERUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="129">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/banki-rf.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Любой банк РФ(банковский счет) RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 125.15
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1784519.1578
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="129" data-title="WebMoney WMX-Любой банк РФ(банковский счет) RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://real-exchange.ru/exchange_WMX_to_QWRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="137">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Qiwi RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.09 &rarr; 255.7632
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		2709821.1698
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="137" data-title="WebMoney WMX-Qiwi RUB">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div></div>
+
+
+<div class="home_text_block">
+	<div class="home_text_title">Рады приветствовать Вас на нашем обменном пункте Real-exchange.ru!</div>
+			
+	<div class="home_text_div">
+		<div class="text">
+
+			<p><strong><a href="https://real-exchange.ru/" target="_blank">Real-exchange.ru</a> &#8212; сервис автоматического и ручного обмена электронных валют. Наш обменный пункт совершает обмены с 11 сентября 2015 года по таким электронным валютам: Приват24, Киви, Сбербанк России, Альфа-Банк, Вебмани. А также ввод-вывод webmoney гривен, рублей, долларов на карты/счета ПриватБанка и в любой банк России (АльфаБанк, ВТБ24, Тинькофф, Сбербанк и.т.д)</strong></p>
+<p><strong>Направления обмена в автоматическом режиме:</strong></p>
+<p><strong>&#8212; <a href="https://real-exchange.ru/exchange_QWRUB_to_P24UAH_/" target="_blank">Qiwi рубли-Приват24 гривна</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_WMZ_to_P24UAH/" target="_blank">Webmoney USD-Приват24 гривна</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_WMR_to_P24UAH/" target="_blank">Webmoney RUB-Приват24 гривна</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_WMU_to_P24UAH/" target="_blank">Webmoney UAH-Приват24 гривна</a></p>
+<p><strong>Направления обмена в ручном режиме:</strong></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_P24UAH_to_WMZ/" target="_blank">Приват24 гривна-Webmoney USD</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_P24UAH_to_WMR/" target="_blank">Приват24 гривна-Webmoney RUB</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_P24UAH_to_WMU/" target="_blank">Приват24 гривна-Webmoney UAH</a></strong></p>
+<p><strong>&#8212; <a href="https://real-exchange.ru/exchange_P24UAH_to_QWRUB/" target="_blank">Приват24 гривна-Qiwi рубли</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_P24UAH_to_SBERRUB/" target="_blank">Приват24 гривна-Сбербанк Онлайн</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_P24UAH_to_ACRUB/" target="_blank">Приват24 гривна-Альфа Клик RUB</a></p>
+<p>&#8212; <a href="https://real-exchange.ru/exchange_QWRUB_to_SBERRUB/" target="_blank">Qiwi рубли-Сбербанк Онлайн</a></strong></p>
+<p><strong>Что мы говорим тем, кто в первые приходит к нам в обменный пункт <a href="https://real-exchange.ru/" target="_blank">Real-exchange.ru</a> ?!  Вам повезло!!! Теперь Вы будете работать с профессионалами! Не важно, постоянный Вы клиент нашего сервиса или же новый, у нас индивидуальный подход к каждому клиенту!</strong></p>
+<p><strong>Совершать операции по обмену электронных валют с <a href="https://real-exchange.ru/" target="_blank">Real-exchange.ru</a> быстро, выгодно, безопасно!</strong></p>
+<p><strong>&#8212; БЫСТРО , так как большинство направлений обмена проводится в автоматическом режиме до 3 минут. Ручной обмен до 30 минут в рабочее время. Понятный и удобный интерфейс не позволит Вам задуматься как создать заявку, сколько отдать и получить валюты, и как оплатить ее. Также есть связь с оператором в онлайн чате, где вы можете проконсультироваться. Оператор ответит на все Ваши вопросы, а также может помочь произвести обмен от создания заявки до получения средств на вашу карту. Также от нашего обменного пункта ведется страница в социальной сети <a href="https://vk.com/realexchangeru" target="_blank">Vkontakte</a>. Вы также можете узнать там самые свежие курсы по всем направлениям обменов и другую  информацию о деятельности обменного пункта <a href="https://real-exchange.ru/" target="_blank">Real-exchange.ru.</a></strong></p>
+<p><strong>&#8212; ВЫГОДНО, так как для каждого клиента предусмотрена накопительная скидка, которая зависит от общей суммы обменов. Достаточно просто пройти регистрацию на нашем сервисе и Вы уже получите скидку в размере 0.01%. Максимальная накопительная скидка 0.30%. После регистрации клиент может не только получать накопительную скидку, но и поучаствовать в партнерской программе нашего сервиса, где также можно заработать от 0.1 до 0.35%. У каждого клиента в личном кабинете в разделе партнерский аккаунт находится ссылка, которую можно разместить в различных социальных сетях, или же разместить на свой сайт и получать с каждого обмена свой партнерский процент от 0.1%  до 0.35% . Наши специалисты мониторят ситуацию на валютном рынке, чтобы наши клиенты совершали обмен по самым свежим курсам.</strong></p>
+<p><strong>&#8212; БЕЗОПАСНО, так как данные передаются по защищенному каналу SSL. Также предусмотрены системы безопасности по всем направлениям обмена. Специалисты <a href="https://real-exchange.ru/">Real-exchange.ru</a> не останавливаются на достигнутом и с каждым разом усиливают  меры защиты и безопасности. В компании понимают, на сколько важно быть современными и актуальными. Поэтому руководство <a href="https://real-exchange.ru/">Real-exchange.ru</a>  прилагает максимум усилий для того, чтобы компания соответствовала современным требованиям обмена электронных валют.</strong></p>
+<p>        <strong>Будем рады видеть Вас  в качестве постоянных клиентов нашего сервиса <a href="https://real-exchange.ru/">Real-exchange.ru</a> !</strong></p>
+<p>                              <strong>REAL MONEY &#8212; REAL CHANGE</strong></p>
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+</div>	
+
+		<div class="home_reserv_block">
+			<div class="home_reserv_title">Резерв валюты</div>
+			
+			<div class="home_reserv_many">
+				<div class="home_reserv_many_ins">
+			
+					 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/ac.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Альфа-Клик RUB							</div>
+							<div class="one_home_reserv_sum">
+								1406753.2752							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/sb.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Сбербанк Онлайн RUB							</div>
+							<div class="one_home_reserv_sum">
+								1155456.6052							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Qiwi RUB							</div>
+							<div class="one_home_reserv_sum">
+								2709821.1698							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Приват24 UAH							</div>
+							<div class="one_home_reserv_sum">
+								1095660.0243							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>					 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/wm.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								WebMoney USD							</div>
+							<div class="one_home_reserv_sum">
+								17.0037							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								WebMoney RUB							</div>
+							<div class="one_home_reserv_sum">
+								624820.4672							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								WebMoney UAH							</div>
+							<div class="one_home_reserv_sum">
+								222376.9266							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/jCPkTg8MN6I.jpg) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								ВТБ 24 RUB							</div>
+							<div class="one_home_reserv_sum">
+								1306337.2883							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>					 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/Tinkoff.jpg) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Тинькофф RUB							</div>
+							<div class="one_home_reserv_sum">
+								1215280.8788							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(http://real-exchange.ru/wp-content/uploads/wm.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								WebMoney EUR							</div>
+							<div class="one_home_reserv_sum">
+								4302.0037							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/banki-rf.jpg) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Любой банк РФ(банковский счет) RUB							</div>
+							<div class="one_home_reserv_sum">
+								1784519.1578							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/russian-standart.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Русский Стандарт RUB							</div>
+							<div class="one_home_reserv_sum">
+								1238774.67							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>					 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/promsvyazbank.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Промсвязьбанк RUB							</div>
+							<div class="one_home_reserv_sum">
+								749572.71							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/webmoney.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								WebMoney WMX							</div>
+							<div class="one_home_reserv_sum">
+								544.0676							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/RNKB-Bank.jpg) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								РНКБ Банк RUB							</div>
+							<div class="one_home_reserv_sum">
+								710089.7653							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+											 
+					<div class="one_home_reserv"> 
+						<div class="one_home_reserv_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/4546.png) no-repeat center center;"></div>
+						<div class="one_home_reserv_block">
+							<div class="one_home_reserv_title">
+								Qiwi RUB							</div>
+							<div class="one_home_reserv_sum">
+								4008031.56							</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>								
+					<div class="clear"></div>
+				</div>	
+			</div>
+		</div>	
+
+		<div class="home_partner_block">
+			
+		
+									<div class="home_lchange_div">
+					
+						<div class="home_lchange_title">Последний обмен</div>
+						
+						<div class="home_lchange_body">
+							<div class="home_lchange_date">18.03.2019, 12:22</div>
+						
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(https://real-exchange.ru/wp-content/uploads/rf.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">9500</div>
+									<div class="home_lchange_name">RUB</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+						
+							<div class="home_lchange_arr"></div>
+						
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/images/payment_icons/prv24.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">3581.5269</div>
+									<div class="home_lchange_name">UAH</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+						
+					</div>	
+						
+			
+			<div class="home_partner_div">
+				<div class="home_partner_title">Партнеры</div>
+				
+				<div class="home_partner_body">
+										<div class="home_partner_one">
+							<a href="http://www.megastock.ru/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/acc-blue-on-white-ru.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=271040623560" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31-wm-v-blue-on-white-ru.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://www.bestchange.ru/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/bestchange.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://kurs.expert/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/buttonY.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://kurs.com.ua/webmoney" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://kurses.com.ua/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/about-green.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://monitorkursov.com/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31-1.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://grabber.ru/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/button.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://chexch.com/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31-1.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://iobmen.com/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/iobmen88x31.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://bestcurs.org/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/bestkurs-88x31k.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://bestexchangers.ru/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://xn--90aijhihd.xn--p1ai/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31-1-1.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://scanmoney.net/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/monitoring-obmennikov.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://glazok.org/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/88x31-2.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://eobmen-obmen.ru/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/inform5.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://simplerates.ru/index.php" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/sr-button-88x31.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://changeinfo.ru/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/changeinfo.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://wmdiler.com.ua/" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/btn-88-31.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://askoin.com" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/askoin.jpg" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://vk.com/realexchangeru" target="_blank">								<img src="https://real-exchange.ru/wp-content/uploads/QIfaq-O8E90.jpg" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://exchangesumo.com" target="_blank">								<img src="https://exchangesumo.com/i/3.svg" alt="" />
+							</a>						</div>
+										<div class="clear"></div>
+				</div>	
+			</div>
+			
+				<div class="clear"></div>
+			
+		</div>	
+
+<div class="home_reviews_block">
+	<div class="home_reviews_title">Отзывы</div>
+	<a href="https://real-exchange.ru/reviews/" class="home_reviews_more">Все отзывы</a>
+		<div class="clear"></div>
+			
+	<div class="home_reviews_div">
+		<div class="home_reviews_ins">	
+						
+				<div class="home_reviews_one">
+					<div class="home_reviews_abs"></div>
+					<div class="home_reviews_date">Павел, 15.03.2019, 10:46</div>
+						<div class="clear"></div>
+					<div class="home_reviews_content">Пользовался первый раз, все прошло успешно. Рекомендую</div>
+				</div>			
+				
+						
+				<div class="home_reviews_one">
+					<div class="home_reviews_abs"></div>
+					<div class="home_reviews_date">Степан, 03.03.2019, 03:38</div>
+						<div class="clear"></div>
+					<div class="home_reviews_content">Супер обменник! Киви-приват за 3 минуты. Оператор Александр не обманул.</div>
+				</div>			
+				
+						
+				<div class="home_reviews_one">
+					<div class="home_reviews_abs"></div>
+					<div class="home_reviews_date">Светлана, 21.02.2019, 15:01</div>
+						<div class="clear"></div>
+					<div class="home_reviews_content">Пользуюсь этим сервисом несколько месяцев. Очень довольна выводом с qiwi на Приват. Все четко. Спасибо!</div>
+				</div>			
+				
+						
+			<div class="clear"></div>
+		</div>		
+	</div>
+
+</div>
+
+</div>
+		
+
+		
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		    
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ua/stat/?id=40015090&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/40015090/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="40015090" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter40015090 = new Ya.Metrika({
+                    id:40015090,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/40015090" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+		
+			<div class="footer_left">
+			
+				<div class="copyright">
+											www.real-exchange.ru cервис обмена электронных валют. Все права защищены © 2015-2019									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://real-exchange.ru/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://real-exchange.ru/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://real-exchange.ru/tos/"><span>Правила сайта www.real-exchange.ru</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			
+			</div>
+			<div class="footer_center">
+										<a href="http://vk.com/share.php?url=https%3A%2F%2Freal-exchange.ru%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://real-exchange.ru/wp-content/themes/realexchange/images/vk-ico.png" alt="" /></a>
+											<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Freal-exchange.ru%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://real-exchange.ru/wp-content/themes/realexchange/images/fb-ico.png" alt="" /></a>
+											<a href="https://plus.google.com/share?url=https%3A%2F%2Freal-exchange.ru%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://real-exchange.ru/wp-content/themes/realexchange/images/gp-ico.png" alt="" /></a>
+											<a href="http://twitter.com/share?url=https%3A%2F%2Freal-exchange.ru%2F%3Frid%3D92" class="social_link" target="_blank" rel="nofollow"><img src="https://real-exchange.ru/wp-content/themes/realexchange/images/tw-ico.png" alt="" /></a>
+						
+					<div class="clear"></div>
+			</div>
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p>Время Работы Тех.Поддержки<br />
+Пн. — Пт. с 10:00 до 23:00 по мск.<br />
+Сб. — Вск. свободный график.</p>
+				</div>
+								
+			
+			</div>			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped"></div>
+
+	<div class="statuswork_div status_op1 toleft">
+	<div class="statuswork_div_ins">
+		<div class="statuswork">
+			<div class="statuswork_ins">
+				<div class="statuswork_title"><span>Оператор online</span></div>
+				<div class="statuswork_date"><span>18.03.2019, 12:46</span></div>
+			</div>	
+		</div>
+	</div>
+	</div>
+ 
+		<div class="reserv_box js_techwindow">
+			<div class="reserv_box_ins">
+				<div class="reserv_box_title">Запрос резерва "<span id="reserv_box_title"></span>"</div>
+				<div class="reserv_box_close"></div>
+				<form method="post" class="ajax_post_form" action="https://real-exchange.ru/ajax-reservform.html?meth=post&yid=7446f5f1a3c6&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+					<div class="resultgo"></div>
+					
+					
+				<div class="form_field_line rb_line type_input  field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input  field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_text  field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+	<div class="captcha_div">
+		<div class="captcha_title">
+			Введите ответ
+		</div>
+		<div class="captcha_body">
+			<div class="captcha_divimg">
+				<img src="https://real-exchange.ru/wp-content/uploads/captcha/1552902411777713.png" class="captcha1" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				<span class="captcha_sym">+</span>
+			</div>	
+			<div class="captcha_divimg">
+				<img src="https://real-exchange.ru/wp-content/uploads/captcha/1552902411132466.png" class="captcha2" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				=
+			</div>
+			<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			<a href="#" class="captcha_reload" title="заменить задачу"></a>
+				<div class="clear"></div>
+		</div>
+	</div>		
+	
+					
+					<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>		
+		<script type='text/javascript' src='https://real-exchange.ru/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			<script type='text/javascript'>
+    (function(){ var widget_id = 'naJuyTk2qG';
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id+'?plugin=wp'; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+</script>
+</body>
+</html>

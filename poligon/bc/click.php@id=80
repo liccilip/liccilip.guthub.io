@@ -1,0 +1,406 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Обменный сервис Virtual Money Exchange, Обмен WMZ,WMR, Яндекс Деньги, QIWI</title>
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="5 days" />
+<meta name="description" content="Ввод/вывод WMZ, WMR, WMU на Альфа-Банк, ВТБ24, Альфа-клик, Телебанк, Приват24, Связной банк, Сбербанк, Русский стандарт, Тинькофф Банк, VISA/MC, VISA, Mastercard" />
+<meta name="keywords" content="WMZ,WMR,WMU, Яндекс Деньги, QIWI, Альфа банк, Альфа клик, ВТБ24, Телебанк, Приват24, Тинькофф Банк, Русский стандрт, Сбербанк, VISA, Mastercard, VISA/MC" />
+<meta name="generator" content="Aranea.CMS 2.4.1 - Авторские права (C) 2004-2019 студия веб-дизайна Aranea. Все права защищены" />
+<base href="https://vmex.info/" />
+<link href="https://vmex.info/images/favicon.ico" rel="icon" type="image/x-icon" />
+<link href="https://vmex.info/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="https://vmex.info/css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<!--[if lte IE 8]><link href="https://vmex.info/css/style_ie8.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if lte IE 7]><link href="https://vmex.info/css/style_ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if lte IE 6]><link href="https://vmex.info/css/style_ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<link href="https://vmex.info/css/widget.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://vmex.info/widget/datepicker/datepicker.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://vmex.info/widget/slimbox/russian/slimbox.css" rel="stylesheet" type="text/css" media="screen" />
+<script language="JavaScript" type="text/javascript">var site_url = 'https://vmex.info/'; var ajax_url = 'https://vmex.info/module/ajax/'; var lang_code = ''; var prefix = 'VMEX2_';</script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/lang/russian.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/js/mootools.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/js/mootools-more.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/js/swfobject.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/js/system.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/js/user.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/widget/clientcide/clientcide.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/widget/slimbox/slimbox.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://vmex.info/cache/js/hints.js"></script>
+<meta name="yandex-verification" content="6e69dde19896130e" />
+<meta name="verify-v1" content="19JgAFDlj_OG5GPkFtGLInpmV_aWjyNl2xflZweaqFw" />
+<meta name="google-site-verification" content="19JgAFDlj_OG5GPkFtGLInpmV_aWjyNl2xflZweaqFw" />
+
+<script type="text/javascript"> //<![CDATA[
+var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
+document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]>
+</script>
+</head>
+
+<body>
+
+<div id="header">
+        <div class="left-side">
+                <div align="center">
+                        <p class="service"><span><a id="icon_main" href="https://vmex.info/" title="Обменный сервис Virtual Money Exchange, Обмен WMZ,WMR, Яндекс Деньги, QIWI"></a></span><span><a id="icon_contact" href="https://vmex.info/contacts" title="Контакты"></a></span><a id="icon_map" href="https://vmex.info/sitemap" title="Карта сайта"></a></p>
+                        <a id="logo" href="https://vmex.info/" title="Обменный сервис Virtual Money Exchange, Обмен WMZ,WMR, Яндекс Деньги, QIWI"></a>
+                        <h2 id="slogan">Автоматический обмен WMZ, WMR, Яндекс Деньги, QIWI</h2>
+                </div>
+        </div>
+        <div class="button btn_contact">
+                <div align="center"><a id="btn_contact" class="button" href="https://vmex.info/contacts" title="Контакты"><span>Контакты</span></a></div>
+        </div>
+        <div class="button btn_reviews">
+                <div align="center"><a id="btn_reviews" class="button" href="https://vmex.info/reviews" title="Отзывы"><span>Отзывы</span></a></div>
+        </div>
+        <div class="button btn_faq">
+                <div align="center"><a id="btn_faq" class="button" href="https://vmex.info/faq" title="ЧаВо"><span>ЧаВо</span></a></div>
+        </div>
+        <div class="button btn_rules">
+                <div align="center"><a id="btn_rules" class="button" href="https://vmex.info/rules" title="Правила"><span>Правила</span></a></div>
+        </div>
+        <div class="button btn_pin">
+                <div align="center"><a id="btn_pin" class="button" href="https://vmex.info/buy-pin" title="Магазин pin-кодов"><span>Магазин pin-кодов</span></a></div>
+        </div>
+        <div id="nav"></div>
+</div>
+
+<div id="content-wrapper"><div id="content-wrapper2">
+        <div id="content-left">
+<div id="block93" class="block-gray block-top">
+<div class="corner"><span class="ctl"></span><span class="ctr"></span></div>
+<h2>Резерв валют</h2>
+<div class="inner">
+<div id="reserv"><p class="curr1"><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></p>
+<p class="curr1"><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></p>
+<p class="curr16"><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618817.00</span></em></p>
+<p class="curr12"><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1643719</span></em></p>
+<p class="curr52"><span class="logo"></span><strong>Грн. Приват24</strong><em><span class="abs">Грн.</span><span class="sum">244075.51</span></em></p>
+<p class="curr551"><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16822.00</span></em></p>
+<p class="curr551"><span class="logo"></span><strong>VISA/MC, RUB</strong><em><span class="abs">RUB</span><span class="sum">1045644</span></em></p>
+<p class="curr522"><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">78037.55</span></em></p>
+<p class="curr51"><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">675625.02</span></em></p>
+<p class="curr50"><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205433</span></em></p>
+<p class="curr0"><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">2978766</span></em></p>
+<p class="curr543"><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2948535</span></em></p>
+<p class="curr62"><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947024</span></em></p>
+<p class="curr55"><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">967492.35</span></em></p>
+</div>
+</div>
+</div>
+
+<div id="block66" class="block-gray block-middle">
+<h2>Наши контакты</h2>
+<div class="inner">
+<!-- Start SiteHeart code -->
+<script type="text/javascript">// <![CDATA[
+    (function(){
+    var widget_id = 846756;
+    _shcp =[{widget_id : widget_id}];
+    var lang =(navigator.language || navigator.systemLanguage 
+    || navigator.userLanguage ||"en")
+    .substr(0,2).toLowerCase();
+    var url ="widget.siteheart.com/widget/sh/"+ widget_id +"/"+ lang +"/widget.js";
+    var hcc = document.createElement("script");
+    hcc.type ="text/javascript";
+    hcc.async =true;
+    hcc.src =("https:"== document.location.protocol ?"https":"http")
+    +"://"+ url;
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hcc, s.nextSibling);
+    })();
+// ]]></script>
+<!-- End SiteHeart code --> <!-- End SiteHeart code -->
+<p>Телефон: 8 (800) 333-64-98</p>
+<p>Skype: <a href="skype:rus_vmex?chat" target="_blank">Нажмите для связи</a></p>
+<p>E-mail: <a class="text-gray" href="mailto:rus@vmex.info">rus@vmex.info</a></p>
+</div>
+</div>
+
+<div id="block64" class="block-gray block-bottom">
+<h2>Наши реквизиты</h2>
+<div class="inner">
+<table class="font12px" style="width: 100%;" border="0" cellspacing="0" cellpadding="5">
+<tbody>
+<tr>
+<td class="text-dark-blue" colspan="2" align="left" valign="middle"><strong>WMID </strong><span style="text-decoration: underline;"><a rel="nofollow" href="http://passport.webmoney.ru/asp/certview.asp?wmid=060994506852">060994506852</a></span>&nbsp;<img src="https://bl.wmtransfer.com/img/bl/060994506852?w=45&amp;h=18&amp;bg=0XDBE2E9" alt="BL" width="45" height="18" /></td>
+</tr>
+<tr>
+<td class="text-dark-blue" style="text-align: center;" colspan="2" align="left" valign="middle"><br />
+<p>Номер регистрации обменного пункта в сервисе MegaStock №230256</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="corner"><span class="cbl"></span><span class="cbr"></span></div>
+</div>
+
+
+        </div>
+        <div id="content-right">
+<div id="block77" class="block-blue block-top">
+<div class="corner"><span class="ctl"></span><span class="ctr"></span></div>
+<h2>Кабинет пользователя</h2>
+<div class="inner">
+			<div id="account">
+				<div align="center">
+					<form method="post" id="login_form" name="login_form" action="https://vmex.info/user/login">
+						<input type="hidden" name="act" value="login" />
+						<table class="form-data" cellspacing="0">
+						<tr>
+							<td align="left">
+								Логин
+							</td>
+							<td align="left" colspan="2">
+								<input type="text" class="fld " id="frm_login" name="frm_login" value="" /><br />
+							</td>
+						</tr>
+						<tr>
+							<td align="left">
+								Пароль
+							</td>
+							<td align="left" colspan="2">
+								<input type="password" class="fld " id="frm_password" name="frm_password" /><br />
+							</td>
+						</tr>
+						</table>
+						<table class="form-data" cellspacing="0">
+						<tr>
+							<td align="left">
+								<a id="login_form_captchas" class="captchas" href="#" onclick="return updateCaptchaS('login_form_captchas');" title="Нажмите чтобы обновить код">
+									<img src="captchas.php?1552902243" alt="Проверочный код" />
+								</a>
+							</td>
+							<td align="left">
+								<input class="fld" type="text" id="frm_captchas" name="frm_captcha" value="" size="5" />
+							</td>
+							<td align="right">
+								<input id="btn_login" class="btn" type="submit" name="login" value="Вход" />
+							</td>
+						</tr>
+						<tr>
+							<td align="center" colspan="3"><div style="width:130px;">
+								
+							</div></td>
+						</tr>
+						<tr>
+							<td colspan="3">
+								<a class="fl_right" href="https://vmex.info/user/remember" title="Забыли пароль ?">Забыли пароль ?</a>
+								<a class="fl_left" href="https://vmex.info/user/register" title="Регистрация">Регистрация</a><br />
+							</td>
+						</tr>
+						</table>
+					</form>
+				</div>
+
+			</div>
+</div>
+</div>
+
+<div id="block92" class="block-blue block-bottom">
+<h2>Состояние заявки</h2>
+<div class="inner">
+<form class="clearfix" id="exchangectrl" name="exchangectrl" method="post" action="https://vmex.info/" target="_self" onsubmit="return checkUrlKeyMask(this);"><p><input class="fld" type="text" id="frm_url_key" name="frm_url_key" value="" onfocus="CheckIn(this, 'Введите ключ заявки');" onblur="CheckOut(this, 'Введите ключ заявки');" /></p><p align="center"><input class="btn" id="btn_url_key" type="submit" value="Перейти" /></p></form><script language="javascript" type="text/javascript">CheckOut(getObj('frm_url_key'), 'Введите ключ заявки');</script>
+</div>
+<div class="corner"><span class="cbl"></span><span class="cbr"></span></div>
+</div>
+
+<div id="block71" class="block">
+
+</div>
+
+<div id="block67" class="block-buttons">
+<style type="text/css">
+.opacity {
+display: inline-block;
+opacity: 0.5;
+filter:alpha(opacity=50);
+}
+.opacity:hover {
+display: inline-block;
+opacity: 1.0;
+filter: alpha(opacity=100);
+}
+</style>
+<a rel="nofollow" href="http://www.webmoney.ru/" target="_blank"><img src="https://vmex.info/files/88x31_wm_blue_on_white_ru.png" alt="www.webmoney.ru" border="0" class='opacity'></a>
+<a rel="nofollow" href="https://passport.webmoney.ru/asp/certview.asp?wmid=060994506852" target="_blank"><img src="https://vmex.info/files/88x31_wm_v_blue_on_white_ru.png" alt="www.webmoney.ru" border="0" class='opacity'></a>
+<br>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t57.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='88' height='31' class='opacity'></a>")
+//--></script><!--/LiveInternet-->
+<a href="http://estandards.ru" target="_blank"><img src="https://vmex.info/files/88-31-blue.gif"  border="0" width="88" height="31" class='opacity'></a><br>
+<br>
+<script language="JavaScript" type="text/javascript">
+TrustLogo("https://vmex.info/files/comodo_secure_seal_113x59_transp.png", "CL1", "none");
+</script>
+<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
+</div>
+
+
+        </div>
+        <div id="content">
+
+
+                <noscript>
+                        <div class="msg_err">Для просмотра этой страницы необходим Javascript<br />Пожалуйста включите Javascript в Вашем браузере</div>
+                </noscript>
+<div id="block62" class="block-course block-border">
+<div class="corner"><span class="ctl"></span><span class="ctr"></span></div>
+<div class="title">
+	<h2 class="inner-sell"><strong>Отдаете</strong></h2>
+	<h2 class="inner-buy"><strong>Получаете</strong></h2>
+	<h2 class="inner-reserv"><strong>Резерв</strong></h2>
+</div>
+<div class="inner">
+	<div class="inner-sell">
+		<p id="sell_item1" class="curr1 selected" onmouseover="doSelect(1);"><span class="course">1.00</span><span class="logo"></span><strong>WMZ</strong></p>
+		<p id="sell_item15" class="curr1" onmouseover="doSelect(15);"><span class="course">1.00</span><span class="logo"></span><strong>WMR</strong></p>
+		<p id="sell_item41" class="curr16" onmouseover="doSelect(41);"><span class="course">1.00</span><span class="logo"></span><strong>QIWI</strong></p>
+		<p id="sell_item10" class="curr12" onmouseover="doSelect(10);"><span class="course">1.00</span><span class="logo"></span><strong>Яндекс Деньги</strong></p>
+		<p id="sell_item24" class="curr52" onmouseover="doSelect(24);"><span class="course">1.00</span><span class="logo"></span><strong>Грн. Приват24</strong></p>
+		<p id="sell_item20" class="curr51" onmouseover="doSelect(20);"><span class="course">1.00</span><span class="logo"></span><strong>Альфа банк</strong></p>
+		<p id="sell_item21" class="curr50" onmouseover="doSelect(21);"><span class="course">1.00</span><span class="logo"></span><strong>ВТБ</strong></p>
+		<p id="sell_item27" class="curr543" onmouseover="doSelect(27);"><span class="course">1.00</span><span class="logo"></span><strong>Сбербанк</strong></p>
+		<p id="sell_item32" class="curr62" onmouseover="doSelect(32);"><span class="course">1.00</span><span class="logo"></span><strong>Тинькофф Банк</strong></p>
+		<p id="sell_item30" class="curr55" onmouseover="doSelect(30);"><span class="course">1.00</span><span class="logo"></span><strong>Рус.Стандарт</strong></p>
+
+		<p id="sell_itemO" class="currO" onmouseover="doSelect('O');"><a href="" target="_blank" title="Другие валюты"><span class="course">&nbsp;</span><span class="logo"></span><strong>Другие валюты</strong></a></p>
+	</div>
+	<div class="inner-buy-reserv">
+<div id="buy_item1" class="buy_items selected">		<a class="curr16" href="https://vmex.info/exchange/sell1/buy41" title="Обменять WMZ на QIWI"><span class="course">62.062</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618817.00</span></em></a>
+		<a class="curr12" href="https://vmex.info/exchange/sell1/buy10" title="Обменять WMZ на Рубли, Яндекс"><span class="course">62.709</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1643719</span></em></a>
+		<a class="curr52" href="https://vmex.info/exchange/sell1/buy24" title="Обменять WMZ на Грн. Приват24"><span class="course">24.924</span><span class="logo"></span><strong>Грн. Приват24</strong><em><span class="abs">Грн.</span><span class="sum">244075.51</span></em></a>
+		<a class="curr551" href="https://vmex.info/exchange/sell1/buy40" title="Обменять WMZ на VISA/MC, USD"><span class="course">0.95</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16822.00</span></em></a>
+		<a class="curr551" href="https://vmex.info/exchange/sell1/buy33" title="Обменять WMZ на RUB, VISA/MC"><span class="course">62.062</span><span class="logo"></span><strong>VISA/MC, RUB</strong><em><span class="abs">RUB</span><span class="sum">1045644</span></em></a>
+		<a class="curr522" href="https://vmex.info/exchange/sell1/buy35" title="Обменять WMZ на UAH, VISA/MC"><span class="course">24.388</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">78037.55</span></em></a>
+		<a class="curr51" href="https://vmex.info/exchange/sell1/buy20" title="Обменять WMZ на Рубли, Альфа-банк"><span class="course">62.062</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">675625.02</span></em></a>
+		<a class="curr50" href="https://vmex.info/exchange/sell1/buy21" title="Обменять WMZ на Рубли, ВТБ"><span class="course">62.062</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205433</span></em></a>
+		<a class="curr0" href="https://vmex.info/exchange/sell1/buy8" title="Обменять WMZ на Рубли"><span class="course">62.062</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">2978766</span></em></a>
+		<a class="curr543" href="https://vmex.info/exchange/sell1/buy27" title="Обменять WMZ на Рубли, Сбербанк"><span class="course">62.062</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2948535</span></em></a>
+		<a class="curr62" href="https://vmex.info/exchange/sell1/buy32" title="Обменять WMZ на Рубли, Тинькофф Банк"><span class="course">62.062</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947024</span></em></a>
+		<a class="curr55" href="https://vmex.info/exchange/sell1/buy30" title="Обменять WMZ на Рубли, Рус.Стандарт"><span class="course">62.062</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">967492.35</span></em></a>
+</div>
+<div id="buy_item10" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell10/buy1" title="Обменять Рубли, Яндекс на WMZ"><span class="course">0.015</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell10/buy15" title="Обменять Рубли, Яндекс на WMR"><span class="course">0.952</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item20" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell20/buy1" title="Обменять Рубли, Альфа-банк на WMZ"><span class="course">0.014</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell20/buy15" title="Обменять Рубли, Альфа-банк на WMR"><span class="course">0.971</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item21" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell21/buy1" title="Обменять Рубли, ВТБ на WMZ"><span class="course">0.015</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell21/buy15" title="Обменять Рубли, ВТБ на WMR"><span class="course">0.98</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item24" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell24/buy1" title="Обменять Грн. Приват24 на WMZ"><span class="course">0.037</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell24/buy15" title="Обменять Грн. Приват24 на WMR"><span class="course">2.382</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item27" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell27/buy1" title="Обменять Рубли, Сбербанк на WMZ"><span class="course">0.015</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell27/buy15" title="Обменять Рубли, Сбербанк на WMR"><span class="course">0.99</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item30" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell30/buy1" title="Обменять Рубли, Рус.Стандарт на WMZ"><span class="course">0.015</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell30/buy15" title="Обменять Рубли, Рус.Стандарт на WMR"><span class="course">0.98</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item32" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell32/buy1" title="Обменять Рубли, Тинькофф Банк на WMZ"><span class="course">0.014</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell32/buy15" title="Обменять Рубли, Тинькофф Банк на WMR"><span class="course">0.971</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item41" class="buy_items">		<a class="curr1" href="https://vmex.info/exchange/sell41/buy1" title="Обменять QIWI на WMZ"><span class="course">0.015</span><span class="logo"></span><strong>WMZ</strong><em><span class="abs">WMZ</span><span class="sum">19618.95</span></em></a>
+		<a class="curr1" href="https://vmex.info/exchange/sell41/buy15" title="Обменять QIWI на WMR"><span class="course">0.985</span><span class="logo"></span><strong>WMR</strong><em><span class="abs">WMR</span><span class="sum">2657027</span></em></a>
+</div>
+<div id="buy_item15" class="buy_items">		<a class="curr16" href="https://vmex.info/exchange/sell15/buy41" title="Обменять WMR на QIWI"><span class="course">0.97</span><span class="logo"></span><strong>QIWI</strong><em><span class="abs">Руб.</span><span class="sum">618817.00</span></em></a>
+		<a class="curr12" href="https://vmex.info/exchange/sell15/buy10" title="Обменять WMR на Рубли, Яндекс"><span class="course">0.99</span><span class="logo"></span><strong>Яндекс Деньги</strong><em><span class="abs">Руб.</span><span class="sum">1643719</span></em></a>
+		<a class="curr52" href="https://vmex.info/exchange/sell15/buy24" title="Обменять WMR на Грн. Приват24"><span class="course">0.375</span><span class="logo"></span><strong>Грн. Приват24</strong><em><span class="abs">Грн.</span><span class="sum">244075.51</span></em></a>
+		<a class="curr551" href="https://vmex.info/exchange/sell15/buy40" title="Обменять WMR на VISA/MC, USD"><span class="course">0.014</span><span class="logo"></span><strong>VISA/MC, USD</strong><em><span class="abs">USD</span><span class="sum">16822.00</span></em></a>
+		<a class="curr551" href="https://vmex.info/exchange/sell15/buy33" title="Обменять WMR на RUB, VISA/MC"><span class="course">0.96</span><span class="logo"></span><strong>VISA/MC, RUB</strong><em><span class="abs">RUB</span><span class="sum">1045644</span></em></a>
+		<a class="curr522" href="https://vmex.info/exchange/sell15/buy35" title="Обменять WMR на UAH, VISA/MC"><span class="course">0.365</span><span class="logo"></span><strong>VISA/MC, UAH</strong><em><span class="abs">UAH</span><span class="sum">78037.55</span></em></a>
+		<a class="curr51" href="https://vmex.info/exchange/sell15/buy20" title="Обменять WMR на Рубли, Альфа-банк"><span class="course">0.95</span><span class="logo"></span><strong>Альфа банк</strong><em><span class="abs">Руб.</span><span class="sum">675625.02</span></em></a>
+		<a class="curr50" href="https://vmex.info/exchange/sell15/buy21" title="Обменять WMR на Рубли, ВТБ"><span class="course">0.96</span><span class="logo"></span><strong>ВТБ</strong><em><span class="abs">Руб.</span><span class="sum">1205433</span></em></a>
+		<a class="curr0" href="https://vmex.info/exchange/sell15/buy8" title="Обменять WMR на Рубли"><span class="course">0.96</span><span class="logo"></span><strong>Руб. Банки</strong><em><span class="abs">Руб.</span><span class="sum">2978766</span></em></a>
+		<a class="curr543" href="https://vmex.info/exchange/sell15/buy27" title="Обменять WMR на Рубли, Сбербанк"><span class="course">0.96</span><span class="logo"></span><strong>Сбербанк</strong><em><span class="abs">Руб.</span><span class="sum">2948535</span></em></a>
+		<a class="curr62" href="https://vmex.info/exchange/sell15/buy32" title="Обменять WMR на Рубли, Тинькофф Банк"><span class="course">0.96</span><span class="logo"></span><strong>Тинькофф Банк</strong><em><span class="abs">Руб.</span><span class="sum">2947024</span></em></a>
+		<a class="curr55" href="https://vmex.info/exchange/sell15/buy30" title="Обменять WMR на Рубли, Рус.Стандарт"><span class="course">0.96</span><span class="logo"></span><strong>Рус.Стандарт</strong><em><span class="abs">Руб.</span><span class="sum">967492.35</span></em></a>
+</div>
+
+	</div>
+<script type="text/javascript">
+<!--
+var select_items = new Array();
+select_items[0] = '1';
+select_items[1] = '8';
+select_items[2] = '10';
+select_items[3] = '20';
+select_items[4] = '21';
+select_items[5] = '24';
+select_items[6] = '27';
+select_items[7] = '30';
+select_items[8] = '32';
+select_items[9] = '33';
+select_items[10] = '35';
+select_items[11] = '40';
+select_items[12] = '41';
+select_items[13] = '15';
+//-->
+</script>
+
+</div>
+<div class="corner"><span class="cbl"></span><span class="cbr"></span></div>
+</div>
+
+<div id="block72" class="block">
+<h2 class="block-title">Новости</h2>
+		<div id="news">
+			<div class="news-item">
+				<div class="news-date">21.07.16</div><div class="news-name"><a href="https://vmex.info/news/2016-07-21-sait-vozobnovliaet-svoju-rabotu" title="Сайт возобновляет свою работу">Сайт возобновляет свою работу</a></div>
+				<div class="news-content">
+					<p>Дорогие клиенты, сайт возобновил свою работу.</p>
+				</div>
+			</div>
+			<div class="news-item">
+				<div class="news-date">23.06.16</div><div class="news-name"><a href="https://vmex.info/news/2016-06-23-otkljuchenie-priema-webmoney" title="Отключение приема Webmoney">Отключение приема Webmoney</a></div>
+				<div class="news-content">
+					<p>Дорогие клиенты, по техническим причинам отключили прием вебмани. Точных сроков возобновления работы пока нет.</p>
+				</div>
+			</div>
+			<p class="detail"><a href="https://vmex.info/news/" title="Все новости">Все новости</a></p>
+		</div>
+
+</div>
+
+
+<div id="block75" class="block">
+
+</div>
+
+<div id="block69" class="block-buttons">
+
+</div>
+
+
+        </div>
+</div></div>
+
+<div id="footer" align="center">
+        <div class="fl_left">&copy; 2009-<script type="text/javascript">var mdate = new Date(); document.write(mdate.getFullYear());</script>, <a href="https://vmex.info/" title="Обменный сервис Virtual Money Exchange, Обмен WMZ,WMR, Яндекс Деньги, QIWI">vmex.info</a><br> Владелец: Семенов Игорь Валентинович</div>
+        <div class="fl_right"><a href="http://www.aranea.com.ua" title="Создание сайта студия Aranea" target="_blank">Создание сайта Aranea</a></div>
+<div id="block73" class="menu">
+<ul><li id="pid63" class="item-first"><a href="https://vmex.info/rules" title="Правила сервиса">Правила</a></li><li id="pid64"><a href="https://vmex.info/faq" title="Часто задаваемые вопросы">ЧаВо</a></li><li id="pid61"><a href="https://vmex.info/contacts" title="Контакты">Контакты</a></li><li id="pid71"><a href="https://vmex.info/VISA-MC" title="Правила вывода на карты VISA/MC">Вывод на карты VISA/MC</a></li><li id="pid69"><a href="https://vmex.info/reviews" title="Отзывы сервиса Vmex.info">Отзывы</a></li><li id="pid65" class="item-last"><a href="https://vmex.info/partnerskaia-programma" title="Партнерская программа и скидки">Партнерская программа</a></li></ul>
+</div>
+
+
+</div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+setSelected('icon_main');
+//-->
+</script>
+
+</body>
+</html>

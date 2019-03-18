@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+    
+    <!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'Kgdplc2WaX';var d=document;var w=window;function l(){
+  var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+  s.src = '//code.jivosite.com/script/widget/'+widget_id
+    ; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}
+  if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}
+  else{w.addEventListener('load',l,false);}}})();
+</script>
+<!-- {/literal} END JIVOSITE CODE -->
+    <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(32901385, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <!-- /Yandex.Metrika counter -->
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>XMONEY - автоматический обмен Bitcoin, Litecoin, Ethereum, Ripple, Perfect Money, Payeer, ADVCash</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://www.xmoney.cc/wp-content/themes/xmoney21/style.css?ver=1.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=1552903136'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/themes/xmoney21/js/jquery-select.js?ver=1.5'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/themes/xmoney21/js/jquery-checkbox.js?ver=1.5'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-content/themes/xmoney21/js/site.js?ver=1.5'></script>
+<script type='text/javascript' src='https://www.xmoney.cc/premiumjs.js?lang=ru&#038;ver=1552913936'></script>
+	<link rel="shortcut icon" href="/images/favicon.jpg" type="image/jpeg" />
+	<link rel="icon" href="/images/favicon.jpg" type="image/jpeg" />
+	<link rel='canonical' href='https://www.xmoney.cc/' />
+<meta name="keywords" content="обменять bitcoin, обменять ethereum, обменять litecoin, обменять perfect money, обменять payeer, обменять advcash" />
+<meta name="description" content="Сервис XMONEY предлагает - обменять Bitcoin, Litecoin, Ethereum, Ripple, Perfect Money, Payeer, Advanced Cash." />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.xmoney.cc/?rid=7" />
+<meta property="og:site_name" content="XMoney.cc" />
+<meta property="og:description" content="Сервис XMONEY предлагает - обменять Bitcoin, Litecoin, Ethereum, Ripple, Perfect Money, Payeer, Advanced Cash." />
+<meta property="og:title" content="XMONEY - автоматический обмен Bitcoin, Litecoin, Ethereum, Ripple, Perfect Money, Payeer, ADVCash" />
+<meta property="og:image" content="/images/favicon.jpg" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.xmoney.cc/wp-content/themes/xmoney21/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-517 custom-background color_b">
+<div id="container">
+
+		
+	<div class="wclosearea  js_hnotice" id="hnotice_22">
+		<div class="wclosearea_ins">
+			<div class="wclosearea_hide js_hnotice_close"><div class="wclosearea_hide_ins"></div></div>
+			<div class="wclosearea_text">
+				<div class="wclosearea_text_ins">
+					<a href="https://www.xmoney.cc/novoe-ob-yavlenie-skidki/">						Как получить скидку на обмен до 30% от нашего дохода или 100 рублей от сервиса прямо сейчас?					</a>				</div>	
+			</div>
+		</div>
+	</div>
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://www.xmoney.cc/?rid=7" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://www.xmoney.cc/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+				<a href="https://www.xmoney.cc/en/?rid=7" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://www.xmoney.cc/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+					</div>
+					English
+				</a>
+			</div>
+		</div></div>			
+								
+									<div class="topbar_icon telegram">
+						<a href="https://t.me/@xmoneycc">@xmoneycc</a>
+					</div>		
+				
+				
+				
+								
+				
+									<div class="topbar_icon skype">
+						<a href="skype:xmoneycc?add" title="Добавить в skype">xmoneycc</a>
+					</div>		
+								
+									<div class="topbar_icon email">
+						<a href="/cdn-cgi/l/email-protection#b791948687828cd991948687858c91948686868c919481838c91948685878c919486878e8c91948686868cd9d2ce919483818c91948e8e8cd4">in&#102;o&#64;&#120;m&#111;&#110;e&#121;&#46;&#99;&#99;</a>
+					</div>		
+				
+									<div class="topbar_phone">
+						10:00 - 23:00 МСК					</div>		
+								
+			
+									<a href="https://www.xmoney.cc/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://www.xmoney.cc/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://www.xmoney.cc">
+													
+															<img src="https://www.xmoney.cc/wp-content/uploads/78-1.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu" class="tmenu js_menu"><li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-517 current_page_item  first_menu_li menu-item-519"><a href="https://www.xmoney.cc/"><span>Обмен</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://www.xmoney.cc/news/"><span>Новости</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://www.xmoney.cc/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://www.xmoney.cc/kurses/"><span>Курсы</span></a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu menu-item-300"><a href="#"><span>Инфо</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://www.xmoney.cc/terms-of-use/"><span>Пользовательское соглашение</span></a></li>
+	<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a href="https://www.xmoney.cc/terms-personal-data/"><span>Соглашение по обработке персональных данных</span></a></li>
+	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="https://www.xmoney.cc/privacy-policy/"><span>Политика конфиденциальности</span></a></li>
+	<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://www.xmoney.cc/refund-policy/"><span>Политика возврата платежей</span></a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="https://www.xmoney.cc/aml/"><span>Политика AML/KYC</span></a></li>
+	<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a href="https://www.xmoney.cc/discount/"><span>Программа лояльности</span></a></li>
+	<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="https://www.xmoney.cc/affiliate/"><span>Партнерская программа</span></a></li>
+	<li id="menu-item-299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299"><a href="https://www.xmoney.cc/faq/"><span>Частые вопросы (FAQ)</span></a></li>
+	<li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="https://www.xmoney.cc/notice/"><span>Предупреждение</span></a></li>
+	<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="https://www.xmoney.cc/vacancy/"><span>Вакансии</span></a></li>
+</ul>
+</li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://www.xmoney.cc/contacts/"><span>Поддержка</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+			
+		
+				<div class="homepage_wrap">
+
+		
+	<div class="xchange_table_wrap">
+		
+	<div class="xchange_type_list">
+		<div class="xchange_type_list_ins">
+
+			<div class="xtl_table_wrap">
+				<div class="xtl_table_wrap_ins">
+					<div class="xtl_table_top">
+				
+						<div class="xtl_left_col">
+							<div class="xtl_table_title">
+								<div class="xtl_table_title_ins">
+									Вы отдаете
+								</div>
+							</div>
+								<div class="clear"></div>									
+						</div>
+						
+						<div class="xtl_right_col">
+							<div class="xtl_table_title">
+								<div class="xtl_table_title_ins">
+									Вы получаете
+								</div>
+							</div>
+								<div class="clear"></div>											
+						</div>
+							<div class="clear"></div>				
+				
+					</div>
+					<div class="xtl_html_wrap">
+						<div class="xtl_html_abs js_loader"></div>
+						
+						<div id="js_html">
+
+							
+		<div class="xtl_table_body_wrap">
+			<div class="xtl_left_col">
+									
+				<div class="xtl_ico_wrap">
+					<div class="xtl_ico" style="background: url(/images/payment_icons/perfectmoney.png) no-repeat center center;"></div>
+				</div>
+										
+				<div class="xtl_select_wrap">
+					<select name="" id="js_left_sel" class="js_my_sel" autocomplete="off"><option value="69"  data-img="/images/payment_icons/ethereum.png">Ethereum ETH</option><option value="78"  data-img="/images/payment_icons/ripple.png">Ripple XRP</option><option value="74"  data-img="/images/payment_icons/Exmo.png">EXMO USD</option><option value="73"  data-img="/images/payment_icons/Exmo.png">EXMO RUB</option><option value="3"  selected='selected' data-img="/images/payment_icons/perfectmoney.png">Perfect Money USD</option><option value="19"  data-img="/images/payment_icons/payeer.png">Payeer USD</option><option value="31"  data-img="/images/payment_icons/payeer.png">Payeer RUB</option><option value="24"  data-img="/images/payment_icons/advcash.png">Advanced Cash USD</option><option value="67"  data-img="/images/payment_icons/advcash.png">Advanced Cash RUB</option><option value="89"  data-img="/images/payment_icons/webmoney.png">Paymer RUB</option><option value="84"  data-img="/images/payment_icons/yandex.png">Яндекс.Деньги RUB</option><option value="85"  data-img="/images/payment_icons/visa.png">VISA/MC RUB</option>	
+					</select>						
+				</div>													
+			
+			</div>
+			<div class="xtl_center_col">
+				<a href="#" class="xtl_change" id="js_reload_table"></a>
+			</div>
+			<div class="xtl_right_col">
+
+				<div class="xtl_ico_wrap">
+					<div class="xtl_ico" style="background: url(/images/payment_icons/yandex.png) no-repeat center center;"></div>
+				</div>
+
+				<div class="xtl_select_wrap">
+					<select name="" id="js_right_sel" class="js_my_sel" autocomplete="off"><option value="20"  data-img="/images/payment_icons/bitcoin.png">Bitcoin BTC</option><option value="70"  data-img="/images/payment_icons/ltc.png">Litecoin LTC</option><option value="69"  data-img="/images/payment_icons/ethereum.png">Ethereum ETH</option><option value="78"  data-img="/images/payment_icons/ripple.png">Ripple XRP</option><option value="24"  data-img="/images/payment_icons/advcash.png">Advanced Cash USD</option><option value="67"  data-img="/images/payment_icons/advcash.png">Advanced Cash RUB</option><option value="19"  data-img="/images/payment_icons/payeer.png">Payeer USD</option><option value="31"  data-img="/images/payment_icons/payeer.png">Payeer RUB</option><option value="87"  data-img="/images/payment_icons/mobile.png">Счёт телефона RUB</option><option value="84"  selected='selected' data-img="/images/payment_icons/yandex.png">Яндекс.Деньги RUB</option><option value="85"  data-img="/images/payment_icons/visa.png">VISA/MC RUB</option>		
+					</select>						
+				</div>
+	
+			</div>
+				<div class="clear"></div>	
+		</div>
+			<div class="xtl_table_body">				
+				<div class="xtl_left_col">
+						<div class="xtl_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name="sum1"  autocomplete="off" cash-id="sum1" data-decimal="4" class="js_decimal js_sum1 cache_data" value="1" />
+							<div class="js_error js_sum1_error"></div>
+						</div>
+						<div class="xtl_commis_wrap js_wrap_error js_wrap_error_br " ><input type="text" name=""  autocomplete="off" class="js_decimal js_sum1c" data-decimal="4" value="1.005" />
+							<div class="xtl_commis_text">С комиссией</div>
+								<div class="js_error js_sum1c_error"></div>				
+							<div class="clear"></div>
+						</div>
+				</div>
+				<div class="xtl_center_col">
+				</div>
+				<div class="xtl_right_col">
+						<div class="xtl_input_wrap js_wrap_error js_wrap_error_br "><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2" data-decimal="4" value="64.4021" />
+							<div class="js_error js_sum2_error"></div>	
+						</div>
+						<div class="xtl_commis_wrap js_wrap_error js_wrap_error_br " style="display: none;"><input type="text" name=""  autocomplete="off" class="js_decimal js_sum2c" data-decimal="4" value="64.4021" /> 
+							<div class="xtl_commis_text">С комиссией</div>
+								<div class="js_error js_summ2c_error"></div>				
+								<div class="clear"></div>
+						</div>
+							<div class="xtl_line xtl_exchange_rate">
+								Курс обмена: <span class="js_curs_html">1 USD = 64.4021 RUB</span>
+							</div>						
+							
+		<div class="xtl_line xtl_exchange_reserve">
+			Резерв: <span class="js_reserv_html">1 276.983 RUB</span> <a href="#" class="xtp_link js_reserv" data-id="764" data-title="Perfect Money USD-Яндекс.Деньги RUB">Не хватает?</a> 
+		</div>														
+					
+				</div>
+					<div class="clear"></div>	
+			</div>	
+		<input type="hidden" name="" class="js_direction_id" value="764" />
+		<div class="xtl_submit_wrap">
+			<div class="xtl_submit_ins">
+				<a href="https://www.xmoney.cc/exchange_perfect_money_usd_to_yandex_money/" class="xtl_submit js_exchange_link " id="js_submit_button" data-direction-id="764">Обменять</a>
+					<div class="clear"></div>
+			</div>	
+		</div>
+						
+						</div>
+					</div>	
+				</div>
+			</div>
+			
+		</div>
+	</div>	
+		</div>
+
+		
+	
+		<div class="home_text_wrap">
+		<div class="home_text_ins">
+			<div class="home_text_abs"></div>
+			<div class="home_text_block">
+				<div class="home_text_title">Общая информация о работе торговой площадки</div>
+				<div class="home_text_div">
+					<div class="text">
+						<p style="text-align: justify;"><strong>Описание: </strong>Торговая площадка XMoney.cc осуществляет посредническую деятельность в сфере электронной коммерции, позволяя клиентам покупать и продавать криптовалюту, а так же, титульные знаки различных платежных систем. Обратите внимание,  все обмены, кроме вывода средств на банковскую карту и счёт мобильного телефона, обрабатываются в автоматическом режиме, что позволяет увеличить скорость обслуживания.</p>
+<p style="text-align: justify;"><strong>Гарантии и график работы:</strong> Торговая площадка XMoney является сертифицированным партнером следующих электронных платежных систем: Perfect Money, Payeer и Advanced Cash ссылку и описание сервиса, можете найти в каталогах партнёров платежных систем. Поддержка клиентов работает ежедневно с 10-00 до 23-00 по Московскому времени. Все счета используемые на сайте верифицированы, наши сотрудники обработали более 57 000 торговых операций.</p>
+<p style="text-align: justify;"><strong>Безопасность: </strong>Защищенное соединение HTTPS обеспечивает безопасность ваших данных таким образом, что они будут известны только администрации площадки. Сертификат SSL позволяет установить безопасное соединение между вашим браузером и сервером сайта XMoney.cc, это исключает случаи подмены данных. Предупреждаем наших клиентов &#8212; мы никогда не пишем никому с предложением осуществить обмен, все операции проводятся только через интерфейс сайта, с оплатой заявок через мерчанты платежных систем. Согласно политики AML/KYC, сотрудники сервиса, имеют право требовать пройти идентификацию личности или используемых электронных платежных средств, любого клиента. Согласно политики конфиденциальности персональные данные клиента не подлежат разглашению. Все каналы связи используются исключительно для консультации клиентов.</p>
+<p style="text-align: justify;"><strong>Ограничения:</strong> Мы не предоставляем услуги физическим лицам или компаниям, базирующимся в Соединенных Штатах Америки, Афганистане, Ираке, Иране, Йемене, Ливане, Ливии, Пакистане, Северной Корее, Сирии, Сомали, Судане (включая граждан этих стран, живущих за пределами своей страны). Если Вы попадаете под вышеупомянутую категорию, пожалуйста, не регистрируйте у нас аккаунт, не создавайте заявок на обмен в любом направлении.</p>
+<p><iframe width="850" height="478" src="https://www.youtube.com/embed/rR4VpjNonaA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+			
+	
+		<div class="home_reviews_wrap">
+		<div class="home_reviews_ins">
+			<div class="home_reviews_abs"></div>
+			<div class="home_reviews_block">
+				<div class="home_reviews_title">Отзывы</div>
+				
+				<div class="home_reviews_div">
+					<div class="home_reviews_div_ins">
+				
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Людмила, 17.03.2019, 14:38</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Отличный сервис! Мгновенный обмен! Спасибо за отличную работу.</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Marina, 16.03.2019, 10:31</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Огромное спасибо! Обмен совершен буквально за 1-2 секунды. Рекомендую всем!</div>
+						</div>			
+					
+										
+						<div class="home_reviews_one">
+							<div class="home_reviews_abs"></div>
+							<div class="home_reviews_date">Ирина, 16.03.2019, 10:00</div>
+								<div class="clear"></div>
+							<div class="home_reviews_content">Обменник классный, минималка приемлеая и скорость зашкаливает. СПАСИБО.</div>
+						</div>			
+					
+									
+						<div class="clear"></div>
+					</div>
+				</div>
+				
+				<a href="https://www.xmoney.cc/reviews/" class="home_reviews_more">Все отзывы</a>
+			</div>
+		</div>
+	</div>
+		
+	
+	
+		<div class="home_lchange_wrap">
+		<div class="home_lchange_wrap_ins">
+			<div class="home_lchange_block">
+				<div class="home_lchange_title">Последние обмены</div>
+				
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">18.03.2019, 12:36</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/images/payment_icons/ethereum.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">0.025</div>
+									<div class="home_lchange_name">ETH</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/images/payment_icons/payeer.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">217.1095</div>
+									<div class="home_lchange_name">RUB</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+									<div class="home_lchange_one">
+						<div class="home_lchange_date">18.03.2019, 09:38</div>
+						<div class="home_lchange_body">
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/images/payment_icons/visa.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">1408.4</div>
+									<div class="home_lchange_name">RUB</div>
+								</div>
+									<div class="clear"></div>
+							</div>
+							
+							<div class="home_lchange_arr"></div>
+							
+							<div class="home_lchange_why">
+								<div class="home_lchange_ico" style="background: url(/images/payment_icons/bitcoin.png) no-repeat center center;"></div>
+								<div class="home_lchange_txt">
+									<div class="home_lchange_sum">0.0047</div>
+									<div class="home_lchange_name">BTC</div>
+								</div>
+							</div>				
+								<div class="clear"></div>
+						</div>
+					</div>
+					
+					<div class="clear"></div>
+			</div>	
+		</div>
+	</div>	
+		
+			<div class="home_news_wrap">
+			<div class="home_news_wrap_ins">
+				<div class="home_news_abs"></div>
+				<div class="home_news_block">
+					<div class="home_news_title">Новости</div>
+					
+					<div class="home_news_div">
+						<div class="home_news_div_ins">
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">18.03.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://www.xmoney.cc/novoe-ob-yavlenie-avtomaticheskiy-vyivod-na-bankovskie-kartyi/">Новое объявление: автоматический вывод на банковские карты</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">14.02.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://www.xmoney.cc/novoe-ob-yavlenie-skidki/">Новое объявление: Скидки</a></div>
+								</div>
+							</div>			
+						
+												
+							<div class="home_news_one">
+								<div class="home_news_abs"></div>
+								<div class="home_news_one_ins">
+									<div class="home_news_date">16.01.2019</div>
+										<div class="clear"></div>
+									<div class="home_news_content"><a href="https://www.xmoney.cc/konkurs-samyiy-aktivnyiy-podpischik/">Новый конкурс: Активный подписчик</a></div>
+								</div>
+							</div>			
+						
+											
+							<div class="clear"></div>
+						</div>
+					</div>
+					
+					<a href="https://www.xmoney.cc/news/" class="home_news_more">Все новости</a>
+				</div>
+			</div>
+		</div>
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/bitcoin.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Bitcoin BTC										</div>
+										<div class="one_home_reserv_sum">
+											0.35777										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/ltc.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Litecoin LTC										</div>
+										<div class="one_home_reserv_sum">
+											23.6597										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/ethereum.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ethereum ETH										</div>
+										<div class="one_home_reserv_sum">
+											47.579										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/ripple.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ripple XRP										</div>
+										<div class="one_home_reserv_sum">
+											17 002.4246										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Advanced Cash USD										</div>
+										<div class="one_home_reserv_sum">
+											72.26										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer USD										</div>
+										<div class="one_home_reserv_sum">
+											9.44										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/perfectmoney.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Perfect Money USD										</div>
+										<div class="one_home_reserv_sum">
+											869.13										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/yandex.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Яндекс.Деньги RUB										</div>
+										<div class="one_home_reserv_sum">
+											1 283.4										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Advanced Cash RUB										</div>
+										<div class="one_home_reserv_sum">
+											210.77										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/payeer.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Payeer RUB										</div>
+										<div class="one_home_reserv_sum">
+											21 141.07										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/mobile.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Счёт телефона RUB										</div>
+										<div class="one_home_reserv_sum">
+											25 000.13										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/images/payment_icons/visa.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											VISA/MC RUB										</div>
+										<div class="one_home_reserv_sum">
+											30 692.88										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>														
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins">
+			<div class="home_partner_block">
+				<div class="home_partner_title">Партнеры</div>
+
+										<div class="home_partner_one">
+							<a href="/out/bestchange.html" target="_blank">								<img src="/images/footer/bestchange.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="/out/kursexpert.html" target="_blank">								<img src="/images/footer/kursexpert.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="/out/okchanger.html" target="_blank">								<img src="/images/footer/okchanger.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="/out/kursescomua.html" target="_blank">								<img src="/images/footer/kurses.jpg" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="/out/udifo.html" target="_blank">								<img src="/images/footer/udifo_logo.png" alt="" />
+							</a>						</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>2015-2019 © XMoney &#8212; это торговая площадка осуществляющая посредническую деятельность в сфере электронной коммерции.</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu" class="fmenu"><li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-617"><a href="https://www.xmoney.cc/terms-of-use/"><span>Пользовательское соглашение</span></a></li>
+<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="https://www.xmoney.cc/privacy-policy/"><span>Политика конфиденциальности</span></a></li>
+<li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="https://www.xmoney.cc/refund-policy/"><span>Политика возврата платежей</span></a></li>
+<li id="menu-item-872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-872"><a href="https://www.xmoney.cc/aml/"><span>Политика AML/KYC</span></a></li>
+<li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-903"><a href="https://www.xmoney.cc/vacancy/"><span>Вакансии</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="https://vk.com/xmoneycc" class="" target="_blank" rel="nofollow"><img src="https://www.xmoney.cc/wp-content/themes/xmoney21/images/vk-ico.png" alt="" /></a>
+													<a href="https://facebook.com/xmoneycc" class="" target="_blank" rel="nofollow"><img src="https://www.xmoney.cc/wp-content/themes/xmoney21/images/fb-ico.png" alt="" /></a>
+													<a href="https://twitter.com/xmoneycc" class="" target="_blank" rel="nofollow"><img src="https://www.xmoney.cc/wp-content/themes/xmoney21/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://www.xmoney.cc/ajax-set_site_vers.html?meth=get&yid=386e1128dc7b&lang=ru&set=mobile&return_url=%2F%3Frid%3D7">Мобильная версия</a></div>
+							</div>
+			
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p style="text-align: justify;">Оператор в сети ежедневно, без перерывов и выходных с 10:00 до 23:00 по московскому времени. <br />Наш сервис более 3.5 лет на рынке, мы осуществляем посреднические операции по покупке и продаже электронной валюты в 125 направлениях, самых популярных платежных систем и криптовалют.</p>
+				</div>
+								
+			
+			</div>	
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D7';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://www.xmoney.cc/ajax-globalajax_wp_check.html?meth=post&yid=386e1128dc7b&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+									}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 35000);
+	globalajax_timer();
+});	
+</script>
+
+		<div class="reserv_box_html" style="display: none;">
+			<div class="resultgo"></div>
+					
+			
+				<div class="form_field_line rb_line type_input  field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input  field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_text  field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+	<div class="captcha_div">
+		<div class="captcha_title">
+			Введите ответ
+		</div>
+		<div class="captcha_body">
+			<div class="captcha_divimg">
+				<img src="https://www.xmoney.cc/wp-content/uploads/captcha/1552903136764288.png" class="captcha1" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				<span class="captcha_sym">-</span>
+			</div>	
+			<div class="captcha_divimg">
+				<img src="https://www.xmoney.cc/wp-content/uploads/captcha/1552903136262419.png" class="captcha2" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				=
+			</div>
+			<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			<a href="#" class="captcha_reload" title="заменить задачу"></a>
+				<div class="clear"></div>
+		</div>
+	</div>		
+	
+					
+			<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+		</div>	
+		
+		<form method="post" class="ajax_post_form" action="https://www.xmoney.cc/ajax-reservform.html?meth=post&yid=386e1128dc7b&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+			<div class="reserv_box"></div>
+		</form>
+			<a href="/contacts/" class="statuswork_div status_op1 toright">
+	<div class="statuswork_div_ins">
+		<div class="statuswork">
+			<div class="statuswork_ins">
+				<div class="statuswork_title"><span>Оператор ONLINE</span></div>
+				<div class="statuswork_date"><span>18.03.2019, 12:58</span></div>
+			</div>	
+		</div>
+	</div>
+	</a>
+<script type='text/javascript' src='https://www.xmoney.cc/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+</body>
+</html>

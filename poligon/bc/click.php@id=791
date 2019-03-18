@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="UTF-8">
+	<title>Обменник - Обмен электронных валют, продать, купить онлайн, Узбекистан</title>
+			
+	<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7COpen+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bs-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='adaptive-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/adaptive.css?ver=4.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='bs3-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/bs3.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bs4-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/bs4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/media-responsive.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/js/jquery-1.8.3.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='https://webobmen.uz/wp-content/plugins/exchangebox/js/jquery-ui-1.9.2.custom.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='https://webobmen.uz/wp-content/plugins/exchangebox/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/js/all.js?ver=1.0'></script>
+<script type='text/javascript' src='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://webobmen.uz/wp-content/themes/exchangeboxtheme2/js/menu.js?ver=4.4.15'></script>
+<script type='text/javascript' src='https://webobmen.uz/wp-content/plugins/exchangebox/jsphp/js.php?ver=1.0'></script>
+<link rel='https://api.w.org/' href='https://webobmen.uz/wp-json/' />
+<link rel='canonical' href='https://webobmen.uz/' />
+<link rel="shortcut icon" href="https://webobmen.uz/wp-content/uploads/favicon.png" type="image/png" />
+<link rel="icon" href="https://webobmen.uz/wp-content/uploads/favicon.png" type="image/png" />
+	
+	
+		
+
+</head>
+
+<body class="home page page-id-151 page-template page-template-exb-pluginpage page-template-exb-pluginpage-php">
+<div id="wrapper">
+	<div class="headline"></div>
+    <header class="header-section">
+		<!-- Header social & Contact Info -->
+<div class="header-info">
+		
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div id="top-header-sidebar-left">
+					<aside id="elitepress_header_widget" class="widget elitepress_header_widget">	
+						<div class="contact-area">
+							<div class="media">
+								<div class="contact-icon">
+									<i class="fa fa-clock-o"></i>
+								</div>
+								<div class="media-body">
+									<h4>Время работы:</h4>
+									<div class="worktime"><p>Ежедневно с 10:00 до 24:00. звонки до 20:00</p>
+</div>
+								</div>
+							</div>
+						</div>
+					</aside>									
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div id="top-header-sidebar-right">
+					<aside id="elitepress_header_widget" class="widget elitepress_header_widget">	
+						<div class="contact-area">
+							<div class="media">
+								<div class="contact-icon">
+									<i class="fa fa-mobile"></i>
+								</div>
+								<div class="media-body">
+									<h4>Телефон:</h4>
+									<h5>+998 71 2001171</h5>
+								</div>
+							</div>
+						</div>
+					</aside>
+				</div>
+			</div>
+		</div>		
+	</div>
+</div>
+<!-- /Logo goes here -->
+<div class="container">
+	<div class="row">
+		<div class="col-md-3">
+			<div class="site-logo">
+								<a href="https://webobmen.uz" title="Обменник"><img class="logo-img" src="https://webobmen.uz/wp-content/uploads/logo7.png" alt="Обменник" /></a>
+							<div class="link_contacts" style="display: none;"></div>
+			</div>
+		</div>	
+		
+		<div class="col-md-9 continforms">
+			<div class="row">
+			<!-- <div id="elitepress_header_widget" class="col-md-4 col-sm-4 widget elitepress_header_widget">	
+					<div class="contact-area">
+						<div class="media">
+							<div class="contact-icon">
+								<i class="fa fa-envelope"></i>
+							</div>
+							<div class="media-body">
+								<h4>Наш email:</h4>
+								<h5><a href="mailto:&#105;nfo&#64;&#119;e&#98;&#111;&#98;&#109;en.uz">&#105;&#110;fo&#64;&#119;e&#98;&#111;bm&#101;n.u&#122;</a></h5>							</div>
+						</div>
+					</div>
+				</div>
+				<div id="elitepress_header_widget" class="col-md-4 col-sm-4 widget elitepress_header_widget">	
+					<div class="contact-area">
+						<div class="media">
+							<div class="contact-icon">
+								<i class="fa fa-telegram"></i>
+							</div>
+							<div class="media-body">
+								<h4>Наш телеграм:</h4>
+								<h5><a target="_blank" href="https://t.me/@webobmen_uz">@@webobmen_uz</a></h5>							</div>
+						</div>
+					</div>
+				</div> -->
+				<div id="elitepress_header_widget-4" class="col-md-4 col-sm-4 widget elitepress_header_widget">	
+			<div class="contact-area">
+				<div class="media">
+					<div class="contact-icon">
+												<i class="fa fab fa-telegram"></i>
+											</div>
+					<div class="media-body">
+												<h4>TG-bot</h4>
+																		<h5><a href="https://t.me/webobmenuzbot" target="_blank">@webobmenuzbot</a></h5>
+											</div>
+				</div>
+			</div>
+
+	</div><div id="elitepress_header_widget-3" class="col-md-4 col-sm-4 widget elitepress_header_widget">	
+			<div class="contact-area">
+				<div class="media">
+					<div class="contact-icon">
+												<i class="fa fab fa-telegram"></i>
+											</div>
+					<div class="media-body">
+												<h4>TG-channel</h4>
+																		<h5><a href="https://t.me/webobmen_uz" target="_blank">@webobmen_uz</a></h5>
+											</div>
+				</div>
+			</div>
+
+	</div><div id="elitepress_header_widget-2" class="col-md-4 col-sm-4 widget elitepress_header_widget">	
+			<div class="contact-area">
+				<div class="media">
+					<div class="contact-icon">
+												<i class="fa fas fa-envelope-square"></i>
+											</div>
+					<div class="media-body">
+												<h4>E-mail</h4>
+																		<h5><a href="mailto:info@webobmen.uz" target="_blank">info@webobmen.uz</a></h5>
+											</div>
+				</div>
+			</div>
+
+	</div>			</div>
+		</div>		
+	</div>
+</div>
+
+<!-- Navigation Section -->
+<div class="menu-section" style="background: transparent; border-top: 1px solid #ebebeb;">
+		<nav role="navigation" class="navbar navbar-default">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->		
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			  <span class="sr-only">Toggle navigation</span>Меню сайта			</button>
+		</div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse">
+					<ul id="menu-verhnee-menyu" class="nav navbar-nav navbar-nav-active"><li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu first_menu_li menu-item-130 dropdown"><a title="Обмен электронных валют в Узбекистане" href="/">Обмен валют<b class=""></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="https://webobmen.uz/tos/">Правила</a></li>
+</ul>
+</li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://webobmen.uz/tarifs/">Курсы валют</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-253"><a href="https://webobmen.uz/category/novosti/">Новости</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://webobmen.uz/reviews/">Отзывы</a></li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://webobmen.uz/feedback/">Контакты</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has_sub_menu last_menu_li menu-item-171 dropdown"><a href="#">Кабинет<b class=""></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://webobmen.uz/login/">Авторизация</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://webobmen.uz/register/">Условия и регистрации</a></li>
+</ul>
+</li>
+</ul>		</div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+	</div>
+	</header>
+	
+				
+	
+	<div class="blog-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 contentblock">
+						<div class="site-content">
+							
+
+	
+	    		
+
+		
+		<div class="homeobmentable">
+	<div class="lefthomecol"><div class="lefthomecolvn"><div class="widgethometitle"><div class="widt">Отдаете</div></div><div class="onehline leftgo act" id="napobmen-19">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						UzCard UZS
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-17">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						WebMoney USD
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-20">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						WebMoney RUB
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-13">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Qiwi RUB
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-21">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Qiwi USD
+					</div>
+				        <div class="clear"></div>
+			</div><div class="onehline leftgo " id="napobmen-18">
+                <div class="onehlug"></div>
+				<div class="onehldopug"></div>
+				<div class="onehlineico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+					<div class="onehlinetext">
+						Яндекс.Деньги RUB
+					</div>
+				        <div class="clear"></div>
+			</div></div></div><div class="righthomecol"><div class="righthomecolvn">
+	<div class="widgethometitle2">
+		<div class="widt1">Получаете</div>
+		<div class="widt2">Резерв</div>
+			<div class="clear"></div>
+	</div>
+	<div class="tabhome act" id="napobmento-19"><a href="https://webobmen.uz/xchange_UzCardPlastik_to_WebMoneyWMZ/" class="onehrine">
+								<input type="hidden" value="UzCardPlastik" name="xname1" />
+								<input type="hidden" value="WebMoneyWMZ" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney USD" name="17">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									7391.58
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_UzCardPlastik_to_WebMoneyWMR/" class="onehrine">
+								<input type="hidden" value="UzCardPlastik" name="xname1" />
+								<input type="hidden" value="WebMoneyWMR" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney RUB" name="20">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									223088.16
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_UzCardPlastik_to_QiwiRUB/" class="onehrine">
+								<input type="hidden" value="UzCardPlastik" name="xname1" />
+								<input type="hidden" value="QiwiRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									387729.05
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_UzCardPlastik_to_QiwiUSD/" class="onehrine">
+								<input type="hidden" value="UzCardPlastik" name="xname1" />
+								<input type="hidden" value="QiwiUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi USD" name="21">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									2.84
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_UzCardPlastik_to_YandexMoney/" class="onehrine">
+								<input type="hidden" value="UzCardPlastik" name="xname1" />
+								<input type="hidden" value="YandexMoney" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Яндекс.Деньги RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" name="18">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									322480.47
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-17"><a href="https://webobmen.uz/xchange_WebMoneyWMZ_to_UzCardPlastik/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMZ" name="xname1" />
+								<input type="hidden" value="UzCardPlastik" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									UzCard UZS
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="UzCard UZS" name="19">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									11727809.63
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_WebMoneyWMZ_to_QiwiRUB/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMZ" name="xname1" />
+								<input type="hidden" value="QiwiRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									387729.05
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_WebMoneyWMZ_to_QiwiUSD/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMZ" name="xname1" />
+								<input type="hidden" value="QiwiUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi USD" name="21">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									2.84
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_WebMoneyWMZ_to_YandexMoney/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMZ" name="xname1" />
+								<input type="hidden" value="YandexMoney" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Яндекс.Деньги RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" name="18">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									322480.47
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-20"><a href="https://webobmen.uz/xchange_WebMoneyWMR_to_UzCardPlastik/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMR" name="xname1" />
+								<input type="hidden" value="UzCardPlastik" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									UzCard UZS
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="UzCard UZS" name="19">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									11727809.63
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_WebMoneyWMR_to_QiwiRUB/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMR" name="xname1" />
+								<input type="hidden" value="QiwiRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									387729.05
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_WebMoneyWMR_to_QiwiUSD/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMR" name="xname1" />
+								<input type="hidden" value="QiwiUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi USD" name="21">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									2.84
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_WebMoneyWMR_to_YandexMoney/" class="onehrine">
+								<input type="hidden" value="WebMoneyWMR" name="xname1" />
+								<input type="hidden" value="YandexMoney" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Яндекс.Деньги RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" name="18">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									322480.47
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-13"><a href="https://webobmen.uz/xchange_QiwiRUB_to_UzCardPlastik/" class="onehrine">
+								<input type="hidden" value="QiwiRUB" name="xname1" />
+								<input type="hidden" value="UzCardPlastik" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									UzCard UZS
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="UzCard UZS" name="19">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									11727809.63
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_QiwiRUB_to_WebMoneyWMZ/" class="onehrine">
+								<input type="hidden" value="QiwiRUB" name="xname1" />
+								<input type="hidden" value="WebMoneyWMZ" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney USD" name="17">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									7391.58
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_QiwiRUB_to_WebMoneyWMR/" class="onehrine">
+								<input type="hidden" value="QiwiRUB" name="xname1" />
+								<input type="hidden" value="WebMoneyWMR" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney RUB" name="20">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									223088.16
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_QiwiRUB_to_YandexMoney/" class="onehrine">
+								<input type="hidden" value="QiwiRUB" name="xname1" />
+								<input type="hidden" value="YandexMoney" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Яндекс.Деньги RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" name="18">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									322480.47
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-21"><a href="https://webobmen.uz/xchange_QiwiUSD_to_UzCardPlastik/" class="onehrine">
+								<input type="hidden" value="QiwiUSD" name="xname1" />
+								<input type="hidden" value="UzCardPlastik" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									UzCard UZS
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="UzCard UZS" name="19">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									11727809.63
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_QiwiUSD_to_WebMoneyWMZ/" class="onehrine">
+								<input type="hidden" value="QiwiUSD" name="xname1" />
+								<input type="hidden" value="WebMoneyWMZ" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney USD" name="17">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									7391.58
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_QiwiUSD_to_WebMoneyWMR/" class="onehrine">
+								<input type="hidden" value="QiwiUSD" name="xname1" />
+								<input type="hidden" value="WebMoneyWMR" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney RUB" name="20">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									223088.16
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_QiwiUSD_to_YandexMoney/" class="onehrine">
+								<input type="hidden" value="QiwiUSD" name="xname1" />
+								<input type="hidden" value="YandexMoney" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Яндекс.Деньги RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Яндекс.Деньги RUB" name="18">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									322480.47
+							</div>
+								<div class="clear"></div>
+							</a></div><div class="tabhome " id="napobmento-18"><a href="https://webobmen.uz/xchange_YandexMoney_to_UzCardPlastik/" class="onehrine">
+								<input type="hidden" value="YandexMoney" name="xname1" />
+								<input type="hidden" value="UzCardPlastik" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									UzCard UZS
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="UzCard UZS" name="19">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									11727809.63
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_YandexMoney_to_WebMoneyWMZ/" class="onehrine">
+								<input type="hidden" value="YandexMoney" name="xname1" />
+								<input type="hidden" value="WebMoneyWMZ" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney USD" name="17">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									7391.58
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_YandexMoney_to_WebMoneyWMR/" class="onehrine">
+								<input type="hidden" value="YandexMoney" name="xname1" />
+								<input type="hidden" value="WebMoneyWMR" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									WebMoney RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="WebMoney RUB" name="20">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									223088.16
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_YandexMoney_to_QiwiRUB/" class="onehrine">
+								<input type="hidden" value="YandexMoney" name="xname1" />
+								<input type="hidden" value="QiwiRUB" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi RUB
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi RUB" name="13">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									387729.05
+							</div>
+								<div class="clear"></div>
+							</a><a href="https://webobmen.uz/xchange_YandexMoney_to_QiwiUSD/" class="onehrine">
+								<input type="hidden" value="YandexMoney" name="xname1" />
+								<input type="hidden" value="QiwiUSD" name="xname2" />
+							<div class="onehrineico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+								<div class="onehrinetext">
+									Qiwi USD
+								</div>
+								<div class="onehrinerezerv">
+								<div class="zaprosvalutrelvn" title="Qiwi USD" name="21">
+									<div class="zaprosvalutrel">
+										<span>Не хватает?</span>
+									</div>
+								</div>
+									2.84
+							</div>
+								<div class="clear"></div>
+							</a></div></div></div><div class="clear"></div>
+			<div class="clear"></div>
+		</div>
+	
+				
+		
+	    			
+	
+	<div class="clear"></div>
+		
+	
+		</div>
+			</div>
+			<!--/Blog Area-->
+			<!--Sidebar Area-->
+			<div class="col-md-4">
+				<div class="sidebar-section-right">
+				
+	
+	
+	<div class="statuswork_widget online"><div class="statuswork_widgetvn">
+		<div class="statuswork_widget_text">Оператор <span class="opstatus">online</span></div><div class="statuswork_widget_time">18.03.2019 14:47:09</div>
+	</div></div>
+	
+			<div class="login_widget">
+				<div class="login_widgetvn">
+				<div class="loginwidget_title"><div class="loginwidget_titlevn">Авторизация</div></div>
+					<form method="post" class="exbajaxpostform" action="https://webobmen.uz/ajax-loginform.html?notcsrf=8b17a737e3">
+		<div class="resultgo"></div>
+		<div class="wline">
+			<input type="text" name="login" placeholder="Логин" value="" />
+		</div>
+		<div class="wline">
+			<input type="password" name="pass" placeholder="Пароль" value="" />
+		</div>	
+					
+		
+					
+		<div class="wlineleft">
+			<p><a class="reglinks" href="https://webobmen.uz/register/">Регистрация</a></p>
+			<p><a class="reglinks" href="https://webobmen.uz/lostpass/">Забыли пароль?</a></p>
+		</div>
+		<div class="wlineright">
+			<input class="btn btn-primary regbtn" type="submit" formtarget="_top" value="Войти" />
+		</div>                    				
+			<div class="clear"></div>	
+	
+					</form>
+				</div>
+			</div>
+			<aside class="sidebar-widget widget">			<div class="textwidget"><p>Зарегистрируйся и получи скидки до 3%</p>
+<p>Ro'yxatdan o'ting va 3%gacha chegirmada oling</p>
+</div>
+		</aside>				</div>
+				<div class="clear"></div>
+			</div>
+			</div>
+		</div>	
+	</div>
+		    <section class="fcwidget">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="fcwtitle">
+							<div class="fcwtitlevn">
+															</div>
+						</div>
+						<h1 class="xchangestep1title js_exchangestep_title">Онлайн обменник электронных валют</h1>
+<p>WebObmen.uz &#8212; это специализированная онлайн-служба для <strong> ввод/вывод и обмена электронных валют</strong>! В приведенной ниже таблице показаны самые низкие курсы для самых популярных направлений обмена на территории Узбекистана. Чтобы получить более детальную информацию по пополнению <em>электронных денег</em> в определенном направлении, выберите интересующую Вас валютную пару. Зарегистрированным пользователям предоставляется скидки. А также они могут участвовать в партнерской программе для получении денежных вознаграждений. Обращаем Ваше внимания что только у нас на сайте существует большие скидки на <span style="text-decoration: underline;">покупку электронную валюту</span> и большие процентные вознаграждении в виде бонуса <strong>до 2%</strong> за участия в нашей партнерской программе. Для повышения общей безопасности и высокой надежности, сайт работает в полуавтоматическом режиме! Электронная валюта не может стоит дешево, а может приобретаться только по выгодной цене, которого наш сайт предоставляет Вам! Наш сайт отличается от других самыми низкими ценами, надежностью и оперативностью. Наша функция &#8212; помочь пользователям обменять один тип электронной валюты на другой. Наши основные услуги: покупка, продажа и обмен электронной валюты, независимо от того, где бы вы ни находились в мире, но в основном наши посетители это жители Узбекистана. Вы можете обменять электронную валюту в течение нескольких минут. Наш сервис доступен 24/7/365 дней , так-же на сайте можно узнать <strong>курс электронных валют</strong>. Лучшие тарифы для самых популярных направлений конверсии в том числе для направлении &#171;<a href="https://webobmen.uz/xchange_UzCardPlastik_to_QiwiRUB/">киви рублей за Узкард</a>&#187;  всегда Вы можете найти на нашем сайте! Мы представляем свои услуги на территории Узбекитсана и в частности в больших городах таких как Ташкент, Чирчик, Алмалык, Ангрен, Андижан, Асака, Бухара, Каган, Джиззак, Карши, Шахрисабз, Навои, Зарафшан, Наманган, Чуст, Самарканд, Каттакурган, Термез, Денау, Гулистан, Коканд, Маргилан, Фергана, Ургенч, Хива и жители Каракалпакистана Нукус. Сайт WebObmen.uz поддерживает все популярные типы виртуальных валют. Самой популярной валютной парой является <a href="https://webobmen.uz/xchange_UzCardPlastik_to_WebMoneyWMZ/">Вебмани вмз купить</a> которую можно на нашем сайте по самым выгодным Вам условием, которых другие Обменники не смогут Вам предложить. Так же в ближайшей будущем хотим внедрить в сайт такие известные платежные системы и крипто-валюты как PayPal, Perfect Money, Payza, Skrill, Bitcoin, Ethereum, Litecoin, Ripple, Monero, Dash, Ukash, Paxum, Neteller, OkPay, MoneyPolo, Epay, PaySafeCard, SolidTrust Pay а также Visa, MasterCard и UnionPay. Сайт благодаря своей интуитивной навигации Вы сделаете обмен всего за нескольким щелчком! Если выбранный вами валюта не имеет достаточного количества средств в резерве то Вы можете нам отправить запрос на нужную Вам сумму и мы попытаемся оперативно все решить в Вашу пользу. Сайт WebObmen.uz был создан с учетом безопасности, а это означает, что мы уделяем самое пристальное внимание репутации и надежности обменника электронных валют, с которыми Вы работаете. Сайт был тщательно подготовлен для обеспечения высочайшего уровня обслуживания и поддержки клиентов, поэтому иметь дело с нами на 100% надежно и законно. Например, услуги, работающие с WebMoney, должны быть очень высокими, чтобы быть включенными в наш список обменных пунктов электронной торговли, отсюда и делаем вывод. Последним добавленным электронной валютой на сайт стал <a href="https://webobmen.uz/advanced-cash-uzcard/">AdvCash</a> и стал не менее популярным для обмена с другими валютами на сайте. С момента своего основания, WebObmen.uz стал очень надежным партнером для вебмастеров которые по сей день зарабатывают с нашего сайта не плохие электронные деньги. Жители Узбекистана и в ближайшие ему соседи нашли наш сайт надежным инструментом для пользования во всем , которые ищут быстрый и беспроблемный обмен виртуальных валют. Если ваш бизнес включает в себя обмен электронных средств в Вашем городе, которые необходимо перекрестно конвертировать на регулярной основе,то мы с удовольствием готовы к сотрудничеству с Вами. Должны сказать что из все перечисленных валют еще можно <a href="https://webobmen.uz/payeer-uzcard/">купить PAYEER</a> на нашем сайте и очень по выгодной цене. Мы обеспечиваем круглосуточную поддержку клиентов через наш веб-сайт. Дружелюбный оператор разговаривает на Русском и Узбекских языках и поэтому поддержка не оставить на стороне ни одного клиента. Обращаться можно не только с сайта, а можно также писать в чат телеграм или по телефону. Вам не обязательно ехать куда-то все делается моментально и в онлайне. Последний <strong>электронный деньги</strong> которого добавили на наш сайт это <a href="https://webobmen.uz/xchange_UzCardPlastik_to_YandexMoney/">Яндекс деньги</a> но это не означает что мы не будем добавлять другие валютные пары на сайт, по мере возможности будем добавлять и уведомлять Вас об этом. Сайт с момента своего существования удовлетворил тысяча счастливых клиентов. Обладая многолетним опытом, нам доверяют постоянно растущая клиентская база. Мы стремимся предоставлять эффективные, быстрые и надежные услуги нашим зарегистрированным и гостям нашего сайта.</p>
+<h2 class="fcwtitlevn">elektron e-valyuta ayirboshlash</h2>
+<p><em>E-valyuta</em> arzon turmaydi, lekin bizning saytimizda siz arzon narhda sotib olish imkoniyatiga egasiz! Bizning saytimiz eng past narx, ishonchllik va samaradorlikda boshqalardan farq qiladi. Bizning asosiy xizmatlarimiz-elektron valyuta sotib olish, sotish va almashish. Dunyoda qaerda bo&#8217;lishingizdan qat&#8217;i nazar, lekin bizning mijozlarimizni asosiy qismi O&#8217;zbekiston aholisidir. E-valyutani bir necha daqiqada ayirboshlash mumkin. Bizning xizmatimiz elektron pul almashtirishingiz uchun 24/7/365 kun mavjud. Eng mashрur konvertatsiya yo&#8217;nalishlari bo&#8217;yicha eng yaxshi tariflar har doim bizning saytimizda mavjud! Biz O&#8217;zbekistonning barcha joylarida, ayniqsa, Toshkent, Chirchiq, Olmaliq, Angren, Andijon, Asaka, Buxoro, Kogon, Jizzax, Qarshi, Navoiy, Zarafshon, Namangan, Chust, Samarqand, Kattaqo&#8217;rg&#8217;on, Termiz , Denov, Guliston, Qo&#8217;qon, Marg&#8217;ilon, Farg&#8217;ona, Urganch, Xiva va Qoraqalpog&#8217;istonnig Nukus kabi yirik shaharlariga aholiga xizmatlar ko&#8217;rsatamiz. Veb-sayt WebObmen.uz barcha asosiy virtual Pul o&#8217;tkazish e-valyuta sistema turlarini qo&#8217;llab-quvvatlaydi. Hech qanday boshqa exchanger sayti siz uchun eng yaxshi holatda bunchalik arzon narhlarda taklif qila olmaydi. Shuningdek, yaqin kelajakda biz veb-saytimizga PayPal, Perfect Money, Payza, Skrill, Bitcoin, Ethereum, Litecoin, Dalgalanma, Monero, Dash, Ukash, Paxum, Neteller, Advanced Cash, MoneyPolo, Epay, Paysafecard, SolidTrust Pay va Visa, MasterCard va UnionPay kabi taniqli to&#8217;lov tizimlari va kripto-valyutalarni joriy qilamiz. Sayt intuitiv navigatsiya sistemasi mavjud bu&#8217;lgani tufayli siz bir necha marta bosish bilan pulingizni almashtira olasiz! Siz tanlagan valyuta zaxiralarida yetarli pul yo&#8217;q bo&#8217;lsa, kerakli miqdorda bizga so&#8217;rov jo&#8217;natishingiz mumkin, va biz tezda sizning foydangizga hal qilishga harakat qilamiz. WebObmen.uz sayti sizning e&#8217;tiborngizni e-valyuta bilan ishlaydigan eng obro&#8217;li va ishonchli degan ma&#8217;noni anglatadigan sayt bo&#8217;lib qolishi uchun qo&#8217;limizdan kelgan barcha ishoralarni ko&#8217;ramiz. Sayt eng yuqori darajadagi xizmat ko&#8217;rsatish va mijozlarni qo&#8217;llab-quvvatlash uchun ehtiyotkorlik bilan tayyorlangan, shuning uchun biz bilan muomala qilish 100% xavfsiz va qonuniydir. Misol uchun, WebMoney bilan ishlash xizmatlari, elektron tijorati bizning sayt ro&#8217;yxatiga kiritilgan va shuning uchun ham juda yuqori sifatda deb aytsa bo&#8217;ladi. WebObmen.uz yaratilishidan boshlab, saytimiz webmasterlar uchun hamyonini tez to&#8217;ldira oladigan joy bo&#8217;lib qoldi va shu kungacha juda yaxshi pul topib kelishmoqda. O&#8217;zbekiston va uning qo&#8217;shni mamlakatlarida bizning sayt juda qulay va tezkor deb topildi. Siz elektron-valyutani muntazam ravishda va tez almashtirishni istasangiz bizning saytimizdan foydalanishingizni taklif etib qolamiz. Biz saytimiz orqali 24 soat davomida mijozlarni qo&#8217;llab-quvvatlaymiz. Siz suhbat uchun nafaqat saytdan, balki telegram yoki telefon orqali o&#8217;zbek va rus tillarida yozishingiz mumkin. Hech qayerga borishingiz shart emas, hamma narsa bir zumda va onlayn tarzda amalga oshiriladi. Sayt yaratilganidan beri minglab mijozlarni talabini qondirdi. Uzoq yillik tajribaga ega bo&#8217;lgan mijozlarimiz doimiy ravishda mijozlar bazasiga ortib borayotgandan bag&#8217;oyatda hursandmiz. Bizda ro&#8217;yxatdan o&#8217;tgan va o&#8217;tmagan foydalanuvchilarimizga samarali, tezkor va ishonchli xizmatlarni taqdim etishga intilamiz!</p>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+    			<section class="client-section">
+	        <div class="container">
+			<div class="row">
+			<div class="col-md-6 prtns1">
+				
+		<div class="home_lchange_div">
+		    <div class="home_lchange_title">Последний обмен</div><div class="home_lchange_date">18.03.2019 14:22</div>
+				<div class="home_lchange_body">
+					<div class="home_lchange_why">
+						<div class="home_lchange_ico">
+							<div class="home_lchange_ico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+						</div>
+						<div class="home_lchange_txt">
+							<div class="home_lchange_sum">50000</div>
+							<div class="home_lchange_name">UZS</div>
+						</div>
+							<div class="clear"></div>
+					</div>
+							
+					<div class="home_lchange_arr"></div>
+							
+					<div class="home_lchange_why">
+						<div class="home_lchange_ico">
+							<div class="home_lchange_ico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+						</div>
+						<div class="home_lchange_txt">
+							<div class="home_lchange_sum">350.70</div>
+							<div class="home_lchange_name">RUB</div>
+						</div>
+							<div class="clear"></div>
+					</div>	
+						<div class="clear"></div>
+				</div>
+				
+		</div>
+					</div>
+			<div id="clients" class="col-md-6 prtns2">
+				<div class="home_partner_div">
+					<div class="home_partner_title">
+						Мы принимаем					</div>
+													<div class="home_partner_one">
+								<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=490520599256" target="_blank" title="Аттестован">									<img src="https://webobmen.uz/wp-content/uploads/88x31-wm-v-blue-on-white-ru.png" alt="Аттестован" />
+								</a>							</div>
+													<div class="home_partner_one">
+																	<img src="https://webobmen.uz/wp-content/uploads/wm-bottom-.png" alt="WebMoney" />
+															</div>
+													<div class="home_partner_one">
+																	<img src="https://webobmen.uz/wp-content/uploads/uzkart.png" alt="UzCard" />
+															</div>
+													<div class="home_partner_one">
+																	<img src="https://webobmen.uz/wp-content/uploads/qw.jpg" alt="Qiwi" />
+															</div>
+													<div class="home_partner_one">
+																	<img src="/images/payment_icons/ya_bottom.png" alt="Яндекс.Деньги" />
+															</div>
+												
+					
+				</div>
+				<div class="clear"></div>
+	        </div>
+			</div>
+			</div>
+	    </section>	
+		
+	
+		<!-- Footer Section -->
+	<section class="rezerv-widget">
+		<div class="container">
+			<!-- Footer Widget -->	
+			<div class="row">
+				
+		<div class="col-md-12">
+			<div class="home_reserv_title">Резервы валют</div>
+
+
+				
+					<div class="one_home_reserv even">
+						
+
+								<div class="one_home_reserv_ico" style="background: url(https://webobmen.uz/wp-content/uploads/uzcard.png) no-repeat center center"></div>
+						<div class="one_home_reserv_block">	
+								<div class="one_home_reserv_title">
+								UzCard UZS
+								</div>
+						<div class="one_home_reserv_sum">11727809.63</div>
+						</div>
+						<div class="clear"></div>
+					</div>			
+					
+					<div class="one_home_reserv odd">
+						
+
+								<div class="one_home_reserv_ico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+						<div class="one_home_reserv_block">	
+								<div class="one_home_reserv_title">
+								Qiwi RUB
+								</div>
+						<div class="one_home_reserv_sum">387729.05</div>
+						</div>
+						<div class="clear"></div>
+					</div>			
+					
+					<div class="one_home_reserv even">
+						
+
+								<div class="one_home_reserv_ico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+						<div class="one_home_reserv_block">	
+								<div class="one_home_reserv_title">
+								WebMoney RUB
+								</div>
+						<div class="one_home_reserv_sum">223088.16</div>
+						</div>
+						<div class="clear"></div>
+					</div>			
+					
+					<div class="one_home_reserv odd">
+						
+
+								<div class="one_home_reserv_ico" style="background: url(https://webobmen.uz/wp-content/uploads/qiwilogo.png) no-repeat center center"></div>
+						<div class="one_home_reserv_block">	
+								<div class="one_home_reserv_title">
+								Qiwi USD
+								</div>
+						<div class="one_home_reserv_sum">2.84</div>
+						</div>
+						<div class="clear"></div>
+					</div>			
+					
+					<div class="one_home_reserv even">
+						
+
+								<div class="one_home_reserv_ico" style="background: url(https://webobmen.uz/wp-content/uploads/webmoneylogo.png) no-repeat center center"></div>
+						<div class="one_home_reserv_block">	
+								<div class="one_home_reserv_title">
+								WebMoney USD
+								</div>
+						<div class="one_home_reserv_sum">7391.58</div>
+						</div>
+						<div class="clear"></div>
+					</div>			
+					
+					<div class="one_home_reserv odd">
+						
+
+								<div class="one_home_reserv_ico" style="background: url(https://webobmen.uz/wp-content/uploads/yandexlogo.png) no-repeat center center"></div>
+						<div class="one_home_reserv_block">	
+								<div class="one_home_reserv_title">
+								Яндекс.Деньги RUB
+								</div>
+						<div class="one_home_reserv_sum">322480.47</div>
+						</div>
+						<div class="clear"></div>
+					</div>			
+					
+				
+	
+		</div>
+					</div>
+			<!-- /Footer Widget -->	
+		</div>
+	</section>
+	<!-- /Footer Section -->
+	
+		<!-- Footer Section -->
+	<footer class="site-footer">
+		<div class="container">
+			<!-- Footer Widget -->	
+			<div class="row">
+				<div class="col-md-4 col-sm-6 col-xs-12"><aside class="widget"><h3 class="widget-title">Новости</h3><div class="widgeto">
+
+		<div class="wnewline">
+		<div class="wnewsdate">
+			<div class="wmon">Мар.</div>
+			<div class="wdate">08</div>
+		</div>
+		<div class="wnewlineright">
+			<div class="wnewstext">
+				Администрация WebObmen.UZ от всей души поздравляет всех девочек, девушек, женщин с праздником 8 Марта! Весна&hellip;
+			</div>
+			<a href="https://webobmen.uz/pozdravleniya-s-8marta/" class="wnewsmore">Подробнее</a>
+		</div>
+			<div class="clear"></div>
+	</div><div class="wnewline">
+		<div class="wnewsdate">
+			<div class="wmon">Мар.</div>
+			<div class="wdate">07</div>
+		</div>
+		<div class="wnewlineright">
+			<div class="wnewstext">
+				Кратковременные сбои в работе системы Uzcard вызваны возросшим количеством транзакций перед&hellip;
+			</div>
+			<a href="https://webobmen.uz/kratkovremennyie-sboi-v-uzcard/" class="wnewsmore">Подробнее</a>
+		</div>
+			<div class="clear"></div>
+	</div>
+	    
+		<div class="wmorenewsdiv">
+			<a href="https://webobmen.uz/news/" class="wmorenews">Все новости (15)</a>
+				<div class="clear"></div>
+		</div>		
+	</div>
+	</aside></div><div class="col-md-4 col-sm-6 col-xs-12"><aside class="widget"><h3 class="widget-title">Отзывы</h3><div class="widgeto">
+	<div class="wotzivline ">
+		<div class="wnewauthorto">Arlen,</div>
+		<div class="wnewsdateto">17.03.2019, 17:31</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			Отлично работаете!!!
+		</div>
+	</div><div class="wotzivline odd">
+		<div class="wnewauthorto">Димитрий,</div>
+		<div class="wnewsdateto">16.03.2019, 15:09</div>
+			<div class="clear"></div>
+			
+		<div class="wotzivtextto">
+			очень хороший сервиз все очень быстро низкие проценты спасибо вам
+		</div>
+	</div>
+		<div class="wmorenewsdiv">
+			<a href="https://webobmen.uz/reviews/" class="wmorenews">Все отзывы (1023)</a>
+			<div class="clear"></div>
+		</div>
+	</div>
+	</aside></div>			</div>
+			<!-- /Footer Widget -->	
+		</div>
+	</footer>
+	<!-- /Footer Section -->
+	
+    <footer class="site-info">
+	    <div class="container">
+			<div class="row">
+				<div class="col-md-7">
+					<div class="footer-copyright">
+													© 2018-2019 WebObmen.uz - Услуги лицензированы.											</div>
+				</div>
+
+		    <div class="col-md-5">
+				<ul id="menu-nizhnee-menyu" class="footer-menu-links"><li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-220"><a href="https://webobmen.uz/sitemap/">Карта сайта</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://webobmen.uz/tos/">Правила</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-221"><a href="https://webobmen.uz/preduprezhdenie/">Предупреждение</a></li>
+</ul>			</div> 
+                <div class="clear"></div>			
+			</div> 
+		</div>
+	</footer>
+
+</div>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5ae8984f5f7cdf4f0533c3d7/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+<!--Scroll To Top--> 
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top-->
+<script>
+      
+        $(".link_contacts").click(function() {
+      $(".continforms, .header-info").slideToggle();
+	  return false;
+  });
+    
+ </script>
+<script>
+jQuery(document).ready(function(){jQuery(window).scroll(function(){if(jQuery(this).scrollTop()>100){jQuery('.hc_scrollup').fadeIn();}else{jQuery('.hc_scrollup').fadeOut();}});jQuery('.hc_scrollup').click(function(){jQuery("html, body").animate({scrollTop:0},600);return false;});});
+</script>     
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118473614-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118473614-1');
+</script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"name": "WebObmen.uz",
+"alternateName": "Обмен электронных валют",
+"url": "https://webobmen.uz/",
+"contactPoint": [{
+"@type": "ContactPoint",
+"telephone": "+998-97-7706026",
+"contactType": "customer service"
+}],
+"sameAs": [
+"https://t.me/webobmenuz"
+]
+}
+</script>
+		<div id="exbprezshadow"></div> 
+		<div class="exbprezbox">
+			<div class="exbprezboxvn">
+				<div class="exbprezboxclose"></div>
+				<div class="exbprezboxtitle" id="rezerv_titls">Запрос резерва</div>
+				
+				<form method="post" class="ajax_post_form" action="https://webobmen.uz/ajax-reservform.html?notcsrf=8b17a737e3">
+					<input type="hidden" name="id" id="rezerv_ids" value="" />
+					<div class="resultgo"></div>
+					
+					<p><input type="text" name="sum" placeholder="Необходимая сумма" value="" /></p>
+					<p><input type="text" name="email" placeholder="E-mail" value="" /></p>
+					<p><textarea name="comment" placeholder="Комментарий"></textarea></p>
+					
+										
+					<p><input type="submit" class="btn btn-primary" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>
+		<script type='text/javascript' src='https://webobmen.uz/wp-includes/js/wp-embed.min.js?ver=4.4.15'></script>
+</body>
+</html>

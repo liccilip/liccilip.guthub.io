@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta charset="UTF-8">
+	<title>Обмен электронных и крипто-валют PrivatCash</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C300i%2C400%2C400i%2C700%2C700i&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://privat.cash/wp-content/themes/exchanger/style.css?ver=1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://privat.cash/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://privat.cash/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://privat.cash/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://privat.cash/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://privat.cash/wp-content/themes/exchanger/js/jquery-select.js?ver=1.4'></script>
+<script type='text/javascript' src='https://privat.cash/wp-content/themes/exchanger/js/jquery-checkbox.js?ver=1.4'></script>
+<script type='text/javascript' src='https://privat.cash/wp-content/themes/exchanger/js/site.js?ver=1.4'></script>
+<script type='text/javascript' src='https://privat.cash/premiumjs.js?lang=ru&#038;ver=1.7'></script>
+	<link rel="shortcut icon" href="https://privat.cash/wp-content/uploads/favicon.png" type="image/png" />
+	<link rel="icon" href="https://privat.cash/wp-content/uploads/favicon.png" type="image/png" />
+	<link rel='canonical' href='https://privat.cash/' />
+<meta name="keywords" content="выгодный обмен биткоин , privatcash, privat cash, приваткэш , приват кэш, обмен крипто валют, обменный пункт электронных валют, обмен денег онлайн, биткоин поменять, bitcoin, ETH, обмен BTC, приват 24 обмен, обмен advcash, обмен usd, Купить биткоин за наличные гривны, доллары, через Приват24, Продать биткоин" />
+<meta name="description" content="Выгодный обмен электронных валют онлайн. Advanced cash, Приватбанк, наличные, Киев, Одесса, Харьков, Покупка bitcoin в  Украине, Обмен bitcoin на USD" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://privat.cash/?rid=14" />
+<meta property="og:site_name" content="Обменный пункт PrivatCash" />
+<meta property="og:description" content="Выгодный обмен электронных валют онлайн. Advanced cash, Приватбанк, кэш USD, наличные, Киев, Одесса, Харьков" />
+<meta property="og:title" content="Обменный пункт крипто-валют PrivatCash" />
+<meta property="og:image" content="https://privat.cash/wp-content/uploads/opengraph-logo.png" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #e4eae7; background-image: url("https://privat.cash/wp-content/uploads/foot.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<link rel="icon" href="https://privat.cash/wp-content/uploads/cropped-logo-small-l-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://privat.cash/wp-content/uploads/cropped-logo-small-l-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://privat.cash/wp-content/uploads/cropped-logo-small-l-180x180.png" />
+<meta name="msapplication-TileImage" content="https://privat.cash/wp-content/uploads/cropped-logo-small-l-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.color_r .page_wrap {
+    background: none;
+	border-bottom: none;
+}
+.topbar_wrap {
+    height: 50px;
+}
+.color_r .topbar_ins {
+    background: #1cc37f;
+	    border-bottom: 1px solid #fff;
+}
+.color_r .tophead_ins {
+	    background-image: url(https://privat.cash/wp-content/uploads/59-150x150.jpg);
+    background-position: left top;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+.color_r .topmenu li:hover > a, .color_r .topmenu li.current-menu-item > a {
+    color: #1cc37f;
+}
+.color_r .xtt_icon.active, .color_r .xtp_icon.active, .color_r .xtt4_icon.active {
+	background: #1cc37f;
+}
+.color_r .xtt_icon.active .xtt_icon_abs, .color_r .xtp_icon.active .xtp_icon_abs, .color_r .xtt4_icon.active .xtt4_icon_abs,
+.color_r .tarif_title_abs {
+    background: url("https://privat.cash/wp-content/themes/exchanger/images/xtt_icon_abs_green.png") no-repeat 0 0;
+}
+.color_r .xtt4_left_col_title {
+    background: #1cc37f;
+}
+.color_r .xtt4_right_col_title {
+    background: #1cc37f;
+}
+.topmenu li a {
+    font: 700 16px/95px 'Roboto Condensed', sans-serif;
+}
+.xtt_icon, .xtp_icon, .xtt4_icon {
+    font: 14px 'Roboto Condensed', sans-serif;
+}
+.xtt4_left_col_title, .xtt4_right_col_title {
+    font: 700 16px 'Roboto Condensed', sans-serif;
+}
+.xtt4_one_line_name {
+    font: 17px 'Roboto Condensed', sans-serif;
+}
+.xtt4_one_line_curs {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.xtt4_one_line_reserv {
+    font: 17px 'Roboto Condensed', sans-serif;
+}
+body {
+    font: 16px/1.3em 'Roboto Condensed', sans-serif;
+	color: #dad5d5;
+}
+.home_text_title {
+    font: 700 20px 'Roboto Condensed', sans-serif;
+	color: #1cc37f;
+}
+.color_r .home_text_block {
+    background: url("https://privat.cash/wp-content/themes/exchanger/images/wtext_ico_green.png") no-repeat 0px 0;
+	color:#858c97;
+}
+.home_text_wrap {
+	    background-image: url(https://privat.cash/wp-content/uploads/59.jpg);
+    background-position: left top;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
+.home_reserv_title {
+    margin: 0 0 20px 0;
+    color: #1cc37f;
+    font: 700 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .home_reserv_wrap {
+        background-image: url(https://privat.cash/wp-content/uploads/foot.png);
+    background-position: left top;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    border-top: none;
+}
+.color_r .one_home_reserv {
+    background: #1a1b1c;
+}
+.color_r .one_home_reserv_block {
+    color: #f0f0f0;
+}
+.one_home_reserv_title {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.one_home_reserv_block {
+    font: 15px 'Roboto Condensed', sans-serif;
+}
+.color_r .footer_wrap {
+    background: #1a1b1c;
+}
+.footer_wrap {
+    font: 17px 'Roboto Condensed', sans-serif;
+}
+.footer_menu li {
+    font: italic 14px 'Roboto Condensed', sans-serif;
+}
+.mobile_link a {
+    font: italic 14px/30px 'Roboto Condensed', sans-serif;
+}
+.color_r .statuswork {
+    background: #00ef6b;
+}
+.statuswork_title {
+    font: 600 15px 'Roboto Condensed', sans-serif;
+	color:#2a2a2a;
+    text-transform: uppercase;
+}
+.statuswork {
+	    color: #2a2a2a;
+    font: 400 14px'Roboto Condensed', sans-serif;
+}
+.text h2 {
+	color: #b5b3b3;
+}
+.topbar_icon {
+	font: 16px/48px 'Roboto Condensed', sans-serif;
+}
+.color_r a.toplink, .color_r a.toplink.toplink_userlogin  {
+font: 600 italic 16px/48px 'Roboto Condensed', sans-serif;
+	color: #ffffff;
+    text-shadow: -1px 2px 2px black, -4px 3px 1em black;
+}
+.langlist_title {
+	font: 15px/48px 'Roboto Condensed', sans-serif;
+}
+.color_r .one_news {
+    background: #000;
+}
+h2.one_news_title a {
+    color: #1cc37f;
+    font: 700 18px 'Roboto Condensed', sans-serif;
+}
+.one_reviews {
+    background: #000;
+}
+.one_reviews_text {
+    font: italic 16px 'Roboto Condensed', sans-serif;
+}
+.one_reviews_name {
+    float: left;
+    font: 600 16px 'Roboto Condensed', sans-serif;
+    margin: 0 5px 10px 0;
+	color:#9c9c9c;
+}
+.one_reviews_date {
+    float: left;
+	color:#9c9c9c;
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+
+.color_r .log_div_title, .color_r .cf_div_title, .color_r .reg_div_title, .color_r .lp_div_title, .color_r .rf_div_title, .color_r .acf_div_title, .color_r .domacc_div_title, .color_r .checkstatus_div_title {
+    background: #1cc37f;
+    color: #000;
+	    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .log_div, .color_r .cf_div, .color_r .reg_div, .color_r .lp_div, .color_r .rf_div, .color_r .acf_div, .color_r .domacc_div, .color_r .checkstatus_div {
+    background: #000;
+}
+.log_label, .cf_label, .reg_label, .lp_label, .rf_label, .acf_label, .checkstatus_label {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+    color: #f3f5f4;
+}
+.color_r input[type=text], .color_r input[type=email], .color_r input[type=password] {
+    border: 1px solid #676a6d;
+    background: #3c3e40;
+}
+input[type=text], input[type=email], input[type=password] {
+    color: #d6d1d1;
+    font: 15px/38px 'Roboto Condensed', sans-serif;
+}
+.color_r textarea {
+    border: 1px solid #676a6d;
+    background: #3c3e40;
+}
+textarea {
+    color: #e0dddd;
+    font: 15px 'Roboto Condensed', sans-serif;
+}
+
+
+
+
+
+
+.color_r .breadcrumb_wrap {
+    background: #1cb577;
+		border-bottom: 1px solid #fff;
+}
+.breadcrumb ul li a {
+    font: italic 16px 'Roboto Condensed', sans-serif;
+}
+.breadcrumb ul li.first a {
+    color: #ffffff;
+}
+h1.breadcrumb_title {
+font: 700 18px 'Roboto Condensed', sans-serif;
+}
+.topbar_phone {
+    background: url(https://privat.cash/wp-content/themes/exchanger/images/phone_r.png) no-repeat left center;
+    padding: 0 0 0 40px;
+}
+.color_r .breadcrumb_ins {
+    background: url(https://privat.cash/wp-content/themes/exchanger/images/breadcrumb.png) no-repeat 0px center;
+}
+.color_r table.tarif_table th {
+    background: #1cc37f;
+	color:#000;
+	font:700 16px 'Roboto Condensed', sans-serif
+}
+table.tarif_table td {
+    font: 15px 'Roboto Condensed', sans-serif;
+    padding: 15px 10px;
+    background: #000;
+    border-bottom: 1px solid #57575f;
+}
+.color_r table.tarif_table td.tarif_curs_arr {
+    background: #000 url(https://privat.cash/wp-content/themes/exchanger/images/liarr.png) no-repeat center center;
+}
+.color_r .tarif_title {
+    background: #1cc37f;
+    border-top: 2px solid #1cc37f;
+		font: 400 15px 'Roboto Condensed', sans-serif;
+	color:#000;
+}
+table.tarif_table td.tarif_curs_title_in, table.tarif_table td.tarif_curs_title_out {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .user_widget_title, .color_r .register_widget_title, .color_r .login_widget_title, .color_r .checkstatus_widget_title {
+    background: #1cb577;
+    color: #000;
+	font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .user_widget, .color_r .register_widget, .color_r .login_widget, .color_r .checkstatus_widget {
+    background: #000;
+}
+
+.user_widget_body ul li a {
+    font: italic 15px 'Roboto Condensed', sans-serif;
+    text-decoration: none;
+	color:#9c9c9c;
+}
+.user_widget_body ul li a:hover {
+    color: #9c9c9c;
+}
+.uswidin {
+    margin: 0 0 15px 0;
+    font: 600 18px 'Roboto Condensed', sans-serif;
+}
+.color_r a.exit_link {
+    color: #000;
+    border: 1px solid #19bb2d;
+    background: #19bb2d;
+}
+.color_r a.exit_link:hover {
+    color: #000;
+    background: #00ef6b;
+    border: 1px solid #00ef6b;
+}
+.color_r .widget_reviews_div .widget_title {
+    background: #1cc37f;
+    color: #000;
+	font: 600 18px 'Roboto Condensed', sans-serif;
+}
+.color_r .widget_reviews_div {
+    background: #000;
+}
+.widget_reviews_more a {
+    font: italic 14px 'Roboto Condensed', sans-serif;
+    text-decoration: none;
+}
+.text a {
+    text-decoration: underline;
+    color: #1cb577;
+}
+.text a:hover {
+    color: #1cb577;
+}
+.widget_log_label {
+	color:#1cb577;
+}
+.text h1 {
+	color:#1cb577;
+}
+
+a {
+    text-decoration: underline;
+    color: #9c9c9c;
+}
+a:hover {
+    color: #9c9c9c;
+}
+.color_r .hexch_message_wrap, .color_r .notice_message, .color_r .notverify_message {
+    background: #000000;
+}
+.color_r .hexch_message, .color_r .notice_message_ins {
+    background: url(https://privat.cash/wp-content/themes/exchanger/images/wtext_ico_green.png) no-repeat 0px 0px;
+}
+.hexch_message_title, .notice_message_title {
+    color: #2a2a2a;
+    font: 600 17px 'Roboto Condensed', sans-serif;
+}
+.color_r .xchange_data_title, .color_r .xchange_pers_title {
+    color: #000;
+    background: #1cc37f;
+}
+.xchange_data_title, .xchange_pers_title {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .xchange_div {
+    background: #000;
+}
+.warning_message {
+    background: #000000;
+}
+.warning_message_title {
+    color: #1cc37f;
+    font: 600 17px 'Roboto Condensed', sans-serif;
+}
+.notice_message_text ol, .warning_message_text ol, .hexch_message_text ol, .block_instruction ol, .text ol {
+    color: #c1c0c0;
+}
+.color_r .select_js_ul {
+    background: #212223;
+    border: 1px solid #8d8f90;
+}
+.color_r .select_js_ulli:hover, .color_r .select_js_ulli.active {
+    background: #000000;
+    color: #ffffff;
+}
+.color_r .select_js_title {
+    background: #3a3a3a;
+}
+.select_js_title {
+    color: #e8e5e5;
+}
+.color_r .select_js.open .select_js_title {
+    background: #3a3a3a;
+}
+.color_r .select_js_abs {
+    background: url(https://privat.cash/wp-content/themes/exchanger/images/jsel.png) no-repeat center center;
+}
+.select_js_ulli {
+    padding: 0 30px 0 20px;
+    font: 18px/50px 'Roboto Condensed', sans-serif;
+}
+.xchange_curs_label, .xchange_pers_label {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r input[type=submit] {
+    color: #000;
+    border: 1px solid #19bb2d;
+    background: #19bb2d;
+}
+.color_r input[type=submit]:hover {
+    color: #000;
+    background: #00ef6b;
+    border: 1px solid #00ef6b;
+}
+.color_r .block_xchdata_title, .color_r .block_persdata_title {
+    color: #000;
+    background: #1cc37f;
+}
+.block_xchdata_title, .block_persdata_title {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .block_xchangedata {
+    background: #000;
+}
+.block_warning {
+    padding: 20px 30px 20px 30px;
+    background: #00ef6b;
+}
+.block_warning_text .block_warning_text_ins p {color:#000;}
+.color_r .block_statusbid_title {
+    color: #000;
+    background: #1cc37f;
+}
+.block_statusbid_title {
+    color: #252927;
+    font: 600 16px 'Roboto Condensed', sans-serif;
+}
+.color_r .block_statusbids {
+    background: #000;
+}
+.block_status {
+    background: #1cc37f;
+    padding: 20px 30px;
+	color:#000;
+}
+.color_r a.success_paybutton {
+	    color: #000;
+    border: 1px solid #19bb2d;
+    background: #19bb2d;
+	
+}
+.color_r a.success_paybutton:hover {
+	    color: #000;
+    background: #00ef6b;
+    border: 1px solid #00ef6b;
+}
+
+.color_r .userwallets_form_title, .color_r .userwallets_table_title, .color_r .plinks_table table th, .color_r .preferals_table table th, .color_r .paytable table th, .color_r .userxch_table table th, .color_r .userverify_table table th, .color_r .statuserdiv_title {
+    color: #000;
+    background: #1cc37f;
+}
+.userwallets_one_title {
+    font: 600 18px 'Roboto Condensed', sans-serif;
+	color:#545454;
+}
+.usersbill_one_account {
+	    font: 600 16px 'Roboto Condensed', sans-serif;
+	color:#7d7777;
+}
+.stattablediv table th, .userxch_tablediv table th, .stattablediv table td, .userxch_tablediv table td {
+    font: 400 16px 'Roboto Condensed', sans-serif;
+	color:#7d7777;
+}
+.userxch_table_ins tbody, .statuserdiv table th, .statuserdiv table td, .plinks_table table td, .preferals_table table td, .paytable table td, .userxch_table table td, .userverify_table table td, .paytext{
+	font: 600 16px 'Roboto Condensed', sans-serif;
+	color:#7d7777;
+}
+.promo_topmenu li.current a {
+	font-size:20px;
+}
+.pay_left_col {
+    font: 600 16px 'Roboto Condensed', sans-serif;
+	color:#000;
+}
+.text {
+	color:#b5b3b3;
+}
+.home_wtext_title {
+    color:#b5b3b3;
+    font: 700 17px 'Roboto Condensed', sans-serif;
+}
+.color_r .home_partner_wrap {
+    background: #000000;
+}		</style>
+		
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125335353-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-125335353-1');
+</script>
+
+	
+</head>
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4 custom-background color_r">
+<div id="container">
+
+		
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://privat.cash/?rid=14" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://privat.cash/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+			</div>
+		</div></div>			
+								
+									<div class="topbar_icon telegram">
+						<a href="https://t.me/privatcash777">privatcash777</a>
+					</div>		
+				
+				
+				
+								
+				
+								
+									<div class="topbar_icon email">
+						<a href="/cdn-cgi/l/email-protection#8dabaebcbdb8b6e3ebabaebcbcbcb6abaebbb9b6abaebcbcbfb6ffe4abaebcbcb5b6abaeb4bab6f9a3eeabaeb4bab6feabaebcbdb9b6">info&#64;&#112;r&#105;&#118;a&#116;&#46;&#99;&#97;s&#104;</a>
+					</div>		
+				
+								
+			
+									<a href="https://privat.cash/register/" class="toplink toplink_signup">Регистрация</a>
+					<a href="https://privat.cash/login/" class="toplink toplink_signin">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://privat.cash">
+													
+															<img src="https://privat.cash/wp-content/uploads/logo-accent-wide1.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://privat.cash/"><span>Главная</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://privat.cash/news/"><span>Новости</span></a></li>
+<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="https://privat.cash/partners/"><span>Партнёрам</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://privat.cash/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://privat.cash/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://privat.cash/feedback/"><span>Контакты</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+	
+			
+		
+				<div class="homepage_wrap">
+
+		
+	<div class="xchange_table_wrap">
+		
+	<div class="xchange_type_table4">
+		<div class="xchange_type_table4_ins">	
+				<div class="xtt4_icon_wrap">
+					<div class="xtt4_left_col_icon">
+					
+						<div class="xtt4_icon active js_icon_left" data-type="0"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>Все</div></div>
+						<div class="xtt4_icon js_icon_left js_icon_left_USD" style="display: none;" data-type="USD"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>USD</div></div><div class="xtt4_icon js_icon_left js_icon_left_EUR" style="display: none;" data-type="EUR"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>EUR</div></div><div class="xtt4_icon js_icon_left js_icon_left_BCH" style="display: none;" data-type="BCH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>BCH</div></div><div class="xtt4_icon js_icon_left js_icon_left_BTC" style="display: none;" data-type="BTC"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>BTC</div></div><div class="xtt4_icon js_icon_left js_icon_left_DSH" style="display: none;" data-type="DSH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>DSH</div></div><div class="xtt4_icon js_icon_left js_icon_left_ETH" style="display: none;" data-type="ETH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>ETH</div></div><div class="xtt4_icon js_icon_left js_icon_left_LTC" style="display: none;" data-type="LTC"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>LTC</div></div><div class="xtt4_icon js_icon_left js_icon_left_XMR" style="display: none;" data-type="XMR"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>XMR</div></div><div class="xtt4_icon js_icon_left js_icon_left_RUB" style="display: none;" data-type="RUB"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>RUB</div></div><div class="xtt4_icon js_icon_left js_icon_left_XRP" style="display: none;" data-type="XRP"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>XRP</div></div><div class="xtt4_icon js_icon_left js_icon_left_USDT" style="display: none;" data-type="USDT"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>USDT</div></div><div class="xtt4_icon js_icon_left js_icon_left_UAH" style="display: none;" data-type="UAH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>UAH</div></div><div class="xtt4_icon js_icon_left js_icon_left_WAVES" style="display: none;" data-type="WAVES"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>WAVES</div></div><div class="xtt4_icon js_icon_left js_icon_left_ZEC" style="display: none;" data-type="ZEC"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>ZEC</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt4_right_col_icon">
+
+						<div class="xtt4_icon active js_icon_right" data-type="0"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>Все</div></div>
+						<div class="xtt4_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>USD</div></div><div class="xtt4_icon js_icon_right js_icon_right_EUR" style="display: none;" data-type="EUR"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>EUR</div></div><div class="xtt4_icon js_icon_right js_icon_right_BCH" style="display: none;" data-type="BCH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>BCH</div></div><div class="xtt4_icon js_icon_right js_icon_right_BTC" style="display: none;" data-type="BTC"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>BTC</div></div><div class="xtt4_icon js_icon_right js_icon_right_DSH" style="display: none;" data-type="DSH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>DSH</div></div><div class="xtt4_icon js_icon_right js_icon_right_ETH" style="display: none;" data-type="ETH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>ETH</div></div><div class="xtt4_icon js_icon_right js_icon_right_LTC" style="display: none;" data-type="LTC"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>LTC</div></div><div class="xtt4_icon js_icon_right js_icon_right_XMR" style="display: none;" data-type="XMR"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>XMR</div></div><div class="xtt4_icon js_icon_right js_icon_right_RUB" style="display: none;" data-type="RUB"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>RUB</div></div><div class="xtt4_icon js_icon_right js_icon_right_XRP" style="display: none;" data-type="XRP"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>XRP</div></div><div class="xtt4_icon js_icon_right js_icon_right_USDT" style="display: none;" data-type="USDT"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>USDT</div></div><div class="xtt4_icon js_icon_right js_icon_right_UAH" style="display: none;" data-type="UAH"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>UAH</div></div><div class="xtt4_icon js_icon_right js_icon_right_WAVES" style="display: none;" data-type="WAVES"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>WAVES</div></div><div class="xtt4_icon js_icon_right js_icon_right_ZEC" style="display: none;" data-type="ZEC"><div class="xtt4_icon_ins"><div class="xtt4_icon_abs"></div>ZEC</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt4_table_wrap">
+				<div class="xtt4_table_title_wrap">
+					<div class="xtt4_left_col_title">
+						<div class="xtt4_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt4_right_col_title">
+						<div class="xtt4_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt4_table_title3">
+							<span>Курс</span>
+						</div>						
+						<div class="xtt4_table_title4">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt4_table_body_wrap">
+					<div class="xtt4_html_abs"></div>
+						<div class="xtt4_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="24" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/cash-privat-terr.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Наличные USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BTC  active" data-id="13" data-type="BTC">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Bitcoin BTC
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USD  " data-id="10" data-type="USD">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Advcash USD
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_USDT  " data-id="28" data-type="USDT">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/tether.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Tether USDT
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_ETH  " data-id="16" data-type="ETH">
+											<div class="xtt4_one_line_left">
+										<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+												<div class="xtt4_one_line_ico_left"> 
+													<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/ether.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt4_one_line_name_left">
+													<div class="xtt4_one_line_name">
+														Ethereum ETH
+													</div>
+												</div>
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt4_right_col_table">
+						
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_24">
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_CASHUSD_to_BTC/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-direction-id="16">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Bitcoin BTC
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		4 096.661 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1.67979
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="16" data-title="Наличные USD-Bitcoin BTC">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_CASHUSD_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="26">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Advcash USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 0.985
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		8 485.792
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="26" data-title="Наличные USD-Advcash USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_CASHUSD_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="29">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/tether.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Tether USDT
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 1.002
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		136 448.18413145
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="29" data-title="Наличные USD-Tether USDT">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_13">
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_BTC_to_CASHUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="13">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/cash-privat-terr.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Наличные USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 3 810.7112
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		126 636.5741
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="13" data-title="Bitcoin BTC-Наличные USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_BTC_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="19">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Advcash USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 3 894.1574
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		8 485.792
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="19" data-title="Bitcoin BTC-Advcash USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_BTC_to_ETH/" class="js_exchange_link js_item_right js_item_right_ETH" data-type="ETH" data-direction-id="20">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/ether.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Ethereum ETH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 28.5939784154
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		334.8883124773
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="20" data-title="Bitcoin BTC-Ethereum ETH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_10">
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_ADVCUSD_to_BTC/" class="js_exchange_link js_item_right js_item_right_BTC" data-type="BTC" data-direction-id="21">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Bitcoin BTC
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		4 056.1 &rarr; 0.952
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		1.67979
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="21" data-title="Advcash USD-Bitcoin BTC">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_ADVCUSD_to_CASHUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="27">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/cash-privat-terr.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Наличные USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.06 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		126 636.5741
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="27" data-title="Advcash USD-Наличные USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_28">
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_USDT_to_CASHUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="28">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/cash-privat-terr.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Наличные USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1.034 &rarr; 1
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		126 636.5741
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="28" data-title="Tether USDT-Наличные USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_USDT_to_CARDUAH/" class="js_exchange_link js_item_right js_item_right_UAH" data-type="UAH" data-direction-id="31">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/vmc.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Visa/MasterCard UAH
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 25.4734
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		5 265.4017
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="31" data-title="Tether USDT-Visa/MasterCard UAH">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+											<!-- tab currency -->
+											<div class="xtt4_line_tab js_line_tab" id="js_tabnaps_16">
+														<!-- one item -->
+														<a href="https://privat.cash/exchange_ETH_to_CASHUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="12">
+															<div class="xtt4_one_line_right">
+														<div class="xtt4_one_line_abs"></div><div class="xtt4_one_line_abs2"></div>
+																<div class="xtt4_one_line_ico_right"> 
+																	<div class="xtt4_change_ico" style="background: url(https://privat.cash/wp-content/uploads/cash-privat-terr.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt4_one_line_name_right">
+																	<div class="xtt4_one_line_name">
+																		Наличные USD
+																	</div>
+																</div>														
+																
+																<div class="xtt4_one_line_curs_right">
+																	<div class="xtt4_one_line_curs">
+																		1 &rarr; 131.0478
+																	</div>	
+																</div>															
+																
+																<div class="xtt4_one_line_reserv_right">
+																	<div class="xtt4_one_line_reserv">
+																		126 636.5741
+																	</div>	
+																</div>															
+																
+		<div class="xtt4_one_line_rez js_reserv" data-id="12" data-title="Ethereum ETH-Наличные USD">
+			<div class="xtt4_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+																<div class="clear"></div>
+															</div>	
+														</a>
+														<!-- end one item -->											
+														
+											</div>
+											<!-- end tab currency -->										
+											
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div>	</div>
+
+		
+	
+		<div class="home_text_wrap">
+		<div class="home_text_ins">
+			<div class="home_text_abs111"></div>
+			<div class="home_text_block">
+				<div class="home_text_title">Мы рады Вас приветствовать на сайте обменного пункта Privat Cash</div>
+				<div class="home_text_div">
+					<div class="text">
+						<p>Здесь Вы сможете быстро и надёжно совершать любые виды обменных операций с цифровыми монетами, наличными средствами и денежными переводами по наиболее выгодному курсу.<br />
+Основным принципом работы нашего обменного пункта является приватность и конфиденциальность проводимых операций. В своей работе мы гарантируем надёжность и безопасность, честность и порядочность, оперативность и лёгкость.<br />
+Этим возможности нашего сервиса не ограничиваются. В скором времени будет запущена программа лояльности, накопительные скидки и доступ к партнерской программе, воспользовавшись преимуществами которых, Вы с лёгкостью сможете совершать обмен электронных валют на более выгодных условиях. Для этого нужно просто зарегистрироваться на сайте и получить доступ к личному кабинету.<br />
+Наш обменный пункт – это система, созданная на базе современного программного обеспечения и содержащая весь набор необходимых функций для удобной и безопасной конвертации наиболее распространенных видов электронных денег.<br />
+Оставайтесь и убедитесь во всех преимуществах сами.</p>
+<h2><strong>Privat Cash &#8212; быстро, выгодно, надёжно.</strong></h2>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>	
+			
+	
+		
+	
+	
+		
+		
+	
+			<div class="home_reserv_wrap">
+			<div class="home_reserv_ins">
+				<div class="home_reserv_abs"></div>
+				
+				<div class="home_reserv_block">
+					<div class="home_reserv_block_ins">
+						<div class="home_reserv_title">Резерв валюты</div>
+						
+						<div class="home_reserv_many">
+							<div class="home_reserv_many_ins">
+						
+								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://privat.cash/wp-content/uploads/tether.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Tether USDT										</div>
+										<div class="one_home_reserv_sum">
+											136 448.18413145										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(https://privat.cash/wp-content/uploads/cash-privat-terr.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Наличные USD										</div>
+										<div class="one_home_reserv_sum">
+											126 636.5741										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Privatbank.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Приват24 UAH										</div>
+										<div class="one_home_reserv_sum">
+											382.15										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Bitcoin BTC										</div>
+										<div class="one_home_reserv_sum">
+											1.67979										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+									<div class="clear"></div>								 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/ether.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Ethereum ETH										</div>
+										<div class="one_home_reserv_sum">
+											334.8883124773										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																	 
+								<div class="one_home_reserv"> 
+									<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+									<div class="one_home_reserv_block">
+										<div class="one_home_reserv_title">
+											Advcash USD										</div>
+										<div class="one_home_reserv_sum">
+											8 485.792										</div>
+									</div>
+										<div class="clear"></div>
+								</div>
+																							
+								<div class="clear"></div>
+							</div>	
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+			
+	
+		
+	<div class="home_partner_wrap">
+		<div class="home_partner_wrap_ins">
+			<div class="home_partner_block">
+				<div class="home_partner_title">Партнеры</div>
+
+										<div class="home_partner_one">
+							<a href="https://www.bestchange.ru/" target="_blank">								<img src="https://privat.cash/wp-content/uploads/bestchange.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://kurs.expert" target="_blank">								<img src="https://privat.cash/wp-content/uploads/buttonY1.png" alt="" />
+							</a>						</div>
+					
+				<div class="clear"></div>
+			</div>	
+		</div>
+	</div>
+		
+
+</div>
+
+				
+	</div>
+
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+				<div class="copyright">
+											<p>Сервис обмена электронных валют.</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://privat.cash/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://privat.cash/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://privat.cash/tos/"><span>Правила сайта</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			</div>
+			
+			<div class="footer_center">
+				<div class="footer_soc">
+						
+						<div class="clear"></div>
+				</div>	
+							</div>
+			
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p>Пн. — Пт. с 9:00 до 23:00<br />
+Сб. — Вск. свободный график.</p>
+				</div>
+								
+			
+			</div>	
+			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+
+</div>
+
+<div id="topped" class="js_to_top js_show_top"></div>
+
+
+	
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D14&ltime=1552910334';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://privat.cash/ajax-globalajax_wp_check.html?meth=post&yid=433bd6f84ef0&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+	<div class="statuswork_div status_op1 toright">
+	<div class="statuswork_div_ins">
+		<div class="statuswork">
+			<div class="statuswork_ins">
+				<div class="statuswork_title"><span>Оператор online</span></div>
+				<div class="statuswork_date"><span>18.03.2019, 11:58</span></div>
+			</div>	
+		</div>
+	</div>
+	</div>
+ 
+		<div class="reserv_box js_techwindow">
+			<div class="reserv_box_ins">
+				<div class="reserv_box_title">Запрос резерва "<span id="reserv_box_title"></span>"</div>
+				<div class="reserv_box_close"></div>
+				<form method="post" class="ajax_post_form" action="https://privat.cash/ajax-reservform.html?meth=post&yid=433bd6f84ef0&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+					<div class="resultgo"></div>
+					
+					
+				<div class="form_field_line rb_line type_input  field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input  field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_text  field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+	<div class="captcha_div">
+		<div class="captcha_title">
+			Введите ответ
+		</div>
+		<div class="captcha_body">
+			<div class="captcha_divimg">
+				<img src="https://privat.cash/wp-content/uploads/captcha/1552903134761890.png" class="captcha1" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				<span class="captcha_sym">x</span>
+			</div>	
+			<div class="captcha_divimg">
+				<img src="https://privat.cash/wp-content/uploads/captcha/1552903134414583.png" class="captcha2" alt="" />
+			</div>
+			<div class="captcha_divznak">
+				=
+			</div>
+			<input type="text" class="captcha_divpole" name="number" maxlength="4" autocomplete="off" value="" />
+			<a href="#" class="captcha_reload" title="заменить задачу"></a>
+				<div class="clear"></div>
+		</div>
+	</div>		
+	
+					
+					<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>		
+		<script type='text/javascript' src='https://privat.cash/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			
+</body>
+</html>

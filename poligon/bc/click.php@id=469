@@ -1,0 +1,807 @@
+
+
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="webmoney" content="05F1FB63-01F1-4014-8BA3-14BB1375C09A"/>
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="Enr1OHLHPHqaGrNyFt_THfdg2BCDY4O33OWJk4O0TsfSSDuwQnuyt8iaTqLHAcA8NM1O5tGFyWhG-qcCNUejIQ==">
+
+        <title>Master Change - Автоматический онлайн обмен электронных валют </title>
+
+        <meta name="title" content="Master Change - Автоматический онлайн обмен электронных валют ">
+<meta name="description" content="Надежный быстрый сервис обмена электронных денег.Вывод и ввод .Всегда лучшие курсы,Сравнить сейчас">
+<link href="/assets/d148342a/css/bootstrap.css" rel="stylesheet">
+<link href="/css/front.css?v=0a6ae88" rel="stylesheet">
+<link href="/css/fonts.css?v=0faaf20" rel="stylesheet">
+<link href="/css/si-icons.css?v=aa32706" rel="stylesheet">
+<link href="/css/font-awesome.min.css?v=448db19" rel="stylesheet">    </head>
+    <body>
+                <div id="body">
+            <header id="header">
+                <div id="top-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div id="logo">
+                    <a href="/">
+                        <strong>
+                            <img src="/image/logo.png" alt="MasterChange" title="MasterChange - Автоматический онлайн обмен электронных валют">
+                        </strong>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <ul id="w0" class="top-menu nav"><li><a href="/">Главная</a></li>
+<li><a href="/article/pravila">Соглашение</a></li>
+<li><a href="/reviews">Отзывы</a></li>
+<li><a href="/article/faq">FAQ</a></li>
+<li><a href="/article/contacts">Поддержка</a></li>
+<li><a href="/article/bezopasnost">Безопасность</a></li></ul>
+
+                
+<ul class="login-menu">
+            <li>
+            
+<button type="button" data-toggle="modal" data-target="#w1"><span>Вход</span> <i class="fa fa-sign-in" aria-hidden="true"></i></button>
+<div id="w1" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h3 class="h-m-0">Личный кабинет</h3>
+</div>
+<div class="modal-body">
+
+<form id="login-form" action="/account/login" method="post">
+<input type="hidden" name="_csrf" value="Enr1OHLHPHqaGrNyFt_THfdg2BCDY4O33OWJk4O0TsfSSDuwQnuyt8iaTqLHAcA8NM1O5tGFyWhG-qcCNUejIQ==">
+<div class="form-group field-loginform-username required">
+<label class="control-label" for="loginform-username">Логин</label>
+<input type="text" id="loginform-username" class="form-control" name="LoginForm[username]" placeholder="username" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>
+<div class="form-group field-loginform-password required">
+<label class="control-label" for="loginform-password">Пароль</label>
+<input type="password" id="loginform-password" class="form-control" name="LoginForm[password]" placeholder="•••••••" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>
+<div class="form-group field-loginform-rememberme">
+<div class="checkbox">
+<label for="loginform-rememberme">
+<input type="hidden" name="LoginForm[rememberMe]" value="0"><input type="checkbox" id="loginform-rememberme" name="LoginForm[rememberMe]" value="1" checked>
+Запомнить меня
+</label>
+<p class="help-block help-block-error"></p>
+
+</div>
+</div>
+<div class="clearfix">
+    <div class="pull-left">
+        <a href="/account/forgot/index" style="margin-top:6px;display:inline-block">Забыли пароль?</a>    </div>
+    <div class="pull-right">
+        <button type="submit" class="btn btn-primary" name="login-button">Войти</button>    </div>
+</div>
+
+</form>
+
+</div>
+
+</div>
+</div>
+</div>        </li>
+    
+            <li>
+            
+<button type="button" data-toggle="modal" data-target="#w2"><span>Регистрация</span> <i class="fa fa-user-plus" aria-hidden="true"></i></button>
+<div id="w2" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h3 class="h-m-0">Регистрация</h3>
+</div>
+<div class="modal-body">
+
+<form id="register-form" action="/account/register" method="post">
+<input type="hidden" name="_csrf" value="Enr1OHLHPHqaGrNyFt_THfdg2BCDY4O33OWJk4O0TsfSSDuwQnuyt8iaTqLHAcA8NM1O5tGFyWhG-qcCNUejIQ==">
+<div class="bblock">
+    <div class="bblock-header">Персональные данные</div>
+    <div class="bblock-content">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group field-signupform-last_name required">
+<label class="control-label" for="signupform-last_name">Фамилия</label>
+<input type="text" id="signupform-last_name" class="form-control" name="SignupForm[last_name]" autofocus placeholder="Иванов" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>
+                <div class="form-group field-signupform-first_name required">
+<label class="control-label" for="signupform-first_name">Имя</label>
+<input type="text" id="signupform-first_name" class="form-control" name="SignupForm[first_name]" placeholder="Иван" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>
+                <div class="form-group field-signupform-middle_name">
+<label class="control-label" for="signupform-middle_name">Отчество</label>
+<input type="text" id="signupform-middle_name" class="form-control" name="SignupForm[middle_name]" placeholder="Иванович">
+
+<p class="help-block help-block-error"></p>
+</div>            </div>
+            <div class="col-md-6">
+                <div class="form-group field-signupform-skype">
+<label class="control-label" for="signupform-skype">Telegram</label>
+<input type="text" id="signupform-skype" class="form-control" name="SignupForm[skype]" placeholder="example89">
+
+<p class="help-block help-block-error"></p>
+</div>
+                <div class="form-group field-signupform-icq">
+<label class="control-label" for="signupform-icq">ICQ</label>
+<input type="text" id="signupform-icq" class="form-control" name="SignupForm[icq]" placeholder="123456789">
+
+<p class="help-block help-block-error"></p>
+</div>
+                <div class="form-group field-signupform-phone">
+<label class="control-label" for="signupform-phone">Номер телефона</label>
+<input type="text" id="signupform-phone" class="form-control" name="SignupForm[phone]" placeholder="+380995554433">
+
+<p class="help-block help-block-error"></p>
+</div>            </div>
+        </div>
+    </div>
+</div>
+<div class="bblock">
+    <div class="bblock-header">Данные аккаунта</div>
+    <div class="bblock-content">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form-group field-signupform-username required">
+<label class="control-label" for="signupform-username">Логин</label>
+<input type="text" id="signupform-username" class="form-control" name="SignupForm[username]" placeholder="username" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>
+                <div class="form-group field-signupform-email required">
+<label class="control-label" for="signupform-email">Email</label>
+<input type="text" id="signupform-email" class="form-control" name="SignupForm[email]" placeholder="example@domain.com" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>            </div>
+            <div class="col-md-6">
+                <div class="form-group field-signupform-password required">
+<label class="control-label" for="signupform-password">Пароль</label>
+<input type="password" id="signupform-password" class="form-control" name="SignupForm[password]" placeholder="•••••••" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>
+                <div class="form-group field-signupform-repassword required">
+<label class="control-label" for="signupform-repassword">Повторите пароль</label>
+<input type="password" id="signupform-repassword" class="form-control" name="SignupForm[repassword]" placeholder="•••••••" aria-required="true">
+
+<p class="help-block help-block-error"></p>
+</div>            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        <div class="bblock">
+            <div class="bblock-header">
+                Зарегистрироваться
+            </div>
+
+            <div class="bblock-content">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group field-signupform-captcha">
+<label class="control-label" for="signupform-captcha">Подтвердите что вы не робот</label>
+<div class="captcha-block"><img id="signupform-captcha-image" src="/site/captcha?v=5c8f684df1580" alt=""></div><input type="text" id="signupform-captcha" class="form-control" name="SignupForm[captcha]">
+
+<p class="help-block help-block-error"></p>
+</div>                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group field-signupform-subscribe">
+<div class="checkbox">
+<label for="signupform-subscribe">
+<input type="hidden" name="SignupForm[subscribe]" value="0"><input type="checkbox" id="signupform-subscribe" name="SignupForm[subscribe]" value="1">
+Подписаться на рассылку писем?
+</label>
+<p class="help-block help-block-error"></p>
+
+</div>
+</div>                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary" name="signup-button">Зарегистрироваться</button>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</form>
+
+</div>
+
+</div>
+</div>
+</div>        </li>
+    </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div id="middle-header">
+    <div class="container">
+        <div class="header-banner" style="background-image: url(/image/banner/r8jZ16N2D1u6vWFm3LBf.jpg);">        <div class="row flex right flex-header">
+                        <div id="contacts">
+                                    <span class="time">КРУГЛОСУТОЧНО</span>
+                                <div class="contact-row phones">
+                    +38(094) 711-93-77                </div>
+                <div class="contact-row">
+                                            ЕЖЕДНЕВНО 24/7/365<br />
+Перерыв 4:00-8:00                                    </div>
+            </div>
+        </div>
+        </div>    </div>
+</div>            </header>
+            <div id="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div id="main">
+                                <div class="confidence clearfix">
+    <div class="pull-left">
+        <div class="my-counter">
+            <i class="fa fa-2x fa-thumbs-up" aria-hidden="true"></i> Нам доверяют <span>более 2613</span> человек по всему миру
+        </div>
+    </div>
+</div>
+                                
+                                
+<div class="operation-table">
+    <div class="op-hd-operation">
+        Направления
+    </div>
+    <div class="op-header">
+        <div class="op-hd-from"><i class="fa fa-repeat" aria-hidden="true"></i> Отдаете</div>
+        <div class="op-hd-to"><i class="fa fa-arrow-down" aria-hidden="true"></i> Получаете</div>
+        <div class="op-hd-reserve"><i class="fa fa-cubes" aria-hidden="true"></i> Резерв</div>
+    </div>
+    <div class="op-content">
+        <div class="operation-from">
+                            <a href="#change-from-wm-wme" class="op-from-item">
+                    <span class="si si-webmoney"></span> WME                </a>
+                            <a href="#change-from-wm-wmz" class="op-from-item">
+                    <span class="si si-webmoney"></span> WMZ                </a>
+                            <a href="#change-from-wm-wmr" class="op-from-item">
+                    <span class="si si-webmoney"></span> WMR                </a>
+                            <a href="#change-from-cash-usd" class="op-from-item">
+                    <span class="si si-cash"></span> Наличные USD                </a>
+                            <a href="#change-from-cash-uah" class="op-from-item">
+                    <span class="si si-cash"></span> Наличные UAH                </a>
+                    </div>
+        <div class="operation-to">
+                            <div id="change-from-wm-wme" class="change-to">
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-qiwi-rub" title="Обменять WME на Qiwi RUB">
+                    <div class="op-to-row-info">
+                        <span class="si si-qiwi"></span>
+                        Qiwi RUB                        <span class="op-i-course">1&nbsp;EUR = 71.5829&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">357&nbsp;854.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-v-mc-uah" title="Обменять WME на Visa/MC UAH">
+                    <div class="op-to-row-info">
+                        <span class="si si-visa-master"></span>
+                        Visa/MC UAH                        <span class="op-i-course">1&nbsp;EUR = 27.9925&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">563&nbsp;751.36&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-wm-wme" title="Обменять WME на WME">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WME                        <span class="op-i-course">1.0168&nbsp;EUR = 1&nbsp;EUR</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">0.00&nbsp;EUR</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-wm-wmr" title="Обменять WME на WMR">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMR                        <span class="op-i-course">1&nbsp;EUR = 72.3194&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">6&nbsp;335&nbsp;038.86&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-wm-wmz" title="Обменять WME на WMZ">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMZ                        <span class="op-i-course">1&nbsp;EUR = 1.1047&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">53&nbsp;470.14&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-cash-uah" title="Обменять WME на Наличные UAH">
+                    <div class="op-to-row-info">
+                        <span class="si si-cash"></span>
+                        Наличные UAH                        <span class="op-i-course">1&nbsp;EUR = 28.1298&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">2&nbsp;309&nbsp;675&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-cash-usd" title="Обменять WME на Наличные USD">
+                    <div class="op-to-row-info">
+                        <span class="si si-cash"></span>
+                        Наличные USD                        <span class="op-i-course">1&nbsp;EUR = 1.0877&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">184&nbsp;814&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-privat-manual-uah" title="Обменять WME на Приват 24 ">
+                    <div class="op-to-row-info">
+                        <span class="si si-privat24"></span>
+                        Приват 24                         <span class="op-i-course">1&nbsp;EUR = 28.9437&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">291&nbsp;823.08&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wme-to-yandex-money" title="Обменять WME на ЯндексДеньги">
+                    <div class="op-to-row-info">
+                        <span class="si si-yandex"></span>
+                        ЯндексДеньги                        <span class="op-i-course">1&nbsp;EUR = 69.9628&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">60&nbsp;340.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                </div>
+                            <div id="change-from-wm-wmz" class="change-to">
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-qiwi-rub" title="Обменять WMZ на Qiwi RUB">
+                    <div class="op-to-row-info">
+                        <span class="si si-qiwi"></span>
+                        Qiwi RUB                        <span class="op-i-course">1&nbsp;USD = 63.7&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">357&nbsp;854.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-v-mc-uah" title="Обменять WMZ на Visa/MC UAH">
+                    <div class="op-to-row-info">
+                        <span class="si si-visa-master"></span>
+                        Visa/MC UAH                        <span class="op-i-course">1&nbsp;USD = 24.978&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">563&nbsp;751.36&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-wm-wmr" title="Обменять WMZ на WMR">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMR                        <span class="op-i-course">1&nbsp;USD = 64.025&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">6&nbsp;335&nbsp;038.86&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-cash-uah" title="Обменять WMZ на Наличные UAH">
+                    <div class="op-to-row-info">
+                        <span class="si si-cash"></span>
+                        Наличные UAH                        <span class="op-i-course">1&nbsp;USD = 25.61&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">2&nbsp;309&nbsp;675&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-cash-usd" title="Обменять WMZ на Наличные USD">
+                    <div class="op-to-row-info">
+                        <span class="si si-cash"></span>
+                        Наличные USD                        <span class="op-i-course">1.035&nbsp;USD = 1&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">184&nbsp;814&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-privat-manual-uah" title="Обменять WMZ на Приват 24 ">
+                    <div class="op-to-row-info">
+                        <span class="si si-privat24"></span>
+                        Приват 24                         <span class="op-i-course">1&nbsp;USD = 25.9283&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">291&nbsp;823.08&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmz-to-yandex-money" title="Обменять WMZ на ЯндексДеньги">
+                    <div class="op-to-row-info">
+                        <span class="si si-yandex"></span>
+                        ЯндексДеньги                        <span class="op-i-course">1&nbsp;USD = 65&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">60&nbsp;340.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                </div>
+                            <div id="change-from-wm-wmr" class="change-to">
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-qiwi-rub" title="Обменять WMR на Qiwi RUB">
+                    <div class="op-to-row-info">
+                        <span class="si si-qiwi"></span>
+                        Qiwi RUB                        <span class="op-i-course">1.0256&nbsp;RUB = 1&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">357&nbsp;854.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-v-mc-uah" title="Обменять WMR на Visa/MC UAH">
+                    <div class="op-to-row-info">
+                        <span class="si si-visa-master"></span>
+                        Visa/MC UAH                        <span class="op-i-course">2.6699&nbsp;RUB = 1&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">563&nbsp;751.36&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-wm-wmz" title="Обменять WMR на WMZ">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMZ                        <span class="op-i-course">66.95&nbsp;RUB = 1&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">53&nbsp;470.14&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-cash-uah" title="Обменять WMR на Наличные UAH">
+                    <div class="op-to-row-info">
+                        <span class="si si-cash"></span>
+                        Наличные UAH                        <span class="op-i-course">2.6335&nbsp;RUB = 1&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">2&nbsp;309&nbsp;675&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-cash-usd" title="Обменять WMR на Наличные USD">
+                    <div class="op-to-row-info">
+                        <span class="si si-cash"></span>
+                        Наличные USD                        <span class="op-i-course">68.348&nbsp;RUB = 1&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">184&nbsp;814&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-privat-manual-uah" title="Обменять WMR на Приват 24 ">
+                    <div class="op-to-row-info">
+                        <span class="si si-privat24"></span>
+                        Приват 24                         <span class="op-i-course">2.5737&nbsp;RUB = 1&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">291&nbsp;823.08&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/wm-wmr-to-yandex-money" title="Обменять WMR на ЯндексДеньги">
+                    <div class="op-to-row-info">
+                        <span class="si si-yandex"></span>
+                        ЯндексДеньги                        <span class="op-i-course">1.0101&nbsp;RUB = 1&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">60&nbsp;340.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                </div>
+                            <div id="change-from-cash-usd" class="change-to">
+                                    <a class="op-to-item" href="/exchange/cash-usd-to-qiwi-rub" title="Обменять Наличные USD на Qiwi RUB">
+                    <div class="op-to-row-info">
+                        <span class="si si-qiwi"></span>
+                        Qiwi RUB                        <span class="op-i-course">1&nbsp;USD = 63.05&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">357&nbsp;854.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-usd-to-wm-wmr" title="Обменять Наличные USD на WMR">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMR                        <span class="op-i-course">1&nbsp;USD = 61.75&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">6&nbsp;335&nbsp;038.86&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-usd-to-wm-wmz" title="Обменять Наличные USD на WMZ">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMZ                        <span class="op-i-course">1&nbsp;USD = 1.005&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">53&nbsp;470.14&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-usd-to-privat-manual-uah" title="Обменять Наличные USD на Приват 24 ">
+                    <div class="op-to-row-info">
+                        <span class="si si-privat24"></span>
+                        Приват 24                         <span class="op-i-course">1&nbsp;USD = 26.02&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">291&nbsp;823.08&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-usd-to-yandex-money" title="Обменять Наличные USD на ЯндексДеньги">
+                    <div class="op-to-row-info">
+                        <span class="si si-yandex"></span>
+                        ЯндексДеньги                        <span class="op-i-course">1&nbsp;USD = 63.7&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">60&nbsp;340.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                </div>
+                            <div id="change-from-cash-uah" class="change-to">
+                                    <a class="op-to-item" href="/exchange/cash-uah-to-qiwi-rub" title="Обменять Наличные UAH на Qiwi RUB">
+                    <div class="op-to-row-info">
+                        <span class="si si-qiwi"></span>
+                        Qiwi RUB                        <span class="op-i-course">1&nbsp;UAH = 2.32&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">357&nbsp;854.00&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-uah-to-wm-wmr" title="Обменять Наличные UAH на WMR">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMR                        <span class="op-i-course">1&nbsp;UAH = 2.3256&nbsp;RUB</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">6&nbsp;335&nbsp;038.86&nbsp;RUB</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-uah-to-wm-wmz" title="Обменять Наличные UAH на WMZ">
+                    <div class="op-to-row-info">
+                        <span class="si si-webmoney"></span>
+                        WMZ                        <span class="op-i-course">27.503&nbsp;UAH = 1&nbsp;USD</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">53&nbsp;470.14&nbsp;USD</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                    <a class="op-to-item" href="/exchange/cash-uah-to-privat-manual-uah" title="Обменять Наличные UAH на Приват 24 ">
+                    <div class="op-to-row-info">
+                        <span class="si si-privat24"></span>
+                        Приват 24                         <span class="op-i-course">1.035&nbsp;UAH = 1&nbsp;UAH</span>
+                    </div>
+                    <div class="op-to-row-reserve">
+                        <span class="op-i-reserve">291&nbsp;823.08&nbsp;UAH</span>
+                        <em class="btn-buy">Обмен</em>
+                    </div>
+                    </a>
+                                </div>
+                    </div>
+    </div>
+    </div>
+<div class="bblock block-reviews">
+    <div class="bblock-header">
+        <i class="fa fa-2x fa-comments" aria-hidden="true"></i> Отзывы
+    </div>
+    <div class="bblock-content">
+                    <div class="reviews-item">
+                <p class="reviews-header"><span class="reviews-name">Мреква Антон</span>
+                    <span class="reviews-date">17.03.2019 18:44</span></p>
+                <p class="reviews-text">все швидко по гарному курсу! дякую!</p>
+            </div>
+                    <div class="reviews-item">
+                <p class="reviews-header"><span class="reviews-name">Евгений Мирошниченко</span>
+                    <span class="reviews-date">16.03.2019 17:34</span></p>
+                <p class="reviews-text">Сегодня провел обмен wmz на приват24, курс хороший, заявка прошла за 5 минут<br />
+</p>
+            </div>
+                    <div class="reviews-item">
+                <p class="reviews-header"><span class="reviews-name">Зарина Голубцова</span>
+                    <span class="reviews-date">16.03.2019 10:36</span></p>
+                <p class="reviews-text">Реактивный сервис )<br />
+Респект!</p>
+            </div>
+                    <div class="reviews-item">
+                <p class="reviews-header"><span class="reviews-name">Александр Приходько</span>
+                    <span class="reviews-date">15.03.2019 22:12</span></p>
+                <p class="reviews-text">Проводил сегодня обмены, все прошли успешно и быстро. Спасибочки!<br />
+</p>
+            </div>
+                    <div class="reviews-item">
+                <p class="reviews-header"><span class="reviews-name">Сергей Малюта</span>
+                    <span class="reviews-date">15.03.2019 19:46</span></p>
+                <p class="reviews-text">Спасибо. Все очень быстро. Я доволен на все 100...</p>
+            </div>
+                <p class="readmore"><a href="/reviews">Все отзывы</a></p>
+    </div>
+</div>
+                                    </div>
+                        </div>
+                        <div class="col-md-4">
+                            <aside>
+                                <div class="bblock reserve-block">
+    <div class="bblock-header">
+        Резервы валют
+    </div>
+    <div class="bblock-content">
+        <div id="reserve">
+            <ul><li><span class="si si-privat24"></span> <span class="re-name">Приват 24 </span> <span class="re-price">291&nbsp;823.08&nbsp;UAH</span></li><li><span class="si si-russ-stand"></span> <span class="re-name">Русский Стандарт</span> <span class="re-price">39&nbsp;500&nbsp;RUB</span></li><li><span class="si si-oshyadbank"></span> <span class="re-name">Ощадбанк</span> <span class="re-price">241&nbsp;140&nbsp;UAH</span></li><li><span class="si si-vtb"></span> <span class="re-name">ВТБ24</span> <span class="re-price">1&nbsp;249&nbsp;345.88&nbsp;RUB</span></li><li><span class="si si-sberbank"></span> <span class="re-name">Сбербанк RUB</span> <span class="re-price">338&nbsp;035&nbsp;RUB</span></li><li><span class="si si-alfabank"></span> <span class="re-name">Альфа-Банк</span> <span class="re-price">68&nbsp;742&nbsp;RUB</span></li><li><span class="si si-visa-master"></span> <span class="re-name">Visa/MC UAH</span> <span class="re-price">563&nbsp;751.36&nbsp;UAH</span></li><li><span class="si si-webmoney"></span> <span class="re-name">WMZ</span> <span class="re-price">53&nbsp;470.14&nbsp;USD</span></li><li><span class="si si-webmoney"></span> <span class="re-name">WMX</span> <span class="re-price">0.00000&nbsp;WMX</span></li><li><span class="si si-webmoney"></span> <span class="re-name">WME</span> <span class="re-price">0.00&nbsp;EUR</span></li><li><span class="si si-webmoney"></span> <span class="re-name">WMR</span> <span class="re-price">6&nbsp;335&nbsp;038.86&nbsp;RUB</span></li><li><span class="si si-qiwi"></span> <span class="re-name">Qiwi RUB</span> <span class="re-price">357&nbsp;854.00&nbsp;RUB</span></li><li><span class="si si-yandex"></span> <span class="re-name">ЯндексДеньги</span> <span class="re-price">60&nbsp;340.00&nbsp;RUB</span></li><li><span class="si si-cash"></span> <span class="re-name">Наличные USD</span> <span class="re-price">184&nbsp;814&nbsp;USD</span></li><li><span class="si si-cash"></span> <span class="re-name">Наличные UAH</span> <span class="re-price">2&nbsp;309&nbsp;675&nbsp;UAH</span></li><li><span class="si si-cash"></span> <span class="re-name">Наличные EUR</span> <span class="re-price">184&nbsp;074&nbsp;EUR</span></li><li><span class="si si-cash"></span> <span class="re-name">Наличные RUB</span> <span class="re-price">1&nbsp;121&nbsp;917.91&nbsp;RUB</span></li></ul>        </div>
+            </div>
+</div>
+
+
+<div id="modal-status-order" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h3 class="h-m-0">Состояние заявки</h3>
+</div>
+<div class="modal-body">
+<div id="block-for-status-order"></div>
+
+</div>
+
+</div>
+</div>
+</div>
+<div class="bblock">
+    <div class="bblock-header">
+        Состояние заявки
+    </div>
+    <div class="bblock-content">
+        <div class="in-row">
+            <div class="in-label"><label for="aside-input-status">Введите номер заявки</label></div>
+            <div class="in-input"><input type="text" name="order_number" placeholder="121526" class="in-control" id="aside-input-status"></div>
+        </div>
+        <div class="btn-row">
+            <div class="in-btn">
+                <button class="btn btn-submit" type="submit" id="aside-button-status">Проверить</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bblock news-block"><div class="bblock-header">Новости</div><div class="bblock-content"><div class="news-item"><p class="news-date">14.03.2019</p><p class="news-text">В Разделе Поддержка добавили контакты Администрации и Операторов. Теперь Вы можете связаться с нами в телеграм! Помните, никаких обменов через телеграм - не выполняем, все только через сайт! Переходить по контактам, только по ссылкам указанным в графе поддержка. </p></div>
+<div class="news-item"><p class="news-date">30.07.2016</p><p class="news-text">Наш обменный пункт теперь работает с направлением  Visa/MasterCard RUB</p></div>
+<div class="news-item"><p class="news-date">21.07.2016</p><p class="news-text">Теперь можно совершать перевод на карты Maestro без проблем.</p></div>
+</div></div>                            </aside>
+                        </div>
+                    </div>
+                            <div class="about-us">
+            <h3 class="about-header">
+                О сервисе            </h3>
+            <div class="about-text">
+                <p>Данный сервис предоставляет услуги по вводу, выводу, покупке, продаже и обмену электронных валют,титульных знаков(Webmoney wmz,wmr,wmu,wme). С помощью нашего сервиса Вы можете быстро, выгодно и без % обменять WMZ на WMR, WMZ на WME, WMZ на WMU,WMR на WMZ, WMR на WME, WMR на WMU, WMU на WMZ, WMU на WMR, WMU на WME, WME на WMZ, WME на WMR, WME на WMU. Любые обмены в системе Вебмани производятся моментально. Вам нужно всего лишь заполнить форму обмена Вебмани wmz на Вебмани wmr или другие нужные вам направления обмена. На сайте master-change.com.ua Вы можете удобно, быстрого и без % вывести с Вебмани ВМР, ВМЗ, ВМУ, ВМЕ на карту любого банка Visa/MasterCard буквально за несколько минут. Также, если Вам нужно пополнить Ваши кошельки Webmoney, Вы можете воспользоваться направлением &quot;Обмен Visa на Webmoney WMZ, WMR, WME, WMU&quot; или &quot;Обмен MasterCard на Webmoney WMZ, WMR, WME, WMU&quot;. Только у нас Вы можете ПРЕДЛОЖИТЬ СВОЙ КУРС ОБМЕНА, написав нам или заполнив форму на сайте.Мгновенный вывод Webmoney на карту Приватбанка.Моментальное пополнение Webmoney с помощью Приват24.</p>
+            </div>
+        </div>
+                    </div>
+            </div>
+            <footer id="footer">
+                <div class="container">
+    <div class="row flex">
+        <div id="copyright">
+            &copy; Copyright 2018, MasterChange
+        </div>
+        <div id="language-switcher">
+            
+<button type="button" class="lang-sw-open lang-icon lang-ru" data-toggle="modal" data-target="#w3">Русский</button>
+<div id="w3" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="empty-header modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+
+</div>
+<div class="modal-body">
+
+<div class="modal-lang-container">
+            <div class="lang-sw-row">
+            <a class="lang-sw-item lang-icon lang-ru" href="/?language=ru">Русский</a>        </div>
+            <div class="lang-sw-row">
+            <a class="lang-sw-item lang-icon lang-en" href="/?language=en">Английский</a>        </div>
+            <div class="lang-sw-row">
+            <a class="lang-sw-item lang-icon lang-de" href="/?language=de">Немецкий</a>        </div>
+            <div class="lang-sw-row">
+            <a class="lang-sw-item lang-icon lang-es" href="/?language=es">Испанский</a>        </div>
+            <div class="lang-sw-row">
+            <a class="lang-sw-item lang-icon lang-fr" href="/?language=fr">Французский</a>        </div>
+    </div>
+
+
+</div>
+
+</div>
+</div>
+</div>        </div>
+        <div id="bottom-menu">
+            <ul id="w4" class="bottom-menu nav"><li><a href="/">Главная</a></li>
+<li><a href="/article/pravila">Соглашение</a></li>
+<li><a href="/reviews">Отзывы</a></li>
+<li><a href="/article/faq">FAQ</a></li></ul>
+        </div>
+        <div id="payments">
+            <div class="pay-gif">
+                <a href="https://kurs.expert/" target="_blank">
+                    <img src="/image/kurs-expert.png" alt="kurs-expert.png" title="Мониторинг обменников, анализатор валют КурсЕксперт">
+                </a>
+            </div>
+            <div class="pay-gif">
+                <a href="http://wt-change.com" target="_blank">
+                    <img src="/image/wt-change88x31.gif" alt="wt-change88x31.gif" title="Мониторинг обменников"/>
+                </a>
+            </div>
+            <div class="pay-gif">
+                <a href="http://bestexchangers.ru/" target="_blank">
+                    <img src="/image/bestexchangers.gif" alt="bestexchangers.gif" title="Мониторинг обменных пунктов BestExchangers.ru. Только лучшие курсы обмена!">
+                </a>
+            </div>
+            <div class="pay-gif">
+                <a href="https://www.bestchange.ru/" target="_blank">
+                    <img src="/image/bestchange.gif" title="bestchange.gif" alt="Мониторинг обменных пунктов BestChange.ru"/>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<script>var warningList = []</script><div style="display:none"><div id="google_translate_element"></div></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" id="livechatscript" src="https://master-change.com.ua/chat/scripts/livechat.js"></script>            </footer>
+        </div>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="/assets/a09ee069/jquery.js"></script>
+<script src="/assets/8761966d/yii.js"></script>
+<script src="/js/front.js?v=a0f33f8"></script>
+<script src="/assets/8761966d/yii.validation.js"></script>
+<script src="/assets/8761966d/yii.activeForm.js"></script>
+<script src="/assets/d148342a/js/bootstrap.js"></script>
+<script src="/assets/8761966d/yii.captcha.js"></script>
+<script type="text/javascript">function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'ru', includedLanguages: 'de,en,es,fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');}</script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#login-form').yiiActiveForm([{"id":"loginform-username","name":"username","container":".field-loginform-username","input":"#loginform-username","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Логин»."});}},{"id":"loginform-password","name":"password","container":".field-loginform-password","input":"#loginform-password","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Пароль»."});}},{"id":"loginform-rememberme","name":"rememberMe","container":".field-loginform-rememberme","input":"#loginform-rememberme","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.boolean(value, messages, {"trueValue":"1","falseValue":"0","message":"Значение «Запомнить меня» должно быть равно «1» или «0».","skipOnEmpty":1});}}], []);
+jQuery('#w1').modal({"show":false});
+jQuery('#signupform-captcha-image').yiiCaptcha({"refreshUrl":"\/site\/captcha?refresh=1","hashKey":"yiiCaptcha\/site\/captcha"});
+jQuery('#register-form').yiiActiveForm([{"id":"signupform-last_name","name":"last_name","container":".field-signupform-last_name","input":"#signupform-last_name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Фамилия»."});yii.validation.string(value, messages, {"message":"Значение «Фамилия» должно быть строкой.","min":3,"tooShort":"Значение «Фамилия» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Фамилия» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-first_name","name":"first_name","container":".field-signupform-first_name","input":"#signupform-first_name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Имя»."});yii.validation.string(value, messages, {"message":"Значение «Имя» должно быть строкой.","min":3,"tooShort":"Значение «Имя» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Имя» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-middle_name","name":"middle_name","container":".field-signupform-middle_name","input":"#signupform-middle_name","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.string(value, messages, {"message":"Значение «Отчество» должно быть строкой.","min":3,"tooShort":"Значение «Отчество» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Отчество» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-skype","name":"skype","container":".field-signupform-skype","input":"#signupform-skype","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Telegram» должно быть строкой.","min":3,"tooShort":"Значение «Telegram» должно содержать минимум 3 символа.","max":45,"tooLong":"Значение «Telegram» должно содержать максимум 45 символов.","skipOnEmpty":1});}},{"id":"signupform-icq","name":"icq","container":".field-signupform-icq","input":"#signupform-icq","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «ICQ» должно быть строкой.","min":3,"tooShort":"Значение «ICQ» должно содержать минимум 3 символа.","max":20,"tooLong":"Значение «ICQ» должно содержать максимум 20 символов.","skipOnEmpty":1});}},{"id":"signupform-phone","name":"phone","container":".field-signupform-phone","input":"#signupform-phone","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Номер телефона» должно быть строкой.","min":4,"tooShort":"Значение «Номер телефона» должно содержать минимум 4 символа.","max":20,"tooLong":"Значение «Номер телефона» должно содержать максимум 20 символов.","skipOnEmpty":1});}},{"id":"signupform-username","name":"username","container":".field-signupform-username","input":"#signupform-username","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Логин»."});yii.validation.string(value, messages, {"message":"Значение «Логин» должно быть строкой.","min":2,"tooShort":"Значение «Логин» должно содержать минимум 2 символа.","max":255,"tooLong":"Значение «Логин» должно содержать максимум 255 символов.","skipOnEmpty":1});yii.validation.regularExpression(value, messages, {"pattern":/^[a-z0-9][a-z0-9_-]+$/,"not":false,"message":"Логин может содержать только a-z, 0-9, _ -","skipOnEmpty":1});}},{"id":"signupform-email","name":"email","container":".field-signupform-email","input":"#signupform-email","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {value = yii.validation.trim($form, attribute, []);yii.validation.required(value, messages, {"message":"Необходимо заполнить «Email»."});yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Значение «Email» не является правильным email адресом.","enableIDN":false,"skipOnEmpty":1});yii.validation.string(value, messages, {"message":"Значение «Email» должно быть строкой.","max":255,"tooLong":"Значение «Email» должно содержать максимум 255 символов.","skipOnEmpty":1});}},{"id":"signupform-password","name":"password","container":".field-signupform-password","input":"#signupform-password","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Пароль»."});yii.validation.string(value, messages, {"message":"Значение «Пароль» должно быть строкой.","min":5,"tooShort":"Значение «Пароль» должно содержать минимум 5 символов.","skipOnEmpty":1});}},{"id":"signupform-repassword","name":"repassword","container":".field-signupform-repassword","input":"#signupform-repassword","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необходимо заполнить «Повторите пароль»."});yii.validation.compare(value, messages, {"operator":"==","type":"string","compareAttribute":"signupform-password","skipOnEmpty":1,"message":"Значение «Повторите пароль» должно быть равно «Пароль»."});}},{"id":"signupform-captcha","name":"captcha","container":".field-signupform-captcha","input":"#signupform-captcha","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.captcha(value, messages, {"hash":649,"hashKey":"yiiCaptcha/site/captcha","caseSensitive":false,"message":"Неправильный проверочный код."});}},{"id":"signupform-subscribe","name":"subscribe","container":".field-signupform-subscribe","input":"#signupform-subscribe","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.range(value, messages, {"range":["1","0"],"not":false,"message":"Значение «Подписаться на рассылку писем?» неверно.","skipOnEmpty":1});}}], []);
+jQuery('#w2').modal({"show":false});
+jQuery('#modal-status-order').modal({"show":false});
+jQuery('#w3').modal({"show":false});
+});</script>    </body>
+</html>

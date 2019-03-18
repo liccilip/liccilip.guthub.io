@@ -1,0 +1,2229 @@
+<!DOCTYPE html>
+<html lang="ru-RU" dir="ltr">
+<head>
+
+	<meta charset="UTF-8">
+	<title>Сервис обмена электронных валют</title>
+
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='fira-sans-css'  href='https://fonts.googleapis.com/css?family=Fira+Sans%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i&#038;subset=cyrillic%2Ccyrillic-ext%2Clatin-ext&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme style-css'  href='https://acryptoexchange.com/wp-content/themes/acryptoexchange/style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://acryptoexchange.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.2.0'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/premium/js/clipboard.min.js?ver=2.0.4'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/premium/js/jquery-window.js?ver=0.2'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/themes/acryptoexchange/js/jquery-select.js?ver=1.6'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/themes/acryptoexchange/js/jquery-table.js?ver=1.6'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/themes/acryptoexchange/js/jquery-checkbox.js?ver=1.6'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/themes/acryptoexchange/js/site.js?ver=1.6'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/moduls/js_timer/js/jquery-timer.js?ver=1552903267'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/wp-content/plugins/premiumbox/moduls/qr_adress/js/jquery-qrcode-0.14.0.min.js?ver=1552903267'></script>
+<script type='text/javascript' src='https://acryptoexchange.com/premiumjs.js?lang=ru&#038;ver=1552914067'></script>
+	<link rel="shortcut icon" href="https://acryptoexchange.com/wp-content/uploads/big-new.png" type="image/png" />
+	<link rel="icon" href="https://acryptoexchange.com/wp-content/uploads/big-new.png" type="image/png" />
+	<link rel='canonical' href='https://acryptoexchange.com/' />
+<meta name="keywords" content="" />
+<meta name="description" content="Acryptoexchange.com - обмен и покупка Perfect Money, Payeer, Advcash и Яндекс.Деньги" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://acryptoexchange.com/?rid=62" />
+<meta property="og:site_name" content="Acryptoexchange.com - сервис обмена электронных валют" />
+<meta property="og:description" content="Aryptoexchange.com - сервис обмена электронных валют" />
+<meta property="og:title" content="Acryptoexchange.com - сервис обмена электронных валют" />
+
+</head>
+
+<body class="home page-template page-template-pn-homepage page-template-pn-homepage-php page page-id-4">
+<div id="container">
+
+
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+
+				
+				
+									<div class="topbar_icon email">
+						<a href="mailto:&#115;&#117;&#112;&#112;o&#114;&#116;&#64;&#97;c&#114;yp&#116;oe&#120;&#99;&#104;a&#110;g&#101;&#46;co&#109;">&#115;upp&#111;&#114;t&#64;&#97;cr&#121;p&#116;&#111;e&#120;c&#104;ang&#101;.&#99;o&#109;</a>
+					</div>
+				
+									<img style="margin-left: 58px;" src="https://acryptoexchange.com/wp-content/uploads/timeout.png" alt="">
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://acryptoexchange.com/?rid=62" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://acryptoexchange.com/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+				<a href="https://acryptoexchange.com/en/?rid=62" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://acryptoexchange.com/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+					</div>
+					English
+				</a>
+			</div>
+		</div></div>
+									<a href="https://acryptoexchange.com/login/" class="toplink">Войти</a>
+					<a href="https://acryptoexchange.com/register/" class="toplink userlogin">Регистрация</a>
+				
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://acryptoexchange.com">
+						
+															<img src="https://acryptoexchange.com/wp-content/uploads/logo.png" alt="" /> 
+							
+													</a>
+											</div>
+				</div>
+
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://acryptoexchange.com/" aria-current="page"><span>Главная</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://acryptoexchange.com/news/"><span>Новости</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://acryptoexchange.com/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://acryptoexchange.com/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://acryptoexchange.com/feedback/"><span>Контакты</span></a></li>
+</ul>					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+
+	<div class="wrapper">
+
+		
+		<div class="homepage_wrap">
+
+
+<div class="xchange_table_wrap">
+	
+	<div class="xchange_type_table">
+		<div class="xchange_type_table_ins">	
+				<div class="xtt_icon_wrap">
+					<div class="xtt_left_col_icon">
+						<div class="tbl_icon xtt_icon active js_icon_left js_icon_left_0" data-type="0"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>Все</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_USD" data-type="USD" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>USD</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_RUB" data-type="RUB" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>RUB</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_ETH" data-type="ETH" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>ETH</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_LTC" data-type="LTC" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>LTC</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_BTC" data-type="BTC" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>BTC</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_BCH" data-type="BCH" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>BCH</div></div><div class="tbl_icon xtt_icon js_icon_left js_icon_left_USDT" data-type="USDT" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>USDT</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt_right_col_icon">
+						<div class="tbl_icon xtt_icon active js_icon_right js_icon_right_0" data-type="0"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>Все</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_USD" data-type="USD" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>USD</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_RUB" data-type="RUB" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>RUB</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_ETH" data-type="ETH" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>ETH</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_LTC" data-type="LTC" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>LTC</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_BTC" data-type="BTC" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>BTC</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_BCH" data-type="BCH" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>BCH</div></div><div class="tbl_icon xtt_icon js_icon_right js_icon_right_USDT" data-type="USDT" style="display: none;"><div class="tbl_icon_ins xtt_icon_ins"><div class="tbl_icon_abs xtt_icon_abs"></div>USDT</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt_table_wrap">
+				<div class="xtt_table_title_wrap">
+					<div class="xtt_left_col_title">
+						<div class="xtt_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt_right_col_title">
+						<div class="xtt_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt_table_title3">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt_table_body_wrap">
+					<div class="xtt_html_abs"></div>
+						<div class="xtt_left_col_table">
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USDT  " data-id="23" data-type="USDT">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Tether USDT
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													0.99009901
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="9" data-type="USD">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Advcash USD
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													1
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="1" data-type="USD">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Perfect Money USD
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													1.01409878
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="24" data-type="RUB">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/advcash-rub.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Advcash RUB
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													67.5035
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_USD  " data-id="14" data-type="USD">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Payeer USD
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													1.03
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="6" data-type="RUB">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Яндекс.Деньги RUB
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													66.4289
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="7" data-type="RUB">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Сбербанк RUB
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													67.7061
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="16" data-type="RUB">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Alfabank.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													Альфа-Банк RUB
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													66
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+									<!-- one item -->
+									<div class="js_item_left js_item_left_RUB  " data-id="18" data-type="RUB">
+										<div class="xtt_one_line_left">
+									<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+											<div class="xtt_one_line_ico_left"> 
+												<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/vtb.png) no-repeat center center;"></div>
+											</div>
+											<div class="xtt_one_line_name_left">
+												<div class="xtt_one_line_name">
+													ВТБ RUB
+												</div>
+											</div>
+											
+											<div class="xtt_one_line_curs_left">
+												<div class="xtt_one_line_curs">
+													65.7031
+												</div>	
+											</div>												
+											
+											<div class="clear"></div>
+										</div>	
+									</div>
+									<!-- end one item -->
+									
+						</div>		
+						<div class="xtt_right_col_table">
+						
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_23">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_USDT_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="153">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Advcash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1.0001
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	1671.30035797
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="153" data-title="Tether USDT-Advcash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_USDT_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="156">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Яндекс.Деньги RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	65.4493
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	18038.6778
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="156" data-title="Tether USDT-Яндекс.Деньги RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_USDT_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="169">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Сбербанк RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	64.7103
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	44320.9421
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="169" data-title="Tether USDT-Сбербанк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_USDT_to_ACRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="172">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Alfabank.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Альфа-Банк RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	64.5503
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="172" data-title="Tether USDT-Альфа-Банк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_USDT_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="197">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/vtb.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	ВТБ RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	64.4583
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="197" data-title="Tether USDT-ВТБ RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_9">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ADVCUSD_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="157">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="157" data-title="Advcash USD-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ADVCUSD_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="64">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/vtb.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	ВТБ RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	63.8177
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="64" data-title="Advcash USD-ВТБ RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_1">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PMUSD_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="158">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="158" data-title="Perfect Money USD-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PMUSD_to_PRUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="21">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5.40397291
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="21" data-title="Perfect Money USD-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PMUSD_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="34">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/vtb.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	ВТБ RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	63.4285
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="34" data-title="Perfect Money USD-ВТБ RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_24">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ADVCRUB_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="167">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="167" data-title="Advcash RUB-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_14">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PRUSD_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="71">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Сбербанк RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	63.0401
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	44320.9421
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="71" data-title="Payeer USD-Сбербанк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PRUSD_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="161">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="161" data-title="Payeer USD-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PRUSD_to_LTC/" class="js_exchange_link js_item_right js_item_right_LTC" data-type="LTC" data-direction-id="133">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Litecoin LTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0.1794968
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="133" data-title="Payeer USD-Litecoin LTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PRUSD_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="67">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Advcash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	1671.30035797
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="67" data-title="Payeer USD-Advcash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_PRUSD_to_TBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-direction-id="74">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/vtb.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	ВТБ RUB
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	62.8454
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="74" data-title="Payeer USD-ВТБ RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_6">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_YAMRUB_to_PMUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="76">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Perfect Money USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3720.7235673
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="76" data-title="Яндекс.Деньги RUB-Perfect Money USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_YAMRUB_to_PRUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="78">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5.40397291
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="78" data-title="Яндекс.Деньги RUB-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_YAMRUB_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="162">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="162" data-title="Яндекс.Деньги RUB-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_YAMRUB_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="77">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Advcash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	1671.30035797
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="77" data-title="Яндекс.Деньги RUB-Advcash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_7">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_SBERRUB_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="163">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="163" data-title="Сбербанк RUB-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_SBERRUB_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="171">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Advcash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	1671.30035797
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="171" data-title="Сбербанк RUB-Advcash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_SBERRUB_to_PMUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="175">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Perfect Money USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3720.7235673
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="175" data-title="Сбербанк RUB-Perfect Money USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_SBERRUB_to_PRUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="183">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5.40397291
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="183" data-title="Сбербанк RUB-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_16">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ACRUB_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="164">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="164" data-title="Альфа-Банк RUB-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ACRUB_to_LTC/" class="js_exchange_link js_item_right js_item_right_LTC" data-type="LTC" data-direction-id="193">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Litecoin.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Litecoin LTC
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	0.1794968
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="193" data-title="Альфа-Банк RUB-Litecoin LTC">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ACRUB_to_ADVCUSD5/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="170">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Advcash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	1671.30035797
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="170" data-title="Альфа-Банк RUB-Advcash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ACRUB_to_PMUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="87">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Perfect Money USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3720.7235673
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="87" data-title="Альфа-Банк RUB-Perfect Money USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_ACRUB_to_PRUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="89">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5.40397291
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="89" data-title="Альфа-Банк RUB-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_18">
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_TBRUB_to_USDT/" class="js_exchange_link js_item_right js_item_right_USDT" data-type="USDT" data-direction-id="196">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Tether USDT
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	879.89220225
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="196" data-title="ВТБ RUB-Tether USDT">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_TBRUB_to_ADVCUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="99">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Advcash USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	1671.30035797
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="99" data-title="ВТБ RUB-Advcash USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_TBRUB_to_PMUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="198">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Perfect Money USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	3720.7235673
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="198" data-title="ВТБ RUB-Perfect Money USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://acryptoexchange.com/exchange_TBRUB_to_PRUSD/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-direction-id="100">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+															<div class="xtt_one_line_ico_right"> 
+																<div class="xtt_change_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+															</div>															
+															
+															<div class="xtt_one_line_name_right">
+																<div class="xtt_one_line_name">
+																	Payeer USD
+																</div>
+															</div>														
+															
+															<div class="xtt_one_line_curs_right">
+																<div class="xtt_one_line_curs">
+																	1
+																</div>	
+															</div>															
+															
+															<div class="xtt_one_line_reserv_right">
+																<div class="xtt_one_line_reserv">
+																	5.40397291
+																</div>	
+															</div>															
+															
+		<div class="xtt_one_line_rez js_reserv" data-id="100" data-title="ВТБ RUB-Payeer USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div></div>
+
+
+<div class="home_text_wrap">
+	<div class="home_gray_blick"></div>
+	<div class="home_text_ins">
+		<div class="home_text_block">
+			<div class="home_text_title">Уважаемые гости сайта!</div>
+			<div class="home_text_div">
+				<div class="text">
+					<p>Представляем Вашему вниманию On-line сервис  обмена электронных и цифровых валют  &#8212; Acryptoexchange.com</p>
+<p>Благодаря системе, созданной на базе современного программного обеспечения, Вы можете по выгодному курсу, оперативно и безопасно произвести обменные операции с такими  платежными системами и банками:  PerfectMoney (USD); AdvCash (USD); Payeer (USD); Яндекс.Деньги (RUB); Сбербанк RUB; Альфа-Банк RUB; Альфа cash-in (USD); ВТБ (RUB); Тинькофф Банк RUB.</p>
+<div class="home_text_title">Безопасность</div>
+<p>Особое внимание команда Acryptoexchange.com, уделила такому приритетному для всех пользователей вопросу, как безопасность. </p>
+<p>•	Система на базе которой создан сайт обменного сервиса, содержит весь набор необходимых функций для удобной и безопасной конвертации наиболее распространенных видов электронных и цифровых валют. </p>
+<p>•	Установлен SSL (англ. Secure Sockets Layer — уровень защищённых cокетов), от ведущих разработчиков в направлении интернет безопасности. Данный криптографический протокол обеспечивает безопасную связь, используя асимметричную криптографию для аутентификации ключей обмена.</p>
+<p>•	Acryptoexchange.com  &#8212;  один из немногих обменных сервисов, честность работы которого  обеспечена Гарантами.</p>
+<div class="home_text_title">Гаранты</div>
+<p>Все обменные операции, которые Вы совершаете на нашем сайте, застрахованы нашими партнерами:</p>
+<div class="garant-block">
+<a rel="nofollow" href="http://goldroyal.net/showthread.php?t=66327" target="_blank"><img src="https://acryptoexchange.com/wp-content/uploads/goldroyal.png" class="garant-photo" alt="Голдрояль.нет - форум о заработке в интернете"/></a><a rel="nofollow" href="https://acryptoinvest.com/showthread.php?t=6675" target="_blank"><img src="https://acryptoexchange.com/wp-content/uploads/acryptoinvest.png" class="garant-photo" alt="Акриптоинвест - форум о заработках и инвестициях" /></a><a rel="nofollow" href="http://online-biznes.biz/showthread.php?p=245147" target="_blank"><img src="https://acryptoexchange.com/wp-content/uploads/onlinebiznes.png" class="garant-photo" alt="Бизнес форум" /></a><a rel="nofollow" href="http://wmzforum.info/showthread.php?t=30225" target="_blank"><img src="https://acryptoexchange.com/wp-content/uploads/wmzforum.png" class="garant-photo garant-photo-wmzforum" alt="вмзфорум.инфо - форум о заработкеи и инвестициях" /></a><a rel="nofollow" href="https://domain4ik.ru/forum/showthread.php?t=991" target="_blank"><img src="https://acryptoexchange.com/wp-content/uploads/domain4ik.png" class="garant-photo" alt="Доменчик.ру - сервис регистрации доменов и хостинга" /></a>
+</div>
+<p></p>
+<div class="home_text_title">Зарабатываем и экономим вместе с Acryptoexchange.com</div>
+<p>Обращаем внимание на дополнительные возможности в работе обменного сервиса. Вы можете не только экономить, совершая очередные обмены, но и заработать, участвуя в нашей партнерской программе.<br />
+Каждый пользователь, потративший несколько минут на процедуру регистрации, получает накопительную скидку от 0.05%, см. <a rel="nofollow" href="https://domainik.ru" target="_blank"><a rel="nofollow" href="https://acryptoexchange.com/register" target="_blank">подробнее »</a></p>
+<p>Любой зарегистрированный пользователь может участвовать в нашей партнерской программе и получать дополнительную прибыль, которая зачисляется на Ваш счет в личном кабинете.</p>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>	
+
+<div class="home_news_wrap">
+	<div class="home_news_ins">
+		<div class="home_news_block">
+			<div class="home_news_top">
+				<div class="home_news_title">Новости</div>
+				<a href="https://acryptoexchange.com/news/" class="home_news_more">Все новости</a>
+					<div class="clear"></div>
+			</div>		
+			<div class="home_news_div">
+				<div class="home_news_div_ins">
+								
+					<div class="home_news_one">
+						<div class="home_news_date">23.12.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://acryptoexchange.com/tehnicheskie-rabotyi/">Технические работы</a></div>
+					</div>			
+				
+								
+					<div class="home_news_one">
+						<div class="home_news_date">13.07.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://acryptoexchange.com/myi-obmenivaem-bitcoin-cash-bch/">Мы обмениваем Bitcoin Cash BCH!</a></div>
+					</div>			
+				
+								
+					<div class="home_news_one">
+						<div class="home_news_date">11.06.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://acryptoexchange.com/rezhim-rabotyi-11-12-06/">Режим работы 11-12.06</a></div>
+					</div>			
+				
+									<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="home_news_wrap">
+	<div class="home_news_ins">
+		<div class="home_news_block">
+			<div class="home_news_top">
+				<div class="home_news_title">Отзывы</div>
+				<a href="https://acryptoexchange.com/reviews/" class="home_news_more">Все отзывы</a>
+					<div class="clear"></div>
+			</div>		
+
+			<div class="home_news_div">
+				<div class="home_news_div_ins">
+			
+								
+					<div class="home_reviews_one">
+						<div class="home_reviews_abs"></div>
+						<div class="home_reviews_date">Ярослав, 08.10.2018, 21:13</div>
+							<div class="clear"></div>
+						<div class="home_reviews_content">Не первый раз провожу обмен на этом сервисе и каждый раз доволен, да и скидку&hellip;</div>
+					</div>			
+				
+								
+					<div class="home_reviews_one">
+						<div class="home_reviews_abs"></div>
+						<div class="home_reviews_date">Евгений, 03.09.2018, 17:43</div>
+							<div class="clear"></div>
+						<div class="home_reviews_content">пока доволен.дальше будем посмотреть</div>
+					</div>			
+				
+								
+					<div class="home_reviews_one">
+						<div class="home_reviews_abs"></div>
+						<div class="home_reviews_date">Евгений, 02.09.2018, 14:53</div>
+							<div class="clear"></div>
+						<div class="home_reviews_content">Менял сбер на тетер, все ок, быстро и без проблем</div>
+					</div>			
+				
+							
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="home_partner_wrap">
+	<div class="home_gray_blick"></div>
+	<div class="home_partner_wrap_ins">
+		<div class="home_partner_block">
+			
+			<div class="home_lchange_div">
+								
+					<div class="home_lchange_title">Последний обмен</div>
+					<div class="home_lchange_date">16.03.2019, 15:37</div>
+					<div class="home_lchange_body">
+					
+						<div class="home_lchange_why">
+							<div class="home_lchange_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+							<div class="home_lchange_txt">
+								<div class="home_lchange_sum">517.09160982</div>
+								<div class="home_lchange_name">USD</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+					
+						<div class="home_lchange_arr"></div>
+					
+						<div class="home_lchange_why">
+							<div class="home_lchange_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Alfabank.png) no-repeat center center;"></div>
+							<div class="home_lchange_txt">
+								<div class="home_lchange_sum">33193.61</div>
+								<div class="home_lchange_name">RUB</div>
+							</div>
+						</div>				
+							<div class="clear"></div>
+					</div>
+						
+			</div>
+			
+						
+			<div class="home_partner_div">
+				<div class="home_partner_title">Партнеры</div>
+				<div class="home_partner_many">
+												<div class="home_partner_one">
+								<a href="https://www.bestchange.net/acryptoexchange-exchanger.html" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/bestchange.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://kurs.expert/ru/obmennik/acryptoexchange/feedbacks.html" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/kurs-expert.png" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://bestexchangers.ru/ru/detail.html?xobmen=717" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/bestexchangers.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://changeinfo.ru/review/Acryptoexchange.com" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/changeinfo2.png" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://okku.ru/?details=308" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/okku.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://www.okchanger.ru/exchangers/acryptoexchange-com" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/okchanger.png" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://pro-obmen.ru/acryptoexchange" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/pro-obmen.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://glazok.org/exchange/?details=537" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/glazok-org.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://good-kurs.ru/review/acryptoexchange" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/88x31-1-1.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://обменки.рф/monitoring-obmennikov/?details=205" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/88x31-1.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://askoin.com/acryptoexchange" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/Askoin.jpg" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="http://kurses.com.ua/exchangers/acryptoexchange.com" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/kurses-com-ua.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://changegid.com/exchangers/acryptoexchange" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/logo-ChangeGid.jpg" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://exchangersmonitor.com/exchanger-acryptoexchange.com.html" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/88x31.jpg" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://exchangers.io/ru/obmennik-valjut/akriptoekschendzh" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/button88x31dark.png" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="http://monitorkursov.com/monitoring-obmennikov/?details=80" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/88x31-4.gif" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://chexch.com/reviews/acryptoexchange/" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/88x31.png" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://bestcurs.org/monitoring-obmennikov/?details=508" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/bestkurs.png" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://exchangesumo.com/" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/1-2.jpg" alt="" />
+								</a>							</div>
+													<div class="home_partner_one">
+								<a href="https://cryptobrokers.ru/acryptoexchange-com-info/" target="_blank">									<img src="https://acryptoexchange.com/wp-content/uploads/88x31-2.png" alt="" />
+								</a>							</div>
+											<div class="clear"></div>
+				</div>	
+			</div>
+							<div class="clear"></div>
+		</div>	
+	</div>
+</div>
+
+	<div class="home_reserv_wrap">
+		<div class="home_gray_blick"></div>
+		
+		<div class="home_reserv_block_ins">
+
+			<div class="home_reserv_block">
+				<div class="home_reserv_title">Резерв валюты</div>
+				
+				<div class="home_reserv_many">
+					<div class="home_reserv_many_ins">
+				
+						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Perfect-Money.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Perfect Money USD								</div>
+								<div class="one_home_reserv_sum">
+									3720.7235673								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Яндекс.Деньги RUB								</div>
+								<div class="one_home_reserv_sum">
+									18038.6778								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Сбербанк RUB								</div>
+								<div class="one_home_reserv_sum">
+									44320.9421								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Advcash.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Advcash USD								</div>
+								<div class="one_home_reserv_sum">
+									1671.30035797								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Payeer.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Payeer USD								</div>
+								<div class="one_home_reserv_sum">
+									5.40397291								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/Alfabank.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Альфа-Банк RUB								</div>
+								<div class="one_home_reserv_sum">
+									0								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/vtb.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									ВТБ RUB								</div>
+								<div class="one_home_reserv_sum">
+									0								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://acryptoexchange.com/wp-content/uploads/tether.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Tether USDT								</div>
+								<div class="one_home_reserv_sum">
+									879.89220225								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>										
+						<div class="clear"></div>
+					</div>	
+				</div>
+			</div>	
+		
+		</div>
+	</div>
+	
+
+</div>
+		
+
+			</div>
+	
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+			
+				<div class="copyright">
+											<p>© 2017 &#8212; 2019 Acryptoexchange.com</p>
+									</div>
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t25.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+</script><!--/LiveInternet-->			
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://acryptoexchange.com/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://acryptoexchange.com/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-77"><a href="https://acryptoexchange.com/tos/"><span>Правила сайта</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			
+			</div>
+			<div class="footer_center">
+				<div class="footer_soc">
+												<a href="https://vk.com/acryptoexchange" class="" target="_blank" rel="nofollow"><img src="https://acryptoexchange.com/wp-content/themes/acryptoexchange/images/vk-ico.png" alt="" /></a>
+													<a href="https://www.facebook.com/AcryptoExchangecom-944415142398399/" class="" target="_blank" rel="nofollow"><img src="https://acryptoexchange.com/wp-content/themes/acryptoexchange/images/fb-ico.png" alt="" /></a>
+													<a href="https://twitter.com/AcryptoExchange/" class="" target="_blank" rel="nofollow"><img src="https://acryptoexchange.com/wp-content/themes/acryptoexchange/images/tw-ico.png" alt="" /></a>
+							
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://acryptoexchange.com/ajax-set_site_vers.html?meth=get&yid=c282797b6aff&ynd=0&lang=ru&set=mobile&return_url=%2F%3Frid%3D62">Мобильная версия</a></div>
+							</div>
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p>Режим работы:  Круглосуточно<br />
+Без выходных</p>
+<p>Поддержка сервиса: <a href="mailto:support@acryptoexchange.com">support@acryptoexchange.com</a></p>
+				</div>
+								
+			
+			</div>			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+	
+</div>
+<div id="topped"></div>
+
+	
+<script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D62&ltime=1552914067';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://acryptoexchange.com/ajax-globalajax_wp_check.html?meth=post&yid=c282797b6aff&ynd=0&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+
+		<div class="reserv_box_html" style="display: none;">
+			<div class="resultgo"></div>		
+			
+				<div class="form_field_line rb_line type_input field_name_sum">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input field_name_email">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-1-email" class="rb_input notclear"  placeholder="E-mail"  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_text field_name_comment">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="form_field_id-1-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+					
+			<div class="rb_line"><input type="submit" formtarget="_top" name="submit" class="rb_submit" value="Отправить запрос" /></div>
+		</div>
+		<form method="post" class="ajax_post_form" action="https://acryptoexchange.com/ajax-reservform.html?meth=post&yid=c282797b6aff&ynd=0&lang=ru">
+			<input type="hidden" name="id" id="reserv_box_id" value="0" />
+			
+			<div class="reserv_box"></div>
+		</form>
+		
+		<div class="loginform_box_html" style="display: none;">
+			<div class="resultgo"></div>		
+			
+				<div class="form_field_line rb_line type_input field_name_logmail has_title"><div class="form_field_label rb_label"><label for="form_field_id-2-logmail"><span class="form_field_label_ins">Логин или e-mail <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-2-logmail" class="rb_input "  placeholder=""  name="logmail" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_password field_name_pass has_title"><div class="form_field_label rb_label"><label for="form_field_id-2-pass"><span class="form_field_label_ins">Пароль <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="password" id="form_field_id-2-pass" class="rb_input "  placeholder=""  name="pass" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+					
+			<div class="rb_line"><input type="submit" formtarget="_top" name="submit" class="rb_submit" value="Войти" /></div>
+		</div>
+		<form method="post" class="ajax_post_form" action="https://acryptoexchange.com/ajax-loginform.html?meth=post&yid=c282797b6aff&ynd=0&lang=ru">
+			<div class="loginform_box"></div>
+		</form>
+		
+		<div class="registerform_box_html" style="display: none;">
+			<div class="resultgo"></div>		
+			
+				<div class="form_field_line rb_line type_input field_name_login has_title"><div class="form_field_label rb_label"><label for="form_field_id-3-login"><span class="form_field_label_ins">Логин <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-3-login" class="rb_input "  placeholder=""  name="login" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_input field_name_email has_title"><div class="form_field_label rb_label"><label for="form_field_id-3-email"><span class="form_field_label_ins">E-mail <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="form_field_id-3-email" class="rb_input "  placeholder=""  name="email" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_password field_name_pass has_title"><div class="form_field_label rb_label"><label for="form_field_id-3-pass"><span class="form_field_label_ins">Пароль <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="password" id="form_field_id-3-pass" class="rb_input "  placeholder=""  name="pass" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+				
+				<div class="form_field_line rb_line type_password field_name_pass2 has_title"><div class="form_field_label rb_label"><label for="form_field_id-3-pass2"><span class="form_field_label_ins">Пароль снова <span class="req">*</span>:</span></label></div>
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="password" id="form_field_id-3-pass2" class="rb_input "  placeholder=""  name="pass2" value="" />						
+					
+						
+						<div class="form_field_errors"><div class="form_field_errors_ins"></div></div>
+					</div>	
+					<div class="form_field_clear rb_line_clear"></div>
+				</div>
+					
+			<div class="rb_line"><label><input type="checkbox" name="rcheck" value="1" /> С <a href="https://acryptoexchange.com/tos/" target="_blank">правилами сервиса</a> ознакомлен и согласен</label></div>
+			<div class="rb_line"><input type="submit" formtarget="_top" name="submit" class="rb_submit" value="Регистрация" /></div>
+		</div>
+		<form method="post" class="ajax_post_form" action="https://acryptoexchange.com/ajax-registerform.html?meth=post&yid=c282797b6aff&ynd=0&lang=ru">
+			<div class="registerform_box"></div>
+		</form>
+		<script type='text/javascript' src='https://acryptoexchange.com/wp-includes/js/wp-embed.min.js?ver=5.1.1'></script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'Qd1NGGP59j';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+</body>
+</html>

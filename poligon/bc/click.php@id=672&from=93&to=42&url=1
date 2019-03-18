@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'/>
+        <title>Купить биткоин. Без регистрации, без комиссий обмен bitcoin на рубли. Купить монеро или биткоины, обмен на сбербанк. Выгодный обмен monero.</title>
+        <meta name="description" content="БИТКОИН и МОНЕРО Без регистрации по выгодному курсу, быстрая покупка/продажа bitcoin и monero, вывод на любые банки без дополнительных комиссий, удобные способы пополнения, кешин, обменник 99франков работает со всеми БАНКАМИ РФ, высокая скорость обработки заявок.">
+        <meta name="keywords" content="купить биткоин, продать биткоин без комиссий, быстрая покупка биткоина, быстрая продажа биткоина, bitcoin, btc, купить монеро, monero, xmr, продать monero без комиссий, быстрая покупка монеро, быстрая продажа монеро">
+        <link rel="shortcut icon" href="/source/img/favicon.png" />
+
+                    <link rel="canonical" href="https://99francs.pro/index.php"/>
+        
+                    <link href="/assets/css/all.min.css" rel="stylesheet">
+
+            </head>
+    <body>
+        <script type="text/javascript">
+                        var arrayOfPlaceholdersAmount = {
+                BTC: [0.196, 1.173],
+                'Btc-e USD': [774, 4642],
+                USD: [774, 4642],
+                RUB: [50000, 300000],
+                EUR: [682, 4092],
+                XMR: [15, 90]
+            };
+                    </script>
+        <div class="page-wrap">
+            <div class="header">
+                <div class="hbar">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-5">
+                                <ul class="hbar-contacts">
+                                    <li class="hbar-contacts__item">
+                                        <a href="mailto:99francs@protonmail.com" class="hbar-contacts__link label-ico">
+                                            <span class="ficon ficon--mail"></span>
+                                            99francs@protonmail.com
+                                        </a>
+                                    </li>
+                                                                        <li class="hbar-contacts__item">
+                                        <a target="_blank" href="https://telegram.me/qqFrancs" class="hbar-contacts__link label-ico">
+                                            <span class="ficon ficon--telegram"></span>
+                                            @qqFrancs
+                                        </a>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                            <div class="col-4">
+                                <span class="hbar-schedule">Работаем круглосуточно ( Без выходных ) </span>
+                            </div>
+                            <div class="col-3 p-l-none entrance-menu">
+                                                                <div class="hbar-slink">
+                                    <a href="#modal-login" class="hbar-slink__login" data-dismiss="modal" data-toggle="modal">
+                                        <span class="ficon ficon&#45;&#45;people"></span>
+                                        Войти в личный кабинет
+                                    </a>
+                                </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-main">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-3">
+                                <a href="/index.php" class="logo"></a>
+                            </div>
+                                                            <div class="col-9 header-main__nav">
+    <ul class="navigation">
+        <li class="navigation__item navigation__item--gactive active"><a href="/index.php" class="navigation__link">Главная</a></li>
+        <li class="navigation__item"><a href="/about" class="navigation__link">О сервисе</a></li>
+        <li class="navigation__item"><a href="/rules" class="navigation__link">Правила</a></li>
+                <li class="navigation__item"><a href="/lkpartners" class="navigation__link">Партнерам</a></li>
+        <li class="navigation__item"><a href="/contacts" class="navigation__link">Контакты</a></li>
+    </ul>
+</div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <section class="msection msecinfo">
+        <div class="container">
+            <p class="msecinfo__decript"><span>99francs - это биткоин обменник</span>, в котором можно<br>быстро поменять биткоины и monero</p>
+            <h2 class="msection__title">Обменять Биткоин и Монеро без регистрации</h2>
+
+            <div class="stwiz">
+                <div class="stwiz-ct">
+                    <div class="stwiz-ct-head">
+                        <div class="row">
+                            <div class="col-6 first">
+                                <div class="stwiz-glab stwiz-glab--give">
+                                    <span class="stwiz-glab__label">Отдаете</span>
+                                    <div class="stwiz-glab__bulls">
+                                                                                    <a href="#" class="btn-info2" data-currency_id="1">RUB</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="2">EUR</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="3">USD</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="4">BTC</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="5">XMR</a>
+                                                                            </div>
+                                </div>
+                            </div>
+                            <div class="col-6 second">
+                                <div class="stwiz-glab">
+                                    <span class="stwiz-glab__label">Получаете</span>
+                                    <div class="stwiz-glab__bulls">
+                                                                                    <a href="#" class="btn-info2" data-currency_id="1">RUB</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="2">EUR</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="3">USD</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="4">BTC</a>
+                                                                                    <a href="#" class="btn-info2" data-currency_id="5">XMR</a>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                        <span class="stwiz-ct-head__arrow"><span class="ficon ficon--arrow-right"></span></span>
+                    </div>
+                    <div class="stwiz-selc">
+                        <div class="row">
+                            <div class="col-6 first">
+                                <div class="stwiz-selc-box stwiz-selc-box--give">
+                                                                            <div class="stwiz-selc-item" data-type="BTC" data-type_id="16" data-name="Bitcoin" data-currency_id="4">
+                                            <span class="stwiz-selc-item__label" data-shortname="Bitcoin">
+                                                Bitcoin                                            </span>
+                                            <span class="stwiz-selc-item__info">
+                                                <span class="stwiz-selc-item__value"></span>
+                                            </span>
+                                        </div>
+                                                                            <div class="stwiz-selc-item" data-type="BTC" data-type_id="26" data-name="XMR" data-currency_id="4">
+                                            <span class="stwiz-selc-item__label" data-shortname="XMR">
+                                                Monero                                            </span>
+                                            <span class="stwiz-selc-item__info">
+                                                <span class="stwiz-selc-item__value"></span>
+                                            </span>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            <div class="col-6 second">
+                                <div class="stwiz-selc-box stwiz-selc-box--get">
+                                                                            <div class="stwiz-selc-item" data-type="RUB" data-type_id="1" data-name="Сбербанк" data-currency_id="1">
+                                            <span class="stwiz-selc-item__label" data-shortname="Сбербанк">
+                                                Сбербанк                                            </span>
+                                            <span class="stwiz-selc-item__info">
+                                                <span class="stwiz-selc-item__value"></span>
+                                                <span class="stwiz-selc-item__currency"></span>
+                                            </span>
+                                        </div>
+                                                                            <div class="stwiz-selc-item" data-type="RUB" data-type_id="9" data-name="ВТБ24" data-currency_id="1">
+                                            <span class="stwiz-selc-item__label" data-shortname="ВТБ24">
+                                                ВТБ24                                            </span>
+                                            <span class="stwiz-selc-item__info">
+                                                <span class="stwiz-selc-item__value"></span>
+                                                <span class="stwiz-selc-item__currency"></span>
+                                            </span>
+                                        </div>
+                                                                            <div class="stwiz-selc-item" data-type="RUB" data-type_id="20" data-name="Альфа-Банк RUR" data-currency_id="1">
+                                            <span class="stwiz-selc-item__label" data-shortname="Альфа-Банк RUR">
+                                                Альфа-Банк RUR                                            </span>
+                                            <span class="stwiz-selc-item__info">
+                                                <span class="stwiz-selc-item__value"></span>
+                                                <span class="stwiz-selc-item__currency"></span>
+                                            </span>
+                                        </div>
+                                                                            <div class="stwiz-selc-item" data-type="RUB" data-type_id="8" data-name="Русский стандарт" data-currency_id="1">
+                                            <span class="stwiz-selc-item__label" data-shortname="Русский стандарт">
+                                                Русский стандарт                                            </span>
+                                            <span class="stwiz-selc-item__info">
+                                                <span class="stwiz-selc-item__value"></span>
+                                                <span class="stwiz-selc-item__currency"></span>
+                                            </span>
+                                        </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                                            </div>
+                </div>
+                <div class="stwiz-bar">
+                    <form action="lkexchange" method="POST">
+                        <div class="stwiz-bar-head">
+                            <span class="stwiz-bar-head__title exchange-data-form"
+                                  data-exchanges_directions_json="{&quot;16_1&quot;:{&quot;id&quot;:&quot;31&quot;,&quot;pay_id&quot;:&quot;16&quot;,&quot;buy_id&quot;:&quot;1&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;placeholder&quot;:&quot;0000 0000 0000 0000&quot;,&quot;inputname&quot;:&quot;cardnumber&quot;},{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;276155.11675477&quot;,&quot;sell&quot;:&quot;258757.34439921&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;Bitcoin&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a&quot;,&quot;real_buy&quot;:&quot;276155.11675477&quot;,&quot;real_sell&quot;:&quot;258757.34439921&quot;},&quot;16_20&quot;:{&quot;id&quot;:&quot;33&quot;,&quot;pay_id&quot;:&quot;16&quot;,&quot;buy_id&quot;:&quot;20&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430&quot;,&quot;placeholder&quot;:&quot;0000000000000000&quot;,&quot;inputname&quot;:&quot;bildnumber&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;276155.11675477&quot;,&quot;sell&quot;:&quot;258757.34439921&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;Bitcoin&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0410\u043b\u044c\u0444\u0430-\u0411\u0430\u043d\u043a RUR&quot;,&quot;real_buy&quot;:&quot;276155.11675477&quot;,&quot;real_sell&quot;:&quot;258757.34439921&quot;},&quot;16_8&quot;:{&quot;id&quot;:&quot;39&quot;,&quot;pay_id&quot;:&quot;16&quot;,&quot;buy_id&quot;:&quot;8&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;placeholder&quot;:&quot;0000 0000 0000 0000&quot;,&quot;inputname&quot;:&quot;cardnumber&quot;},{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;276155.11675477&quot;,&quot;sell&quot;:&quot;258757.34439921&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;Bitcoin&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442&quot;,&quot;real_buy&quot;:&quot;276155.11675477&quot;,&quot;real_sell&quot;:&quot;258757.34439921&quot;},&quot;16_9&quot;:{&quot;id&quot;:&quot;41&quot;,&quot;pay_id&quot;:&quot;16&quot;,&quot;buy_id&quot;:&quot;9&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;placeholder&quot;:&quot;0000 0000 0000 0000&quot;,&quot;inputname&quot;:&quot;cardnumber&quot;},{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430&quot;,&quot;placeholder&quot;:&quot;0000000000000000&quot;,&quot;inputname&quot;:&quot;bildnumber&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;276155.11675477&quot;,&quot;sell&quot;:&quot;258757.34439921&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;Bitcoin&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0412\u0422\u041124&quot;,&quot;real_buy&quot;:&quot;276155.11675477&quot;,&quot;real_sell&quot;:&quot;258757.34439921&quot;},&quot;26_1&quot;:{&quot;id&quot;:&quot;83&quot;,&quot;pay_id&quot;:&quot;26&quot;,&quot;buy_id&quot;:&quot;1&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;placeholder&quot;:&quot;0000 0000 0000 0000&quot;,&quot;inputname&quot;:&quot;cardnumber&quot;},{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;3586.6387465502&quot;,&quot;sell&quot;:&quot;3360.6805055175&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;XMR&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a&quot;,&quot;real_buy&quot;:&quot;3586.6387465502&quot;,&quot;real_sell&quot;:&quot;3360.6805055175&quot;},&quot;26_20&quot;:{&quot;id&quot;:&quot;84&quot;,&quot;pay_id&quot;:&quot;26&quot;,&quot;buy_id&quot;:&quot;20&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430&quot;,&quot;placeholder&quot;:&quot;0000000000000000&quot;,&quot;inputname&quot;:&quot;bildnumber&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;3586.6387465502&quot;,&quot;sell&quot;:&quot;3360.6805055175&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;XMR&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0410\u043b\u044c\u0444\u0430-\u0411\u0430\u043d\u043a RUR&quot;,&quot;real_buy&quot;:&quot;3586.6387465502&quot;,&quot;real_sell&quot;:&quot;3360.6805055175&quot;},&quot;26_8&quot;:{&quot;id&quot;:&quot;87&quot;,&quot;pay_id&quot;:&quot;26&quot;,&quot;buy_id&quot;:&quot;8&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;placeholder&quot;:&quot;0000 0000 0000 0000&quot;,&quot;inputname&quot;:&quot;cardnumber&quot;},{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;3586.6387465502&quot;,&quot;sell&quot;:&quot;3360.6805055175&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;XMR&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442&quot;,&quot;real_buy&quot;:&quot;3586.6387465502&quot;,&quot;real_sell&quot;:&quot;3360.6805055175&quot;},&quot;26_9&quot;:{&quot;id&quot;:&quot;88&quot;,&quot;pay_id&quot;:&quot;26&quot;,&quot;buy_id&quot;:&quot;9&quot;,&quot;rows_to_fill&quot;:[{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u043a\u0430\u0440\u0442\u044b&quot;,&quot;placeholder&quot;:&quot;0000 0000 0000 0000&quot;,&quot;inputname&quot;:&quot;cardnumber&quot;},{&quot;name&quot;:&quot;\u0424\u0418\u041e&quot;,&quot;placeholder&quot;:&quot;\u0418\u0432\u0430\u043d\u043e\u0432 \u0418\u0432\u0430\u043d \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447&quot;,&quot;inputname&quot;:&quot;fio&quot;},{&quot;name&quot;:&quot;\u043d\u043e\u043c\u0435\u0440 \u0441\u0447\u0435\u0442\u0430&quot;,&quot;placeholder&quot;:&quot;0000000000000000&quot;,&quot;inputname&quot;:&quot;bildnumber&quot;},{&quot;name&quot;:&quot;E-mail&quot;,&quot;placeholder&quot;:&quot;email@email.com&quot;,&quot;inputname&quot;:&quot;email&quot;}],&quot;side&quot;:&quot;left&quot;,&quot;buy&quot;:&quot;3586.6387465502&quot;,&quot;sell&quot;:&quot;3360.6805055175&quot;,&quot;date&quot;:&quot;1521656341&quot;,&quot;last&quot;:&quot;1&quot;,&quot;partner_percent_stage_1&quot;:&quot;5&quot;,&quot;partner_percent_stage_2&quot;:&quot;10&quot;,&quot;partner_percent_stage_3&quot;:&quot;15&quot;,&quot;partner_percent_stage_4&quot;:&quot;20&quot;,&quot;partner_percent_stage_5&quot;:&quot;25&quot;,&quot;enabled&quot;:&quot;1&quot;,&quot;pay_comission&quot;:&quot;0&quot;,&quot;pay_comission_text&quot;:&quot;&quot;,&quot;buy_comission&quot;:&quot;0&quot;,&quot;buy_comission_text&quot;:&quot;&quot;,&quot;auto_disabled&quot;:&quot;0&quot;,&quot;hand_disabled&quot;:&quot;0&quot;,&quot;pay_currency_name&quot;:&quot;BTC&quot;,&quot;buy_currency_name&quot;:&quot;RUB&quot;,&quot;pay_currency_name_long&quot;:&quot;XMR&quot;,&quot;buy_currency_name_long&quot;:&quot;\u0412\u0422\u041124&quot;,&quot;real_buy&quot;:&quot;3586.6387465502&quot;,&quot;real_sell&quot;:&quot;3360.6805055175&quot;}}"
+                                                              >Обмен</span>
+                            <div class="stwiz-bar-head__revert pair-turn">
+                                <span class="from">-</span><span class="ficon ficon--repeat"></span><span class="to">-</span>
+                            </div>
+                        </div>
+                        <div class="flash-notice"></div>
+                        <div class="stwiz-bar-info">
+                            <div class="form-frgroup givencurrency">
+                                <label>Отдаю <span class="text-primary text-bold">-</span></label>
+                                <div class="form-drgroup">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <label>Меняю <span></span></label>
+                                        </div>
+                                        <input class="form-drgroup-control" type="text" name="sellamount" placeholder="-">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-frgroup takencurrency">
+                                <label>Получаю <span class="text-primary text-bold">-</span></label>
+                                <div class="form-drgroup">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            <label>Получаю <span></span></label>
+                                        </div>
+                                        <input class="form-drgroup-control" type="text" name="buyamount" placeholder="-">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="stwiz-bar-info_hr"></div>
+                            <div class="customrowstofill">
+                            </div>
+                        </div>
+                                                <input type="hidden" name="last_sell">
+                        <input type="hidden" name="last_buy">
+                        <input type="hidden" name="pay_currency_id">
+                        <input type="hidden" name="buy_currency_id">
+                        <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                        <!--<input type="hidden" name="userid">-->
+                        <div class="p-r-none">
+                            <div class="">
+                                <div class="checkbox checkbox--checked checkbox-box" style="border: none;">
+                                    <label class="">
+                                        <input type="checkbox" name="optionsCheck" id="optionsCheck1" value="option1" checked="">
+                                        Я ознакомился и согласен с <br/><a href="/rules" target="_blank">правилами обмена</a>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="stwiz-bar-btn">
+                            <input type="submit" class="btn btn-block btn-primary" value="Продолжить" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="mreserves">
+                <h2 class="msection__title">Наши резервы</h2>
+                <div class="mreserves-list row">
+                    <div class="col-2 col-offset-2">
+                        <div class="mreserves-item">
+                            <span class="mreserves-item__label">Bitcoins</span>
+                            <span class="mreserves-item__value">26</span>
+                            <span class="mreserves-item__currence">BTC</span>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="mreserves-item">
+                            <span class="mreserves-item__label">Monero</span>
+                            <span class="mreserves-item__value">3</span>
+                            <span class="mreserves-item__currence">XMR</span>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="mreserves-item">
+                            <span class="mreserves-item__label">Рубли</span>
+                            <span class="mreserves-item__value">500 000</span>
+                            <span class="mreserves-item__currence">RUB</span>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="mreserves-item">
+                            <span class="mreserves-item__label">Доллары</span>
+                            <span class="mreserves-item__value">0</span>
+                            <span class="mreserves-item__currence">USD</span>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="mreserves-item">
+                            <span class="mreserves-item__label">Евро</span>
+                            <span class="mreserves-item__value">0</span>
+                            <span class="mreserves-item__currence">EUR</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="msection msecabout">
+        <div class="container">
+            <h2 class="msection__title">99francs</h2>
+            <h3 class="msecabout__subtitle">О нас</h3>
+            <div class="msecabout-info">
+                <h4 class="msecabout-info__title">Cервис по обмену биткоинов и monero</h4>
+                <p>
+                    Через биткоин обменник 99francs можно выгодно купить или продать биткоин\monero без комиссий и регистрации! Мы работаем со всеми банками РФ, в т.ч. такими банками как: Сбербанк, Альфа-банк, ВТБ24, Тинькофф, Русский стандарт и другие. Осуществляем обмен биткоинов и монеро, выводим на карты VISA, MasterCard российских банков. Обмен происходит в ручную через чат на нашем сайте, телеграмм или емейл. Для создания заявки обратитесь к оператору.
+                </p>
+            </div>
+        </div>
+    </section>
+                        <section class="msection msecoreg" id="registration">
+    <div class="container">
+        <form class="entrance_form">
+        <h2 class="msection__title">Зарегистируйтесь на сервисе прямо сейчас и воспользуйтесь нашей партнерской программой, получая процент от комиссии!</h2>
+        <div class="msecoreg-form">
+            <div class="row">
+                <div class="col-4">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon">
+                                <label>E-mail</label>
+                            </div>
+                            <input type="text" name="email" class="form-control">
+                        </div>
+                        <a href="#" class="form-lclear"><span class="ficon ficon--cancel"></span></a>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon">
+                                <label>Пароль</label>
+                            </div>
+                            <input type="password" name="password" class="form-control form-control--pass" >
+                        </div>
+                        <a href="#" class="form-lclear"><span class="ficon ficon--cancel"></span></a>
+                    </div>
+                </div>
+                <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                <div class="col-4">
+                    <a href="#" class="btn btn-lg btn-block btn-round btn-primary">Зарегистрироваться</a>
+                </div>
+            </div>
+        </div>
+        <p class="msecoreg__lsigin error_text"></p>
+        <p class="msecoreg__lsigin">У Вас уже есть аккаунт? <a href="#modal-login" data-dismiss="modal" data-toggle="modal">Войти</a></p>
+        <p class="msecoreg__encript"><span class="ficon ficon--lock"></span>Эта страница защищена с помощью 128-bit шифрования Ваши данные в безопасности.</p>
+        </form>
+    </div>
+</section>
+                    <section class="msection msecadvert">
+        <div class="container">
+            <h2 class="msection__title">Наши преимущества</h2>
+            <div class="msecadvert-list">
+                <div class="row">
+                    <div class="col-3 col-offset-1">
+                        <div class="msecadvert-item">
+                            <span class="msecadvert-item__icon">
+                                <span class="ficon ficon--adv1"></span>
+                            </span>
+                            <span class="msecadvert-item__title">Качественно</span>
+                            <span class="msecadvert-item__text">Работаем честно, подходим с<br>уважением к каждому клиенту</span>
+                        </div>
+                    </div>
+                    <div class="col-4">
+                        <div class="msecadvert-item">
+                            <span class="msecadvert-item__icon">
+                                <span class="ficon ficon--adv2"></span>
+                            </span>
+                            <span class="msecadvert-item__title">Безопасно</span>
+                            <span class="msecadvert-item__text">Уделяем большое внимание<br>защите информации </span>
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="msecadvert-item">
+                            <span class="msecadvert-item__icon">
+                                <span class="ficon ficon--adv3"></span>
+                            </span>
+                            <span class="msecadvert-item__title">Выгодно</span>
+                            <span class="msecadvert-item__text">У нас нет комиссий, всегда в<br>наличии резервы</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="msection msecrpromo msecrpromo--forums">
+        <div class="container">
+            <h2 class="msection__title">Отзывы о нас на независимых форумах</h2>
+            <div class="msecrpromo-list">
+                <div class="row">
+                    <div class="col-4">
+                        <a href="https://forum.bits.media/index.php?/topic/34059-99francspro-kupitprodat-bitcoin-i-kody-za-nalbanki/?p=626277" class="msecrpromo-item" target="_blank">
+                            <img src="/source/img/forums/1.png">
+                            <span class="msecrpromo-item__url">forum.bits.media</span>
+                        </a>
+                    </div>
+                    <!--<div class="col-4">
+                        <a href="https://finforum.net/threads/kupit-prodat-btc-i-kody-za-nal-banki-obmennik-99francs-pro.7745/" class="msecrpromo-item" target="_blank">
+                            <img src="/source/img/forums/4.png">
+                            <span class="msecrpromo-item__url">finforum.net</span>
+                        </a>
+                    </div>-->
+                    <div class="col-4">
+                        <a href="http://bitalk.org/threads/17062/" class="msecrpromo-item" target="_blank">
+                            <img src="/source/img/forums/5.png">
+                            <span class="msecrpromo-item__url">bitalk.org</span>
+                        </a>
+                    </div>
+                    <!--<div class="col-4">
+                        <a href="#" class="msecrpromo-item">
+                            <img src="/source/img/forums/2.png">
+                            <span class="msecrpromo-item__url">Mmgp.com</span>
+                        </a>
+                    </div>-->
+                    <div class="col-4">
+                        <a href="https://bitcointalk.org/index.php?topic=1790111.new" class="msecrpromo-item" target="_blank">
+                            <img src="/source/img/forums/3.png">
+                            <span class="msecrpromo-item__url">bitcointalk.org</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        <div class="modal fade modal-srt modal-srt--login" tabindex="-1" role="dialog" id="modal-login">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Вход в личный кабинет</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-srt__form">
+                            <div class="form-fgroup form-fgroup--focus">
+                                <div class="input-group">
+                                    <input class="form-fgroup-control" type="text" placeholder="E-mail" name="email">
+                                    <div class="input-group-addon">
+                                        <a href="#" class="form-lclear"><span class="ficon ficon--cancel"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-fgroup">
+                                <div class="input-group">
+                                    <input class="form-fgroup-control" type="password" placeholder="Пароль" name="password">
+                                    <div class="input-group-addon">
+                                        <a href="#" class="form-lpass"><span class="ficon ficon--eye"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row modal-srt-srgroup">
+                                <div class="col-6">
+                                    <div class="checkbox checkbox--checked checkbox--success">
+                                        <label class="">
+                                            <input type="checkbox" name="optionsCheck" id="optionsCheck1" value="option1" checked="">
+                                            Запомнить меня
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-6 modal-srt-srgroup__tlink">
+                                    <a href="#modal-reqv" data-dismiss="modal" data-toggle="modal">Забыли пароль?</a>
+                                </div>
+                            </div>
+                            <div class="modal_error error_text"></div>
+                            <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                            <div  class="modal-srt__btn">
+                                <a href="" class="btn btn-block btn-xlg btn-primary2 btn-sround button-login">Войти</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <p class="modal-srt__links">У Вас нет аккаунта? <a href="#modal-reg" data-dismiss="modal" data-toggle="modal">Зарегистрируйтесь</a></p>
+                    </div>
+                    <a href="#" class="close" data-dismiss="modal" aria-label="Close"><span class="ficon ficon--cross"></span> Отмена</a>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="modal fade modal-srt modal-srt--reg" tabindex="-1" role="dialog" id="modal-reg">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Регистрация</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-srt__form">
+                            <div class="form-fgroup form-fgroup--focus">
+                                <div class="input-group">
+                                    <input class="form-fgroup-control" type="text" placeholder="E-mail" name="email">
+                                    <div class="input-group-addon">
+                                        <a href="#" class="form-lclear"><span class="ficon ficon--cancel"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-fgroup">
+                                <div class="input-group">
+                                    <input class="form-fgroup-control" type="password" placeholder="Пароль" name="password">
+                                    <div class="input-group-addon">
+                                        <a href="#" class="form-lpass"><span class="ficon ficon--eye"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-srt-srgroup">
+                                <div class="checkbox checkbox--checked checkbox--success">
+                                    <label class="">
+                                        <input type="checkbox" name="optionsCheck" id="optionsCheck2" value="option1" checked="">
+                                        Я принимаю <a href="/rules">условия соглашения</a>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="modal_error error_text"></div>
+                            <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                            <div  class="modal-srt__btn">
+                                <a href="" class="btn btn-block btn-xlg btn-primary2 btn-sround button-registration">Зарегистрироваться</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <p class="modal-srt__links">У Вас уже есть аккаунт? <a href="#modal-login" data-dismiss="modal" data-toggle="modal">Войти</a></p>
+                    </div>
+                    <a href="#" class="close" data-dismiss="modal" aria-label="Close"><span class="ficon ficon--cross"></span> Отмена</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade modal-srt modal-srt--reqv" tabindex="-1" role="dialog" id="modal-reqv">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Восстановление пароля</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-srt__form">
+                            <div class="form-fgroup form-fgroup--focus">
+                                <div class="input-group">
+                                    <input class="form-fgroup-control" type="text" placeholder="E-mail" name="email">
+                                    <div class="input-group-addon">
+                                        <a href="#" class="form-lclear"><span class="ficon ficon--cancel"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal_error error_text"></div>
+                            <div  class="modal-srt__btn">
+                                <a href="" class="btn btn-block btn-xlg btn-primary2 btn-sround button-restore">Отправить</a>
+                            </div>
+                            <div  class="modal-srt__drtext">
+                                Пароль будет выслан вам на E-mail<br> указанный при регистрации
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                    <div class="modal-footer">
+                        <p class="modal-srt__links">Вспомнили пароль? <a href="#modal-login" data-dismiss="modal" data-toggle="modal">Войти</a></p>
+                    </div>
+                    <a href="#" class="close" data-dismiss="modal" aria-label="Close"><span class="ficon ficon--cross"></span> Отмена</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade modal-srt modal-srt--reqv" tabindex="-1" role="dialog" id="modal-sberval">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Проверка номера телефона</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-srt__form">
+                            <div class="form-fgroup form-fgroup--focus">
+                                <div class="input-group">
+                                    <input class="form-fgroup-control" type="text" placeholder="Code" name="code">
+                                    <div class="input-group-addon">
+                                        <a href="#" class="form-lclear"><span class="ficon ficon--cancel"></span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal_error error_text"></div>
+                            <div  class="modal-srt__btn">
+                                <a href="" class="btn btn-block btn-xlg btn-primary2 btn-sround button-sbervalidate">Подтвердить</a>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                    <a href="#" class="close" data-dismiss="modal" aria-label="Close"><span class="ficon ficon--cross"></span> Отмена</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade modal-srt modal-srt--login" tabindex="-1" role="dialog" id="modal-del-order">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Удалить заявку?</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="modal-srt__form">
+                            <div class="modal_error error_text"></div>
+                            <input type="hidden" name="_csrf_token" value="HrVl7HGQzIJanqGkvRjd_Hr53Njez8d2WRJ3issOv-s">
+                            <div  class="modal-srt__btn" style="text-align: center">
+                                <a href="#" class="btn btn-primary conferm-del" style="width: 49%">Да</a>
+                                <a href="#" class="btn btn-primary" style="width: 49%" data-dismiss="modal" aria-label="Close">Нет</a>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#" class="close" data-dismiss="modal" aria-label="Close"><span class="ficon ficon--cross"></span> Отмена</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="container">
+                                <div class="footer__text">
+                    Биткоин - это современные электронные деньги, которые находятся вне банковской системы и следовательно защищены от отзывов лицензий, банкротств и прочих рисков устаревшей банковской системы. Безопасность денежных переводов биткоин обеспечивается распределенной вычислительной сетью, скорость работы которой в десятки раз превышает скорость работы всех других суперкомпьютеров в мире вместе взятых. Биткоин не имеет какой-то центральной системы управления, следовательно он не может быть закрыт по решению правительства или суда. Время перевода биткоинов из одной точки планеты в другую составляет в среднем 30 минут, что существенно ниже времени межбанковского перевода. Комиссия за перевод биткоинов очень низкая и не зависит от суммы перевода.
+                </div>
+                                <br/>
+                <div class="footer__copy" style="float: left; margin-top: 8px; margin-right: 25px;">© 99francs.pro – 2019</div>
+                <!-- BestChange.ru -->
+                <a href="https://www.bestchange.ru/"><img
+                src="https://www.bestchange.ru/bestchange.gif"
+                title="Обмен валют"
+                alt="Мониторинг обменных пунктов"
+                width="88" height="31" border="0" /></a>
+                <!-- BestChange.ru -->
+                <!-- Askoin.com -->
+                <a href="https://askoin.com/index.php"><img
+                src="/source/img/Askoin.jpg"
+                title="Мониторинг обменников"
+                alt="Мониторинг обменников криптовалют"
+                width="88" height="31" border="0" /></a>
+                <!-- Askoin.com -->
+            </div>
+        </div>
+    </div>
+    <!-- BEGIN JIVOSITE CODE -->
+    <script type='text/javascript'>
+        (function(){ var widget_id = '6DPYaXObeE';var d=document;var w=window;function l(){
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+    </script>
+    <!-- END JIVOSITE CODE -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-91895525-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter48083927 = new Ya.Metrika({
+                        id:48083927,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        webvisor:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/48083927" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <script src="/assets/js/jquery.min.1.9.1.js"></script>
+    <script src="/assets/js/main.js"></script>
+            <script src="/assets/js/all.min.js"></script>
+
+    </body>

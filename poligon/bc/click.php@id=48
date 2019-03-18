@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+
+<title>Обмен webmoney и paypal</title>
+
+<meta name="description" content="Обмен webmoney на paypal, комиссия один процент, исполнение в течение одного часа, обналичивание именных чеков"/>
+
+
+<meta name="keywords" content="exchange webmoney to paypal"/>
+<meta name="wot-verification" content="e2a65b19499d87c85ec8"/> 
+
+<link rel="stylesheet" type="text/css" href="//exwp.com/2011/html3/css/style.css" />
+<link rel="stylesheet" type="text/css" href="//exwp.com/2011/html3/css/ai.css" />
+<link rel="stylesheet" type="text/css" href="//exwp.com/2011/html3/css/menu_line.css" />
+<link rel="stylesheet" type="text/css" href="//exwp.com/2011/html3/css/account.css" />
+<link rel="stylesheet" type="text/css" href="//exwp.com/2011/html3/css/request.css" />
+
+<script type="text/javascript" src="//exwp.com/firebook/images/ajaxpost.js"></script>
+<script type="text/javascript" src="//exwp.com/firebook/images/ajaxget.js"></script>
+<script type="text/javascript" src="//exwp.com/2011/html3/script/vis.js"></script>
+<script type="text/javascript" src="//exwp.com/2011/html3/script/color.js"></script>
+<script type="text/javascript" src="//exwp.com/2011/html3/script/parsefloatex.js"></script>
+<script type="text/javascript" src="//exwp.com/2011/html3/script/animate.js"></script>
+
+</head>
+<body>
+<div class='body'>
+
+<div id='logo'>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="427" height="90" id="Untitled-1" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="allowFullScreen" value="false" />
+<param name="movie" value="//exwp.com/2011/css/flash.swf" />
+<param name="quality" value="high" />
+<param name="wmode" value="transparent" />
+<param name="bgcolor" value="#ffffff" />	
+<embed src="//exwp.com/2011/css/flash.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="427" height="90" name="Untitled-1" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+</object>
+</div>
+
+
+
+	<div id=blank style=height:200px >
+	<h1>Exchange Webmoney to PayPal</h1>
+	</div>
+	
+<div id=index  style=padding:10px;>	
+
+	<div id='center' style=padding:5px;>
+	<div id=help></div>
+		<!--&info-->
+<h1>Обмен webmoney и paypal</h1>
+<p>Мы предлагаем Вам обменять WebMoney на PayPal и PayPal на WebMoney <a href=''>по самым выгодным ставкам!</a></p>
+<a href=''></a>
+
+
+<h2>Курс обмена WMZ на PayPal</h2>
+
+<center>
+
+<div id='kurs' >
+<table style=font-size:12px>
+<tr id='title' ><td>Вы&nbsp;платите<td>Покупаете<td>Отдадите<td>Получите<td> &nbsp; Link
+<tr style=background:#f8f9d8;><td>WMZ</td><td>PayPal<sup>USD</sup></td><td>100</td><td>99.50</td><td><a href=//exwp.com/req/wp.html>wp.USD</a></td></tr>
+
+<tr style=background:#d7f7f4;><td>PayPal<sup>USD</sup></td><td>WMZ</td><td>100</td><td>83.50</td><td><a href=//exwp.com/req/pw.html>pw.USD</a></td></tr>
+
+</table>
+</div>
+
+</center>
+<p>Срок обмена не более 48 часов.
+<p>Для жителей любых стран мы проводим операции ввода-вывода WMZ.</p>
+<h2>Курс ввода - вывода WMZ</h2>
+<center>
+
+<div id='kurs' >
+<table style=font-size:12px>
+<tr id='title' ><td>Вы&nbsp;платите<td>Покупаете<td>Отдадите<td>Получите<td> &nbsp; Link
+<tr style=background:#f8f9d8;><td>Wire<sup>EUR</sup></td><td>WMZ</td><td>100</td><td>105.45</td><td><a href=//bank.exwp.com/req/ew.html>ew.EUR</a></td></tr>
+
+<tr style=background:#d7f7f4;><td>WMZ</td><td>Wire<sup>EUR</sup></td><td>100</td><td>77.58</td><td><a href=//bank.exwp.com/req/we.html>we.EUR</a></td></tr>
+
+<tr style=background:#f8f9d8;><td>Wire<sup>USD</sup></td><td>WMZ</td><td>100</td><td>93.00</td><td><a href=//bank.exwp.com/req/cw.html>cw.USD</a></td></tr>
+
+<tr style=background:#d7f7f4;><td>Cash<sup>USD</sup></td><td>WMZ</td><td>100</td><td>93.00</td><td><a href=//bank.exwp.com/req/dw.html>dw.USD</a></td></tr>
+
+<tr style=background:#f8f9d8;><td>WMZ</td><td>Wire<sup>USD</sup></td><td>100</td><td>96.00</td><td><a href=//bank.exwp.com/req/wc.html>wc.USD</a></td></tr>
+
+<tr style=background:#d7f7f4;><td>WMZ</td><td>Cash<sup>USD</sup></td><td>100</td><td>96.00</td><td><a href=//bank.exwp.com/req/wd.html>wd.USD</a></td></tr>
+
+<tr style=background:#f8f9d8;><td>Wire<sup>GBP</sup></td><td>WMZ</td><td>100</td><td>124.45</td><td><a href=//bank.exwp.com/req/cw.html>cw.GBP</a></td></tr>
+
+<tr style=background:#d7f7f4;><td>WMZ</td><td>Wire<sup>GBP</sup></td><td>100</td><td>66.66</td><td><a href=//bank.exwp.com/req/wc.html>wc.GBP</a></td></tr>
+
+</table>
+</div>
+
+</center>
+
+<p>Через нас Вы можете принять на свой сайт оплату по PayPal, продавать товары на различных аукционах.</p>
+<p>Можете <a href=//bank.exwp.com/req/dw.html>обналичить именной чек</a> США или <a href=//bank.exwp.com/req/wd.html>оплатить чеком</a> американский товар.</p>
+<p>Мы предлагаем купить любую доступную услугу, оплачиваемую только через западные банки, например, <a href=//service.exwp.com/req/uslugaWMZ.html>хостинг или пароль на платный сайт</a>.</p>
+
+<p>Мы можем устанавливать долговременные отношения с клиентом по приему PayPal с его сайта, или за рекламные услуги.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+	<div id='left' style=width:180px>
+<div class='block'>
+	<span><a href="//exwp.com/index.html">В начало</a></span>
+	 <span><a href="//exwp.com/req/about.html">О нас, гарантии</a></span> 
+	 <span><a href="//exwp.com/req/conditions.html">Условия обмена</a></span> 
+	 <span><a href="//exwp.com/partners/index.html">Партнерская программа</a></span> 
+	 <span><a href="//exwp.com/guestbook/index.html">Гостевая книга</a></span> 
+	<span><a href="//exwp.com/req/admin.html">Контакты</a></span> 
+</div>
+
+
+		<div class='Last' style=margin-top:-5px>
+			<h3>Резерв:</h3>
+			<table class="hours">
+				<tr><th>Paypal:</th><td>$23,762.33</td></tr>
+				<tr><th>WMZ:</th><td>$14,969.47</td></tr>
+			</table>
+		</div>
+
+	<div class='Last'>
+		<p><img src=/graph/days.png?time=2019/3/18_12:44:39>
+	</div>
+
+<div class='Last'>
+
+<h3 >За последние 48 часов</h3>
+
+<table class="hours">
+
+<tr><td class=L1>Подано&nbsp;заявок:<td class=L2>19</tr>
+
+<tr><td class=L1>Выполнено:<td class=L2>14</tr>
+
+<tr><td class=L1>Получено:<td class=L2>$1,862.82
+
+<tr><td class=L1>Выплачено:<td class=L2>$1,096.57
+
+</table>
+</div>
+	<!--&statistics-->
+	<div class='Last'>
+<table>
+<tr><td class=L1 >Сайту:</td>
+<td class=L2>
+13л 5м 16д<td>
+<tr>
+
+<td class=L1 >
+ Наш BL:
+</font>
+<td class=L2>
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=800811812711" target="_blank">
+<img 
+src="//exwp.com/images/bl.gif" 
+align="absbottom"/>
+</a>
+</table>
+
+
+	</div>
+	
+		
+	
+	</div>
+	<div id='right' >
+
+	
+	<h2>Новости сайта</h2>
+	
+
+<div class="news"><p><span>26.11.2018</span>&nbsp;Льготная акция завершена.</div>
+<div class="news"><p><span>02.10.2018</span>&nbsp;Объявлена краткосрочная льготная акция: наша комиссия по направлению WM->PP уменьшена до 0,1%.</div>
+<div class="news"><p><span>14.10.2017</span>&nbsp;В соответствии с тенденциями рынка изменены комиссии: по направлению WM->PP наша комиссия уменьшена, а по PP->WM - увеличена.</div>
+<div class="news"><p><span>28.01.2017</span>&nbsp;По операциям обмена PayPal на WebMoney возвращена наша стандартная комиссия.</div>
+<div class="news"><p><span>02.10.2016</span>&nbsp;Наша комиссия по заявкам обмена PayPal на WebMoney уменьшена до 9% (включая комиссии систем PP и WM).</div><div class='block'>
+	<div id=certif>
+		<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="icon" data-yashareQuickServices="facebook,twitter,vkontakte,odnoklassniki,lj,friendfeed,moikrug"></div>  
+		<p>
+<div class="cert1">
+<center>
+ <a href="http://www.ebay-forum.ru/phpBB2/cert.php?name=olga_kl"><img src="/images/ebay_forumtrust.png" width="106" /></a>
+</center>
+</div>
+
+
+
+
+
+
+
+
+
+		</div>
+</div>
+	<div class='block' style=font-size:12px;height:15px;>
+		<p align=center>2019/3/18_12:44:39 Msk
+	</div>	
+	</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+	<div style='position:absolute;top:135px'>
+
+<script src="//exwp.com/2011/css/js/jquery.min.js" type="text/javascript" ></script>
+<script src="//exwp.com/2011/css/js/random.js" type="text/javascript" charset="utf-8"></script>
+<script src="//exwp.com/2011/css/js/application.js" type="text/javascript" charset="utf-8"></script>
+
+<div style=position:relative>
+	<img class="shuffle" src="/images/wait30.gif" alt="">
+	<div class='account' >
+
+<script>
+function doRegistr(){
+	var f=document.Account;
+	if(f.NAME.value == ''){alert('email'); f.NAME.focus();return};
+	if(f.WORD.value == ''){alert('pass'); f.WORD.focus();return};
+	document.Account.submit();
+}
+</script>
+	<div id='title'>Login:</div>
+<form action="//exwp.com/index.html" name=Account method=POST>
+	
+	<div id='NAME'><input type="text" name="NAME"  id='input_NAME' value=''/></div> 
+	<div id='login_div'><input type=hidden name=login value=1 id='input_login'></div>
+	<div id='WORD'><input type="password" name="WORD"  id='input_WORD'/></div>
+	<div id='text_WORD'>Pass:</div>
+	<div style=position:absolute;top:45px;left:0px;font-size:10px;color:#cccccc;>
+	<input type="button" value="Login" onclick='doRegistr()' id='submit_input' style=font-size:10px;/>
+	</div>
+<div style=position:absolute;top:38px;left:100px;>
+<div style=position:relative;top:0px;left:0px;><a href="//exwp.com/index.html?registr=1" style=font-size:10px;color:#fff;text-decoration:underline;>Регистрация</a></div>
+<div style=position:relative;top:0px;left:0px;><a href="//exwp.com/index.html?forgot=1" style=font-size:10px;color:#fff;text-decoration:underline;>Забыл&nbsp;пароль</a></div>
+</div>
+<div style=position:relative;top:45px;left:-30px;font-size:10px;color:#fff></div>
+
+<div style=position:absolute;top:0px;left:-30px;font-size:10px;color:#fff>Email:</div>
+</form>
+	</div>
+	<div  style=position:absolute;top:0;left:0;>
+	<img  src="//exwp.com/2011/css/img/header.png" />
+	</div>
+</div>
+
+
+
+	</div>
+	<div style=position:absolute;top:70px;>
+
+<div class='menu' >
+	<div style=position:relative;top:0px;right:0px;>
+		<div style='float:right;padding-right:5px;'>
+			&nbsp;Rus &nbsp;
+		<a style='color:#fff;background:#496885;display:inline;padding:0;' href='//exwp.com/index_en.html'>&nbsp;Eng&nbsp;</a>
+		</div>
+		
+	</div>
+<br class='clear' />
+<div class='left'><img src='//exwp.com/2011/css/img/menu_left.png' /></div>
+<div class='right'><img src='//exwp.com/2011/css/img/menu_right.png' /></div>
+<center>	
+<div class='center'>
+	<li class='line'><a href='//exwp.com/index.html'>В начало</a>
+	<ul>
+		<li ><span><a href='//exwp.com/req/about.html'>О нас, гарантии</a></span></li>
+		<li><span><a href='//exwp.com/req/conditions.html'>Условия обмена</a></span></li>
+		<li><span><a href='//exwp.com/partners/index.html'>Партнерская программа</a></span></li>
+		<li><span><a href='//exwp.com/guestbook/index.html'>Гостевая книга</a></span></li>
+		<li ><span><a href='//exwp.com/req/admin.html'>Контакты</a></span></li>
+	</ul>
+	</li>
+	<li class='line'><a href='//exwp.com/req/exchange.html'>Обмен валюты</a>
+	<ul >
+		<li><a href='//exwp.com/req/pw.html'>Paypal на Webmoney</a></li>
+		<li ><a href='//exwp.com/req/wp.html'>Webmoney на Paypal</a></li>
+	</ul>
+	</li>
+	<li class='line' ><a href='//bank.exwp.com/index.html'>Ввод-вывод WMZ</a>
+	<ul >
+		<li><b>Ввод WMZ:</b></li>
+		<li><a href='//bank.exwp.com/req/cw.html'>Через банковский перевод USD, EUR и GBP [cw]</a></li>
+		<li><a href='//bank.exwp.com/req/dw.html'>Через почтовый перевод USD (в США) [dw]</a></li>
+		<li><a href='//bank.exwp.com/req/ew.html'>Через EUR (для стран ЕС) [ew]</a></li>
+		<li><a href='//bank.exwp.com/req/rw.html'>Через рублевый перевод [rw]</a></li>
+		<li><a href='//bank.exwp.com/req/wm_card.html'>Продажа WM-карт в Германии</a></li>
+		<li><b>Вывод WMZ:</b></li>
+		<li><a href='//bank.exwp.com/req/wc.html'>Через банковский перевод USD, EUR и GBP [wc]</a></li>
+		<li><a href='//bank.exwp.com/req/wr.html'>Через рублевый перевод [wr]</a></li>
+		<li><a href='//bank.exwp.com/req/we.html'>На EUR (для стран ЕС) [we]</a></li>
+		<li><a href='//bank.exwp.com/req/wd.html'>Через почтовый перевод USD в США [wd]</a></li>
+	</ul>
+	</li>
+	<li class='line'><a href='//service.exwp.com/index.html'>Услуги</a>
+	<ul >
+		<li><a href='//service.exwp.com/req/wpe.html'>Покупка товаров на eBay </a></li>
+		<li><a href='//service.exwp.com/req/wu.html'>Покупка пароля за Webmoney</a></li>
+		<li><a href='//service.exwp.com/req/ru.html'>Покупка пароля за рубли</a></li>
+		<li><a href='//service.exwp.com/req/ws.html'>Оплата покупки за PayPal</a></li>
+		<li><a href='//service.exwp.com/req/ps.html'>Оплата покупки за WMZ</a></li>
+	</ul>
+	</li>
+	<li class='line'><a href='//exwp.com/ap/index.html'>Ваши заявки</a></li>
+	<li class='end'><a href='//exwp.com/req/faq/faq.html' class='end'>Вопросы и ответы </a>
+	<ul >
+		<li><a href='//exwp.com/req/faq/faqwm.html'>Webmoney</a></li>
+		<li><a href='//exwp.com/req/faq/faqpp.html'>Paypal</a></li>
+		<li><a href='//exwp.com/req/faq/faqeb.html'>eBay и спонсоры</a></li>
+		<li><a href='//exwp.com/req/faq/faqu.html'>Услуги</a></li>
+		<li><a href='//exwp.com/req/faq/faqother.html'>Иные валюты</a></li>
+		<li><a href='//exwp.com/2011/html3/faq/bonus.html'>Бонусная программа</a></li>
+	</ul>
+	</li>
+</div>	
+</center>	
+<br class='clear' />
+</div>
+
+	</div>
+	
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+<div id='masteredit' style='position:absolute;color:#808080;font-size:8px;background:#fff;z-index:99;'></div><center>
+<div id="Counter">
+<table border="0" >
+  <tr>
+<td>
+<!-- begin WebMoney Transfer : attestation label -->
+<div style='width:75px;' align=center>
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=800811812711" target="_blank">
+<img src="//exwp.com/images/attestatwm2.png" alt="Здесь находится аттестат нашего WM идентификатора 800811812711" title="Здесь находится аттестат нашего WM идентификатора 800811812711" border="0"></a>
+<!-- end WebMoney Transfer : attestation label -->
+
+
+</div>
+
+</td>
+<td >
+<!-- webmoney attestation label#6F2A8618-F634-4B69-8CC4-70D860E150D3 begin --> 
+<a href="https://passport.wmtransfer.com/asp/certview.asp?wmid=800811812711" target=_blank><IMG SRC="//exwp.com/images/cert12.gif" title="Here is the certificate of our WM identificator number 800811812711" border="0" width="90" height="90"></a>
+<!-- webmoney attestation label#6F2A8618-F634-4B69-8CC4-70D860E150D3 end -->
+</td>
+
+
+
+<td>
+
+<p><a href="https://passport.webmoney.ru/asp/certview.asp?wmid=800811812711" target=_blank><IMG SRC="/images/wm_accept_en.png" title="Здесь находится аттестат нашего WM идентификатора 800811812711" border="0">
+
+<p><!-- begin WebMoney Transfer : attestation label --> 
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=800811812711" target=_blank><IMG SRC="/images/wm_verified_en.png" title="Здесь находится аттестат нашего WM идентификатора 800811812711" border="0">
+<!-- end WebMoney Transfer : attestation label -->
+
+</td>
+	<td >
+
+&nbsp;</td>
+<td >
+<p align="center">
+
+<A href="http://club.owebmoney.ru/155/" target="blank"><img src="//exwp.org/images/club5.gif" width="99" height="36" border="0" title="WM-Клуб"></A>
+<p align="center">
+<!-- BestChange.ru -->
+<a href="https://www.bestchange.ru/"><img
+src="//www.bestchange.ru/bestchange.gif"
+title="Обмен QIWI, Yandex.Money  WM, PayPal"
+alt="Мониторинг обменных пунктов BestChange.ru"
+width="88" height="31" border="0" /></a>
+<!-- BestChange.ru -->
+
+<!--WebMoney TOP-->
+<a href="https://top.owebmoney.ru" target=_blank><img src="//top.owebmoney.ru/counter.php?site_id=199&host=exwp.com&rand=0.456433147265674" alt="WebMoney TOP" border=0 width=95 height=31></a>
+
+
+<!--/WebMoney TOP-->
+</td>
+<td  valign="middle">
+  <p align="right">
+<!-- Begin PayPal Privacy Policy --><a href="http://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/privacy-outside" target="_blank"><img src="//exwp.com/images/verification_seal_2.gif" border="0"  width="90" height="90" alt="PayPal Privacy Policy"></A><!-- End PayPal Privacy Policy --></td>
+<td>
+
+</td>
+<td>
+
+  </tr>
+</table>
+</div>
+</center>
+
+

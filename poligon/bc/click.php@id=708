@@ -1,0 +1,1586 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+
+	<meta charset="UTF-8">
+	<title>Обменный пункт электронных валют</title>
+			
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='theme style-css'  href='https://obmenneg.ru/wp-content/themes/exchanger/style.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C300%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Ccyrillic&#038;ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://obmenneg.ru/wp-content/plugins/premiumbox/premium/js/jquery.min.js?ver=3.2.1'></script>
+<script type='text/javascript' src='https://obmenneg.ru/wp-content/plugins/premiumbox/premium/js/jquery-ui/script.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://obmenneg.ru/wp-content/plugins/premiumbox/premium/js/jquery.form.js?ver=3.51'></script>
+<script type='text/javascript' src='https://obmenneg.ru/wp-content/plugins/premiumbox/premium/js/jcook.js?ver=2.1.4'></script>
+<script type='text/javascript' src='https://obmenneg.ru/wp-content/themes/exchanger/js/site.js?ver=1.3'></script>
+<script type='text/javascript' src='https://obmenneg.ru/wp-content/themes/exchanger/js/jquery-select.js?ver=1.3'></script>
+<script type='text/javascript' src='https://obmenneg.ru/premiumjs.js?lang=ru&#038;ver=1.6'></script>
+<link rel="shortcut icon" href="https://obmenneg.ru/wp-content/uploads/favicon-1.png" type="image/png" />
+<link rel="icon" href="https://obmenneg.ru/wp-content/uploads/favicon-1.png" type="image/png" />
+<link rel='canonical' href='https://obmenneg.ru/' />
+<meta name="keywords" content="Обмен валют - obmenneg.ru - Вывод, обмен yandex, webmoney, wmz, wmr wmu, wmb, кошелек, обналичить, вывести на карту, яндекс деньги, вмр, вмз, вму, вебмани, обмен Bitcoin, курс Bitcoin, биткоин" />
+<meta name="description" content="Обмен и вывод WebMoney WMU WMZ WMR WME WMB Яндекс Денег на карту. Онлайн обмен электронных валют на сбербанк, ethereum, bitcoin, litecoin, monero, dogecoin, dash, обналичивание, криптовалюта" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://obmenneg.ru/?rid=421" />
+<meta property="og:site_name" content="Обменный пункт электронных валют" />
+<meta property="og:description" content="Обменный пункт электронных валют" />
+<meta property="og:title" content="Обменный пункт электронных валют" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://obmenneg.ru/wp-content/themes/exchanger/images/bg.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	
+	
+</head>
+
+<body class="custom-background" >
+<div id="container">
+
+
+	
+	<!-- top bar -->
+	<div class="topbar_wrap" id="fix_div">
+		<div class="topbar_ins" id="fix_elem">
+			<div class="topbar">
+			
+				<div class="tolbar_lang">
+		<div class="langlist_div">
+			<div class="langlist_title"><span>ru</span></div>
+			<div class="langlist_ul">
+		
+				<a href="https://obmenneg.ru/?rid=421" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://obmenneg.ru/wp-content/plugins/premiumbox/flags/ru_RU.png" alt="" />
+					</div>
+					Русский
+				</a>
+				<a href="https://obmenneg.ru/en/?rid=421" class="langlist_li ">
+					<div class="langlist_liimg">
+						<img src="https://obmenneg.ru/wp-content/plugins/premiumbox/flags/en_US.png" alt="" />
+					</div>
+					English
+				</a>
+			</div>
+		</div></div>			
+								
+				
+				
+				
+								
+				
+								
+									<div class="topbar_icon email">
+						<a href="/cdn-cgi/l/email-protection#486e6b79797d736e6b79797f73386e6b79797a73273a3c6e6b7e7c73276e6b717073256e6b797879736e6b79797873262d2f6e6b7c7e736e6b79797c736e6b79797f73">&#115;&#117;&#112;p&#111;&#114;t&#64;&#111;&#98;&#109;e&#110;&#110;&#101;g&#46;&#114;&#117;</a>
+					</div>		
+				
+									<div class="topbar_phone">
+						+79185823167					</div>		
+								
+			
+									<a href="https://obmenneg.ru/register/" class="toplink">Регистрация</a>
+					<a href="https://obmenneg.ru/login/" class="toplink">Войти</a>
+							
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top bar -->
+	
+	<!-- top menu -->
+	<div class="tophead_wrap" >
+		<div class="tophead_ins" >
+			<div class="tophead">
+			
+				<div class="logoblock">
+					<div class="logoblock_ins">
+													<a href="https://obmenneg.ru">
+													
+															<img src="https://obmenneg.ru/wp-content/uploads/1-Primary-logo-on-transparent-512-e1521205595122-1.png" alt="" />
+														
+							
+							</a>
+							
+					</div>
+				</div>
+				
+				<div class="topmenu">
+					<ul id="menu-verhnee-menyu-top-menu" class="tmenu js_menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item  first_menu_li menu-item-30"><a href="https://obmenneg.ru/"><span>Главная</span></a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://obmenneg.ru/news/"><span>Новости</span></a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://obmenneg.ru/reviews/"><span>Отзывы</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="https://obmenneg.ru/tarifs/"><span>Тарифы</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-31"><a href="https://obmenneg.ru/feedback/"><span>Контакты</span></a></li>
+</ul>				
+					<div class="clear"></div>
+				</div>
+					<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<!-- end top menu -->
+	
+	<div class="wrapper">
+		
+			
+
+			<div class="homepage_wrap">
+
+
+<div class="xchange_table_wrap">
+	
+	<div class="xchange_type_table">
+		<div class="xchange_type_table_ins">	
+				<div class="xtt_icon_wrap">
+					<div class="xtt_left_col_icon">
+					
+						<div class="xtt_icon active js_icon_left" data-type="0"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>Все</div></div>
+						<div class="xtt_icon js_icon_left js_icon_left_RUB" style="display: none;" data-type="RUB"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>RUB</div></div><div class="xtt_icon js_icon_left js_icon_left_USD" style="display: none;" data-type="USD"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>USD</div></div><div class="xtt_icon js_icon_left js_icon_left_EUR" style="display: none;" data-type="EUR"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>EUR</div></div><div class="xtt_icon js_icon_left js_icon_left_UAH" style="display: none;" data-type="UAH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>UAH</div></div><div class="xtt_icon js_icon_left js_icon_left_XMR" style="display: none;" data-type="XMR"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>XMR</div></div><div class="xtt_icon js_icon_left js_icon_left_BTC" style="display: none;" data-type="BTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BTC</div></div><div class="xtt_icon js_icon_left js_icon_left_ETH" style="display: none;" data-type="ETH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ETH</div></div><div class="xtt_icon js_icon_left js_icon_left_LTC" style="display: none;" data-type="LTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>LTC</div></div><div class="xtt_icon js_icon_left js_icon_left_XRP" style="display: none;" data-type="XRP"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>XRP</div></div><div class="xtt_icon js_icon_left js_icon_left_ZEC" style="display: none;" data-type="ZEC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ZEC</div></div>
+						<div class="clear"></div>
+					</div>
+					<div class="xtt_right_col_icon">
+
+						<div class="xtt_icon active js_icon_right" data-type="0"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>Все</div></div>
+						<div class="xtt_icon js_icon_right js_icon_right_RUB" style="display: none;" data-type="RUB"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>RUB</div></div><div class="xtt_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>USD</div></div><div class="xtt_icon js_icon_right js_icon_right_EUR" style="display: none;" data-type="EUR"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>EUR</div></div><div class="xtt_icon js_icon_right js_icon_right_UAH" style="display: none;" data-type="UAH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>UAH</div></div><div class="xtt_icon js_icon_right js_icon_right_XMR" style="display: none;" data-type="XMR"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>XMR</div></div><div class="xtt_icon js_icon_right js_icon_right_BTC" style="display: none;" data-type="BTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>BTC</div></div><div class="xtt_icon js_icon_right js_icon_right_ETH" style="display: none;" data-type="ETH"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ETH</div></div><div class="xtt_icon js_icon_right js_icon_right_LTC" style="display: none;" data-type="LTC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>LTC</div></div><div class="xtt_icon js_icon_right js_icon_right_XRP" style="display: none;" data-type="XRP"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>XRP</div></div><div class="xtt_icon js_icon_right js_icon_right_ZEC" style="display: none;" data-type="ZEC"><div class="xtt_icon_ins"><div class="xtt_icon_abs"></div>ZEC</div></div>
+						<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+			<div class="xtt_table_wrap">
+				<div class="xtt_table_title_wrap">
+					<div class="xtt_left_col_title">
+						<div class="xtt_table_title1">
+							<span>Вы отдаете</span>
+						</div>
+					</div>
+					<div class="xtt_right_col_title">
+						<div class="xtt_table_title2">
+							<span>Вы получаете</span>
+						</div>
+						<div class="xtt_table_title3">
+							<span>Резерв</span>
+						</div>
+							<div class="clear"></div>
+					</div>
+						<div class="clear"></div>
+				</div>
+				<div class="xtt_table_body_wrap">
+					<div class="xtt_html_abs"></div>
+						<div class="xtt_left_col_table">
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="16" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/50x50.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Альфа-Банк RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														100
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="6" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Яндекс.Деньги RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														100
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_BTC  " data-id="9" data-type="BTC">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Bitcoin BTC
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														1
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="7" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Сбербанк RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														100
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="17" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/tinkoff.jpg) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														Тинькофф RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														100
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+										<!-- one item -->
+										<div class="js_item_left js_item_left_RUB  " data-id="20" data-type="RUB">
+											<div class="xtt_one_line_left">
+										<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+												<div class="xtt_one_line_ico_left"> 
+													<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/VTB1.jpg) no-repeat center center;"></div>
+												</div>
+												<div class="xtt_one_line_name_left">
+													<div class="xtt_one_line_name">
+														ВТБ RUB
+													</div>
+												</div>
+												
+												<div class="xtt_one_line_curs_left">
+													<div class="xtt_one_line_curs">
+														100
+													</div>	
+												</div>												
+												
+												<div class="clear"></div>
+											</div>	
+										</div>
+										<!-- end one item -->
+										
+						</div>		
+						<div class="xtt_right_col_table">
+						
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_16">
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_ACRUB_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="61">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Яндекс.Деньги RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		100.4
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		50236.6
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="61" data-title="Альфа-Банк RUB-Яндекс.Деньги RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_ACRUB_to_WMR1/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="259">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		98.7
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		617978.3
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="259" data-title="Альфа-Банк RUB- RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_ACRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="261">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Webmoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1.4926
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		75.7236
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="261" data-title="Альфа-Банк RUB-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_6">
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_YAMRUB_to_SBERRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="24">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Сбербанк RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		62.5
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		554.8609
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="24" data-title="Яндекс.Деньги RUB-Сбербанк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_YAMRUB_to_WMRrub/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="25">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		99
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		617978.3
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="25" data-title="Яндекс.Деньги RUB- RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_YAMRUB_to_ALFARUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="44">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/50x50.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Альфа-Банк RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		97.22
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		884.8
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="44" data-title="Яндекс.Деньги RUB-Альфа-Банк RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_YAMRUB_to_TCSBRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="57">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/tinkoff.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Тинькофф RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		95.886
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		665.239
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="57" data-title="Яндекс.Деньги RUB-Тинькофф RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_YAMRUB_to_VTB24RUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="87">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/VTB1.jpg) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		ВТБ RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		95.51
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		861
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="87" data-title="Яндекс.Деньги RUB-ВТБ RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_YAMRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="260">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Webmoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1.494
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		75.7236
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="260" data-title="Яндекс.Деньги RUB-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_9">
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_Bitcoin_CashRub/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="16">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Наличные RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		210000
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		275000
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="16" data-title="Bitcoin BTC-Наличные RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_7">
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_SBERRUB_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="28">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Яндекс.Деньги RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		101.4
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		50236.6
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="28" data-title="Сбербанк RUB-Яндекс.Деньги RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_SBERRUB_to_WMR/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="258">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		99.7
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		617978.3
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="258" data-title="Сбербанк RUB- RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_SBERRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="262">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Webmoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1.5167
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		75.7236
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="262" data-title="Сбербанк RUB-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_17">
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_TCSBRUB_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="50">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Яндекс.Деньги RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		100.6
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		50236.6
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="50" data-title="Тинькофф RUB-Яндекс.Деньги RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_TCSBRUB_to_WMRRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="52">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		 RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		98.3
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		617978.3
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="52" data-title="Тинькофф RUB- RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_TCSBRUB_to_WMZ/" class="js_exchange_link js_item_right js_item_right_USD" data-type="USD" data-naps="263">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Webmoney USD
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		1.4925
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		75.7236
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="263" data-title="Тинькофф RUB-Webmoney USD">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+										<!-- tab currency -->
+										<div class="xtt_line_tab js_line_tab" id="js_tabnaps_20">
+													<!-- one item -->
+													<a href="https://obmenneg.ru/exchange_VTB24RUB_to_YAMRUB/" class="js_exchange_link js_item_right js_item_right_RUB" data-type="RUB" data-naps="78">
+														<div class="xtt_one_line_right">
+													<div class="xtt_one_line_abs"></div><div class="xtt_one_line_abs2"></div>
+																<div class="xtt_one_line_ico_right"> 
+																	<div class="xtt_change_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+																</div>															
+																
+																<div class="xtt_one_line_name_right">
+																	<div class="xtt_one_line_name">
+																		Яндекс.Деньги RUB
+																	</div>
+																</div>														
+																
+																<div class="xtt_one_line_curs_right">
+																	<div class="xtt_one_line_curs">
+																		100.6
+																	</div>	
+																</div>															
+																
+																<div class="xtt_one_line_reserv_right">
+																	<div class="xtt_one_line_reserv">
+																		50236.6
+																	</div>	
+																</div>															
+																
+		<div class="xtt_one_line_rez js_reserv" data-id="78" data-title="ВТБ RUB-Яндекс.Деньги RUB">
+			<div class="xtt_one_line_rez_ins">
+				<span>Не хватает?</span>
+			</div>
+		</div>														
+				
+															<div class="clear"></div>
+														</div>	
+													</a>
+													<!-- end one item -->											
+													
+										</div>
+										<!-- end tab currency -->										
+										
+						</div>	
+						<div class="clear"></div>
+					</div>	
+				<div class="clear"></div>
+			</div>		
+		</div>
+	</div></div>
+
+
+<div class="home_text_wrap">
+	<!--<div class="home_gray_blick"></div>-->
+	<div class="home_text_ins">
+		<div class="home_text_block">
+			<div class="home_text_title">Команда Obmenneg.ru приветствует Вас!</div>
+			<div class="home_text_div">
+				<div class="text">
+					<p>Наш сервис предназначен для тех, кто хочет быстро, безопасно и по выгодному курсу обменять такие виды электронных валют: Яндекс. Деньги, Альфа-Банк, ВТБ 24, Сбербанк. Различные виды криптовалюты такие как:  bitcoin и многие другие.</p>
+<p>Это не все возможности нашего сервиса. Вас безусловно заинтересует программа лояльности, а так же накопительная скидка и партнерская программа, воспользовавшись  которыми, Вы сможете совершать обмен электронных валют на более выгодных условиях. Все что нужно для того чтобы воспользоваться всеми преимуществами данной программы это просто зарегистрироваться на сайте.</p>
+<p>Наш пункт обмена электронных валют – система, созданная на базе современного программного обеспечения и содержащая весь набор необходимых функций для удобной и безопасной конвертации наиболее распространенных видов электронных денег. За время работы мы приобрели репутацию проверенного партнера и делаем все возможное, чтобы ваши впечатления от нашего сервиса были только благоприятными. Мы не стоим на месте и всегда продолжаем развивать наш ресурс для того чтобы Вам было всегда максимально выгодно и удобно работать с нами. Меняйте с obmenneg.ru и мы всегда будем Вашим надежным партнером!</p>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>	
+
+<div class="home_news_wrap">
+	<div class="home_white_blick"></div>
+	
+	<div class="home_news_ins">
+		<div class="home_news_block">
+			<div class="home_news_title">Новости</div>
+			
+			<div class="home_news_div">
+			
+								
+					<div class="home_news_one">
+						<div class="home_news_date">05.12.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://obmenneg.ru/izmeneniya-v-rabote-obmennika/">Изменения в работе обменника</a></div>
+					</div>			
+				
+								
+					<div class="home_news_one">
+						<div class="home_news_date">14.11.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://obmenneg.ru/prodazha-yandeks-dengi-3/">Продажа Яндекс.Деньги</a></div>
+					</div>			
+				
+								
+					<div class="home_news_one">
+						<div class="home_news_date">07.11.2018</div>
+							<div class="clear"></div>
+						<div class="home_news_content"><a href="https://obmenneg.ru/prodazha-webmoney-rub-i-yandeks-dengi/">Продажа  Яндекс.деньги</a></div>
+					</div>			
+				
+							
+				<div class="clear"></div>
+			</div>
+			
+			<div class="home_news_more"><a href="https://obmenneg.ru/news/">Все новости</a></div>
+		</div>
+	</div>
+</div>
+
+	<div class="home_reserv_wrap">
+		<div class="home_gray_blick"></div>
+		
+		<div class="home_reserv_block_ins">
+
+			<div class="home_reserv_block">
+				<div class="home_reserv_title">Резерв валюты</div>
+				
+				<div class="home_reserv_many">
+					<div class="home_reserv_many_ins">
+				
+						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Yandex.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Яндекс.Деньги RUB								</div>
+								<div class="one_home_reserv_sum">
+									50236.6								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(/wp-content/uploads/Sberbank.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Сбербанк RUB								</div>
+								<div class="one_home_reserv_sum">
+									554.8609								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/Bitcoin.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Bitcoin BTC								</div>
+								<div class="one_home_reserv_sum">
+									0.0083792								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/ETHEREUM-YOUTUBE-PROFILE-PIC-1.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Ethereum ETH								</div>
+								<div class="one_home_reserv_sum">
+									0.0186								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/Cash-RUB.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Наличные RUB								</div>
+								<div class="one_home_reserv_sum">
+									275000								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/50x50.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Альфа-Банк RUB								</div>
+								<div class="one_home_reserv_sum">
+									842.67								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/tinkoff.jpg) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Тинькофф RUB								</div>
+								<div class="one_home_reserv_sum">
+									633.561								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/exmo-1.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									ExMO RUB								</div>
+								<div class="one_home_reserv_sum">
+									103.9478								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/exmo-1.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									ExMO USD								</div>
+								<div class="one_home_reserv_sum">
+									0.8572								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/VTB1.jpg) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									ВТБ RUB								</div>
+								<div class="one_home_reserv_sum">
+									820								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/Payeer1.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Payeer USD								</div>
+								<div class="one_home_reserv_sum">
+									0.1707								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/wex1.jpg) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									WEX EUR								</div>
+								<div class="one_home_reserv_sum">
+									156								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/wex1.jpg) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									WEX USD								</div>
+								<div class="one_home_reserv_sum">
+									254.1								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/wex1.jpg) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									WEX RUB								</div>
+								<div class="one_home_reserv_sum">
+									204.0096								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/litecoin-3f7fe4e0bb2679d53680247c78251fee.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Litecoin LTC								</div>
+								<div class="one_home_reserv_sum">
+									0.64								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/xrp.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Ripple XRP								</div>
+								<div class="one_home_reserv_sum">
+									0								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>						 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/monero-symbol-on-white-1280-50x50.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Monero XMR								</div>
+								<div class="one_home_reserv_sum">
+									0								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/zcash-grey.jpg) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Zcash ZEC								</div>
+								<div class="one_home_reserv_sum">
+									0								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Webmoney RUB								</div>
+								<div class="one_home_reserv_sum">
+									500000								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+													 
+						<div class="one_home_reserv"> 
+							<div class="one_home_reserv_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+							<div class="one_home_reserv_block">
+								<div class="one_home_reserv_title">
+									Webmoney USD								</div>
+								<div class="one_home_reserv_sum">
+									75.7236								</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+							<div class="clear"></div>										
+						<div class="clear"></div>
+					</div>	
+				</div>
+			</div>	
+		
+		</div>
+	</div>
+	
+<div class="home_reviews_wrap">
+	<div class="home_reviews_ins">
+		<div class="home_reviews_block">
+			<div class="home_reviews_title">Отзывы</div>
+			
+			<div class="home_reviews_div">
+				<div class="home_reviews_div_ins">
+			
+								
+					<div class="home_reviews_one">
+						<div class="home_reviews_abs"></div>
+						<div class="home_reviews_date">Anik, 11.02.2019, 13:24</div>
+							<div class="clear"></div>
+						<div class="home_reviews_content">Благодарю за быстрый обмен</div>
+					</div>			
+				
+								
+					<div class="home_reviews_one">
+						<div class="home_reviews_abs"></div>
+						<div class="home_reviews_date">надя, 25.09.2018, 11:50</div>
+							<div class="clear"></div>
+						<div class="home_reviews_content">хочу сказать что этот обменник самый выгодный!</div>
+					</div>			
+				
+								
+					<div class="home_reviews_one">
+						<div class="home_reviews_abs"></div>
+						<div class="home_reviews_date">Inna Shevchenko Vladimirovna, 19.09.2018, 12:19</div>
+							<div class="clear"></div>
+						<div class="home_reviews_content">Спасибо за такой курс. Очень хороший обменник у вас. Спасибо всем довольна.</div>
+					</div>			
+				
+							
+					<div class="clear"></div>
+				</div>
+			</div>
+			
+			<div class="home_reviews_more"><a href="https://obmenneg.ru/reviews/">Все отзывы</a></div>
+		</div>
+	</div>
+</div>
+
+<div class="home_partner_wrap">
+	<div class="home_gray_blick"></div>
+	<div class="home_partner_wrap_ins">
+		<div class="home_partner_block">
+			
+			<div class="home_lchange_div">
+								
+					<div class="home_lchange_title">Последний обмен</div>
+					<div class="home_lchange_date">18.03.2019, 11:11</div>
+					<div class="home_lchange_body">
+					
+						<div class="home_lchange_why">
+							<div class="home_lchange_ico" style="background: url(/wp-content/uploads/WebMoney.png) no-repeat center center;"></div>
+							<div class="home_lchange_txt">
+								<div class="home_lchange_sum">500000</div>
+								<div class="home_lchange_name">RUB</div>
+							</div>
+								<div class="clear"></div>
+						</div>
+					
+						<div class="home_lchange_arr"></div>
+					
+						<div class="home_lchange_why">
+							<div class="home_lchange_ico" style="background: url(https://obmenneg.ru/wp-content/uploads/50x50.png) no-repeat center center;"></div>
+							<div class="home_lchange_txt">
+								<div class="home_lchange_sum">462792.5</div>
+								<div class="home_lchange_name">RUB</div>
+							</div>
+						</div>				
+							<div class="clear"></div>
+					</div>
+						
+			</div>
+			
+						
+			<div class="home_partner_div">
+				<div class="home_partner_title">Партнеры</div>
+										<div class="home_partner_one">
+							<a href="//www.bestchange.ru/" target="_blank">								<img src="//www.bestchange.ru/bestchange.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://askoin.com/index.php" target="_blank">								<img src="https://askoin.com/askoin.jpg" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://bestcurs.org" target="_blank">								<img src="https://bestcurs.org/wp-content/plugins/exchangers-monitor/images/bestkurs_88x31k.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://okku.ru/" target="_blank">								<img src="https://okku.ru/images/88_31_okku_3.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://eobmen-obmen.ru/" target="_blank">								<img src="https://eobmen-obmen.ru/images/inform5.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://glazok.org/" target="_blank">								<img src="https://glazok.org/88x31.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://pro-obmen.ru" target="_blank">								<img src="https://pro-obmen.ru/img/bn/88x31_1.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="http://eobmen-obmen.ru/" target="_blank">								<img src="https://obmenneg.ru/wp-content/uploads/inform5.gif" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://kurs.expert" target="_blank">								<img src="https://obmenneg.ru/wp-content/uploads/buttonY.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://megastock.ru/" target="_blank">								<img src="/wp-content/uploads/wm-botton.png" alt="" />
+							</a>						</div>
+											<div class="home_partner_one">
+							<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=736679757699" target="_blank">								<img src="https://obmenneg.ru/wp-content/uploads/wm-attestated.png" alt="" />
+							</a>						</div>
+										<div class="clear"></div>
+			</div>
+							<div class="clear"></div>
+		</div>	
+	</div>
+</div>
+
+</div>
+		
+
+			</div>
+	
+	<!-- footer --> 
+	<div class="footer_wrap">
+		<div class="footer">
+		
+			<div class="footer_left">
+			
+				<div class="copyright">
+											<p>Сервис обмена электронных валют.</p>
+									</div>
+				
+				<div class="footer_menu">
+					<ul id="menu-nizhnee-menyu-footer-menu" class="fmenu"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page  first_menu_li menu-item-35"><a href="https://obmenneg.ru/sitemap/"><span>Карта сайта</span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://obmenneg.ru/notice/"><span>Предупреждение</span></a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page  last_menu_li menu-item-251"><a href="https://obmenneg.ru/tos/"><span>Соглашение</span></a></li>
+</ul>						<div class="clear"></div>
+				</div>				
+			
+			</div>
+			<div class="footer_center">
+				<div class="footer_soc">
+						
+						<div class="clear"></div>
+				</div>	
+									<div class="mobile_link"><a href="https://obmenneg.ru/ajax-set_site_vers.html?meth=get&yid=9c25d3ebfd51&lang=ru&set=mobile&return_url=%2F%3Frid%3D421">Мобильная версия</a></div>
+							</div>
+			<div class="footer_right">
+			
+								
+								<div class="footer_timetable">
+					<p>Пн. — Пт. с 09:00 до 23:00 по мск.<br />
+Сб. — Вск. свободный график.</p>
+				</div>
+								
+			
+			</div>			
+				<div class="clear"></div>
+		</div>
+	</div>
+	<!-- end footer -->
+	
+</div>
+
+<div id="topped"></div>
+
+	
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+jQuery(function($){
+
+var auto_load = 1;
+function globalajax_timer(){
+
+	if(auto_load == 1){
+		auto_load = 0;
+		
+		var param = 'link=%2F%3Frid%3D421&ltime=1552913258';
+		$('.globalajax_ind').addClass('active');
+		$.ajax({
+			type: "POST",
+			url: "https://obmenneg.ru/ajax-globalajax_wp_check.html?meth=post&yid=9c25d3ebfd51&lang=ru",
+			dataType: 'json',
+			data: param,
+			error: function(res, res2, res3){
+						console.log('Текст ошибки, text1: ' + res2 + ',text2:' + res3);
+		for (key in res) {
+			console.log(key + ' = ' + res[key]);
+		}
+				},			
+			success: function(res)
+			{		
+				if(res['status'] == 'success'){
+					auto_load = 1;						
+						
+	var c_count = res['courselogs_count'];
+	var courselogs = res['courselogs'];
+	for (var c_key in courselogs){
+		var c_data = courselogs[c_key];
+		if($('#levents_' + c_key).length == 0){
+			$('#last_events').append(c_data);
+			var c_len = $('#last_events .levents').length;	
+				
+			$('#levents_' + c_key).fadeIn(800);
+			if(c_len > c_count){
+				$('.levents:first').remove();
+			}
+		}		
+	}
+				}	
+				$('.globalajax_ind').removeClass('active');
+			}
+		});
+	}
+
+}	
+	setInterval(globalajax_timer, 60000);
+	globalajax_timer();
+});	
+</script>
+ 
+		<div class="reserv_box js_techwindow">
+			<div class="reserv_box_ins">
+				<div class="reserv_box_title">Запрос резерва "<span id="reserv_box_title"></span>"</div>
+				<div class="reserv_box_close"></div>
+				<form method="post" class="ajax_post_form" action="https://obmenneg.ru/ajax-reservform.html?meth=post&yid=9c25d3ebfd51&lang=ru"><input type="hidden" name="id" id="reserv_box_id" value="0" />
+					<div class="resultgo"></div>
+					
+					
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-sum" class="rb_input "  placeholder="Необходимая сумма"  name="sum" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_input ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<input type="text" id="rb_id-email" class="rb_input "  placeholder="E-mail"  name="email" value="" />						
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+				<div class="form_field_line rb_line type_text ">
+					<div class="form_field_ins rb_line_ins">
+				
+					<textarea id="rb_id-comment" class="rb_textarea "  placeholder="Комментарий"  name="comment"></textarea>							
+					
+					</div>
+					
+					<div class="form_field_clear rb_line_clear"></div>
+					
+					
+				</div>
+				
+					
+					<p><input type="submit" formtarget="_top" name="submit" value="Отправить запрос" /></p>
+				</form>
+			</div>
+		</div>		
+		<script type='text/javascript' src='https://obmenneg.ru/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+			<div id="the_shadow" class="js_techwindow"></div>
+			<script type='text/javascript'>
+    (function(){ var widget_id = 'y05C3iOdrT';
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id+'?plugin=wp'; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+</script><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45999000 = new Ya.Metrika({
+                    id:45999000,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45999000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
