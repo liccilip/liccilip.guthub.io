@@ -1,486 +1,0 @@
-<!DOCTYPE html>
-<html xmlns="https://www.w3.org/1999/xhtml">
-<head>
-	<title>Exchanger WM - Сервис по обмену валют WebMoney, ввод и вывод WebMoney на Сбербанк, ВТБ24</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="shortcut icon" href="/res/img/favicon.ico" type="image/x-icon" />
-	<meta name='yandex-verification' content='60a66476bebbbfbe' />
-	<meta name="google-site-verification" content="NKi6WHQSJKf_HKx5dB8OkU1ZXFXqobXk78owXzdUz94" />
-	<meta name="title" content="Exchanger WM - Сервис по обмену валют WebMoney, ввод и вывод WebMoney на Сбербанк, ВТБ24" />
-	<meta name="description" content="Exchanger WM это автоматический сервис по обмену, ввод и выводу электронных валют и денег(WebMoney Яндекс.Деньги) Вы можете обналичить электронные деньги на Телебанк или другую пластиковую карту воспользовавшись нашим сервисом" />
-	<meta name="keywords" content="обмен, обмен электронных валют, электронные валюты, обмен электронных денег, электронные деньги, webmoney, WMR, WMZ, WMU, WME, Яндекс.Деньги, вывод, вывод электронных валют, вывод webmoney, вывод Яндекс.Денег, вывод на Телебанк, вывод на карточку, обналичивание, обналичивание webmoney, обналичивание Яндекс.Денег, купить webmoney, купить Яндекс.Деньги, вывод webmoney на карту, обмен webmoney" />
-	<meta name="robots" content="index, follow" />
-	<link rel="stylesheet" type="text/css" href="/res/css/style.css" />
-	<link rel="stylesheet" type="text/css" href="/res/css/tipped.css" />
-	<script type="text/javascript" src="/res/js/jquery-1.10.js"></script>
-	<script type="text/javascript" src="/res/js/calc.js"></script>
-	<script type="text/javascript" src="/res/js/votes.js"></script>
-	<script src="/library/Views/js/tipped.js" type="text/javascript" ></script>
-<script src="/library/Views/js/jquery.maskedinput.js" type="text/javascript" ></script>
-<script src="/library/Views/js/jquery.validate.js" type="text/javascript" ></script>
-<script src="/library/Views/js/jquery.validate-additional-methods.js" type="text/javascript" ></script>
-<script src="/library/Views/js/jquery.validate-messages-ru.js" type="text/javascript" ></script>
-<script src="/library/Views/js/jquery.validate-require_from_group.js" type="text/javascript" ></script>
-<script src="/library/Views/js/jquery.useful.js" type="text/javascript" ></script>
-
-</head>
-<body>
-	<div id="main" class="main">
-		<div style="clear:both;overflow:auto;">
-			<div style="float:left;">
-				<a href="/" title="Exchanger WM - Сервис по обмену валют WebMoney, ввод и вывод WebMoney на Сбербанк, ВТБ24"><img src="/res/img/logo.png" width="211" height="48" alt="Exchanger WM - Сервис по обмену валют WebMoney, ввод и вывод WebMoney на Сбербанк, ВТБ24" /></a>
-			</div>
-			<div style="float:right;padding-right:55px;">
-				<span style="color:white;font-size:8pt;">Тех. поддержка сервиса:</span>
-				<!--<div style="padding-top:3px;">
-					<img src="/res/img/skype.png" width="26" height="26" alt="Phone" />
-					<span style="color:white;font-size:12pt;">&nbsp;<a href="skype:exchangerwm?add" title="skype технической поддержки" style="text-decoration:none;"><span style="color:white;font-size:12pt;">exchangerwm</span></a></span>
-				</div>
-				-->
-				<!--<span style="color:white;font-size:8pt;padding-top:0px;padding-left:0px;">звонок по России бесплатно</span>--><br /><img src="/res/img/icq.png" width="26" height="26" alt="ICQ" style="padding-left: 0px;" />
-				<span style="color:white;font-size:12pt;">&nbsp;473105529</span>
-			</div>
-
-			<div style="float:right;width:304px;height:65px;padding:0px 42px 0px 8px;background:url(/res/img/cab-back.png) no-repeat 0px 0px;">
-	<form method="post" action="/logon">
-		<div style="float:left;">
-			<div style="font-style:italic;color:#ffffff;font-size:11pt;height:22px;line-height:22px;">Вход в личный кабинет</div>
-			<div style="float:left;padding:0px 14px 0px 0px;">
-				<div><input type="text" id="clientEmail" name="email" style="width:105px;height:18px;font-size:10pt;border:0px" /></div>
-				<div style="text-align:right;"><a href="/registration" style="text-decoration:none;color:white;font-size:9pt;">Регистрация</a></div>
-			</div>
-			<div style="float:left;padding:0px 14px 0px 0px;">
-				<div><input type="password" id="clientPassword"  name="password" style="width:105px;height:18px;font-size:10pt;border:0px" /></div>
-				<div style="text-align:left;"><a href="/remember" style="text-decoration:none;color:white;font-size:9pt;">Забыли пароль?</a></div>
-			</div>
-		</div>
-		<div style="float:right;padding:8px 0px 0px 0px;">
-			<input type="submit" name="submit" value="" style="border:0px;width:46px;height:47px;background:url(/res/img/cab-btn.png) no-repeat;cursor:pointer;" />
-		</div>
-	</form>
-</div>
-
-			<a href="/bonus" style="float:right;margin-right:60px;" title="WMR Бонус"><img style="border:none;" src="/res/img/bonus_sticker.png" width="59" height="58" alt="Бонус" /></a>
-			<div style="float:right;padding-right:50px;padding-top:5px;">
-				<a onclick="o=window.open;o('https://siteheart.com/webconsultation/555202?', 'siteheart_sitewindow_555202', 'width=550,height=400,top=30,left=30,resizable=yes'); return false;" href="https://siteheart.com/webconsultation/555202?" target="siteheart_sitewindow_555202"><img src="https://webindicator.siteheart.com/webindicator/help5?ent=555202&amp;company=555202" width="114" height="50" alt="SiteHeart" /> </a>
-			</div>
-		</div>
-
-		<div style="clear:both;overflow:auto;">
-			<ul class="top-menu">
-				<li class="l"></li>
-				<li><a href="/about" title="Exchanger WM - Сервис по мгновенному обмену и выводу валют WebMoney"><span>О сервисе</span></a></li>
-				<li class="s"></li>
-				<li><a href="/safety" title="Безопасный обмен электронных валют"><span>Безопасность</span></a></li>
-				<li class="s"></li>
-				<li><a href="/rules" title="Правила предоставления услуг по обмену webmoney"><span>Правила</span></a></li>
-				<li class="s"></li>
-				<li><a href="/partner" title="Зарабатывайте вместе с Exchanger WM"><span>Партнерская программа</span></a></li>
-				<li class="s"></li>
-				<li><a href="/contacts" title="Контакты Exchanger WM"><span>Контакты</span></a></li>
-				<li class="s"></li>
-				<li><a href="https://advisor.wmtransfer.com/feedbacklist.aspx?url=exchangerwm.com" title="Отзывы о нас на сайте Webmoney"><span>Отзывы</span></a></li>
-				<li class="r"></li>
-			</ul>
-		</div>
-		<div style="clear:both;">
-
-			<div class="left-side-bar" style="float:left;width:236px;margin-top: -13px;">
-
-				<div class="box_hdr"><div class="box_btm"><div class="box_mdl"><div class="box">
-<h3>Резервы для обмена</h3>
-<div class="rate_odd">
-	<div class="in ico-small wmr">Обмен WMR</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">352</div>
-</div><div class="rate_even">
-	<div class="in ico-small wmz">Обмен WMZ</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">246</div>
-</div><div class="rate_odd">
-	<div class="in ico-small wmr">Ввод WMR</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">300</div>
-</div><div class="rate_even">
-	<div class="in ico-small wmz">Ввод WMZ</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">200</div>
-</div><div class="rate_odd">
-	<div class="in ico-small ya">Ввод Янд.Деньги</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">27</div>
-</div><div class="rate_even">
-	<div class="in ico-small vtb24">Вывод ВТБ</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">55000</div>
-</div><div class="rate_odd">
-	<div class="in ico-small cardrub">Вывод Visa/MC</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">300000</div>
-</div><div class="rate_even">
-	<div class="in ico-small alphabank">Вывод Альфа</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">300000</div>
-</div><div class="rate_odd">
-	<div class="in ico-small sberbank">Вывод Сбербанк</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">300000</div>
-</div><div class="rate_even">
-	<div class="in ico-small avangard">Вывод Авангард</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">0</div>
-</div><div class="rate_odd">
-	<div class="in ico-small russtandart">Вывод Р.С.</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">300000</div>
-</div><div class="rate_even">
-	<div class="in ico-small tinkoff">Вывод Тинькофф</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">10</div>
-</div><div class="rate_odd">
-	<div class="in ico-small wireusd">Вывод WIRE USD</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">10000</div>
-</div><div class="rate_even">
-	<div class="in ico-small yr"> Экономичный вывод</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">10</div>
-</div><div class="rate_odd">
-	<div class="in ico-small yrip"> Для Юр. лица/ИП</div>
-	<div class="out" style="font-weight:bold;padding-right:0;">0</div>
-</div>
-</div></div></div></div>
-
-				<div class="box_hdr"><div class="box_btm"><div class="box_mdl"><div class="box"><h3>Курсы обмена на сегодня</h3><div>&nbsp;</div><h4 style="margin-top: -20px; margin-bottom: 5px;">Обмен:</h4><div class="rate_odd">	<div class="in ico-small wmr">66.95 WMR -></div>	<div class="out ico-small wmz">1 WMZ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small wmr">65.4 WMR</div></div><h4 style="margin-bottom: 5px;">Ввод:</h4><div class="rate_odd">	<div class="in ico-small vtb24">1.02 РУБ -></div>	<div class="out ico-small wmr">1 WMR</div></div><div class="rate_even">	<div class="in ico-small vtb24">67 РУБ -></div>	<div class="out ico-small wmz">1 WMZ</div></div><div class="rate_odd">	<div class="in ico-small anybank">1.02 РУБ -></div>	<div class="out ico-small wmr">1 WMR</div></div><div class="rate_even">	<div class="in ico-small anybank">67.73 РУБ -></div>	<div class="out ico-small wmz">1 WMZ</div></div><div class="rate_odd">	<div class="in ico-small avangard">1.02 РУБ -></div>	<div class="out ico-small wmr">1 WMR</div></div><div class="rate_even">	<div class="in ico-small avangard">69.35 РУБ -></div>	<div class="out ico-small wmz">1 WMZ</div></div><div class="rate_odd">	<div class="in ico-small tinkoff">1.02 РУБ -></div>	<div class="out ico-small wmr">1 WMR</div></div><div class="rate_even">	<div class="in ico-small tinkoff">67 РУБ -></div>	<div class="out ico-small wmz">1 WMZ</div></div><h4 style="margin-bottom: 5px;">Вывод Visa/MasterCard:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small cardrub">0.97 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small cardrub">61.48 РУБ</div></div><h4 style="margin-bottom: 5px;">Вывод ВТБ24:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small vtb24">0.98 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small vtb24">62.8 РУБ</div></div><h4 style="margin-bottom: 5px;">Вывод Альфа-банк:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small alphabank">0.97 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small alphabank">62.08 РУБ</div></div><h4 style="margin-bottom: 5px;">Вывод Любой банк в рубли:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small anybankyr">0.97 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small anybankyr">59.14 РУБ</div></div><h4 style="margin-bottom: 5px;">Вывод Русский Стандарт:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small russtandart">0.97 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small russtandart">62.12 РУБ</div></div><h4 style="margin-bottom: 5px;">Вывод Сбербанк:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small sberbank">0.98 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small sberbank">62.06 РУБ</div></div><h4 style="margin-bottom: 5px;">Вывод Тинькофф:</h4><div class="rate_odd">	<div class="in ico-small wmr">1 WMR -></div>	<div class="out ico-small tinkoff">0.98 РУБ</div></div><div class="rate_even">	<div class="in ico-small wmz">1 WMZ -></div>	<div class="out ico-small tinkoff">62.8 РУБ</div></div></div></div></div></div>
-
-				<div style="padding:44px;">
-					<img src="/res/img/wmlogo_128.png" width="128" height="128" alt="Webmoney" />
-				</div>
-			</div>
-
-			<div class="right-side-bar" style="float:left;width:690px;">
-				
-
-<div style="margin-top:5px;">
-	<div class="calc_atab"><a href="/ex_info" title="Обмен электронных денег и валют">Обменять</a></div>
-	<div class="calc_tab"><a href="/buy_info" title="Купить webmoney WMZ WMR WME">Купить</a></div>
-	<div class="calc_tab"><a href="/sell_info" title="Вывод на карту или обналичивание webmoney">Продать</a></div>
-<!--	<div class="calc_tab"><a href="/yrip_info" title="Юр. лица/ИП">Юр. лица/ИП</a></div> -->
-	<div class="calc_tab"><a target="_blank" href="https://card2card.net" title="Переводы с карты на карту">Card2Card</a></div>
-	
-	<div style="overflow:hidden;clear:both;">
-	
-	<div class="shlb"><div class="shrb"><div class="shrt"><div style="background:#87d6f9 url(/res/img/calc_bg.png) repeat-x 0px 0px;padding:0px 0px 0px 0px;"><div class="shbs"><div class="shrs">
-
-		<form id="calc" action="/res/php/redir.php" method="post">
-			<div style="padding:10px 43px 10px 36px;overflow:hidden;">
-
-				<div style="float:left;text-align:right;margin-top:60px;">
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wmr.png" width="102" height="35" alt="WebMoney WMR" /><input id="i_WMR" name="i_WMR" value="" onclick="change_in('WMR')" onfocus="change_in('WMR')" onkeyup="change_calc();" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;" type="text" />
-					</div>
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wmz.png" width="102" height="35" alt="WebMoney WMZ" /><input id="i_WMZ" name="i_WMZ" value="" onclick="change_in('WMZ')" onfocus="change_in('WMZ')" onkeyup="change_calc();" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;" type="text" />
-					</div>
-					<!--
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wme.png" width="102" height="35" alt="WebMoney WME" /><input id="i_WME" name="i_WME" value="" onclick="change_in('WME')" onfocus="change_in('WME')" onkeyup="change_calc();" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;" type="text" />
-					</div>							
-					-->
-					<!--
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wmu.png" width="102" height="35" alt="WebMoney WMU" /><input id="i_WMU" name="i_WMU" value="" onclick="change_in('WMU')" onfocus="change_in('WMU')" onkeyup="change_calc();" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;" type="text" />
-					</div>
-					-->
-					<!--
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/yandex.png" width="100" height="35" alt="Яндекс.Деньги" /><input class="dis" disabled="disabled" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;" type="text" value="не доступно" />
-					</div>
-					-->
-					<!--<div style="line-height:35px;height:35px;">
-						<img src="/res/img/rbk.png" width="82" height="35" alt="RBK Money" /><input class="dis" disabled="disabled" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;" type="text" value="не доступно" />
-					</div>-->
-				</div>
-
-				<div style="float:left;padding-top:26px;padding-left:35px;"><img src="/res/img/ex_icon.png" alt="Обмен Webmoney" /></div>
-
-				<div style="float:right;text-align:right;width:223px;margin-top:60px;">
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wmr.png" width="102" height="35" alt="WebMoney WMR" /><input id="o_WMR" name="o_WMR" value="" onclick="change_out('WMR')" onfocus="change_out('WMR')" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;cursor:pointer;" type="text" readonly="readonly" />
-					</div>
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wmz.png" width="102" height="35" alt="WebMoney WMZ" /><input id="o_WMZ" name="o_WMZ" value="" onclick="change_out('WMZ')" onfocus="change_out('WMZ')" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;cursor:pointer;" type="text" readonly="readonly" />
-					</div>
-					<!--
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wme.png" width="102" height="35" alt="WebMoney WME" /><input id="o_WME" name="o_WME" value="" onclick="change_out('WME')" onfocus="change_out('WME')" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;cursor:pointer;" type="text" readonly="readonly" />
-					</div>							
-					-->
-					<!--
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/wm_wmu.png" width="102" height="35" alt="WebMoney WMU" /><input id="o_WMU" name="o_WMU" value="" onclick="change_out('WMU')" onfocus="change_out('WMU')" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;cursor:pointer;" type="text" readonly="readonly" />
-					</div>
-					-->
-					<!--
-					<div style="line-height:35px;height:35px;">
-						<img src="/res/img/yandex.png" width="100" height="35" alt="Яндекс.Деньги" /><input class="dis" disabled="disabled" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;cursor:pointer;" type="text" value="не доступно" />
-					</div>
-					-->
-					<!--<div style="line-height:35px;height:35px;">
-						<img src="/res/img/rbk.png" width="82" height="35" alt="RBK Money" /><input class="dis" disabled="disabled" style="line-height:22px;width:106px;height:22px;border:0px;margin-left:5px;cursor:pointer;" type="text" value="не доступно" />
-					</div>-->
-				</div>
-			</div>
-
-			<div id="reserve" style="clear:both;overflow:hidden;font-size:11pt;color:#626161;padding-bottom:10px;padding-left:36px;">
-				<div style="float:left;width:108px;text-align:right;">Резерв:&nbsp;</div><div style="float:left;color:#D24D5B;" id="calc_res"></div>
-				<div style="float:right;width:158px;color:#D24D5B;"><span id="min"></span>&nbsp;</div><div style="float:right;width:210px;text-align:right;">Минимальная сумма обмена:&nbsp;</div>
-			</div>
-			
-			<div style="overflow:hidden;">
-				<input type="submit" name="step0" value="Обменять" onclick="javascript:return calc_test();" style="cursor:pointer;line-height:26px;float:right;width:164px;height:26px;background:url(/res/img/calc_go.png) no-repeat 0px 0px;color:white;font-size:11pt;text-align:center;border:none;" />
-			</div>
-			
-			<input type="hidden" id="in_cur" name="in_cur" value="" />
-			<input type="hidden" id="out_cur" name="out_cur" value="" />
-			<input type="hidden" id="in_calc" name="in_amount" value="{in_amount}" />
-
-		</form>
-
-<script type="text/javascript">
-	var ex_data={"dirs":{"WMR":{"WMZ":{"rate":66.9496,"k":1,"min":1,"en":1},"WME":{"rate":62.600418,"k":1,"min":1,"en":0},"WMU":{"rate":3.918449,"k":1,"min":1,"en":0},"VTB24":{"rate":0.977379,"k":2,"min":250,"en":0},"CARDRUB":{"rate":0.973825,"k":2,"min":250,"en":0},"alphabank":{"rate":0.970894,"k":2,"min":250,"en":0},"sberbank":{"rate":0.975725,"k":2,"min":250,"en":0},"avangard":{"rate":0.99,"k":2,"min":250,"en":0},"russtandart":{"rate":0.968623,"k":2,"min":250,"en":0},"svyaznoy":{"rate":0.976663,"k":2,"min":0,"en":0},"YA":{"rate":0.9762,"k":2,"min":250,"en":0},"tinkoff":{"rate":0.975805,"k":2,"min":250,"en":0},"wireusd":{"rate":0.0001,"k":2,"min":5000,"en":0},"VTB24yr":{"rate":0.988,"k":2,"min":100,"en":0},"sberbankyr":{"rate":0.988,"k":2,"min":100,"en":0},"avangardyr":{"rate":0.987,"k":2,"min":250,"en":0},"russtandartyr":{"rate":0.988,"k":2,"min":100,"en":0},"alphabankyr":{"rate":0.988,"k":2,"min":100,"en":0},"CARDRUByr":{"rate":0.988,"k":2,"min":100,"en":0},"wireusdyr":{"rate":0.012914,"k":2,"min":5000,"en":0},"anybank":{"rate":0.981,"k":2,"min":250,"en":0},"anybankyr":{"rate":0.9701,"k":2,"min":250,"en":0},"tinkoffyr":{"rate":0.9,"k":2,"min":1000,"en":0},"yrip":{"rate":1.01,"k":2,"min":50000,"en":0}},"WMZ":{"WMR":{"rate":65.4004,"k":2,"min":1,"en":1},"WME":{"rate":1.534819,"k":1,"min":1,"en":0},"WMU":{"rate":12.9502,"k":2,"min":1,"en":0},"VTB24":{"rate":62.8002,"k":2,"min":25,"en":0},"CARDRUB":{"rate":61.482209,"k":2,"min":25,"en":0},"alphabank":{"rate":62.0832,"k":2,"min":25,"en":0},"sberbank":{"rate":62.0626,"k":2,"min":25,"en":0},"avangard":{"rate":59.753035,"k":2,"min":25,"en":0},"russtandart":{"rate":62.1161,"k":2,"min":25,"en":0},"svyaznoy":{"rate":35.3555,"k":2,"min":0,"en":0},"wireusd":{"rate":1.032999,"k":1,"min":100,"en":0},"tinkoff":{"rate":62.8001,"k":2,"min":25,"en":0},"VTB24yr":{"rate":65.3503,"k":2,"min":10,"en":0},"sberbankyr":{"rate":65.0002,"k":2,"min":10,"en":0},"avangardyr":{"rate":59.576139,"k":2,"min":10,"en":0},"russtandartyr":{"rate":62.1161,"k":2,"min":10,"en":0},"alphabankyr":{"rate":65.3503,"k":2,"min":10,"en":0},"CARDRUByr":{"rate":65.3506,"k":2,"min":10,"en":0},"wireusdyr":{"rate":1.032999,"k":1,"min":100,"en":0},"anybank":{"rate":60.30934,"k":2,"min":25,"en":0},"anybankyr":{"rate":59.1435,"k":2,"min":25,"en":0},"yrip":{"rate":61.5003,"k":2,"min":750,"en":0},"tinkoffyr":{"rate":0.9,"k":2,"min":1000,"en":0}},"WME":{"WMR":{"rate":59.841,"k":2,"min":1,"en":0},"WMZ":{"rate":1.0005,"k":2,"min":1,"en":0},"WMU":{"rate":13.5002,"k":2,"min":0,"en":0},"VTB24":{"rate":49.99622,"k":2,"min":10,"en":0},"CARDRUB":{"rate":55.253421,"k":2,"min":10,"en":0},"alphabank":{"rate":49.99622,"k":2,"min":10,"en":0},"sberbank":{"rate":49.99622,"k":2,"min":10,"en":0},"avangard":{"rate":56.9905,"k":2,"min":10,"en":0},"russtandart":{"rate":49.998275,"k":2,"min":10,"en":0},"svyaznoy":{"rate":48.544189,"k":2,"min":0,"en":0},"tinkoff":{"rate":57.2201,"k":2,"min":10,"en":0},"wireusd":{"rate":1.07281,"k":2,"min":100,"en":0},"VTB24yr":{"rate":49.99622,"k":2,"min":10,"en":0},"sberbankyr":{"rate":49.99622,"k":2,"min":10,"en":0},"avangardyr":{"rate":56.9905,"k":2,"min":10,"en":0},"russtandartyr":{"rate":49.998275,"k":2,"min":10,"en":0},"alphabankyr":{"rate":49.99622,"k":2,"min":10,"en":0},"CARDRUByr":{"rate":55.253421,"k":2,"min":10,"en":0},"wireusdyr":{"rate":1.07281,"k":2,"min":100,"en":0},"anybank":{"rate":56.9905,"k":2,"min":10,"en":0},"anybankyr":{"rate":56.9905,"k":2,"min":10,"en":0}},"WMU":{"WMR":{"rate":2,"k":2,"min":0,"en":0},"WMZ":{"rate":20.03998,"k":1,"min":0,"en":0},"WME":{"rate":28.04004,"k":1,"min":0,"en":0}},"VTB24":{"WMR":{"rate":1.018,"k":1,"min":1000,"en":0},"WMZ":{"rate":66.9995,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"CARDRUB":{"WMR":{"rate":0.997,"k":1,"min":250,"en":0},"WMZ":{"rate":66.9995,"k":1,"min":10,"en":0},"WME":{"rate":62.797792,"k":1,"min":10,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"wireusd":{"YA":{"rate":63.977365,"k":1,"min":0,"en":0},"WMZ":{"rate":1.020308,"k":2,"min":1000,"en":0},"WME":{"rate":1.315289,"k":1,"min":1000,"en":0},"WMR":{"rate":0.0001,"k":1,"min":1000,"en":0}},"sberbank":{"WMR":{"rate":0.997,"k":1,"min":1000,"en":0},"WMZ":{"rate":66.9496,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"avangard":{"WMR":{"rate":1.018,"k":1,"min":1000,"en":0},"WMZ":{"rate":69.347128,"k":1,"min":1000,"en":0},"WME":{"rate":62.9995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"russtandart":{"WMR":{"rate":0.98,"k":1,"min":1000,"en":0},"WMZ":{"rate":68.548993,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"tinkoff":{"WMR":{"rate":1.018,"k":1,"min":1000,"en":0},"WMZ":{"rate":66.9995,"k":1,"min":1000,"en":0},"WME":{"rate":62.9995,"k":1,"min":1000,"en":0},"YA":{"rate":0.9,"k":1,"min":1000,"en":0}},"YA":{"sberbank":{"rate":0.944756,"k":2,"min":250,"en":0},"alphabank":{"rate":0.943496,"k":2,"min":250,"en":0},"VTB24":{"rate":0.944387,"k":2,"min":250,"en":0},"avangard":{"rate":0.955,"k":2,"min":250,"en":0},"russtandart":{"rate":0.9313,"k":2,"min":250,"en":0},"CARDRUB":{"rate":0.9501,"k":2,"min":250,"en":0},"wireusd":{"rate":0.0101,"k":2,"min":5000,"en":0},"VTB24yr":{"rate":0.9569,"k":2,"min":250,"en":0},"sberbankyr":{"rate":0.950851,"k":2,"min":250,"en":0},"avangardyr":{"rate":0.955,"k":2,"min":250,"en":0},"russtandartyr":{"rate":0.9501,"k":2,"min":250,"en":0},"alphabankyr":{"rate":0.9569,"k":2,"min":250,"en":0},"CARDRUByr":{"rate":0.9501,"k":2,"min":250,"en":0},"wireusdyr":{"rate":0.008802,"k":2,"min":5000,"en":0},"anybank":{"rate":0.957038,"k":2,"min":250,"en":0},"anybankyr":{"rate":0.930073,"k":2,"min":250,"en":0},"tinkoff":{"rate":0.9,"k":1,"min":1000,"en":0},"tinkoffyr":{"rate":0.9,"k":2,"min":1000,"en":0}},"alphabank":{"WMR":{"rate":0.98,"k":1,"min":1000,"en":0},"WMZ":{"rate":66.99534,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"VTB24yr":{"WMR":{"rate":0.998,"k":1,"min":1000,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"sberbankyr":{"WMR":{"rate":0.9945,"k":1,"min":1000,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"avangardyr":{"WMR":{"rate":0.999,"k":1,"min":1000,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":1000,"en":0},"WME":{"rate":62.9995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"russtandartyr":{"WMR":{"rate":0.995,"k":1,"min":1000,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"alphabankyr":{"WMR":{"rate":0.9985,"k":1,"min":1000,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":1000,"en":0},"WME":{"rate":62.7995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"CARDRUByr":{"WMR":{"rate":1.032999,"k":1,"min":250,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":10,"en":0},"WME":{"rate":62.797792,"k":1,"min":10,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"wireusdyr":{"WMR":{"rate":50.3148,"k":1,"min":1000,"en":0},"WMZ":{"rate":1.020308,"k":2,"min":1000,"en":0},"WME":{"rate":1.315289,"k":1,"min":1000,"en":0},"YA":{"rate":57.487884,"k":1,"min":0,"en":0}},"anybank":{"WMR":{"rate":1.02,"k":1,"min":1000,"en":0},"WMZ":{"rate":67.725817,"k":1,"min":1000,"en":0},"WME":{"rate":62.9995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"anybankyr":{"WMR":{"rate":1.02,"k":1,"min":1000,"en":0},"WMZ":{"rate":61.5105,"k":1,"min":1000,"en":0},"WME":{"rate":62.9995,"k":1,"min":1000,"en":0},"YA":{"rate":1,"k":1,"min":5000,"en":0}},"yrip":{"WMR":{"rate":0.99099,"k":2,"min":10000,"en":0},"WMZ":{"rate":66.68822,"k":1,"min":10000,"en":0}},"tinkoffyr":{"WMZ":{"rate":0.9,"k":1,"min":1000,"en":0},"WMR":{"rate":0.9,"k":1,"min":1000,"en":0},"YA":{"rate":0.9,"k":1,"min":1000,"en":0}}},"curs":{"WMR":{"name":"WMR","sname":"WMR","res":352.5,"pc":0.8,"mc":1500,"fc":0},"WMZ":{"name":"WMZ","sname":"WMZ","res":246.05,"pc":0.8,"mc":50,"fc":0},"WME":{"name":"WME","sname":"WME","res":0,"pc":0.8,"mc":50,"fc":0},"WMU":{"name":"WMU","sname":"WMU","res":0,"pc":0.8,"mc":250,"fc":0},"VTB24":{"name":"ВТБ","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"CARDRUB":{"name":"Visa/MC","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"wireusd":{"name":"WIRE USD","sname":"USD","res":0,"pc":0,"mc":0,"fc":0},"sberbank":{"name":"Сбербанк","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"avangard":{"name":"Авангард","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"russtandart":{"name":"Р.С.","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"tinkoff":{"name":"Тинькофф","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"YA":{"name":"Янд.Деньги","sname":"РУБ","res":0,"pc":0.5,"mc":0,"fc":0},"alphabank":{"name":"Альфа","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"VTB24yr":{"name":"ВТБ (ЮР. лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"sberbankyr":{"name":"Сбербанк (ЮР. лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"avangardyr":{"name":"Авангард (ЮР. лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"russtandartyr":{"name":"Р.С. (ЮР. лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"alphabankyr":{"name":"Альфа (ЮР. лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"CARDRUByr":{"name":"Visa/MC (ЮР. лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"wireusdyr":{"name":"WIRE USD (ЮР. лица.)","sname":"USD","res":0,"pc":0,"mc":0,"fc":0},"anybank":{"name":"Любой банк в рубли","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"anybankyr":{"name":"Любой банк в рубли (ЮР. Лица.)","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"yrip":{"name":"Для Юр. лица/ИП","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0},"tinkoffyr":{"name":"ТРЦ","sname":"РУБ","res":0,"pc":0,"mc":0,"fc":0}},"dscnt":0};
-</script>
-<script type="text/javascript">change_dir();</script>
-
-	</div></div></div></div></div></div>
-
-	</div>
-</div>
-
-				
-				<div class="content">
-					<div class="shlb">
-	<div class="shrb">
-		<div class="shrt">
-			<div class="hdrbg">
-				<div class="shbs">
-					<div class="shrs">
-						<h1>
-							<span style="font-size:20px;">Exchanger WM - Сервис по мгновенному обмену валют WebMoney</span></h1>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<h2>
-	Обмен электронных валют Webmoney</h2>
-<p>
-	<span style="font-size:12px;"><strong><span style="color: rgb(255, 0, 0);">ОСТОРОЖНО! МОШЕННИКИ!</span> Помните, что любые операции наш сервис осуществляет исключительно через сайт!</strong> Мы не предлагаем обработать операции вручную с использованием каких бы то ни было мобильных телефонов или кошельков WebMoney, Яндекса. Так поступают мошенники!</span></p>
-<ul>
-	<li>
-		Наш сервис обладает большим резервом по каждой из торгуемых валют</li>
-	<li>
-		Обмен происходит полностью в автоматическом режиме</li>
-	<li>
-		<span style="color:#ff0000;">Покупка вебмани по всем направлениям осуществляется в ручном режиме по следующему графику: 10:00, 13:00, 16:00 и 23:00 по Московскому времени &ndash; будьте внимательны!</span></li>
-</ul>
-<h2>
-	Вывод Webmoney и Яндекс.Деньги на счет в банке или карту</h2>
-<ul>
-	<li>
-		Вывод по следующим напрвлениям:&nbsp;<strong>СберБанк, Русский Стандарт, карты Visa\MasterCard&nbsp;</strong>работают полностью в атоматическом режиме, 7дней в неделю, 24 часа в сутки.</li>
-	<li>
-		Сроки исполнения заявок на вывод по остальным направлениям предоставлены на странице Продать.</li>
-	<li>
-		Вы можете <b>вывести Webmoney и Яндекс.Деньги на счет в банке или карту</b>&nbsp;в любое удобное для вас время</li>
-</ul>
-<h2>
-	Выгодный курс обмена электронных денег Webmoney</h2>
-<ul>
-	<li>
-		<b>Минимальные обменные курсы Webmoney</b> &ndash; лучше, чем в других online сервисах</li>
-	<li>
-		Дополнительные скидки за каждую операцию по обмену или выводу</li>
-	<li>
-		Бонусная программа для постоянных клиентов</li>
-</ul>
-<h2>
-	Безопасность при обмене и выводе</h2>
-<ul>
-	<li>
-		Сервис работает по системе WebMoney Transfer, гарантирующей <b>безопасность вашего кошелька WebMoney</b></li>
-	<li>
-		Обмен данными по сети производится по защищенному протоколу HTTPS</li>
-	<li>
-		Система принципиально не хранит данные, которые злоумышленники могли бы использовать для доступа к вашему кошельку</li>
-	<li>
-		Безопасность подтверждена высоким рейтингом WM-TOP</li>
-</ul>
-<h2>
-	Простой и быстрый интерфейс обмена электронных денег</h2>
-<ul>
-	<li>
-		Интерфейс разработан с учетом пожеланий пользователей таким образом, чтобы на <b>операцию по обмену уходило минимум усилий</b></li>
-	<li>
-		Интерфейс интуитивно понятен, что позволяет быстро разобраться новичку и исключить ошибки при заполнении форм</li>
-</ul>
-<h2>
-	Продажа виртуальных карт Visa</h2>
-<ul>
-	<li>
-		Самый выгодный курс на покупку Virtual Card Visa RUB/USD/EUR</li>
-	<li>
-		Личный кабинет с историей транзакций по карте</li>
-	<li>
-		Возврат остатка на карте</li>
-</ul>
-<h2>
-	Постоянное развитие</h2>
-<ul>
-	<li>
-		Мы постоянно улучшаем и расширяем возможности сервиса</li>
-	<li>
-		Появление <b>новых карт для вывода WebMoney</b></li>
-	<li>
-		<b>Вывод WebMoney на счет Телебанка</b></li>
-	<li>
-		Вывод WebMoney на счета банков Сбербанк, Русский Стандарт</li>
-	<li>
-		Уже сейчас нашим клиентам доступны операции обмена WebMoney на виртуальные деньги в других платежных системах, список которых будет расти</li>
-	<li>
-		Мы открыты для замечаний и предложений по улучшению сервиса &ndash; ждем ваших отзывов, гарантируем обязательный ответ</li>
-</ul>
-
-				</div>
-			</div>
-
-			<div class="left-side-bar" style="float:right;margin-top: -13px;">
-				
-
-				<div class="box_hdr">
-					<div class="box_btm">
-						<div class="box_mdl">
-							<div class="box">
-								<a href="/news" title="Новости"><h3>Новости</h3></a>
-
-								<a href="/news/71" class="news_item">
-<span class="day">30</span>
-<span class="month">Декабрь 2018</span>
-<span class="hdr">Работа сервиса в новогодние праздники 2018-2019</span>
-<span class="body">
-Уважаемые клиенты!
-
-Поздравляем Вас с наступающим 2019-м годом и желаем Вам финансового процветания и успехов!
-
-Наш сервис в предстоящие новогодние праздники в даты 31 декабря 2018г. и 1,2 января, а также 7,8 января 2019г. работает в режиме выходного дня.
-Все заявки на покупку и продажу в праздничные дни переводятся в ручной режим и будут обрабатываться по мере возможности оператора не менее 2-4 раз в день. Обмен будет работать в обычном автоматическом режиме.
-Заявки по направлениям экономичного вывода вебмани будут обработаны утром 9 января 2019г.
-Спасибо.
-</span>
-</a><a href="/news/68" class="news_item">
-<span class="day">28</span>
-<span class="month">Декабрь 2017</span>
-<span class="hdr">Работа сервиса в новогодние праздники 2018-2019</span>
-<span class="body">
-Уважаемые клиенты!
-
-Поздравляем Вас с наступающим Новым 2018 годом и желаем процветания и успехов!
-
-Обращаем Ваше внимание, что наш сервис в новогодние праздники - с 30 декабря по 8 января - работает в режиме выходного дня.
-С 31.12.2018 по 04.01.2019 при осуществлении покупки и продажи вебмани по направлению ВТБ могут быть задержки по техническим причинам на стороне системы ВТБ.
-Все заявки на покупку и продажу в праздничные дни переводятся в ручной режим и будут обрабатываться по мере возможности оператора не менее 2-4 раз в день. Обмен будет работать в обычном автоматическом режиме.
-Заявки экономичной продажи вебмани будут обработаны утром 9 января 2018г. - из-за того, что межбанковские переводы не будут работать в новогодние праздники - будьте внимательны!
-Спасибо.
-</span>
-</a>
-
-								<div style="padding:5px 5px 0px 5px;overflow:hidden;">
-									<a style="float:left;text-decoration:none;color:#d35e07;font-size:10px;" href="/rss">RSS<img style="padding-left:1px;border:none;" src="/res/img/rss16.png" width="16" height="16" alt="RSS" /></a>
-									<a style="float:right;" href="/news" >Все новости</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<p>
-			<!--	
-					<a href="https://vvisacards.ru">
-						<img src="/res/banners/gif_white.gif" alt="Заказать виртуальную карту Visa / MasterCard. Купить virtual visa" />
-					</a>
--->
-					<div class="box_hdr"><div class="box_btm"><div class="box_mdl"><div class="box">
-<a href="/articles" title="Статьи"><h3>Статьи</h3></a>
-<a href="/articles/vvod-wmz-alfa.html" class="articles_item">Ввод / покупка WMZ за Альфа-банк</a><a href="/articles/vvod-wmr-alfa.html" class="articles_item">Ввод / покупка WMR за Альфа-банк</a><a href="/articles/vivod-wmz-vtb.html" class="articles_item">Вывод / продажа WMZ за ВТБ</a><a href="/articles/vvod-wmr-sberbank.html" class="articles_item">Ввод / покупка WMR за карту Сбербанка</a>
-</div></div></div></div>
-
-					<div class="box_hdr"><div class="box_btm"><div class="box_mdl"><div class="box">
-<h3>Статистика обменов</h3>
-Регистраций: 12194<br />
-Операций: 81948<br />
-На сумму: 12341456.37 WMZ<br />
-<br />
-Последний обмен:<br />
-52.5 WMR >> 0.78 WMZ<br />
-12 мин. 59 сек.  назад<br />
-</div></div></div></div>
-
-					
-			       </p>
-			</div>
-		</div>
-		<div style="overflow:hidden;clear:both;padding-top:20px;padding-bottom:20px;">
-			<div style="float:left;color:#aaaaaa;font-size:12pt;line-height:20px;">
-				&copy; 2011-2017 Сервис обмена электронных денег Exchangerwm.com<br />
-				<span style="font-size: 13px; line-height: 10px;">Разработка сервиса - <a href="http://uss-spb.com" target="_blank">USS-SPB</a></span>
-			</div>
-			<div style="float:right;">
-				<!--noindex--> <div style="float:right;padding-left:5px;"> <script type="text/javascript"><!-- document.write('<a href="https://top.owebmoney.ru" target="_blank" rel="nofollow">'+'<img src="https://top.owebmoney.ru/counter.php?site_id=1690&from='+escape(document.referrer)+'&host='+location.hostname+'&rand='+Math.random()+'" alt="WebMoney TOP" '+'width=88 height=31></a>')//--></script> <noscript><a href="https://top.owebmoney.ru" target="_blank" rel="nofollow"> <img src="https://top.owebmoney.ru/counter.php?site_id=1690" width="88" height="31" alt="WebMoney TOP" /></a></noscript> </div>  <div style="float:right;padding-left:5px;">
-<!-- webmoney passport label#425FC371-9EC4-41C0-A561-8921DF676659 begin -->
- 	<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=471886423059" target="_blank" rel="nofollow"><img src="/res/img/v_blue_on_white_ru.png" width="88" height="31" alt="Здесь находится аттестат нашего WM идентификатора 471886423059" /></a>	
-<!-- webmoney passport label#425FC371-9EC4-41C0-A561-8921DF676659 end -->
- </div>  <div style="float:right;padding-left:5px;">   <a href="https://www.megastock.ru/" target="_blank" rel="nofollow"><img src="/res/img/acc_blue_on_white_ru.png" width="88" height="31" alt="www.megastock.ru" /></a> </div>  <div style="float:right;padding-left:5px;"> <script id="top100Counter" type="text/javascript" src="https://scounter.rambler.ru/top100.jcn?2819221"></script> <noscript> <a href="https://top100.rambler.ru/navi/2819221/" rel="nofollow"> <img src="https://scounter.rambler.ru/top100.cnt?2819221" alt="Rambler's Top100" /> </a> </noscript> </div>  <div style="float:right;padding-left:5px;">   <a href="http://estandards.ru" target="_blank" rel="nofollow"><img src="/res/img/88-31-blue.gif" width="88" height="31" alt="estandards.ru" /></a> </div> <!--/noindex-->
-			</div>
-		</div>
-	</div>
-
-	<script type="text/javascript"> _shcp = []; _shcp.push({widget_id : 555202, widget : "Chat"}); (function() { var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true; hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://widget.siteheart.com/apps/js/sh.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hcc, s.nextSibling); })();</script>
-
-	<div style="display: none;">
-
-	<!-- Yandex.Metrika informer -->
-	<a href="https://metrika.yandex.ru/stat/?id=22609843&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/22609843/1_0_FFFFFFFF_EFEFEFFF_1_pageviews" style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a>
-	<!-- /Yandex.Metrika informer -->
-
-	<!-- Yandex.Metrika counter -->
-	<script type="text/javascript">
-	(function (d, w, c) {
-	    (w[c] = w[c] || []).push(function() {
-        	try {
-	            w.yaCounter22609843 = new Ya.Metrika({id:22609843,
-        	            webvisor:true,
-                	    clickmap:true,
-	                    trackLinks:true,
-        	            accurateTrackBounce:true,
-                	    trackHash:true});
-	        } catch(e) { }
-	    });
-
-	    var n = d.getElementsByTagName("script")[0],
-        	s = d.createElement("script"),
-	        f = function () { n.parentNode.insertBefore(s, n); };
-	    s.type = "text/javascript";
-	    s.async = true;
-	    s.src = (d.location.protocol == "https:" ? "https:" : "https:") + "//mc.yandex.ru/metrika/watch.js";
-
-	    if (w.opera == "[object Opera]") {
-        	d.addEventListener("DOMContentLoaded", f, false);
-	    } else { f(); }
-	})(document, window, "yandex_metrika_callbacks");
-	</script>
-
-	<noscript><div><img src="//mc.yandex.ru/watch/22609843" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-	<!-- /Yandex.Metrika counter -->
-
-	<!--LiveInternet counter--><script type="text/javascript"><!--
-	document.write("<a href='https://www.liveinternet.ru/click' "+
-	"target=_blank><img src='//counter.yadro.ru/hit?t41.6;r"+
-	escape(document.referrer)+((typeof(screen)=="undefined")?"":
-	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-	";h"+escape(document.title.substring(0,80))+";"+Math.random()+
-	"' alt='' title='LiveInternet' "+
-	"border='0' width='31' height='31'><\/a>")
-	//--></script><!--/LiveInternet-->
-
-	</div>
-
-	</body>
-</html>

@@ -1,295 +1,0 @@
-
-<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'><html xmlns='http://www.w3.org/1999/xhtml' xml:lang='ru' lang='ru'><head><title>WebMoney, Вебмани, Вэбмани ввод, вывод, продажа, покупка</title><meta http-equiv='Content-Type'  content='text/html; charset=windows-1251'><meta name='keywords' content='карта visa, электронные деньги, сотовая оплатить, вебмани, ввод webmoney, ввод WM, ввод WMZ, ввод WMR, вывод webmoney, вывод WMZ, вывод WMR, вывод WME, карты WMZ, webmoney Казахстан, Webmoney в Астане, Webmoney в Алматы, Webmoney в Актау, Webmoney в Актобе, Webmoney в Талдыкоргане, Webmoney в Атырау, Webmoney в Караганде, Webmoney в Костанае, Webmoney в Кызылорде, Webmoney в Павлодаре, Webmoney в Петропавловске, Webmoney в Таразе, Webmoney в Уральске, Webmoney в Усть-Каменогорске, Webmoney в Шымкенте, wm, wmz, wmr, обмен wmz, обмен webmoney, обмен wmr, webmoney оплата, webmoney деньги, купить webmoney, webmoney перевод, пополнение webmoney, обмен wm, обмен wmz, получить wmz, купить wmz, wmz продажа, деньги wmz, обмен wmr,  вэб мани, web maney, webmony, web many' /><meta name='description' content='Продажа и покупка, ввод и вывод электронных денег WebMoney, Вебмани, Вэбмани за тенге на карта visa. БТА, Казком, Народный банк, Альянс, Темирбанк, Сбербанк, Каспийский, КИБ,  ЦентрКредит, Цеснабанк. Webmoney в Астане, Webmoney в Алматы, Webmoney в Актау, Webmoney в Актобе, Webmoney в Талдыкоргане, Webmoney в Атырау, Webmoney в Караганде, Webmoney в Костанае, Webmoney в Кызылорде, Webmoney в Павлодаре, Webmoney в Петропавловске, Webmoney в Таразе, Webmoney в Уральске, Webmoney в Усть-Каменогорске, Webmoney в Шымкенте' /><LINK REL='SHORTCUT ICON' HREF='../favicon.ico'><LINK rel='stylesheet' href='../styles.css' type='text/css'><LINK rel='stylesheet' href='../jquery.alerts.css' type='text/css'><script type='text/javascript' src='../js/math.js'></script><script type='text/javascript' src='../js/common.js'></script><script type='text/javascript' src='../js/jquery.alerts.js'></script><script type='text/javascript' src='../js/jquery.accordion-1.2.2.js'></script><script type='text/javascript' src='../js/main.js'></script><script type='text/javascript' src='../js/fav.js'></script><script type='text/javascript' src='../js/jquery.js'></script><script type='text/javascript' src='../js/share42.js'></script><script type='text/javascript'>share42('../js/','','',200,100)</script><script type='text/javascript' src='../js/datepicker-2.6.js'></script><script type='text/javascript'>$(function (){	new DatePicker('#inp_date',{format:'d.m.Y'});	new DatePicker('#inp_date1',{format:'d.m.Y'});	});</script><!--[if IE]>	<style>	.main { clear:both; width:950px; margin:auto auto;}	</style>	<![EndIf]--><script type='text/javascript' language='javascript'><!--навигация вкладками на главной.-->$(function () {    var tabContainers = $('div.tabs > div');        $('div.tabs ul.tabNavigation a').click(function () {        tabContainers.hide().filter(this.hash).show();                $('div.tabs ul.tabNavigation a').removeClass('selected');        $(this).addClass('selected');                return false;    }).filter(':first').click();});</script><!--<script type='text/javascript'>var addthis_config = {'data_track_clickback':true};</script><script type='text/javascript' src='https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4df07399078605f5'></script> <script type='text/javascript' src='https://events.webmoney.ru/js/share.js'></script>--></head><body id='body'><!--<div id='ny' style='position: fixed;   z-index: 1000;  margin-left: -7px; margin-top: 0px;'><a href='' target='_blank' title='C Новым Годом!'><img src='../images/ny_150x150.png' border=0 alt='Webmoney Вебмани в Казахстане'></a></div>--><div class='main'>	<div class='block top'>		<div >			<!--			<a href='https://spasibo.kz/'><img src='../images/100_81_kazah.png' border=0 alt='Webmoney Вебмани в Казахстане'></a>			-->		</div>	</div>	<div class='block top_right'>		<div>				<!--				<center><a href='../news'><img src='../images/drweb_present.png' alt='Каждому клиенту по антивирусу! Получить бесплатно' border=0></a> 				<a href='http://owebmoney.kz/forum/viewforum.php?f=12' target='_blank'><img src='../images/vebinar_wm.png' alt='Бесплатные вебинары' border=0></a></center>				<a href='./vacansy.php'>У нашей Компании есть открытые вакансии!</a> &nbsp;&nbsp;				-->			<div class='text_head class80 counters'>			       				<!--				<h3> 								<a href='./wmlogin.php?present=1'>В подарок Dr.Web &mdash; комплексная защита!</a> &nbsp;&nbsp; <a href='./partner.php'>Партнерские программы &mdash; зарабатывать просто!</a> &nbsp;&nbsp; <a href = 'https://events.webmoney.ru/spasibo' target = blank title = 'откроется в новом окне'>WebMoney оптом!</a>								</h3>												<a href = 'https://events.webmoney.ru/spasibo' target=_blank title = 'откроется в новом окне'>Приглашаем в деловой клуб нашей Компании</a> <br><br>								<font size=1>				WebMoney, Вебмани, Вэбмани Казахстан ввод, вывод через VISA, MasterCard, Cirrus, Maestro, Western Union, Анелик, Контакт. Webmoney в Астане, в Алматы, в Караганде, в Павлодаре, в Петропавловске, в Костанае, в Актау, в Актобе, в Талдыкоргане,  в Атырау, в Кызылорде, в Таразе, в Уральске, в Усть-Каменогорске, в Шымкенте				</font>				<a href='' target='_blank'><img src='../images/banks_logo/visa.png' border=0 height=27 alt='visa'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='' target='_blank'><img src='../images/banks_logo/mastercard.png' border=0 height=27 alt='mastercard'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://ru.kkb.kz/cards/page/Atm' target='_blank'><img src='../images/banks_logo/kkb.png' border=0 height=25 alt='kkb.kz'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://bta.kz/ru/branches/cachpay/' target='_blank'><img src='../images/banks_logo/bta.png' border=0 height=25 alt='bta.kz'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://www.halykbank.kz/bank/by_regions' target='_blank'><img src='../images/banks_logo/hb.png' border=0 height=25 alt='народный банк'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://temirbank.kz/about/network/network/' target='_blank'><img src='../images/banks_logo/temir.png' border=0 height=25 alt='темир банк'></a>&nbsp;&nbsp;&nbsp;&nbsp;  				<a href='https://www.alfabank.kz/atms/' target='_blank'><img src='../images/banks_logo/alfa.png' border=0 height=25 alt='alfa банк'></a>&nbsp;&nbsp;&nbsp;&nbsp;  				<a href='https://www.atfbank.kz/ru/bankomat.php?af=43' target='_blank'><img src='../images/banks_logo/atf.png' border=0 height=25 alt='атф банк'></a>&nbsp;&nbsp;&nbsp;&nbsp;  				<a href='https://www.alb.kz/ru/bankomati_cash/bankomati_cash.php' target='_blank'><img src='../images/banks_logo/alb.png' border=0 height=25 alt='альянс банк'></a>&nbsp;&nbsp;&nbsp;&nbsp;  				<a href='https://www.tsb.kz/?f38&version=ru' target='_blank'><img src='../images/banks_logo/cesna.png' border=0 height=25 alt='цесна банк'></a>&nbsp;&nbsp;&nbsp;&nbsp;  				<a href='https://www.sberbank.kz/?f707&version=ru' target='_blank'><img src='../images/banks_logo/sber.png' border=0 height=25 alt='сбер банк'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://www.kaspibank.kz/?ft=1&type=227&java_tree=24' target='_blank'><img src='../images/banks_logo/kaspi.png' border=0 height=25 alt='каспий банк'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://www.kib.kz/privclients/cards/atm/' target='_blank'><img src='../images/banks_logo/kib.png' border=0 height=25 alt='казинвест банк'></a>&nbsp;&nbsp;&nbsp;&nbsp; 				<a href='https://www.centercredit.kz/contact/index16' target='_blank'><img src='../images/banks_logo/ckb.png' border=0 height=25 alt='центркредит банк'></a>				-->			</div>		</div>	</div>	<div class='block sidebar_middle'>		<div class=container>			<div class='text'>				Проблема с кошельком? <br>				Надо срочно оплатить онлайн? <br>				Без открытия кошелька?				<h4>Есть решение &mdash; быстрая карта пополнения! <a href='/paymer' target='_blank' title='откроется в новом окне'>Купить карту</a></h4>			</div>		</div>	</div>	<div class='block sidebar_right'>		<div class=container>			<div class='text'>			<table style='font-family: Tahoma; font-size: 8pt; color: rgb(114, 114, 114);' width='95%' border='0' align=center>	<td width=150>		<table style='font-family: Tahoma; font-size: 8pt; color: rgb(114, 114, 114);'>			<!--<td colspan=2>18.03.2019</td> <td>покупаем</td> <td align=right>продаем</td>			<tr>-->			<td valign=top><img src='../images/icon/wmk.png' alt='тенге' title='WMK'  border=0></td><th>WMK</th> <td align=right ><font color=green>0.95</font></td> <td align=right width=70>1.02</td>			<tr>			<td valign=top><img src='../images/icon/wmz.png' alt='доллар' title='WMZ'  border=0></td><th>WMZ</th> <td align=right ><font color=green>350.00</font></td> <td align=right width=70>383.97</td>			<tr>			<td><img src='../images/icon/wmr.png' alt='рубль' title='WMR'  border=0></td><th>WMR</th> <td align=right><font color=green>5.00</font></td> <td align=right>5.84</td>			<tr>			<td><img src='../images/icon/wme.png' alt='евро' title='WME'  border=0></td><th>WME</th> <td align=right><font color=green>393.76</font></td> <td align=right>436.56</td>		</table>	</td>	<td width=5></td>		<td width='250'>		<table style='font-family: Tahoma; font-size: 8pt; color: rgb(114, 114, 114);'>			<form action='' method='post' name='step1' id='step1'>				<input type=hidden name='wmz_buy' id='wmz_buy' value='350.00'>				<input type=hidden name='wmz_sale' id='wmz_sale' value='383.97'>				<input type=hidden name='wmr_buy' id='wmr_buy' value='5.00'>				<input type=hidden name='wmr_sale' id='wmr_sale' value='5.84'>				<input type=hidden name='wme_buy' id='wme_buy' value='393.76'>				<input type=hidden name='wme_sale' id='wme_sale' value='436.56'>				<!--				<td colspan='2' width='220px'>Предварительный расчет обмена без <a href='http://spasibo.kz/faq_wm.php#22' target='_blank' title='Описание комиссий откроется в новом окне'>комиссий</a> и бонусов</td>				-->				<tr>				<td width=80>Операция</td>				<td align=left>				<select name='type' onchange='raschet_front()' id='how_money' style='font-family: Tahoma; font-size: 8pt;  border: 1px solid rgb(234, 234, 217);'>				<option value='money2wm' selected='selected'>Покупаете WM</option>				<option value='wm2money'>Продаете WM</option>				</select>				</td>				<tr>				<td>Сумма</td>				<td align=left>				<input value='10' size='4' maxlength='5' id='summa' name='summa' onchange='raschet_front()' onkeyup='raschet_front()' style='border: 1px solid solid rgb(234, 234, 217);' type='text'> 				<select name='val' id='valuta' onchange='raschet_front()' style='font-family: Tahoma; font-size: 8pt; border: 1px solid rgb(234, 234, 217);'>				<option selected='selected' value='WMZ'>WMZ</option>				<option  value='WMR'>WMR</option>				<option value='WME'>WME</option>				</select>				</td>				<tr>				<td><a href='https://spasibo.kz/wmlogin.php'>Обменять</a></td><td> <input type='text' readonly value='' size='12' name='summnaruki' id='summnaruki' style='float: left; border: 0px solid'></td>			</form>		</table>	</td></table>			</div>		</div>	</div>	<div class='block sidebar_middle'>		<div class=container>			<div class='text'>			 <font color=red>Работаем:</font> прием заявок круглосуточно, без выходных<br><a href='http://eepurl.com/bgoIjH' target='_blank' title='откроется в новом окне'>Получайте курсы на емайл</a>  <h4><a href='https://spasibo.kz/wmlogin.php' title='Для всех банков и платежей'>Купить WM</a> &mdash; комиссия н<font color=green>&#216;</font>ль!<br> <a href='https://spasibo.kz/wmlogin.php' title='Для некоторых банков и платежей'>Сдать WM</a> &mdash; комиссия н<font color=green>&#216;</font>ль!  <a href='' title='Для некоторых банков и платежей'>*</a>  </h4> <!--<br> <a href='http://owebmoney.kz/forum/' target='_blank' title='откроется в новом окне'>Форум помощи</a> WebMoney<br> <a href='/news'>Отменены комиссии!</a><br> WebMoney <a href='http://owebmoney.kz/wiki/' target='_blank' title='откроется в новом окне'>на казахском!</a><br><br><br> Я клиент &mdash; <a href='http://spasibo.kz/support.php?type=callback' alt='Уважаемый клиент! Перезвоним в ближайшее время'>перезвоните мне</a> <li> <a href='/vacansy.php'>Нам требуются сотрудники</a> <li> <a href='https://spasibo.kz/terminal'>Сеть терминалов WebMoney. </a> <li> <a href='http://advisor.wmtransfer.com/SiteDetails.aspx?url=spasibo.kz&tab=feedback' target='_blank' title='откроется в новом окне'>Что пишут клиенты</a> о сервисе?<li> <a href='https://wiki.webmoney.ru/wiki/show/BL' target='_blank' title='cуммарная характеристика уровня деловой активности'>Бизнес уровень</a> сервиса <a href='https://passport.webmoney.ru/asp/certview.asp?wmid=632584157120' target='_blank' title='откроется в новом окне'><img alt='BL' src='https://stats.wmtransfer.com/Levels/pWMIDLevel.aspx?wmid=632584157120&amp;w=35&amp;h=18&amp;bg=0XDBE2E9' width='35' align='absMiddle' border='0' height='18'></a>-->			</div>		</div>	</div>	<div class='block mainmenu'>			<div class=stroke>			</div>	</div></div>
-<div class='tabs class80'>
-	<ul class='tabNavigation'>
-					<li><a href='#about'>О сервисе</a></li>
-					<li><a href='#in'>Пополнить</a></li>
-					<li><a href='#out'>Вывести</a></li>
-					<li><a href='#service'>Оплата услуг</a></li>
-					<li><a href='#attest'>Идентификация Я.Деньги</a></li>
-					<li><a href='#aid'>Обучение</a></li>
-					<li><a href='#partner'>Партнер</a></li>
-					<li><a href='#verify'>Проверить карту, WMID</a></li>
-	</ul>
-	<div id='about'>
-		<H3><img src='./images/icon/default.png'> Купить и продать WMK, WMZ, WMR, WME, WMX, WMU за тенге </H3>
-		<!--
-		<H4>Наши группы в <a href='https://events.webmoney.ru/spasibo' target='_blank' title='откроется в новом окне'>events.webmoney</a>,
-		<a href='https://twitter.com/SpasiboKz' target='_blank' title='откроется в новом окне'>twitter</a>,
-		<a href='https://www.facebook.com/spasibokz' target='_blank' title='откроется в новом окне'>facebook</a>,
-		<a href='https://vk.com/public82692208' target='_blank' title='откроется в новом окне'>вконтакте</a> 
-		</H4>
- <img src='../images/spasibo_staff_small.png' alt='Отзывы' border=0> <b><a href='http://spasibo.kz/vacansy.php'>Устроиться на работу к нам.</a></b> -->  
-<br>
-<a href='../rss.php'  target=_blank title = 'откроется в новом окне'>Мы благодарны Вам за сотрудничество. Подробней об отзывах &rarr;</a> <br>
-Основной критерий надежности нашего сервиса:<br>
-	 1. По <a href='http://advisor.wmtransfer.com/FeedBackList.aspx?url=spasibo.kz' target=_blank>отзывам адвизора</a> &mdash; так считают 1136 голосов<br>
-	 2. По рекомендациям с форумов в интернете &mdash; так считают 1249 голосов<br>
-	 3. По рекомендациям друзей и знакомых &mdash; так считают 1030 голосов<br>
-<a href='../vote.php'  target=_blank title = 'откроется в новом окне'>Посмотреть подробней голосование &rarr;</a> <br>
-		<p>
-		 Производим выгодный обмен, ввод и вывод Webmoney (Вебмани) в Астане, Алматы, Актау, Актобе, Талдыкоргане, Атырау, Караганде, Костанае, Кызылорде, Павлодаре, Петропавловске, Таразе, Уральске, Усть-Каменогорске, Шымкенте и во всех других городах и областях Казахстана. С нашей помощью Вы можете купить или продать, ввести или вывести WebMoney (WMZ, WMR, WME) с любого места, где находится банкомат или отделение банка, на карту VISA, MasterCard, Cirrus, Maestro, системы денежных переводов Анелик (Anelik), Контакт (Contact), Вестерн Юнион (Western Union). <a href='./iban.php'>Справочник БИК IBAN Банков Казахстана.</a>
-		</p>
-		<!--
-		<H3><img src='./images/icon/default.png'> Автообмен WMZ, WMR, WMU, WME</H3>
-		<p>
-		 Если у Вас уже имеются WMZ, WMR, WMU, WME и необходимо получить другую валюту, то обменять моментально между валютами можно на сайте <a href='http://currex.ru/p-3784' target='_blank' title='откроется в новом окне'>http://currex.ru/</a>
-		</p>
-		-->
-		<H3><img src='./images/icon/default.png'> Продажа карт WebMoney <img src='./images/10wmz_card.jpg' alt='10wmz'> <img src='./images/20wmz_card.jpg' alt='20wmz'> <img src='./images/50wmz_card.jpg' alt='50wmz'> <img src='./images/100wmz_card.jpg' alt='100wmz'> <img src='./images/200wmz_card.jpg' alt='200wmz'></H3>
-		<p>
-		 Возможность зарабатывать в своем регионе на продажах предоплаченных карт разных номиналов. 
-		 Оптовые цены с бесплатной доставкой в любой город, за подробностями обращайтесь на <a href='./support.php'>службу поддержки</a> 
-		 
-		</p>
-		<H3><img src='./images/icon/default.png'> Онлайн обучение по WebMoney</H3>
-		<p>
-		 Посещайте бесплатные вебинары по WebMoney. Специалисты расскажут как начать бизнес с WebMoney, как регистрироваться и соблюдать безопасность. <a href='http://owebmoney.kz/forum/viewforum.php?f=12' target='_blank' title='откроется в новом окне'>Прочесть подробней.</a>
-		</p>
-		<H3><img src='./images/icon/default.png'> Преимущества нашего сервиса:</H3>
-		<p>
-		&#187; почитать  <a href='https://advisor.wmtransfer.com/SiteDetails.aspx?url=spasibo.kz&tab=feedback' target='_blank' title='откроется в новом окне'>отзывы в адвизоре.</a> <br>
-		&#187; действует система накопительных скидок. <br>
-		&#187; подарки и бонусы в <a href='/wmlogin.php/'>личном кабинете</a><br>
-		&#187; при покупке WebMoney не взимаются никакие комиссии. <br>
-		&#187;  купить WebMoney можно от 500 тенге. <br>
-		&#187;  средства доходят практически сразу, в отдельных случаях в течение 12 часов из-за специфики банковских платежей. <br>
-		&#187;  операции и транзакции осуществляются в безопасном режиме https.<br>
-		&#187;  история операций хранится в Вашем личном кабинете.<br>
-		&#187;  возможность дополнительно заработать на реферальной программе.<br>
-		&#187;  при выполнении операций с сервисом, придут уведомления на мобильный и почту, Вы будете максимум в курсе о движении своих финансов.<br>
-		&#187;  мы несем абсолютную 100% гарантию на вверенные средства, при условии соблюдении <a href='./rules.php' target='_blank'>правил сервиса</a> и <a href='./faq_wm.php' target='_blank'>инструкций сервиса</a>. 
-		<H3><img src='./images/icon/default.png'> Сроки обмена:</H3>
-		<p>По правилам обмена средства отправляются в течение 12 рабочих часов. <a href='http://spasibo.kz/faq_wm.php#4'>Почитайте подробней</a></p>
-		
-		<H3><img src='./images/icon/default.png'> Налоговая политика:</H3>
-		<p>Сервис работает с юридическими и физическими лицами. Оплата в тенге наличным или безналичным расчетом. В соответствии с Законодательством будут выписаны соответствующие документы.</p>
-		<H3><img src='./images/icon/default.png'> Партнерские программы:</H3>
-		<p><a href='./partner.php'>Партнерская программа</a> для компьютерных клубов, IT центров или представителей.</p>
-		<H3><img src='./images/icon/default.png'> Антимошенническая политика:</H3>
-		<p> 
-		<!--
-		Категорически запрещены операции в целях вложений HYIP, MLM и прочих разновидностей пирамид. В случае обнаружения фактов &mdash; перевод блокируется и данные передаются в соответсвующие органы. Нами ведется список участников системы WebMoney, которые уличены в любых противоправных махинациях с WebMoney, называемый  <a href='/black/'><font color=black>Черным списком.</font></a> <br>
-		-->
-		 Наш сервис никогда не потребует от Вас пароли к электронным кошелькам, емайлу или к авторизации. Данная просьба &mdash; прямое мошенничество.
-    Если Вы получили письмо якобы от менеджера нашего сервиса, с просьбой продать или купить в частном порядке &mdash; это мошенничество. Обмен осуществляется только через наш официальный сайт. Наш сервис присылает письма только в текстовом формате, без вложений и ссылок на сторонние сайты не связанных с нашим сервисом. Получив подозрительное письмо за подписью администрации spasibo.kz, обязательно свяжитесь с нами. Будьте внимательны, переводы осуществляются в один клик. 
-   		</p>
-		<H3><img src='./images/icon/default.png'> Антиспамовая политика:</H3>
-		<p> Мы никогда не рекламируем сервис средствами спама в любом своем проявлении.  </p>
-		<!--
-		<H3><img src='./images/icon/default.png'> Наши партнеры:</H3>
-		<p>
-		<a href='http://owebmoney.kz/'>owebmoney.kz</a> - о Webmoney в Казахстане, переводы статей на  казахский. <br>
-		
-		<a href='http://alga.kz/'>alga.kz</a> - интернет магазин лицензионных программ, оплата мобильной связи, мегалайн, ЖКХ.<br>
-		<a href='http://balans.kz/'>balans.kz</a> - консультации по налоговому и бухгалтерскому учету от сертифицированных специалистов.<br>
-		<a href='http://vebinar.kz/'>vebinar.kz</a> - онлайн семинары, встречи. <br>
-		<a href='http://kodeks.kz/'>kodeks.kz</a> - налоговый кодекс, сравнительные таблицы, разработанные сертифицированными специалистами. <br>
-		<a href='http://urist.kz/'>urist.kz</a> - бесплатная база законодательства РК. <br>
-		<a href='http://tax.kz/'>tax.kz</a> - расчеты налогов. <br>
-		-->
-		</p>
-		<p>
-		Выписка из <a href='https://www.wmtransfer.com/rus/cooperation/legal/syagreement1.shtml' target='_blank'>Соглашения о трансфере имущественных прав цифровыми титульными знаками</a> уведомление о рисках <a href='../legal/' target='_blank'>&#1178;аза&#1179; тiлiнде (прочитать на казахском языке)</a>:<br>
-		<h3>Приложение 3</h3>
-				Предлагаемые товары и услуги предоставляются не по заказу лица либо предприятия, эксплуатирующего систему WebMoney Transfer. Мы являемся независимым предприятием, оказывающим услуги, и самостоятельно принимаем решения о ценах и предложениях. Предприятия, эксплуатирующие систему WebMoney Transfer, не получают комиссионных вознаграждений или иных вознаграждений за участие в предоставлении услуг и не несут никакой ответственности за нашу деятельность.<br>
-Аттестация, произведенная со стороны WebMoney Transfer, лишь подтверждает наши реквизиты для связи и удостоверяет личность. Она осуществляется по нашему желанию и не означает, что мы каким-либо образом связаны с продажами операторов системы WebMoney.<br>
-		</p>
-	</div>
-	<div id='in'>
-		<H3><img src='./images/icon/default.png'> Купить Webmoney, пополнить Webmoney кошелек можно несколькими способами</H3>
-		<ol>
-		<li>Проблема с кошельком, но надо срочно оплатить?  Вы можете купить у нас карту оплаты без регистрации кошелька!  С помощью WM-карты можно оплатить за товары и услуги в интернете или передать WM-карту получателю. Оформить заявку на странице <a href='/paymer/' target='_blank' title='откроется в новом окне'>https://spasibo.kz/paymer</a>. Заявку можно оформить с обычного компьютера или с мобильного телефона!
-		<li>  Купить через наш сайт по курсу 383.97, используя свою банковскую карту. Для того, чтобы купить данным способом следует <a href='/wmlogin.php/'>авторизоваться по этой ссылке</a> и заполнить заявку онлайн. <br>
-		<li>  Если Вы не имеете банковской карты, то купить можно через наш сайт по курсу 383.97, через кассу банка. Для того, чтобы купить данным способом следует <a href='/wmlogin.php/'>авторизоваться по этой ссылке</a> и заполнить заявку онлайн.<br>
-		<!--
-		<li>  Оплатив наличными тенге по заявке в офисе. Если сумма наличными менее 20000 то может взыматьскоммиссия зависит от суммы.
-		--><br>
-		<li> Также приобрести у нас в офисе чеки(одноразовые карты) <a href='https://www.paymer.com/' target='_blank'>Paymer (WMZ карта)</a>  номиналами 10WMZ, 20WMZ, 50WMZ, 100WMZ  . Цены от 4220 тенге, текущие цены карт, скажут Вам в офисах компании, картами мгновенно пополните  WMZ кошелек. Чеки можно передавать на чужие кошельки. Сервис несет полную гарантию за чеки Paymer (WMZ карта) купленные только у нас.<br>
-		<!--
-		<li>  Пополнить кошелек через терминалы по примерному курсу от 419 до 434. <a href='/terminal/'>Список адресов терминалов</a> по Казахстану. 
-		-->
-		</ol>
-		
-	</div>
-	<div id='out'>
-		<H3><img src='./images/icon/default.png'> Вывод средств с Вашего кошелька. Обмен WM на тенге.</H3>
-		Вывод средств с Вашего кошелька осуществляется строго цетрализованно через наш сайт. Для того, чтобы вывести Webmoney в тенге следует <a href='https://spasibo.kz/wmlogin.php'>войти в личный кабинет по этой ссылке</a>, заполнить заявку онлайн следуя инструкции.  
-		
-		
-	</div>
-	<div id='service'>
-		<H3><img src='./images/icon/default.png'> Оплатить за Webmoney мобильные, интернет, ЖКХ, софт</H3>
-		<p>
-		 &#187; Оплатить через Webmoney <a href='http://alga.kz/'>мобильные Kcell, Activ, Beeline, City, Neo, 3G, Tele2, ДОС, мегалайн и другие услуги</a>
-		 </p>
-		 <p>
-		 &#187; Купить лицензионные программы мобильные, мегалайн на сайте <a href='http://alga.kz/'>http://alga.kz/shop/</a>
-		 </p>
-		 
-			
-	</div>
-	<div id='attest'>
-	
-	
-	<H3><img src='./images/icon/default.png'> Идентификация Яндекс Деньги</H3>
-	&#187; <a href='/identification.php' target='_blank'>Как пройти идентификацию Яндекс Деньги в Казахстане</a>
-		
-				<H3><img src='./images/icon/default.png'> Аттестация Webmoney. Паспорт Webmoney.</H3>
-		
-		
-		 &#187; <a href='/faq_cert.php' target='_blank'>Как получить формальный, начальный, персональный аттестат?</a>
-		 </p>
-		 <p>
-		 &#187; Что такое <a href='/help/certificate.php'>Аттестат WebMoney?</a>
-		
-		</p>
-			
-	</div>
-	<div id='aid'>
-		<table class=class100>
-		<td >
-			<h4>Что необходимо пошагово сделать чтобы пользоваться WebMoney?<br> Всего лишь два пункта:</h4>
-			<ol>
-			<li><a href='https://start.webmoney.ru/' target='_blank'>Зарегистрировать</a> свой кошелек  Вебмани 
-			<li>Войти своим кошельком <a href='https://spasibo.kz/wmlogin.php' target='_blank'>в личный кабинет</a> 
-			</ol>
-			<h4>Курс обучения WebMoney:</h4>
-			&#187; <a href='http://owebmoney.kz/forum/viewforum.php?f=12' target='_blank' title='откроется в новом окне'>Запишитесь на бесплатные онлайн семинары</a><br>
-			&#187;  <a href='/faq_wm.php#begin'>Обучающие материалы</a><br>
-			&#187;  <a href='/faq_wm.php#verify' target='_blank'>Ответ</a> по обмену WM<br>
-			&#187;  <a href='/faq_cert.php#17'>Как</a> разблокировать WMID?<br>
-			&#187;  <a href='https://www.telepat.ru/asp/stepbystep.asp?partner=290609' target='_blank'>Мобильный кошелек</a> <br>
-			&#187;  <a href='https://www.paymer.com/web/default.aspx?t=verify&lang=ru-RU'>Как проверить чек Paymer?</a> <br>
-			&#187;  <a href='/art/'>Почитать статьи </a><br>
-			&#187;  Webmoney <a href='http://owebmoney.kz/wiki/' target='_blank' title='откроется в новом окне'>на казахском!</a><br>
-			<!--
-			&#187;  <a href='http://balans.kz/bonus/' target='_blank'>Получить WMR бонус</a> 
-			-->
-					</td>
-		<!--
-		<td>
-			<a name='mult'></a>
-			 
-			 <a href='https://start.webmoney.ru/' target='_blank'><img src='./images/partner/ban3_300.gif' border=0></a>
-			<object id="videoplayer558" width="450" height="350"><param name="bgcolor" value="#e6e6e6" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="movie" value="http://balans.kz/video/uppod.swf" /><param name="flashvars" value="st=82AchBGDiuOc=Gx5feJw692MWRfwR692MWRkUrLf0DFSdwhzW5ntu0c9BMrf&amp;pl=62AEZBUcLCOIex5ZfeJw692MWRFGJs6dwLFdwbRfw6962MWRkUrLf0DFdEwhzW5ntu0c9BMrd&amp;link=http://uppod.ru/vplyeayyv" /><embed src="./video/uppod.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" flashvars="st=82AchBGDiuOc=Gx5feJw692MWRfwR692MWRkUrLf0DFSdwhzW5ntu0c9BMrf&amp;pl=62AEZBUcLCOIex5ZfeJw692MWRFGJs6dwLFdwbRfw6962MWRkUrLf0DFdEwhzW5ntu0c9BMrd&amp;link=http://uppod.ru/vplyeayyv" bgcolor="#e6e6e6" width="450" height="400"></embed></object>
-		</td>
-		 <tr>
-		<td colspan=2>
-		
-			<h4>Как вставить видео WebMoney на свой сайт?</h4>
-			Ниже выделите весь код и скопируйте, затем вставьте себе на сайт где Вы хотите чтобы показывалось видео.<br>
-			<textarea cols=100 rows=10 readonly OnFocus='this.select()'><object id="videoplayer558" width="450" height="350"><param name="bgcolor" value="#e6e6e6" /><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="movie" value="./video/uppod.swf" /><param name="flashvars" value="st=82AchBGDiuOc=Gx5feJw692MWRfwR692MWRkUrLf0DFSdwhzW5ntu0c9BMrf&amp;pl=62AEZBUcLCOIex5ZfeJw692MWRFGJs6dwLFdwbRfw6962MWRkUrLf0DFdEwhzW5ntu0c9BMrd&amp;link=http://uppod.ru/vplyeayyv" /><embed src="./video/uppod.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" flashvars="st=82AchBGDiuOc=Gx5feJw692MWRfwR692MWRkUrLf0DFSdwhzW5ntu0c9BMrf&amp;pl=62AEZBUcLCOIex5ZfeJw692MWRFGJs6dwLFdwbRfw6962MWRkUrLf0DFdEwhzW5ntu0c9BMrd&amp;link=http://uppod.ru/vplyeayyv" bgcolor="#e6e6e6" width="450" height="400"></embed></object></textarea>
-		</td>
-		-->
-		</table>
-		
-	</div>
-	<div id='partner'>
-		С предложениями обращайтесь на <a href='./support.php'>службу поддержки</a>.
-		<H3><img src='./images/icon/default.png'> Платежным интеграторам</H3>
-		<p>
-		 &#187; Платежным сервисам предлагаем расширить услуги моментальным пополнением Webmoney. Предоставляем платежный шлюз для владельцев терминальных сетей.
-		 </p>
-			 <H3><img src='./images/icon/default.png'> Желаете стать нашим дилером по продаже и покупке WebMoney в регионе?</H3>
-		<p>
-		 &#187; Если у Вас есть свой сайт, то предлагаем <a href='./partner.php'>партнерскую программу владельцам сайтов</a> и Вы сможете зарабатывать на чужих операциях.
-		 &#187; Мы постоянно расширяем и модернизируем дилерскую сеть, если у Вас есть предложения, то мы готовы выслушать Вас. Возможность зарабатывать в своем регионе на продажах предоплаченных карт разных номиналов. 
-		 Оптовые цены с бесплатной доставкой в любой город, за подробностями обращайтесь на <a href='./support.php'>службу поддержки</a> <br>
-		<!--
-		  &#187; Вы можете приобрести у нас терминалы "под ключ" с гарантией. Вам достаточно включить в обычную розетку и принимать платежи. Подробней на сайте  <a href='http://terem.kz' target='_blank'>terem.kz</a><br>
-		  <H3><img src='./images/icon/default.png'> Вы провайдер и предлагаете товары и услуги?</H3>
-		<p>
-		 &#187; Мы готовы помочь интегрировать оплату WebMоney за Ваши товары и услуги на взаимовыгодных условиях. 
-		 </p>
-		  -->
-		  </p>
-	</div>
-	
-	<div id='verify'>
-		<H3><img src='./images/icon/default.png'>Сервисы проверки карт, IBAN, РНН, кошельков, WMID</H3>
-		<p>
-		 &#187; Вы можете проверить карту, IBAN, кошельки, WMID <a href='/verify/'>на странице проверки.</a> <br>
-		 &#187; Можно сверить паспортные данные на странице <a href='./verify_wmid.php'>на странице проверки паспорта.</a>
-		 </p>
-			
-	</div>
-</div>
-
-<div style='position: fixed; right: 0px; top: 25px;'>
-	<div class='ewm-widget-bgroup' data-guid='a569ce38-aa8a-4cf8-8b13-4a057605d44e' data-style='full' data-height='150' data-width='200'> </div>
-	<div  id='vk_groups'></div>
-</div>
-
-		<script type='text/javascript'>//<!--
-		(function(w, d, id) {
-			w.ewmAsyncWidgets = function() { EWM.Widgets.init(); };
-		if (!d.getElementById(id)) {
-        var s = d.createElement('script'); s.id = id; s.async = true; s.src = '//events.webmoney.ru/js/ewm-api.js?11';
-        (d.getElementsByTagName('head')[0] || d.documentElement).appendChild(s);
-			}
-		})(window, document, 'ewm-js-api');
-		//--></script><div class='class80 footer'>
-<a name=footer></a>
-<p>
-<img src='../images/icon/exch.gif'>  Онлайн сервис приема заявок работает круглосуточно без выходных. Обработка заявок производится в банковские дни. <br>
-88090807290 (платная справочная служба, для Казахстана звонки принимаются только с городских номеров) 
-<br>
-
-
-<p>
-<a href='http://spasibo.kz/vacansy.php'>Устроиться на работу к нам.</a>    
-</p>
-<p>
- <br>
- Режим работы: пн-пт 10:00-18:00, выходные сб-вс и праздничные дни. 
-
-   
-<div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'ru', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-        
-</p>
- 
- 
-<p class='counters'>
-<!-- webmoney attestation label#0A444109-4D6A-4882-9F50-F44D0B3E1E42 begin --> 
-<a href="https://passport.webmoney.ru/" target=_blank><IMG SRC="../images/footer/blue_rus_88x31_reg.png" title="Аттестат WM " border="0"></a>
-<!-- webmoney attestation label#0A444109-4D6A-4882-9F50-F44D0B3E1E42 end --> 
-<!-- begin WebMoney Transfer : accept label -->
-<a href="https://www.webmoney.ru/" target="_blank"><img src="../images/footer/accept_wm.png" alt="www.webmoney.ru" border="0"></a>
-<a href="https://megastock.ru/searchres.aspx?search=spasibo.kz" target="_blank"><img src="../images/footer/megastock.gif" alt="www.megastock.ru" border="0"></a>
-<!--<a href="https://www.paymer.ru/" target="_blank"><img src="../images/footer/paymer.gif" alt="www.paymer.ru" border="0"></a>
-
-<!-- end WebMoney Transfer : accept label -->
-
-
-<!-- Rating@Mail.ru counter -->
-<script type="text/javascript">
-var _tmr = _tmr || [];
-_tmr.push({id: "1539312",  type: "pageView", start: (new Date()).getTime()});
-(function (d, w) {
-   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
-   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
-   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-})(document, window);
-</script><noscript><div style="position:absolute;left:-10000px;">
-<img src="//top-fwz1.mail.ru/counter?id=1539312;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
-</div></noscript>
-<!-- //Rating@Mail.ru counter -->
-
-<br> 
-<font size=1>
-<a href='https://megastock.ru/searchres.aspx?search=spasibo.kz' target='_blank'> № 12421 Мегасток</a> © spasibo.kz, 2019. Все материалы данного сайта являются объектами авторского права (в том числе дизайн).
-Запрещается копирование, распространение (в том числе путем копирования на другие сайты и ресурсы в Интернете) или любое иное использование информации и объектов без предварительного согласия правообладателя. При использовании материалов ссылка/гиперлинк на сайт <a href="https://www.spasibo.kz/">www.spasibo.kz</a> обязательны. <br>
-Воспроизводимые на данном сайте торговые марки WEBMONEY и WEBMONEY TRANSFER используются держателями сайта с разрешения собственников. 
-</font>
-</div>
-<div class=class80 id='sp1' style='display:block; width:140px; height:20px; position: fixed; z-index: 99999;  right: 10px; bottom: 50px; background:#dbd7d2; border-radius: 5px; box-shadow: 0px 1px 3px;'>
-<center><a href='http://spasibo.kz/support.php' target=_blank><b>  Служба поддержки  </b></a></center>
-</div>
-</body>
-</html>
