@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>#On Topics | #Blog #On Topics</title>
+<meta name="description" content="Каталог знаний о криптовалюте, цель проекта как можно проще объяснить что, где и как!">
+<meta name="keywords" content="Крипта, биткойн, блокчейн">
+<meta name="author" content="liccilip">
+<meta name="generator" content="https://liccilip.tk">
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="base/jquery-ui.min.css" rel="stylesheet">
+<link href="liccilipweb.css" rel="stylesheet">
+<link href="index.css" rel="stylesheet">
+<script src="jquery-1.12.4.min.js"></script>
+<script src="jquery-ui.min.js"></script>
+<script src="jquery.ui.datepicker-ru.js"></script>
+<script src="searchindex.js"></script>
+<script src="wb.sitesearch.min.js"></script>
+<script>
+var features = 'toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=yes,status=no,left=,top=,width=,height=';
+function searchPage(features)
+{
+   var element = document.getElementById('SiteSearch1');
+   window.open('sitesearch1-results.html?q='+encodeURIComponent(element.value), '', features);
+   return false;
+}
+</script>
+<script>
+$(document).ready(function()
+{
+   $("#DatePicker1").datepicker(
+   {
+      dateFormat: 'mm/dd/yy',
+      changeMonth: false,
+      changeYear: false,
+      showButtonPanel: false,
+      showAnim: 'show'
+   });
+   $("#DatePicker1").datepicker("setDate", "");
+   $("#DatePicker1").datepicker("option", $.datepicker.regional['ru']);
+   $("#DatePicker1").change(function()
+   {
+      $('#DatePicker1_input').attr('value',$(this).val());
+   });
+   $("#ThemeableMenu1").menu(
+   {
+      icons: { submenu: 'ui-icon-caret-1-s' },
+      position: { using: setSubMenu }
+   });
+   function setSubMenu(position, elements)
+   {
+      var options = { of: elements.target.element };
+      if (elements.element.element.parent().parent().attr('id') === 'ThemeableMenu1')
+      {
+         options.my = 'right top';
+         options.at = 'right bottom';
+      }
+      else
+      {
+         options.my = 'left top';
+         options.at = 'right top';
+      }
+      elements.element.element.position(options);
+   }
+   $("#Slider1").slider(
+   {
+      orientation: 'horizontal',
+      animate: true,
+      range: false,
+      min: 0,
+      max: 100,
+      value: 0
+   });
+   $("#Spinner1").spinner(
+   {
+      min: 0,
+      max: 100,
+      step: 1
+   });
+   $("#Accordion1").accordion(
+   {
+      event: 'click',
+      animate: 'linear',
+      header: 'h3',
+      heightStyle: 'fill'
+   });
+   searchParseURL('SiteSearch1');
+});
+</script>
+</head>
+<body>
+<input id="DatePicker1_input" name="DatePicker1" style="display:none" type="text" value="">
+<div id="DatePicker1" style="position:absolute;left:213px;top:246px;width:244px;height:192px;z-index:1;">
+</div>
+<div id="wb_ThemeableMenu1" style="position:absolute;left:126px;top:0px;width:718px;height:74px;z-index:1002;">
+<ul id="ThemeableMenu1">
+<li><div><a href="http://" target="_blank">&#1084;&#1077;&#1085;&#1102;</a></div>
+<ul>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;1</a></div></li>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;2</a></div>
+<ul>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;3</a></div></li>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;4</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><div><a href="" target="_self">Item&nbsp;2</a></div>
+<ul>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;1</a></div></li>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;2</a></div>
+<ul>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;3</a></div></li>
+<li><div><a href="" target="_self">Sub&nbsp;Item&nbsp;4</a></div></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div id="Slider1" style="position:absolute;left:47px;top:126px;width:280px;height:14px;z-index:3;">
+</div>
+<div id="wb_Spinner1" style="position:absolute;left:519px;top:235px;width:325px;height:414px;z-index:4;">
+<input type="text" id="Spinner1" style="width:296px;height:406px;line-height:406px;" name="Spinner1" value="0"></div>
+<div id="wb_Accordion1" style="position:absolute;left:53px;top:598px;width:322px;height:156px;z-index:5;">
+<div id="Accordion1">
+<h3>Panel 1</h3>
+<div>
+</div>
+<h3>Panel 2</h3>
+<div>
+</div>
+<h3>Panel 3</h3>
+<div>
+</div>
+<h3>Panel 4</h3>
+<div>
+</div>
+</div>
+</div>
+<form name="SiteSearch1_form" id="SiteSearch1_form" role="search" accept-charset="UTF-8" onsubmit="return searchPage(features)">
+<input type="text" id="SiteSearch1" style="position:absolute;left:78px;top:464px;width:308px;height:23px;z-index:6;" name="SiteSearch1" value="" spellcheck="false" placeholder="&#1054;&#1081;!" role="searchbox"></form>
+<input type="button" id="Button1" onclick="searchPage();return false;" name="Search" value="Search" style="position:absolute;left:404px;top:468px;width:96px;height:25px;z-index:7;">
+</body>
+</html>
