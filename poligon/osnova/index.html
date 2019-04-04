@@ -7,13 +7,24 @@
 <meta name="keywords" content="Крипта, биткойн, блокчейн">
 <meta name="author" content="liccilip">
 <meta name="generator" content="https://liccilip.tk">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link href="base/jquery-ui.min.css" rel="stylesheet">
+<link href="font-awesome.min.css" rel="stylesheet">
 <link href="liccilipweb.css" rel="stylesheet">
 <link href="index.css" rel="stylesheet">
 <script src="jquery-1.12.4.min.js"></script>
 <script src="jquery-ui.min.js"></script>
 <script src="jquery.ui.datepicker-ru.js"></script>
+<script src="wb.carousel.min.js"></script>
+<script src="wb.photocollage.min.js"></script>
+<script src="wb.slideshow.min.js"></script>
+<script src="wb.overlay.min.js"></script>
+<script src="wb.drilldownmenu.min.js"></script>
+<script src="jquery.ui.effect-squares.min.js"></script>
+<script src="transition.min.js"></script>
+<script src="collapse.min.js"></script>
+<script src="dropdown.min.js"></script>
 <script src="searchindex.js"></script>
 <script src="wb.sitesearch.min.js"></script>
 <script>
@@ -25,9 +36,37 @@ function searchPage(features)
    return false;
 }
 </script>
+<script type="application/ld+json">
+{
+   "@context" : "http://schema.org/",
+   "@type" : "Event",
+   "name" : "",
+   "description" : "",
+   "startDate" : "",
+   "endDate" : "",
+   "location" : {
+      "@type" : "Place",
+      "name" : "",
+      "address" : {
+         "streetAddress" : "",
+         "addressLocality" : "",
+         "addressRegion" : ""
+      }
+   }
+}
+</script>
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="rss.xml">
+<script src="wwb14.min.js"></script>
 <script>
 $(document).ready(function()
 {
+   $('#wb_FontAwesomeIcon3').addClass('visibility-hidden');
+   $('#wb_FontAwesomeIcon8').addClass('visibility-hidden');
+   $('#wb_FontAwesomeIcon10').addClass('visibility-hidden');
+   $('#wb_FontAwesomeIcon11').addClass('visibility-hidden');
+   $('#wb_FontAwesomeIcon26').addClass('visibility-hidden');
+   $('#wb_FontAwesomeIcon27').addClass('visibility-hidden');
+   $('#wb_FontAwesomeIcon28').addClass('visibility-hidden');
    $("#DatePicker1").datepicker(
    {
       dateFormat: 'mm/dd/yy',
@@ -85,14 +124,197 @@ $(document).ready(function()
       heightStyle: 'fill'
    });
    searchParseURL('SiteSearch1');
+   var Carousel1Opts =
+   {
+      delay: 3000,
+      duration: 500,
+      easing: 'linear',
+      mode: 'forward',
+      direction: '',
+      pagination: true,
+      pagination_img_default: 'images/page_default.png',
+      pagination_img_active: 'images/page_active.png',
+      start: 0
+   };
+   $("#Carousel1").carousel(Carousel1Opts);
+   $("#Carousel1_back a").click(function()
+   {
+      $('#Carousel1').carousel('prev');
+   });
+   $("#Carousel1_next a").click(function()
+   {
+      $('#Carousel1').carousel('next');
+   });
+   $("#PhotoCollage1").photocollage({ effect: 'scale', duration: 600, padding: 4, matrix: '1,1,1,1,1,4,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1' });
+   $("#SlideShow1").slideshow(
+   {
+      interval: 3000,
+      type: 'sequence',
+      effect: 'none',
+      direction: '',
+      pagination: false,
+      effectlength: 2000
+   });
+   var $overlaymenu = $('#OverlayMenu1-overlay');
+   $overlaymenu.overlay({'hideTransition':true});
+   $('.OverlayMenu1').drilldownmenu({backText: 'Back'});
+   $('#OverlayMenu1').on('click', function(e)
+   {
+      $.overlay.show($overlaymenu);
+      return false;
+   });
+   $('#LayerMenu1 li').hover(function()
+   {
+      var top = $(this).find('.button').outerHeight();
+      $(this).find('.layer').css({'top': top});
+      $(this).find('.layer').stop().fadeTo('fast', 1).show();
+   }, function()
+   {
+      $(this).find('.layer').stop().fadeTo('fast', 0, function()
+      {
+         $(this).hide();
+      });
+   });
+   $('#LayerMenu1 li .layer').hide();
+   $("#NavigationBar1 a").mouseenter(function(e)
+   {
+      $("#NavigationBar1_wrapper").parent().remove();
+      var $wrapper = $("<div id='NavigationBar1_wrapper'></div>");
+      var $link = $("<a></a>");
+      $link.attr('href', $(this).attr('href'));
+      $link.attr('target', $(this).attr('target'));
+      $wrapper.css('left', $(this).offset().left+'px');
+      $wrapper.css('top', $(this).offset().top+'px');
+      $wrapper.css('width', $(this).find('img').width()+'px');
+      $wrapper.css('height', $(this).find('img').height()+'px');
+      $wrapper.appendTo("body");
+      $wrapper.wrap($link);
+      $wrapper.mouseout(function()
+      {
+         $('#NavigationBar1_wrapper').parent().remove();
+         $("#NavigationBar1 span").show('squares', { easing: 'linear', fx: 'random'}, 500);
+      });
+      $(this).children("span").hide('squares', { easing: 'linear', reverse: true, fx: 'random'}, 500);
+   });
+   $("a[href*='#header']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#wb_header').offset().top }, 600, 'easeOutCirc');
+   });
+   $(document).on('click','.ThemeableMenu2-navbar-collapse.in',function(e)
+   {
+      if ($(e.target).is('a') && ($(e.target).attr('class') != 'dropdown-toggle')) 
+      {
+         $(this).collapse('hide');
+      }
+   });
+   function FontAwesomeIcon3Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon3");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon3', 'transform-lightspeed-in', 100, 1000);
+      }
+   }
+   FontAwesomeIcon3Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon3Scroll();
+   });
+   function FontAwesomeIcon8Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon8");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon8', 'transform-lightspeed-in', 200, 1000);
+      }
+   }
+   FontAwesomeIcon8Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon8Scroll();
+   });
+   function FontAwesomeIcon10Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon10");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon10', 'transform-lightspeed-in', 300, 1000);
+      }
+   }
+   FontAwesomeIcon10Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon10Scroll();
+   });
+   function FontAwesomeIcon11Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon11");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon11', 'transform-lightspeed-in', 400, 1000);
+      }
+   }
+   FontAwesomeIcon11Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon11Scroll();
+   });
+   function FontAwesomeIcon26Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon26");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon26', 'transform-lightspeed-in', 500, 1000);
+      }
+   }
+   FontAwesomeIcon26Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon26Scroll();
+   });
+   function FontAwesomeIcon27Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon27");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon27', 'transform-lightspeed-in', 600, 1000);
+      }
+   }
+   FontAwesomeIcon27Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon27Scroll();
+   });
+   function FontAwesomeIcon28Scroll()
+   {
+      var $obj = $("#wb_FontAwesomeIcon28");
+      if (!$obj.hasClass("in-viewport") && $obj.inViewPort(false))
+      {
+         $obj.addClass("in-viewport");
+         AnimateCss('wb_FontAwesomeIcon28', 'transform-lightspeed-in', 700, 1000);
+      }
+   }
+   FontAwesomeIcon28Scroll();
+   $(window).scroll(function(event)
+   {
+      FontAwesomeIcon28Scroll();
+   });
 });
 </script>
 </head>
 <body>
+<div id="container">
 <input id="DatePicker1_input" name="DatePicker1" style="display:none" type="text" value="">
-<div id="DatePicker1" style="position:absolute;left:213px;top:246px;width:244px;height:192px;z-index:1;">
+<div id="DatePicker1" style="position:absolute;left:213px;top:246px;width:244px;height:192px;z-index:11;">
 </div>
-<div id="wb_ThemeableMenu1" style="position:absolute;left:126px;top:0px;width:718px;height:74px;z-index:1002;">
+<div id="wb_ThemeableMenu1" style="position:absolute;left:126px;top:0px;width:718px;height:74px;z-index:1012;">
 <ul id="ThemeableMenu1">
 <li><div><a href="http://" target="_blank">&#1084;&#1077;&#1085;&#1102;</a></div>
 <ul>
@@ -118,11 +340,11 @@ $(document).ready(function()
 </li>
 </ul>
 </div>
-<div id="Slider1" style="position:absolute;left:47px;top:126px;width:280px;height:14px;z-index:3;">
+<div id="Slider1" style="position:absolute;left:475px;top:955px;width:280px;height:14px;z-index:13;">
 </div>
-<div id="wb_Spinner1" style="position:absolute;left:519px;top:235px;width:325px;height:414px;z-index:4;">
+<div id="wb_Spinner1" style="position:absolute;left:519px;top:235px;width:325px;height:414px;z-index:14;">
 <input type="text" id="Spinner1" style="width:296px;height:406px;line-height:406px;" name="Spinner1" value="0"></div>
-<div id="wb_Accordion1" style="position:absolute;left:53px;top:598px;width:322px;height:156px;z-index:5;">
+<div id="wb_Accordion1" style="position:absolute;left:53px;top:598px;width:322px;height:156px;z-index:15;">
 <div id="Accordion1">
 <h3>Panel 1</h3>
 <div>
@@ -139,7 +361,322 @@ $(document).ready(function()
 </div>
 </div>
 <form name="SiteSearch1_form" id="SiteSearch1_form" role="search" accept-charset="UTF-8" onsubmit="return searchPage(features)">
-<input type="text" id="SiteSearch1" style="position:absolute;left:78px;top:464px;width:308px;height:23px;z-index:6;" name="SiteSearch1" value="" spellcheck="false" placeholder="&#1054;&#1081;!" role="searchbox"></form>
-<input type="button" id="Button1" onclick="searchPage();return false;" name="Search" value="Search" style="position:absolute;left:404px;top:468px;width:96px;height:25px;z-index:7;">
+<input type="text" id="SiteSearch1" style="position:absolute;left:78px;top:464px;width:308px;height:23px;z-index:16;" name="SiteSearch1" value="" spellcheck="false" placeholder="&#1054;&#1081;!" role="searchbox"></form>
+<input type="button" id="Button1" onclick="searchPage();return false;" name="Search" value="Search" style="position:absolute;left:404px;top:468px;width:96px;height:25px;z-index:17;">
+<hr id="Line1" style="position:absolute;left:25px;top:82px;width:857px;z-index:18;">
+<div id="wb_Carousel1" style="position:absolute;left:52px;top:3117px;width:370px;height:85px;z-index:19;overflow:hidden;">
+<div id="Carousel1" style="position:absolute;">
+<div class="frame frame-1">
+</div>
+<div class="frame frame-2">
+</div>
+<div class="frame">
+</div>
+<div class="frame">
+</div>
+<div class="frame">
+</div>
+</div>
+<div id="Carousel1_back"><a><img alt="Back" src="images/carousel_back.png"></a></div>
+<div id="Carousel1_next"><a><img alt="Next" src="images/carousel_next.png"></a></div>
+</div>
+<div id="wb_PhotoCollage1" style="position:absolute;left:404px;top:703px;width:186px;height:186px;z-index:20;">
+<div id="PhotoCollage1">
+   <div class="thumbnails">
+      <div class="thumbnail">
+         <a href="images/dash.png"><img alt="" src="images/dash.png"></a>
+      </div>
+      <div class="thumbnail">
+         <a href="images/doge.png"><img alt="" src="images/doge.png"></a>
+      </div>
+      <div class="thumbnail">
+         <a href="images/litecoin.png"><img alt="" src="images/litecoin.png"></a>
+      </div>
+   </div>
+</div></div>
+<div id="SlideShow1" style="position:absolute;left:635px;top:1010px;width:316px;height:335px;z-index:21;">
+<img class="image" src="images/BCH.png" alt="" title="">
+<img class="image" src="images/bitcoin.png" style="display:none;" alt="" title="">
+<img class="image" src="images/dash.png" style="display:none;" alt="" title="">
+<img class="image" src="images/doge.png" style="display:none;" alt="" title="">
+<img class="image" src="images/litecoin.png" style="display:none;" alt="" title="">
+</div>
+<div id="Html1" style="position:absolute;left:63px;top:1426px;width:781px;height:1133px;z-index:22">
+<div id="cod1">
+<div id="mc-container"></div>
+					<script>
+cackle_widget = window.cackle_widget || [];
+cackle_widget.push({widget: 'Comment', id: 14907});
+(function() {
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cackle.me/widget.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+})();
+</script>
+<a id="mc-link" href="https://liccilip.tk">Комментарии для сайта <b style="color:#4FA3DA">Liccilip.</b><b style="color:#F65077">tk</b></a></div></div>
+<iframe name="InlineFrame1" id="InlineFrame1" style="position:absolute;left:100px;top:1047px;width:384px;height:279px;z-index:23;" src=""></iframe>
+<div id="wb_Polygon1" style="position:absolute;left:142px;top:1022px;width:512px;height:380px;z-index:24;">
+<a href="https://www.youtube.com/watch?v=txAhAFrPfBc" target="_blank"><img src="images/img0001.png" id="Polygon1" alt=""></a></div>
+<div id="wb_YouTube1" style="position:absolute;left:604px;top:704px;width:330px;height:185px;z-index:25;">
+<iframe id="YouTube1" src="https://www.youtube.com/embed/txAhAFrPfBc?rel=1&amp;autoplay=1&amp;autohide=0"></iframe>
+</div>
+<div id="wb_OverlayMenu1" style="position:absolute;left:31px;top:809px;width:322px;height:174px;z-index:26;">
+<a href="#" id="OverlayMenu1">
+<span class="line"></span>
+<span class="line">
+</span><span class="line"></span>
+</a>
+</div>
+<div id="wb_LayerMenu1" style="position:absolute;left:118px;top:2602px;width:276px;height:24px;z-index:27;">
+   <ul role="menu" id="LayerMenu1">
+      <li>
+      <a role="menuitem" href="#" class="button">Item 1<span class="arrow-down"></span></a>
+      <div class="layer" style="text-align:center;width:248px;height:248px">
+      </div>
+      </li>
+      <li>
+      <a role="menuitem" href="#" class="button">Item 2<span class="arrow-down"></span></a>
+      <div class="layer" style="text-align:center;width:248px;height:248px">
+      </div>
+      </li>
+      <li>
+      <a role="menuitem" href="#" class="button">Item 3<span class="arrow-down"></span></a>
+      <div class="layer" style="text-align:center;width:248px;height:248px">
+      </div>
+      </li>
+      <li>
+      <a role="menuitem" href="#" class="button">Item 4<span class="arrow-down"></span></a>
+      <div class="layer" style="text-align:center;width:248px;height:248px">
+      </div>
+      </li>
+   </ul>
+</div>
+<div id="wb_MediaPlayer1" style="position:absolute;left:270px;top:2696px;width:406px;height:139px;z-index:28;">
+<video src="" id="MediaPlayer1" autoplay controls>
+</video>
+</div>
+<div id="wb_Breadcrumb1" style="position:absolute;left:100px;top:2884px;width:689px;height:44px;z-index:29;vertical-align:top;">
+<ul id="Breadcrumb1">
+<li><a href="">Home</a></li>
+<li><a href="http://" >Parent Category</a></li>
+<li><a href="">Current Category</a></li>
+<li><a href="http://">1</a></li>
+<li><a href="http://">2</a></li>
+</ul>
+</div>
+<div id="wb_TabMenu1" style="position:absolute;left:493px;top:2586px;width:289px;height:109px;z-index:30;overflow:hidden;">
+<ul id="TabMenu1">
+<li><a href="#">Item 1</a></li>
+<li><a href="#">Item 2</a></li>
+<li><a href="#">Item 3</a></li>
+<li><a href="#">Item 4</a></li>
+</ul>
+</div>
+<div id="NavigationBar1" style="position:absolute;left:65px;top:2658px;width:176px;height:136px;z-index:31;">
+<ul class="navbar">
+<li><a href=""><img alt="" src="images/img0002_over.png"><span><img alt="" src="images/img0002.png"></span></a></li>
+<li><a href=""><img alt="" src="images/img0003_over.png"><span><img alt="" src="images/img0003.png"></span></a></li>
+<li><a href=""><img alt="" src="images/img0004_over.png"><span><img alt="" src="images/img0004.png"></span></a></li>
+<li><a href=""><img alt="" src="images/img0005_over.png"><span><img alt="" src="images/img0005.png"></span></a></li>
+</ul>
+</div>
+<div id="wb_Pagination1" style="position:absolute;left:399px;top:2645px;width:309px;height:42px;z-index:32;">
+<ul id="Pagination1">
+<li class="disabled"><a href="#">&laquo; Prev</a></li>
+<li><a href="">1</a></li>
+<li><a href="">2</a></li>
+<li><a href="">3</a></li>
+<li><a href="">4</a></li>
+<li class="disabled"><a href="#">Next &raquo;</a></li>
+</ul>
+</div>
+<script>
+var wb_Timer1;
+function TimerStartTimer1()
+{
+   wb_Timer1 = setInterval(function()
+   {
+      var event = null;
+   }, 1000);
+}
+function TimerStopTimer1()
+{
+   clearInterval(wb_Timer1);
+}
+TimerStartTimer1();
+</script>
+
+
+<a href="rss.xml"><img id="RssFeed1" src="images/rss32.png" alt="RSS Feed" style="position:absolute;left:327px;top:2983px;z-index:35;"></a>
+<div id="wb_Text6" style="position:absolute;left:155px;top:2874px;width:970px;height:16px;text-align:center;z-index:36;">
+<span style="color:#A6AEB1;font-family:Arial;font-size:13px;"><strong>Copyright © Footer 2018. All right reserved. </strong></span></div>
+<div id="wb_Text1" style="position:absolute;left:514px;top:3055px;width:297px;height:16px;z-index:37;">
+<span style="color:#000000;font-family:Arial;font-size:13px;">Double click to edit</span></div>
+<div id="wb_Text2" style="position:absolute;left:78px;top:3247px;width:716px;height:288px;text-align:justify;z-index:38;">
+<span style="color:#000000;font-family:Arial;font-size:13px;"><strong>Орудия влияния</strong><br><br>Люди на очень многие окружающие их вещи реагируют автоматическим, стереотипным образом. В этом мы схожи с животными. Индюшка-наседка кидается даже на чучело хорька - своего злейшего врага. Но стоит к этому чучелу подсоединить магнитофон, издающий звук «чип-чип» (так кричат маленькие индюшата), и индюшка не только не кинется на чучело хорька, но и заберет его под себя.<br><br>Наши реакции во многом похожи на реакции животных, хоть они намного сложнее и менее предсказуемы. Автоматическое мышление на самом деле нам необходимо. Оно позволяет концентрироваться на первостепенных задачах, отдавая автопилоту второстепенные. Но проблема в том, что нашу склонность к автоматизму могут использовать против нас недобросовестные люди.<br><br>Автоматизм реакций может выражаться по-разному. Так, Роберт Чалдини приводит следующий пример - однажды в ювелирном магазине покупатели вмиг раскупили бижутерию из бирюзы после того как по ошибке на нее была установлена двойная цена. Почему? Покупатели посчитали, что более высокая цена означает более высокое качество. Они не стали анализировать ситуацию с целью выяснения реальной стоимости бирюзы. Людям было достаточно информации, что бирюза высокого качества раз она такая дорогая. Возымел действие стереотип - дорогое значит хорошее.</span></div>
+</div>
+<div id="OverlayMenu1-overlay">
+<div class="OverlayMenu1">
+<ul class="drilldown-menu" role="menu">
+<li><a role="menuitem" href="#"><i class="fa fa-home overlay-icon"></i>Home</a></li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-book overlay-icon"></i>Blog</a>
+<ul class="drilldown-submenu" role="menu">
+<li>
+<a role="menuitem" href="#"><i class="fa fa-eye overlay-icon"></i>Design</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-html5 overlay-icon"></i>HTML</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-css3 overlay-icon"></i>CSS</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-code overlay-icon"></i>JavaScript</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-gear overlay-icon"></i>Work</a>
+<ul class="drilldown-submenu" role="menu">
+<li>
+<a role="menuitem" href="#"><i class="fa fa-desktop overlay-icon"></i>Web&nbsp;Design</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-picture-o overlay-icon"></i>Typography</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+<li>
+<a role="menuitem" href="#"><i class="fa fa-envelope overlay-icon"></i>Applications</a>
+<ul class="drilldown-submenu" role="menu">
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;1</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;2</a></li>
+<li><a role="menuitem" href="#">Sub&nbsp;Menu&nbsp;3</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a role="menuitem" href="#"><i class="fa fa-user overlay-icon"></i>About</a></li>
+   </ul>
+</div>
+<a class="close-button" id="OverlayMenu1-close" href="#" role="button" aria-hidden="true"><span></span></a>
+</div>
+<div id="wb_header">
+<div id="header">
+<div class="row">
+<div class="col-1">
+<div id="wb_Breadcrumb2" style="display:inline-block;width:100%;z-index:1;vertical-align:top;">
+<ul id="Breadcrumb2">
+<li><a href="">Corporate</a></li>
+</ul>
+
+</div>
+</div>
+<div class="col-2">
+<div id="wb_ThemeableMenu2" style="display:inline-block;width:100%;z-index:1002;">
+<div id="ThemeableMenu2" class="ThemeableMenu2" style ="width:100%;height:auto !important;">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".ThemeableMenu2-navbar-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="ThemeableMenu2-navbar-collapse collapse">
+<ul class="nav navbar-nav">
+<li class="">
+<a href="./index.html#home">Home</a>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="./index.html#services1">Service #1</a></li>
+<li><a href="./index.html#services1">Service #2</a></li>
+<li><a href="./index.html#services2">Service #3</a></li>
+<li><a href="./index.html#services2">Service #4</a></li>
+</ul>
+</li>
+<li class="">
+<a href="./index.html#portfolio">Portfolio</a>
+</li>
+<li class="">
+<a href="./index.html#about">About</a>
+</li>
+<li class="">
+<a href="./index.html#contact">Contact</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="wb_LayoutGrid8">
+<div id="LayoutGrid8">
+<div class="row">
+<div class="col-1">
+<div id="wb_FontAwesomeIcon3" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:3;">
+<a href="./index.html"><div id="FontAwesomeIcon3"><i class="fa fa-facebook"></i></div></a>
+</div>
+<div id="wb_FontAwesomeIcon8" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:4;">
+<a href="./index.html"><div id="FontAwesomeIcon8"><i class="fa fa-twitter"></i></div></a>
+</div>
+<div id="wb_FontAwesomeIcon10" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:5;">
+<a href="./index.html"><div id="FontAwesomeIcon10"><i class="fa fa-instagram"></i></div></a>
+</div>
+<div id="wb_FontAwesomeIcon11" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:6;">
+<a href="./index.html"><div id="FontAwesomeIcon11"><i class="fa fa-youtube"></i></div></a>
+</div>
+<div id="wb_FontAwesomeIcon26" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:7;">
+<a href="./index.html"><div id="FontAwesomeIcon26"><i class="fa fa-pinterest"></i></div></a>
+</div>
+<div id="wb_FontAwesomeIcon27" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:8;">
+<a href="./index.html"><div id="FontAwesomeIcon27"><i class="fa fa-rss"></i></div></a>
+</div>
+<div id="wb_FontAwesomeIcon28" style="display:inline-block;width:40px;height:40px;text-align:center;z-index:9;">
+<a href="./index.html"><div id="FontAwesomeIcon28"><i class="fa fa-linkedin"></i></div></a>
+</div>
+<div id="wb_Text17">
+<span style="color:#FFFFFF;font-family:Arial;font-size:12px;">Copyright 2018 WYSIWYG Web Builder <br>All Rights Reserved <br>Powered by HTML, CSS &amp; jQuery</span>
+</div>
+</div>
+</div>
+</div>
+</div>
 </body>
 </html>
