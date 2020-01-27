@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>I</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="web3.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+    <!--<meta http-equiv="refresh" content="10; url=https://liccilip.tk">-->
+</head>
+<body>
+<div class="row" align="center" style="margin-top: 20vh">
+
+    <img src="https://futuretimes.io/wp-content/uploads/2018/06/eth.png"><br>
+    <input type = "text" id = "inputEthers" style="width: 200px"><br>
+    <div class="waves-effect waves-light btn sendButton" style="cursor: pointer; background-color: #0078AB;">
+        отправить
+    </div>
+</div>
+<center>
+<h5>Убедитесь, что у вас есть кошелек </h5><h2><a href="https://metamask.io" target="_blank">MetaMask</a></h2>
+<p>Благодарю за щедрость!</p>
+</center>
+<script>
+    $(document).ready(function () {
+        let Web3 = require('web3');
+        if (typeof web3 !== 'undefined') {
+            web3 = new Web3(web3.currentProvider);
+            console.log('OK');
+        }
+        else {
+            alert('Вы должны установить и включить MetaMask !');
+        }
+        $(".sendButton").click(function () {
+            const contractAddress = "0x812CAE7D45a082834a0F415E0A94c6394028e403";
+            web3.eth.sendTransaction({
+                    to: contractAddress,
+                    from: web3.eth.accounts[0],
+                    value: web3.toWei($('#inputEthers').val(), "ether")
+                },
+                function (error) {
+                    console.log(error);
+                }
+            );
+        });
+    });
+</script>
+</body>
+</html>
